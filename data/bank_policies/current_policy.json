@@ -1,0 +1,67 @@
+{
+  "bank_name": "ABC National Bank",
+  "policy_name": "Liquidity, Priority Sector & Trade Finance Policy",
+  "last_updated": "2025-07-01",
+  "policies": [
+    {
+      "policy_area": "CRR",
+      "clauses": [
+        {
+          "clause_id": "CRR-1",
+          "text": "The Bank shall maintain Cash Reserve Ratio as prescribed by the Reserve Bank of India under Section 42 of the RBI Act, 1934.",
+          "keywords": ["CRR", "Cash Reserve Ratio", "NDTL"]
+        }
+      ]
+    },
+    {
+      "policy_area": "SLR",
+      "clauses": [
+        {
+          "clause_id": "SLR-1",
+          "text": "The Bank shall maintain Statutory Liquidity Ratio in accordance with RBI directions issued under the Banking Regulation Act, 1949.",
+          "keywords": ["SLR", "Statutory Liquidity Ratio"]
+        }
+      ]
+    },
+    {
+      "policy_area": "Priority Sector Lending",
+      "clauses": [
+        {
+          "clause_id": "PSL-1",
+          "text": "The Bank shall achieve Priority Sector Lending target of 40% of Adjusted Net Bank Credit as prescribed by RBI.",
+          "keywords": ["PSL", "Priority Sector", "ANBC", "40%"]
+        }
+      ]
+    },
+    {
+      "policy_area": "Export Credit",
+      "clauses": [
+        {
+          "clause_id": "EC-1",
+          "text": "The Bank shall provide export credit facilities as per RBI guidelines and internal interest rate policy.",
+          "keywords": ["Export Credit", "Pre-shipment", "Post-shipment"]
+        }
+      ]
+    },
+    {
+      "policy_area": "FEMA Compliance",
+      "clauses": [
+        {
+          "clause_id": "FEMA-1",
+          "text": "All import and export transactions shall comply with FEMA, 1999 and RBI directions issued from time to time.",
+          "keywords": ["FEMA", "Import", "Export", "Foreign Exchange"]
+        }
+      ]
+    },
+    {
+      "policy_area": "Regulatory Reporting",
+      "clauses": [
+        {
+          "clause_id": "REP-1",
+          "text": "The Bank shall submit regulatory returns related to CRR, SLR, and Priority Sector Lending within RBI-prescribed timelines.",
+          "keywords": ["Regulatory Reporting", "CRR", "SLR", "PSL"]
+        }
+      ]
+    }
+  ]
+}

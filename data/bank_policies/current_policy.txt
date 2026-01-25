@@ -1,0 +1,5 @@
+﻿CRR-001: Banks shall maintain Cash Reserve Ratio as prescribed by the Reserve Bank of India under Section 42 of the RBI Act, 1934
+SLR-001: Banks shall maintain Statutory Liquidity Ratio in accordance with RBI directions issued under the Banking Regulation Act, 1949
+KYC-001: Customer KYC verification is mandatory for all new account openings in compliance with RBI norms and guidelines
+AML-001: Anti-money laundering checks and suspicious transaction reporting is mandatory as per RBI directions
+LCR-001: Liquidity Coverage Ratio must be maintained as per Basel III guidelines notified by RBI
