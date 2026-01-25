@@ -331,7 +331,7 @@ def generate_compliance_report():
     start_time = time.time()
     
     gap_analysis_path = "data/output/gap_analysis.json"
-    rbi_guidelines_path = "data/processed/rbi_guidelines.json"
+    rbi_guidelines_path = "data/rbi_guidelines/current_guidelines.json"
     report_path = "reports/compliance_report.json"
     
     logger.info("Starting compliance report generation...")

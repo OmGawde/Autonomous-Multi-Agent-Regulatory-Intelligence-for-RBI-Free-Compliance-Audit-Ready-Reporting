@@ -1,67 +1,25 @@
 {
-  "bank_name": "ABC National Bank",
-  "policy_name": "Liquidity, Priority Sector & Trade Finance Policy",
-  "last_updated": "2025-07-01",
-  "policies": [
+  "total_clauses": 5,
+  "clauses": [
     {
-      "policy_area": "CRR",
-      "clauses": [
-        {
-          "clause_id": "CRR-1",
-          "text": "The Bank shall maintain Cash Reserve Ratio as prescribed by the Reserve Bank of India under Section 42 of the RBI Act, 1934.",
-          "keywords": ["CRR", "Cash Reserve Ratio", "NDTL"]
-        }
-      ]
+      "clause_id": "﻿CRR-001",
+      "clause_text": "Banks shall maintain Cash Reserve Ratio as prescribed by the Reserve Bank of India under Section 42 of the RBI Act, 1934"
     },
     {
-      "policy_area": "SLR",
-      "clauses": [
-        {
-          "clause_id": "SLR-1",
-          "text": "The Bank shall maintain Statutory Liquidity Ratio in accordance with RBI directions issued under the Banking Regulation Act, 1949.",
-          "keywords": ["SLR", "Statutory Liquidity Ratio"]
-        }
-      ]
+      "clause_id": "SLR-001",
+      "clause_text": "Banks shall maintain Statutory Liquidity Ratio in accordance with RBI directions issued under the Banking Regulation Act, 1949"
     },
     {
-      "policy_area": "Priority Sector Lending",
-      "clauses": [
-        {
-          "clause_id": "PSL-1",
-          "text": "The Bank shall achieve Priority Sector Lending target of 40% of Adjusted Net Bank Credit as prescribed by RBI.",
-          "keywords": ["PSL", "Priority Sector", "ANBC", "40%"]
-        }
-      ]
+      "clause_id": "KYC-001",
+      "clause_text": "Customer KYC verification is mandatory for all new account openings in compliance with RBI norms and guidelines"
     },
     {
-      "policy_area": "Export Credit",
-      "clauses": [
-        {
-          "clause_id": "EC-1",
-          "text": "The Bank shall provide export credit facilities as per RBI guidelines and internal interest rate policy.",
-          "keywords": ["Export Credit", "Pre-shipment", "Post-shipment"]
-        }
-      ]
+      "clause_id": "AML-001",
+      "clause_text": "Anti-money laundering checks and suspicious transaction reporting is mandatory as per RBI directions"
     },
     {
-      "policy_area": "FEMA Compliance",
-      "clauses": [
-        {
-          "clause_id": "FEMA-1",
-          "text": "All import and export transactions shall comply with FEMA, 1999 and RBI directions issued from time to time.",
-          "keywords": ["FEMA", "Import", "Export", "Foreign Exchange"]
-        }
-      ]
-    },
-    {
-      "policy_area": "Regulatory Reporting",
-      "clauses": [
-        {
-          "clause_id": "REP-1",
-          "text": "The Bank shall submit regulatory returns related to CRR, SLR, and Priority Sector Lending within RBI-prescribed timelines.",
-          "keywords": ["Regulatory Reporting", "CRR", "SLR", "PSL"]
-        }
-      ]
+      "clause_id": "LCR-001",
+      "clause_text": "Liquidity Coverage Ratio must be maintained as per Basel III guidelines notified by RBI"
     }
   ]
 }
