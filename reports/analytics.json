@@ -1,0 +1,51 @@
+{
+  "report_generated": "2026-01-26T03:10:21.390312",
+  "analysis_period_days": 30,
+  "execution_statistics": {
+    "total_executions": 2,
+    "successful": 2,
+    "failed": 0,
+    "success_rate_percent": 100.0,
+    "avg_duration_ms": 0,
+    "min_duration_ms": 0,
+    "max_duration_ms": 0
+  },
+  "compliance_metrics": {
+    "total_covered": 0,
+    "total_outdated": 0,
+    "total_missing": 4,
+    "total_gaps": 4,
+    "covered_percent": 0.0,
+    "outdated_percent": 0.0,
+    "missing_percent": 100.0
+  },
+  "trend_analysis": {
+    "total_days_tracked": 1,
+    "latest_date": "2026-01-26",
+    "oldest_date": "2026-01-26",
+    "latest_metrics": {
+      "date": "2026-01-26",
+      "coverage_percent": 0.0,
+      "covered": 0,
+      "outdated": 0,
+      "missing": 4
+    },
+    "improvement": {
+      "covered_change": 0,
+      "coverage_pct_change": 0.0
+    },
+    "trend_direction": "Stable"
+  },
+  "performance_summary": {
+    "overall_coverage_percent": 0.0,
+    "total_executions": 2,
+    "max_coverage_reached": 0.0,
+    "min_coverage_reached": 0.0,
+    "current_coverage": 0.0,
+    "avg_execution_time_ms": 0.0
+  },
+  "insights": [
+    "Excellent pipeline stability with 95%+ success rate",
+    "Critical: 100% of guidelines have missing policy coverage - prioritize updates"
+  ]
+}

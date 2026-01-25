@@ -4,7 +4,7 @@
     "rbi_circular_reference_no": "N/A",
     "circular_issue_date": "",
     "compliance_domain": "Multiple",
-    "report_generated_on": "2026-01-25T21:36:21Z",
+    "report_generated_on": "2026-01-25T21:40:20Z",
     "system_name": "Autonomous Multi-Agent Regulatory Intelligence (PoC)"
   },
   "executive_summary": {
@@ -26,7 +26,7 @@
   "compliance_assessment": [],
   "risk_and_observation_summary": [],
   "system_execution_trace": {
-    "workflow_execution_id": "EXEC-20260126-429",
+    "workflow_execution_id": "EXEC-20260126-335",
     "agents_involved": [
       "RSS Scanner",
       "Regulatory Interpreter",
