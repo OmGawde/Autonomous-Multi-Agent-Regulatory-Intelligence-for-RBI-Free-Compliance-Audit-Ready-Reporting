@@ -317,9 +317,65 @@ def run_step_7_generate_pdf() -> tuple[bool, float]:
         return False, duration
 
 
+def run_step_8_generate_excel() -> tuple[bool, float]:
+    """Step 8: Excel Report Generation"""
+    print_header("STEP 8: EXCEL REPORT GENERATION")
+    start = time.time()
+    
+    try:
+        logger.info("[STEP 8] Initializing Excel report generation module...")
+        
+        # Verify input files
+        gap_analysis_exists = Path("data/output/gap_analysis.json").exists()
+        guidelines_exists = Path("data/rbi_guidelines/current_guidelines.json").exists()
+        policy_exists = Path("data/bank_policies/current_policy.json").exists()
+        
+        logger.info(f"[STEP 8] Input files - gap_analysis: {gap_analysis_exists}, guidelines: {guidelines_exists}, policy: {policy_exists}")
+        
+        if not all([gap_analysis_exists, guidelines_exists, policy_exists]):
+            logger.error("[STEP 8] One or more input files not found")
+            raise FileNotFoundError("Input files not found")
+        
+        # Import and run
+        from src.exporter.generate_excel_report import ComplianceExcelGenerator
+        logger.info("[STEP 8] Module imported successfully")
+        
+        logger.info("[STEP 8] Generating Excel workbook with 5 sheets")
+        
+        gap_analysis = project_root / "data" / "output" / "gap_analysis.json"
+        guidelines = project_root / "data" / "rbi_guidelines" / "current_guidelines.json"
+        policy = project_root / "data" / "bank_policies" / "current_policy.json"
+        excel_report = project_root / "reports" / "compliance_report.xlsx"
+        
+        generator = ComplianceExcelGenerator(gap_analysis, guidelines, policy, excel_report)
+        if not generator.generate_excel():
+            logger.error("[STEP 8] Excel generation failed")
+            raise RuntimeError("Excel generation failed")
+        
+        logger.info("[STEP 8] Excel generation completed")
+        
+        # Verify output
+        if Path("reports/compliance_report.xlsx").exists():
+            logger.info("[STEP 8] Output file verified: reports/compliance_report.xlsx")
+        else:
+            logger.warning("[STEP 8] Output file not found: reports/compliance_report.xlsx")
+        
+        duration = (time.time() - start) * 1000
+        print_footer("Excel Report Generation", duration, True)
+        return True, duration
+    
+    except Exception as e:
+        duration = (time.time() - start) * 1000
+        logger.error(f"[STEP 8] Excel Report Generation failed: {str(e)}", exc_info=True)
+        print_footer("Excel Report Generation", duration, False)
+        return False, duration
+        print_footer("PDF Report Generation", duration, False)
+        return False, duration
+
+
 def run_complete_pipeline() -> bool:
     """
-    Execute all 7 steps of the compliance monitoring pipeline.
+    Execute all 8 steps of the compliance monitoring pipeline.
     
     Returns:
         bool: True if all steps succeeded, False otherwise
@@ -408,6 +464,16 @@ def run_complete_pipeline() -> bool:
         return False
     logger.info(f"[PIPELINE] Step 7 completed successfully in {duration:.0f}ms")
     
+    # Step 8: Excel Report Generation
+    logger.info("\n[PIPELINE] Starting Step 8: Excel Report Generation")
+    success, duration = run_step_8_generate_excel()
+    results.append(('Excel Report Generation', success))
+    timings['excel_generation'] = duration
+    if not success:
+        logger.error("[PIPELINE] Pipeline halted at Step 8 - see errors above")
+        return False
+    logger.info(f"[PIPELINE] Step 8 completed successfully in {duration:.0f}ms")
+    
     # Calculate total time
     total_duration = (time.time() - pipeline_start) * 1000
     
@@ -436,7 +502,8 @@ def run_complete_pipeline() -> bool:
         ("data/bank_policies/current_policy.json", "Normalized bank policy"),
         ("data/output/gap_analysis.json", "Compliance gap analysis"),
         ("reports/compliance_report.json", "Final audit-ready report"),
-        ("reports/compliance_report.pdf", "Final audit-ready PDF report")
+        ("reports/compliance_report.pdf", "Final audit-ready PDF report"),
+        ("reports/compliance_report.xlsx", "Final audit-ready Excel report")
     ]
     
     for file_path, description in output_files:

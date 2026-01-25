@@ -98,12 +98,18 @@ def print_clauses(clauses: List[Dict]) -> None:
     print("="*80 + "\n")
     
     for i, clause in enumerate(clauses, 1):
-        clause_id = clause.get('clause_id', 'N/A')
+        clause_id = clause.get('clause_id', 'N/A').replace('\ufeff', '')  # Remove BOM
         clause_text = clause.get('clause_text', 'N/A')
         
-        print(f"[{i}] Clause ID: {clause_id}")
-        print(f"    Text: {clause_text}")
-        print("-" * 80)
+        try:
+            print(f"[{i}] Clause ID: {clause_id}")
+            print(f"    Text: {clause_text}")
+            print("-" * 80)
+        except UnicodeEncodeError:
+            # Handle encoding issues on Windows
+            print(f"[{i}] Clause ID: {clause_id.encode('utf-8', errors='ignore').decode('utf-8')}")
+            print(f"    Text: {clause_text.encode('utf-8', errors='ignore').decode('utf-8')}")
+            print("-" * 80)
     
     print(f"\nTotal clauses: {len(clauses)}\n")
 
