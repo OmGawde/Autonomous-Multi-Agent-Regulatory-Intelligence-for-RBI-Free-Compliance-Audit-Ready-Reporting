@@ -1,0 +1,15 @@
+Metric / Key Result,Value,Details / Source
+Bank Name,IndusInd Bank,Inferred from statement file
+Statement Period,2025-01-04 to 2025-04-16,Extracted transaction date range
+Classification Accuracy,100.0% deterministic,"Tiers 1-2 without any ML model (0 bank rules, 14 keywords)"
+Salary Detected,₹0.00,via ACH rule / employer credit pattern
+Total Income,₹0.00,0 income sources detected
+Total Expenses,₹199.43,Needs: ₹199.43 | Wants: ₹0.00
+Average Daily Balance (ADB),"₹6,374.81","Opening: ₹1,519.00 | Closing: ₹1,142.73"
+Investments Found,None (₹0.00 total),0 investment categories identified
+SIP Patterns,0 detected,Recurring monthly debits on fixed dates
+Long-Term Investment Score,0.00,Weighted score based on PPF/NPS/MF/FD allocations
+Average Monthly Savings,"₹-1,224.33",Positive savings in 3 months
+Emergency Fund,N/A,"3-Mo target: ₹91,988.10 | 6-Mo target: ₹183,976.20"
+Debt-to-Income Ratio (DTI),N/A,"0 active loans, EMI: ₹0.00"
+Behaviour Profile,Financial Stress,Stability: 45.00 | Confidence: 0.40

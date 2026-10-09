@@ -1,0 +1,102 @@
+{
+  "bank_name": "ICICI",
+  "statement_period": {
+    "start": "2025-04-01",
+    "end": "2026-03-31"
+  },
+  "category_name": "debt",
+  "debt": {
+    "monthly_emi": 161694.0,
+    "total_monthly_obligations": 161694.0,
+    "estimated_cc_monthly_payment": 0.0,
+    "loan_count": 7,
+    "active_loan_count": 4,
+    "closed_loan_count": 3,
+    "distinct_lenders_count": 4,
+    "secured_ratio": 0.71,
+    "unsecured_ratio": 0.29,
+    "dti": 0.6402,
+    "foir": 0.3778,
+    "credit_utilization": null,
+    "loan_stacking_score": 0.0,
+    "loan_stacking_flag": 0,
+    "recent_borrowing_velocity_90d": 0,
+    "payment_regularity_score": 1.0,
+    "lender_concentration_ratio": 0.6186,
+    "missed_emi_count": 0,
+    "home_loan_emi": 151146.0,
+    "personal_loan_emi": 0,
+    "vehicle_loan_emi": 0,
+    "gold_loan_emi": 0,
+    "disbursement_count_365d": 0,
+    "disbursement_total_amount_365d": 0,
+    "credit_card_payment_count_365d": 0,
+    "credit_card_total_payment_365d": 0,
+    "running_facility_count": 0,
+    "running_facility_total_amount": 0,
+    "total_loan_count": 7,
+    "detected_loans": [
+      {
+        "loan_id": "LOAN_HDFC_BAN_24123",
+        "lender": "HDFC BANK LTD",
+        "type": "HOME_LOAN",
+        "emi": 24123.0,
+        "status": "Active",
+        "regularity": "On-Time"
+      },
+      {
+        "loan_id": "LOAN_HDFC_BAN_27000",
+        "lender": "HDFC BANK LTD",
+        "type": "HOME_LOAN",
+        "emi": 27000.0,
+        "status": "Active",
+        "regularity": "On-Time"
+      },
+      {
+        "loan_id": "LOAN_HDFCBANK_100023",
+        "lender": "HDFCBANKLTD_YIC",
+        "type": "HOME_LOAN",
+        "emi": 100023.0,
+        "status": "Grace",
+        "regularity": "On-Time"
+      },
+      {
+        "loan_id": "LOAN_RASMECCC_10548",
+        "lender": "RASMECCC NAVI MUMBAI",
+        "type": "RETAIL_LOAN",
+        "emi": 10548.0,
+        "status": "Active",
+        "regularity": "On-Time"
+      },
+      {
+        "loan_id": "LOAN_BAJAJFIN_6075",
+        "lender": "BAJAJFINANCELTD",
+        "type": "PERSONAL_LOAN",
+        "emi": 6075.0,
+        "status": "Overdue / Closed",
+        "regularity": "On-Time"
+      },
+      {
+        "loan_id": "LOAN_HDFC_BAN_12642",
+        "lender": "HDFC BANK LTD",
+        "type": "HOME_LOAN",
+        "emi": 12642.0,
+        "status": "Overdue / Closed",
+        "regularity": "On-Time"
+      },
+      {
+        "loan_id": "LOAN_HDFC_BAN_18500",
+        "lender": "HDFC BANK LTD",
+        "type": "HOME_LOAN",
+        "emi": 18500.0,
+        "status": "Overdue / Closed",
+        "regularity": "Late"
+      }
+    ],
+    "total_fixed_obligations": 1207096.0,
+    "total_true_income": 3195058.16,
+    "foir_risk_band": "MODERATE_RISK",
+    "emi_discipline_score": 100.0,
+    "emi_discipline_band": "GOOD"
+  }
+}

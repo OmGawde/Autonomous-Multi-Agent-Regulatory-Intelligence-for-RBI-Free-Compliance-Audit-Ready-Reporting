@@ -1,0 +1,2 @@
+bank_name,statement_period.start,statement_period.end,category_name,income.non_income_credits_total,income.monthly_income.2018-07,income.monthly_income.2018-09,income.total_income,income.average_income,income.salary_income,income.other_income,income.income_sources,income.salary_consistency,income.income_stability,income.income_growth,income.monthly_income_trend
+HDFC Bank,2018-06-02,2018-10-10,income,181886.39,156.0,60.0,216.0,108.0,0.0,216.0,0,0.0,0.5,-96.0,[-61.54]

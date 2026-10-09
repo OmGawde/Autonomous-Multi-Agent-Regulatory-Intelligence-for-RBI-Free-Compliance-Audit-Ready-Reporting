@@ -1,0 +1,36 @@
+{
+  "bank_name": "YES Bank",
+  "statement_period": {
+    "start": "2018-11-10",
+    "end": "2019-05-20"
+  },
+  "category_name": "income",
+  "income": {
+    "non_income_credits_total": 72982.5,
+    "monthly_income": {
+      "2018-11": 61394.0,
+      "2018-12": 62413.96,
+      "2019-01": 62461.5,
+      "2019-02": 101092.58,
+      "2019-03": 111818.74,
+      "2019-04": 62116.27,
+      "2019-05": 85007.96
+    },
+    "total_income": 546305.01,
+    "average_income": 78043.57,
+    "salary_income": 365393.5,
+    "other_income": 180911.51,
+    "income_sources": 1,
+    "salary_consistency": 0.6655,
+    "income_stability": 0.5714,
+    "income_growth": 4271.56,
+    "monthly_income_trend": [
+      1.66,
+      0.08,
+      61.85,
+      10.61,
+      -44.45,
+      36.85
+    ]
+  }
+}

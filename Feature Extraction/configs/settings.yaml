@@ -1,0 +1,137 @@
+# ============================================================
+# Phase 1 — Bank Statement Rule Engine Configuration
+# ============================================================
+
+# Column mapping — standardized CSV column names
+# Post-extraction CSVs already use these names
+column_mapping:
+  date: "date"
+  description: "description"
+  debit: "debit"
+  credit: "credit"
+  balance: "balance"
+
+# Bank name inference from filename
+bank_filename_mapping:
+  sbi: "SBI"
+  icici: "ICICI"
+  axis: "Axis"
+  hdfc: "HDFC"
+  kotak: "Kotak"
+  "bank of india": "Bank Of India"
+  boi: "Bank Of India"
+  union: "Union"
+  bob: "BOB"
+  baroda: "BOB"
+
+# Per-bank settings
+banks:
+  SBI:
+    confidence_tier: "high"
+    low_balance_threshold: 3000
+    min_balance_threshold: 3000
+    fuzzy_match_threshold: 80
+    balance_granularity: "per_transaction"
+    balance_forward_fill: false
+  ICICI:
+    confidence_tier: "high"
+    low_balance_threshold: 10000
+    min_balance_threshold: 10000
+    fuzzy_match_threshold: 80
+    balance_granularity: "per_transaction"
+    balance_forward_fill: false
+  Axis:
+    confidence_tier: "high"
+    low_balance_threshold: 10000
+    min_balance_threshold: 10000
+    fuzzy_match_threshold: 80
+    balance_granularity: "per_transaction"
+    balance_forward_fill: false
+    has_p2m_flag: true
+  HDFC:
+    confidence_tier: "medium"
+    low_balance_threshold: 10000
+    min_balance_threshold: 10000
+    fuzzy_match_threshold: 80
+    balance_granularity: "per_transaction"
+    balance_forward_fill: false
+  Kotak:
+    confidence_tier: "medium"
+    low_balance_threshold: 10000
+    min_balance_threshold: 10000
+    fuzzy_match_threshold: 80
+    balance_granularity: "per_transaction"
+    balance_forward_fill: false
+  "Bank Of India":
+    confidence_tier: "medium"
+    low_balance_threshold: 5000
+    min_balance_threshold: 5000
+    fuzzy_match_threshold: 70
+    balance_granularity: "eod"
+    balance_forward_fill: true
+  Union:
+    confidence_tier: "medium"
+    low_balance_threshold: 5000
+    min_balance_threshold: 5000
+    fuzzy_match_threshold: 70
+    balance_granularity: "eod"
+    balance_forward_fill: true
+    legacy_format: true
+  BOB:
+    confidence_tier: "medium"
+    low_balance_threshold: 5000
+    min_balance_threshold: 5000
+    fuzzy_match_threshold: 70
+    balance_granularity: "eod"
+    balance_forward_fill: true
+    legacy_format: true
+  Other:
+    confidence_tier: "low"
+    low_balance_threshold: 10000
+    min_balance_threshold: 10000
+    fuzzy_match_threshold: 75
+    balance_granularity: "per_transaction"
+    balance_forward_fill: false
+
+# SLM / NLP Model settings
+model:
+  name: "models/distilbert-mnli"
+  task: "zero-shot-classification"
+  confidence_threshold: 0.5
+  max_sequence_length: 128
+  batch_size: 64
+  device: "auto"
+
+# BharatGen FinanceParam (3B) — Tier 4.5 classification, SME sector inference,
+# CAM memo synthesis and the underwriting Copilot.
+#
+# Weights are vendored locally and loaded with local_files_only, so nothing here
+# touches the network at runtime. Fetch them once with:
+#     python -m tools.fetch_finance_param
+# Override the location with BHARATGEN_PARAM_MODEL_PATH, or force the heuristic
+# engine with BHARATGEN_MOCK_MODE=1.
+param_finance:
+  path: "models/finance-param"
+  repo_id: "bharatgenai/FinanceParam"
+  # config.json caps max_position_embeddings at 2048 — this covers prompt AND
+  # completion, so every prompt built against it is budgeted, not truncated.
+  max_context: 2048
+  max_new_tokens: 300
+  # Greedy. Underwriting output must be reproducible run to run.
+  do_sample: false
+  device: "auto"
+
+# Fuzzy matching defaults
+fuzzy:
+  default_threshold: 80
+  finacle_threshold: 70
+
+# Balance engine
+balance:
+  days_below_threshold: 1000
+  emergency_fund_months_min: 3
+  emergency_fund_months_max: 6
+
+# Income engine
+income:
+  salary_stability_threshold: 0.80

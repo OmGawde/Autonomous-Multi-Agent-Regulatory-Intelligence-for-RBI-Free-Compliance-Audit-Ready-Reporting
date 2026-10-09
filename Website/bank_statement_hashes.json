@@ -1,0 +1,62 @@
+[
+    {
+        "bank_name": "BOI",
+        "images": [
+            {
+                "original_statement": "BOI.PDF"
+            }
+        ],
+        "name_coordinates": {
+            "x0": 0.27297297297297296,
+            "y0": 0.2229207709079692,
+            "x1": 0.4810810810810811,
+            "y1": 0.24484954496697592
+        },
+        "columns": []
+    },
+    {
+        "bank_name": "CANARA_BANK",
+        "images": [
+            {
+                "original_statement": "CANARA_BANK.pdf"
+            }
+        ],
+        "name_coordinates": {
+            "x0": 0.49864864864864866,
+            "y0": 0.2880646728111922,
+            "x1": 0.9743243243243244,
+            "y1": 0.30740964631853546
+        },
+        "columns": []
+    },
+    {
+        "bank_name": "HDFC_BANK",
+        "images": [
+            {
+                "original_statement": "HDFC_BANK.pdf"
+            }
+        ],
+        "name_coordinates": {
+            "x0": 0.043243243243243246,
+            "y0": 0.09982930054917105,
+            "x1": 0.48783783783783785,
+            "y1": 0.12235970285331674
+        },
+        "columns": []
+    },
+    {
+        "bank_name": "IDBI_BANK",
+        "images": [
+            {
+                "original_statement": "IDBI_BANK.pdf"
+            }
+        ],
+        "name_coordinates": {
+            "x0": 0.043243243243243246,
+            "y0": 0.09448081652918056,
+            "x1": 0.42567567567567566,
+            "y1": 0.11745381792433049
+        },
+        "columns": []
+    }
+]

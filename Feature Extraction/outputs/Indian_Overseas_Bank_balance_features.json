@@ -1,0 +1,54 @@
+{
+  "bank_name": "Indian Overseas Bank",
+  "statement_period": {
+    "start": "2024-11-05",
+    "end": "2025-11-05"
+  },
+  "category_name": "balance",
+  "balance": {
+    "opening_balance": 20873.8,
+    "closing_balance": 14667.15,
+    "average_daily_balance": 3297.26,
+    "average_monthly_balance": {
+      "2024-11": 20976.8,
+      "2024-12": 7721.06,
+      "2025-01": 1972.64,
+      "2025-02": 1675.97,
+      "2025-03": 1384.54,
+      "2025-04": 1369.75,
+      "2025-05": 1225.38,
+      "2025-06": 1501.75,
+      "2025-07": 471.96,
+      "2025-08": 852.57,
+      "2025-09": 881.75,
+      "2025-10": 196.21,
+      "2025-11": 14663.95
+    },
+    "median_balance": 1348.15,
+    "lowest_balance": 158.15,
+    "highest_balance": 20976.8,
+    "low_balance_count": 330,
+    "negative_balance_count": 0,
+    "days_below_1000": 118,
+    "balance_volatility": 5720.71,
+    "volatility_score": 1.0,
+    "volatility_band": "VERY_HIGH",
+    "balance_stability_score": 0.0,
+    "avg_daily_balance_change_pct": 49.06,
+    "max_daily_balance_change_pct": 9171.67,
+    "available_balance_distribution": {
+      "days_above_50000": 0,
+      "pct_days_above_50000": 0.0,
+      "days_above_100000": 0,
+      "pct_days_above_100000": 0.0,
+      "days_above_200000": 0,
+      "pct_days_above_200000": 0.0,
+      "days_above_500000": 0,
+      "pct_days_above_500000": 0.0,
+      "days_above_1000000": 0,
+      "pct_days_above_1000000": 0.0
+    },
+    "abb_score": 3197.13,
+    "balance_recovery_time": 99.67
+  }
+}

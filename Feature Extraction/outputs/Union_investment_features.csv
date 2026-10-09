@@ -1,0 +1,2 @@
+bank_name,statement_period.start,statement_period.end,category_name,investment.total_investment,investment.investment_ratio,investment.investment_frequency,investment.sip_count,investment.investment_growth,investment.long_term_investment_score,investment.redemption_frequency,investment.dividend_income
+Union,2025-10-05,2026-03-18,investment,0.0,0.0,0.0,0,[],0.0,0,0.0

@@ -1,0 +1,43 @@
+{
+  "bank_name": "Federal Bank",
+  "statement_period": {
+    "start": "2021-10-01",
+    "end": "2021-11-13"
+  },
+  "category_name": "cash_flow",
+  "cash_flow": {
+    "monthly_inflow": {
+      "2021-10": 3636449.0,
+      "2021-11": 3372169.0
+    },
+    "monthly_outflow": {
+      "2021-10": 3578571.5,
+      "2021-11": 3547193.0
+    },
+    "net_cash_flow": -117146.5,
+    "monthly_surplus": {
+      "2021-10": 57877.5
+    },
+    "monthly_deficit": {
+      "2021-11": -175024.0
+    },
+    "positive_cash_flow_months": 1,
+    "negative_cash_flow_months": 1,
+    "cash_flow_volatility": 116450.75,
+    "net_turnover_credit": 7008618.0,
+    "net_expense_debit": 7125764.5,
+    "operational_net_cash_flow": -117146.5,
+    "biz_inflow": 0.0,
+    "biz_outflow": 0.0,
+    "pct_biz_inflow": 0.0,
+    "pct_biz_outflow": 0.0,
+    "top_counterparty_name": "N/A",
+    "top_counterparty_amount": 0.0,
+    "top_counterparty_concentration_pct": 0.0,
+    "concentration_risk_band": "NORMAL",
+    "cash_flow_trend": -232901.5,
+    "operating_cash_flow_trend": -232901.5,
+    "trajectory_flag": "NEGATIVE",
+    "seasonality": null
+  }
+}

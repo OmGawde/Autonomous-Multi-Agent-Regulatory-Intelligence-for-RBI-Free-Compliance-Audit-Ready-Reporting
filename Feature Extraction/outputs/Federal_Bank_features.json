@@ -1,0 +1,423 @@
+{
+  "bank_name": "Federal Bank",
+  "statement_period": {
+    "start": "2021-10-01",
+    "end": "2021-11-13"
+  },
+  "income": {
+    "non_income_credits_total": 0.0,
+    "monthly_income": {
+      "2021-10": 3636449.0,
+      "2021-11": 3372169.0
+    },
+    "total_income": 7008618.0,
+    "average_income": 3504309.0,
+    "salary_income": 0.0,
+    "other_income": 7008618.0,
+    "income_sources": 0,
+    "salary_consistency": 0.0,
+    "income_stability": 1.0,
+    "income_growth": -264280.0,
+    "monthly_income_trend": [
+      -7.27
+    ]
+  },
+  "expense": {
+    "total_expenses": 7124076.0,
+    "monthly_expenses": {
+      "2021-10": 3576883.0,
+      "2021-11": 3547193.0
+    },
+    "average_expenses": 3562038.0,
+    "needs_spending": 14197.0,
+    "wants_spending": 7109879.0,
+    "needs_ratio": 0.002,
+    "wants_ratio": 0.998,
+    "category_spending": {
+      "Education": 8850.0,
+      "Other Expense": 7065226.0,
+      "Travel": 50000.0
+    },
+    "expense_ratio": 1.0165,
+    "expense_growth": -29690.0,
+    "monthly_expense_trend": [
+      -0.83
+    ]
+  },
+  "balance": {
+    "opening_balance": 199945.02,
+    "closing_balance": 82798.52,
+    "average_daily_balance": 126122.0,
+    "average_monthly_balance": {
+      "2021-10": 124804.13,
+      "2021-11": 129264.6
+    },
+    "median_balance": 464.52,
+    "lowest_balance": 37.52,
+    "highest_balance": 3087798.52,
+    "low_balance_count": 32,
+    "negative_balance_count": 0,
+    "days_below_1000": 26,
+    "balance_volatility": 478027.81,
+    "volatility_score": 1.0,
+    "volatility_band": "VERY_HIGH",
+    "balance_stability_score": 0.0,
+    "avg_daily_balance_change_pct": 48431.89,
+    "max_daily_balance_change_pct": 1414453.62,
+    "available_balance_distribution": {
+      "days_above_50000": 11,
+      "pct_days_above_50000": 25.0,
+      "days_above_100000": 6,
+      "pct_days_above_100000": 13.64,
+      "days_above_200000": 6,
+      "pct_days_above_200000": 13.64,
+      "days_above_500000": 4,
+      "pct_days_above_500000": 9.09,
+      "days_above_1000000": 1,
+      "pct_days_above_1000000": 2.27
+    },
+    "abb_score": 587577.59,
+    "balance_recovery_time": 18.5
+  },
+  "cash_flow": {
+    "monthly_inflow": {
+      "2021-10": 3636449.0,
+      "2021-11": 3372169.0
+    },
+    "monthly_outflow": {
+      "2021-10": 3578571.5,
+      "2021-11": 3547193.0
+    },
+    "net_cash_flow": -117146.5,
+    "monthly_surplus": {
+      "2021-10": 57877.5
+    },
+    "monthly_deficit": {
+      "2021-11": -175024.0
+    },
+    "positive_cash_flow_months": 1,
+    "negative_cash_flow_months": 1,
+    "cash_flow_volatility": 116450.75,
+    "net_turnover_credit": 7008618.0,
+    "net_expense_debit": 7125764.5,
+    "operational_net_cash_flow": -117146.5,
+    "biz_inflow": 0.0,
+    "biz_outflow": 0.0,
+    "pct_biz_inflow": 0.0,
+    "pct_biz_outflow": 0.0,
+    "top_counterparty_name": "N/A",
+    "top_counterparty_amount": 0.0,
+    "top_counterparty_concentration_pct": 0.0,
+    "concentration_risk_band": "NORMAL",
+    "cash_flow_trend": -232901.5,
+    "operating_cash_flow_trend": -232901.5,
+    "trajectory_flag": "NEGATIVE",
+    "seasonality": null
+  },
+  "savings": {
+    "monthly_savings": {
+      "2021-10": 57877.5,
+      "2021-11": -175024.0
+    },
+    "monthly_savings_incl_investment": {
+      "2021-10": 57877.5,
+      "2021-11": -175024.0
+    },
+    "savings_rate": {
+      "2021-10": 0.0159,
+      "2021-11": -0.0519
+    },
+    "positive_savings_months": 1,
+    "savings_growth": [
+      -402.4
+    ],
+    "average_savings": -58573.25,
+    "savings_consistency": 0.0,
+    "emergency_fund_estimate": {
+      "avg_monthly_needs": 3562882.25,
+      "fund_3_months": 10688646.75,
+      "fund_6_months": 21377293.5,
+      "current_balance": 82798.52,
+      "coverage_months": 0.0
+    }
+  },
+  "investment": {
+    "investments_detected": {},
+    "monthly_investment": {},
+    "total_investment": 0.0,
+    "investment_ratio": 0.0,
+    "investment_frequency": 0.0,
+    "sip_count": 0,
+    "investment_growth": [],
+    "long_term_investment_score": 0.0,
+    "redemption_frequency": 0,
+    "dividend_income": 0.0
+  },
+  "debt": {
+    "monthly_emi": 0,
+    "total_monthly_obligations": 0.0,
+    "estimated_cc_monthly_payment": 0.0,
+    "loan_count": 0,
+    "active_loan_count": 0,
+    "closed_loan_count": 0,
+    "distinct_lenders_count": 0,
+    "secured_ratio": 0.0,
+    "unsecured_ratio": 0.0,
+    "dti": 0.0,
+    "foir": 0.0,
+    "credit_utilization": null,
+    "loan_stacking_score": 0.0,
+    "loan_stacking_flag": 0,
+    "recent_borrowing_velocity_90d": 0,
+    "payment_regularity_score": 1.0,
+    "lender_concentration_ratio": 0.0,
+    "missed_emi_count": 0,
+    "home_loan_emi": 0,
+    "personal_loan_emi": 0,
+    "vehicle_loan_emi": 0,
+    "gold_loan_emi": 0,
+    "disbursement_count_365d": 0,
+    "disbursement_total_amount_365d": 0,
+    "credit_card_payment_count_365d": 0,
+    "credit_card_total_payment_365d": 0,
+    "running_facility_count": 0,
+    "running_facility_total_amount": 0,
+    "total_loan_count": 0,
+    "detected_loans": [],
+    "total_fixed_obligations": 0.0,
+    "total_true_income": 7008618.0,
+    "foir_risk_band": "LOW_RISK",
+    "emi_discipline_score": 100.0,
+    "emi_discipline_band": "GOOD"
+  },
+  "behaviour": {
+    "weekend_spend_ratio": 0.4358,
+    "night_spend_ratio": null,
+    "cash_preference": 0.0,
+    "impulse_score": 0.31,
+    "merchant_diversity": 73,
+    "salary_exhaustion_days": 8,
+    "behaviour_stability": 38.28,
+    "behaviour_stability_index": 38.28,
+    "savings_rate": -0.0167,
+    "lifestyle_inflation": 6.0,
+    "discretionary_vs_essential_ratio": 1.4016,
+    "spending_volatility": 1.9813,
+    "low_balance_days_count": 6,
+    "discretionary_wants_total": 20000.0,
+    "essential_needs_total": 14269.0,
+    "primary_monthly_income": 466605.6,
+    "salary_detected_flag": 0,
+    "weekend_spend_ratio_30d": 0.4514,
+    "night_spend_ratio_30d": null,
+    "discretionary_wants_spend_30d": 20000.0,
+    "essential_needs_spend_30d": 5419.0,
+    "cash_preference_ratio_30d": 0.0,
+    "net_savings_30d": 82334.0,
+    "weekend_spend_ratio_90d": 0.4358,
+    "night_spend_ratio_90d": null,
+    "discretionary_wants_spend_90d": 20000.0,
+    "essential_needs_spend_90d": 14269.0,
+    "cash_preference_ratio_90d": 0.0,
+    "net_savings_90d": -117146.5,
+    "weekend_spend_ratio_180d": 0.4358,
+    "night_spend_ratio_180d": null,
+    "discretionary_wants_spend_180d": 20000.0,
+    "essential_needs_spend_180d": 14269.0,
+    "cash_preference_ratio_180d": 0.0,
+    "net_savings_180d": -117146.5,
+    "behaviour_state": "Impulsive",
+    "behaviour_confidence_score": 0.4,
+    "salary_detected": false,
+    "salary_day_range": [],
+    "salary_exhaustion_speed": 8
+  },
+  "fraud": {
+    "fraud_score": 33.38,
+    "account_risk_level_numeric": 2.0,
+    "aml_risk_score": 28.37,
+    "aml_risk_band": "MODERATE",
+    "irregularity_penalty_points": 225,
+    "high_severity_flag_count": 2,
+    "velocity_score": 1.0,
+    "cash_cycling_score": 0.0,
+    "rapid_transfer_score": 45.0,
+    "rapid_transfer_count": 1,
+    "merchant_risk_score": 0.0,
+    "round_transaction_score": 21.69,
+    "round_transaction_ratio": 0.2169,
+    "beneficiary_concentration": 0.335,
+    "structuring_score": 0.0,
+    "structuring_flag_count": 0,
+    "circular_mirroring_score": 0.0,
+    "statistical_anomaly_count": 1,
+    "total_fraud_flags_triggered": 4,
+    "account_risk_level": "MEDIUM",
+    "total_fraud_flags": 4,
+    "fraud_events": [
+      {
+        "rule": "Rapid Inflow-Outflow Pass-through",
+        "severity": "HIGH",
+        "confidence": 0.88,
+        "explanation": "3 inflows were transferred out to a different counterparty within 24 hours at 85-105% of the amount received (e.g. \u20b9275,479.00 from NFT NAVGATH SBIN421299584942 S out to EBIZ SLRY C770251021183441)."
+      },
+      {
+        "rule": "Statistical Outlier (Median Absolute Deviation)",
+        "severity": "MEDIUM",
+        "confidence": 0.8,
+        "explanation": "Detected 11 unexplained transaction amounts deviating significantly (>6x MAD) from account baseline median."
+      },
+      {
+        "rule": "Duplicate UTR / Transaction Reference",
+        "severity": "HIGH",
+        "confidence": 0.9,
+        "explanation": "Detected 3 transactions sharing an identical UTR/reference, amount and date."
+      },
+      {
+        "rule": "Symmetric Pass-Through (Equal Debits & Credits)",
+        "severity": "LOW",
+        "confidence": 0.75,
+        "explanation": "Total debits (\u20b97,125,764.50) match total credits (\u20b97,008,618.00) within 2% margin in high volume account."
+      }
+    ]
+  },
+  "underwriting_summary": {
+    "credit_score": 595,
+    "risk_band": "MODERATE_RISK",
+    "underwriting_decision": "MANUAL_REVIEW",
+    "decision_coherence_note": null,
+    "trajectory_flag": "NEGATIVE",
+    "data_sufficiency": "INSUFFICIENT_DATA_WARNING",
+    "volatility_score": 1.0,
+    "volatility_band": "VERY_HIGH",
+    "foir_score": 0.0,
+    "foir_risk_band": "LOW_RISK",
+    "aml_risk_score": 28.37,
+    "aml_risk_band": "MODERATE",
+    "true_turnover": 7008618.0,
+    "total_irregularity_flags": 4,
+    "high_severity_flags_count": 2
+  },
+  "reconciliation": {
+    "status": "PASS",
+    "checks": [
+      {
+        "check": "ledger_balance_movement",
+        "passed": true,
+        "expected": 82798.52,
+        "actual": 82798.52,
+        "delta": 0.0,
+        "detail": "opening + credits - debits must equal closing"
+      },
+      {
+        "check": "net_cash_flow_matches_ledger",
+        "passed": true,
+        "expected": -117146.5,
+        "actual": -117146.5,
+        "delta": 0.0,
+        "detail": "cash_flow.net_cash_flow must equal credits - debits"
+      },
+      {
+        "check": "savings_matches_ledger",
+        "passed": true,
+        "expected": -117146.5,
+        "actual": -117146.5,
+        "delta": 0.0,
+        "detail": "sum(monthly_savings) must equal the change in balance"
+      },
+      {
+        "check": "credit_conservation",
+        "passed": true,
+        "expected": 7008618.0,
+        "actual": 7008618.0,
+        "delta": 0.0,
+        "detail": "income + non-income credits must equal all credits"
+      },
+      {
+        "check": "needs_plus_wants_equals_expense",
+        "passed": true,
+        "expected": 7124076.0,
+        "actual": 7124076.0,
+        "delta": 0.0,
+        "detail": "every expense rupee must be classified Need or Want"
+      },
+      {
+        "check": "all_debits_bucketed",
+        "passed": true,
+        "expected": 7125764.5,
+        "actual": 7125764.5,
+        "delta": 0.0,
+        "detail": "no debit may be dropped between extraction and aggregation"
+      }
+    ],
+    "failed_count": 0
+  },
+  "extraction_fidelity": {
+    "status": "VERIFIED",
+    "checks": [
+      {
+        "check": "opening_matches_printed",
+        "passed": true,
+        "expected": 199945.02,
+        "actual": 199945.02,
+        "delta": 0.0,
+        "detail": "opening balance implied by the first parsed row against the printed one; a lost first page shows up here"
+      },
+      {
+        "check": "page_count_matches_declared",
+        "passed": true,
+        "expected": 4,
+        "actual": 4,
+        "delta": 0.0,
+        "detail": "'Page N of M' against the pages actually present"
+      },
+      {
+        "check": "balance_chain_intact",
+        "passed": true,
+        "expected": 0,
+        "actual": 0,
+        "delta": 0.0,
+        "detail": "rows where balance != previous - debit + credit after intra-day reordering"
+      }
+    ],
+    "failed_count": 0,
+    "anchors_found": 1,
+    "anchors": {
+      "opening_balance": 199945.02,
+      "closing_balance": null,
+      "total_debits": null,
+      "total_credits": null,
+      "debit_count": null,
+      "credit_count": null,
+      "expected_row_count": null,
+      "serial_first": null,
+      "serial_last": null,
+      "serial_gaps": [],
+      "serial_non_transaction_rows": 0,
+      "period_start": null,
+      "period_end": null,
+      "pages_declared": 4,
+      "pages_actual": 4,
+      "sources": {
+        "opening_balance": "p0 same-row: Opening Balance 199945.02 CR",
+        "pages_declared": "p0: Page 1 Of 4"
+      }
+    },
+    "reason": ""
+  },
+  "extraction_stats": {
+    "total_rows": 83,
+    "junk_rows_removed": 0,
+    "duplicates_removed": 0,
+    "dates_fixed": 0,
+    "numerics_fixed": 0,
+    "balance_chain_mismatches": 0,
+    "template_used": "Federal Bank",
+    "template_fallback": false,
+    "requested_bank": "Federal Bank",
+    "pages_total": 4,
+    "pages_without_tables": 0,
+    "pages_without_tables_index": [],
+    "rows_extracted": 83
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "bank_name": "Auto-Detect",
+  "statement_period": {
+    "start": "2023-10-03",
+    "end": "2024-04-22"
+  },
+  "category_name": "expense",
+  "expense": {
+    "total_expenses": 45138.88,
+    "monthly_expenses": {
+      "2023-10": 240.0,
+      "2023-11": 1348.06,
+      "2023-12": 6360.0,
+      "2024-01": 16200.0,
+      "2024-02": 9825.0,
+      "2024-03": 898.86,
+      "2024-04": 10266.96
+    },
+    "average_expenses": 6448.41,
+    "needs_spending": 1230.09,
+    "wants_spending": 43908.79,
+    "needs_ratio": 0.0273,
+    "wants_ratio": 0.9727,
+    "category_spending": {
+      "Education": 30.09,
+      "Metro / Bus / Toll / Parking": 1200.0,
+      "Other Expense": 43908.79
+    },
+    "expense_ratio": 0.2743,
+    "expense_growth": 1165.98,
+    "monthly_expense_trend": [
+      461.69,
+      371.79,
+      154.72,
+      -39.35,
+      -90.85,
+      1042.22
+    ]
+  }
+}

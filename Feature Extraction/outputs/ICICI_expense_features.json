@@ -1,0 +1,54 @@
+{
+  "bank_name": "ICICI",
+  "statement_period": {
+    "start": "2025-04-01",
+    "end": "2026-03-31"
+  },
+  "category_name": "expense",
+  "expense": {
+    "total_expenses": 1564037.0,
+    "monthly_expenses": {
+      "2025-04": 54688.0,
+      "2025-05": 55133.0,
+      "2025-06": 97446.0,
+      "2025-07": 54688.0,
+      "2025-08": 54471.0,
+      "2025-09": 181501.0,
+      "2025-10": 239691.0,
+      "2025-11": 73487.0,
+      "2025-12": 263395.0,
+      "2026-01": 163019.0,
+      "2026-02": 163019.0,
+      "2026-03": 163499.0
+    },
+    "average_expenses": 130336.42,
+    "needs_spending": 1222771.0,
+    "wants_spending": 341266.0,
+    "needs_ratio": 0.7818,
+    "wants_ratio": 0.2182,
+    "category_spending": {
+      "Home Loan EMI": 1013017.0,
+      "Insurance": 43203.0,
+      "Loan / EMI": 24300.0,
+      "Other Expense": 10516.0,
+      "Retail Loan EMI": 126576.0,
+      "Society / Property Tax": 15675.0,
+      "Travel": 330750.0
+    },
+    "expense_ratio": 0.516,
+    "expense_growth": 13236.64,
+    "monthly_expense_trend": [
+      0.81,
+      76.75,
+      -43.88,
+      -0.4,
+      233.21,
+      32.06,
+      -69.34,
+      258.42,
+      -38.11,
+      0.0,
+      0.29
+    ]
+  }
+}

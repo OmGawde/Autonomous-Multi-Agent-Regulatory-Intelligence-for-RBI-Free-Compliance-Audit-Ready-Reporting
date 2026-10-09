@@ -1,0 +1,53 @@
+{
+  "bank_name": "IDBI Bank",
+  "statement_period": {
+    "start": "2020-03-01",
+    "end": "2024-03-01"
+  },
+  "category_name": "behaviour",
+  "behaviour": {
+    "weekend_spend_ratio": 0.1486,
+    "night_spend_ratio": 0.2476,
+    "cash_preference": 0.0,
+    "impulse_score": 0.07,
+    "merchant_diversity": 341,
+    "salary_exhaustion_days": 219,
+    "behaviour_stability": 25.0,
+    "behaviour_stability_index": 25.0,
+    "savings_rate": 0.0133,
+    "lifestyle_inflation": 1.0,
+    "discretionary_vs_essential_ratio": 1.0813,
+    "spending_volatility": 8.0315,
+    "low_balance_days_count": 126,
+    "discretionary_wants_total": 3845.0,
+    "essential_needs_total": 3556.05,
+    "primary_monthly_income": 49000.0,
+    "salary_detected_flag": 1,
+    "weekend_spend_ratio_30d": 0.0,
+    "night_spend_ratio_30d": 0.9174,
+    "discretionary_wants_spend_30d": 0.0,
+    "essential_needs_spend_30d": 0.0,
+    "cash_preference_ratio_30d": 0.0,
+    "net_savings_30d": 5159.0,
+    "weekend_spend_ratio_90d": 0.0,
+    "night_spend_ratio_90d": 0.9174,
+    "discretionary_wants_spend_90d": 0.0,
+    "essential_needs_spend_90d": 0.0,
+    "cash_preference_ratio_90d": 0.0,
+    "net_savings_90d": 5159.0,
+    "weekend_spend_ratio_180d": 0.0,
+    "night_spend_ratio_180d": 0.9174,
+    "discretionary_wants_spend_180d": 0.0,
+    "essential_needs_spend_180d": 0.0,
+    "cash_preference_ratio_180d": 0.0,
+    "net_savings_180d": 5159.0,
+    "behaviour_state": "Financial Stress",
+    "behaviour_confidence_score": 0.4,
+    "salary_detected": true,
+    "salary_day_range": [
+      "2020-10-30 15:32:32",
+      "2020-10-30 15:36:32"
+    ],
+    "salary_exhaustion_speed": 219
+  }
+}

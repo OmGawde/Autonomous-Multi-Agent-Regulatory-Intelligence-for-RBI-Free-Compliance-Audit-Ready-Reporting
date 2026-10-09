@@ -1,0 +1,484 @@
+{
+  "bank_name": "Auto-Detect",
+  "statement_period": {
+    "start": "2023-10-03",
+    "end": "2024-04-22"
+  },
+  "income": {
+    "non_income_credits_total": 205447.54,
+    "monthly_income": {
+      "2023-10": 27500.0,
+      "2023-11": 27500.0,
+      "2023-12": 28042.0,
+      "2024-01": 27500.0,
+      "2024-03": 27022.0,
+      "2024-04": 27000.0
+    },
+    "total_income": 164564.0,
+    "average_income": 27427.33,
+    "salary_income": 152000.0,
+    "other_income": 12564.0,
+    "income_sources": 0,
+    "salary_consistency": 0.9678,
+    "income_stability": 1.0,
+    "income_growth": -127.89,
+    "monthly_income_trend": [
+      0.0,
+      1.97,
+      -1.93,
+      -1.74,
+      -0.08
+    ]
+  },
+  "expense": {
+    "total_expenses": 45138.88,
+    "monthly_expenses": {
+      "2023-10": 240.0,
+      "2023-11": 1348.06,
+      "2023-12": 6360.0,
+      "2024-01": 16200.0,
+      "2024-02": 9825.0,
+      "2024-03": 898.86,
+      "2024-04": 10266.96
+    },
+    "average_expenses": 6448.41,
+    "needs_spending": 1230.09,
+    "wants_spending": 43908.79,
+    "needs_ratio": 0.0273,
+    "wants_ratio": 0.9727,
+    "category_spending": {
+      "Education": 30.09,
+      "Metro / Bus / Toll / Parking": 1200.0,
+      "Other Expense": 43908.79
+    },
+    "expense_ratio": 0.2743,
+    "expense_growth": 1165.98,
+    "monthly_expense_trend": [
+      461.69,
+      371.79,
+      154.72,
+      -39.35,
+      -90.85,
+      1042.22
+    ]
+  },
+  "balance": {
+    "opening_balance": 385.84,
+    "closing_balance": 4758.18,
+    "average_daily_balance": 7373.75,
+    "average_monthly_balance": {
+      "2023-10": 11827.45,
+      "2023-11": 2989.63,
+      "2023-12": 18568.1,
+      "2024-01": 3110.88,
+      "2024-02": 3191.7,
+      "2024-03": 3614.59,
+      "2024-04": 8523.9
+    },
+    "median_balance": 1499.74,
+    "lowest_balance": 61.3,
+    "highest_balance": 33481.34,
+    "low_balance_count": 143,
+    "negative_balance_count": 0,
+    "days_below_1000": 100,
+    "balance_volatility": 9917.28,
+    "volatility_score": 1.0,
+    "volatility_band": "VERY_HIGH",
+    "balance_stability_score": 0.0,
+    "avg_daily_balance_change_pct": 405.7,
+    "max_daily_balance_change_pct": 19786.79,
+    "available_balance_distribution": {
+      "days_above_50000": 0,
+      "pct_days_above_50000": 0.0,
+      "days_above_100000": 0,
+      "pct_days_above_100000": 0.0,
+      "days_above_200000": 0,
+      "pct_days_above_200000": 0.0,
+      "days_above_500000": 0,
+      "pct_days_above_500000": 0.0,
+      "days_above_1000000": 0,
+      "pct_days_above_1000000": 0.0
+    },
+    "abb_score": 5004.48,
+    "balance_recovery_time": 15.22
+  },
+  "cash_flow": {
+    "monthly_inflow": {
+      "2023-10": 91787.38,
+      "2023-11": 54809.6,
+      "2023-12": 55351.6,
+      "2024-01": 57834.38,
+      "2024-02": 25002.0,
+      "2024-03": 56191.6,
+      "2024-04": 29034.98
+    },
+    "monthly_outflow": {
+      "2023-10": 89388.68,
+      "2023-11": 57422.4,
+      "2023-12": 55360.0,
+      "2024-01": 53823.9,
+      "2024-02": 28924.12,
+      "2024-03": 55923.64,
+      "2024-04": 24796.46
+    },
+    "net_cash_flow": 4372.34,
+    "monthly_surplus": {
+      "2023-10": 2398.7,
+      "2024-01": 4010.48,
+      "2024-03": 267.96,
+      "2024-04": 4238.52
+    },
+    "monthly_deficit": {
+      "2023-11": -2612.8,
+      "2023-12": -8.4,
+      "2024-02": -3922.12
+    },
+    "positive_cash_flow_months": 4,
+    "negative_cash_flow_months": 3,
+    "cash_flow_volatility": 2911.88,
+    "net_turnover_credit": 356763.0,
+    "net_expense_debit": 365639.2,
+    "operational_net_cash_flow": -8876.2,
+    "biz_inflow": 0.0,
+    "biz_outflow": 0.0,
+    "pct_biz_inflow": 0.0,
+    "pct_biz_outflow": 0.0,
+    "top_counterparty_name": "Kissht Fund Tra",
+    "top_counterparty_amount": 109238.4,
+    "top_counterparty_concentration_pct": 30.62,
+    "concentration_risk_band": "MODERATE",
+    "cash_flow_trend": 263.12,
+    "operating_cash_flow_trend": 263.12,
+    "trajectory_flag": "STABLE",
+    "seasonality": null
+  },
+  "savings": {
+    "monthly_savings": {
+      "2023-10": 2398.7,
+      "2023-11": -2612.8,
+      "2023-12": -8.4,
+      "2024-01": 4010.48,
+      "2024-02": -3922.12,
+      "2024-03": 267.96,
+      "2024-04": 4238.52
+    },
+    "monthly_savings_incl_investment": {
+      "2023-10": 2398.7,
+      "2023-11": -2612.8,
+      "2023-12": -8.4,
+      "2024-01": 4010.48,
+      "2024-02": -3922.12,
+      "2024-03": 267.96,
+      "2024-04": 4238.52
+    },
+    "savings_rate": {
+      "2023-10": 0.0872,
+      "2023-11": -0.095,
+      "2023-12": -0.0003,
+      "2024-01": 0.1458,
+      "2024-02": 0.0,
+      "2024-03": 0.0099,
+      "2024-04": 0.157
+    },
+    "positive_savings_months": 4,
+    "savings_growth": [
+      -208.93,
+      99.68,
+      47843.81,
+      -197.8,
+      106.83,
+      1481.77
+    ],
+    "average_savings": 624.62,
+    "savings_consistency": 0.0,
+    "emergency_fund_estimate": {
+      "avg_monthly_needs": 52234.17,
+      "fund_3_months": 156702.51,
+      "fund_6_months": 313405.03,
+      "current_balance": 4758.18,
+      "coverage_months": 0.1
+    }
+  },
+  "investment": {
+    "investments_detected": {},
+    "monthly_investment": {},
+    "total_investment": 0.0,
+    "investment_ratio": 0.0,
+    "investment_frequency": 0.0,
+    "sip_count": 0,
+    "investment_growth": [],
+    "long_term_investment_score": 0.0,
+    "redemption_frequency": 0,
+    "dividend_income": 0.0
+  },
+  "debt": {
+    "monthly_emi": 0,
+    "total_monthly_obligations": 0.0,
+    "estimated_cc_monthly_payment": 0.0,
+    "loan_count": 0,
+    "active_loan_count": 0,
+    "closed_loan_count": 0,
+    "distinct_lenders_count": 0,
+    "secured_ratio": 0.0,
+    "unsecured_ratio": 0.0,
+    "dti": 0.0,
+    "foir": 0.0,
+    "credit_utilization": null,
+    "loan_stacking_score": 0.0,
+    "loan_stacking_flag": 0,
+    "recent_borrowing_velocity_90d": 0,
+    "payment_regularity_score": 1.0,
+    "lender_concentration_ratio": 0.0,
+    "missed_emi_count": 0,
+    "home_loan_emi": 0,
+    "personal_loan_emi": 0,
+    "vehicle_loan_emi": 0,
+    "gold_loan_emi": 0,
+    "disbursement_count_365d": 4,
+    "disbursement_total_amount_365d": 106928.8,
+    "credit_card_payment_count_365d": 0,
+    "credit_card_total_payment_365d": 0,
+    "running_facility_count": 0,
+    "running_facility_total_amount": 0,
+    "total_loan_count": 0,
+    "detected_loans": [],
+    "total_fixed_obligations": 0.0,
+    "total_true_income": 356763.0,
+    "foir_risk_band": "LOW_RISK",
+    "emi_discipline_score": 100.0,
+    "emi_discipline_band": "GOOD"
+  },
+  "behaviour": {
+    "weekend_spend_ratio": 0.2917,
+    "night_spend_ratio": null,
+    "cash_preference": 0.8765,
+    "impulse_score": 0.0,
+    "merchant_diversity": 94,
+    "salary_exhaustion_days": 6,
+    "behaviour_stability": 54.32,
+    "behaviour_stability_index": 54.32,
+    "savings_rate": 0.0118,
+    "lifestyle_inflation": 1.0,
+    "discretionary_vs_essential_ratio": 0.0,
+    "spending_volatility": 1.3784,
+    "low_balance_days_count": 34,
+    "discretionary_wants_total": 0.0,
+    "essential_needs_total": 320500.91,
+    "primary_monthly_income": 25000.0,
+    "salary_detected_flag": 1,
+    "weekend_spend_ratio_30d": 0.1141,
+    "night_spend_ratio_30d": null,
+    "discretionary_wants_spend_30d": 0.0,
+    "essential_needs_spend_30d": 16000.0,
+    "cash_preference_ratio_30d": 0.6084,
+    "net_savings_30d": 4620.52,
+    "weekend_spend_ratio_90d": 0.4543,
+    "night_spend_ratio_90d": null,
+    "discretionary_wants_spend_90d": 0.0,
+    "essential_needs_spend_90d": 98733.05,
+    "cash_preference_ratio_90d": 0.7262,
+    "net_savings_90d": 4619.62,
+    "weekend_spend_ratio_180d": 0.2725,
+    "night_spend_ratio_180d": null,
+    "discretionary_wants_spend_180d": 0.0,
+    "essential_needs_spend_180d": 256352.23,
+    "cash_preference_ratio_180d": 0.8509,
+    "net_savings_180d": 4283.24,
+    "behaviour_state": "Financial Stress",
+    "behaviour_confidence_score": 0.54,
+    "salary_detected": true,
+    "salary_day_range": [
+      "2023-10-09",
+      "2023-11-08",
+      "2023-12-08",
+      "2024-01-10",
+      "2024-03-08",
+      "2024-04-08"
+    ],
+    "salary_exhaustion_speed": 6
+  },
+  "fraud": {
+    "fraud_score": 6.79,
+    "account_risk_level_numeric": 1.0,
+    "aml_risk_score": 5.77,
+    "aml_risk_band": "LOW",
+    "irregularity_penalty_points": 55,
+    "high_severity_flag_count": 0,
+    "velocity_score": 0.0,
+    "cash_cycling_score": 0.0,
+    "rapid_transfer_score": 0.0,
+    "rapid_transfer_count": 0,
+    "merchant_risk_score": 0.0,
+    "round_transaction_score": 4.55,
+    "round_transaction_ratio": 0.0455,
+    "beneficiary_concentration": 0.0738,
+    "structuring_score": 0.0,
+    "structuring_flag_count": 0,
+    "circular_mirroring_score": 0.0,
+    "statistical_anomaly_count": 0,
+    "total_fraud_flags_triggered": 2,
+    "account_risk_level": "LOW",
+    "total_fraud_flags": 2,
+    "fraud_events": [
+      {
+        "rule": "Immediate Large Debit After Salary (>50% in 1 Day)",
+        "severity": "MEDIUM",
+        "confidence": 0.82,
+        "explanation": "1 salary credits were followed within 24 hours by an unidentified debit exceeding 50% of the credit (total \u20b919,000.00). Payments to recognised obligations are excluded."
+      },
+      {
+        "rule": "Symmetric Pass-Through (Equal Debits & Credits)",
+        "severity": "LOW",
+        "confidence": 0.75,
+        "explanation": "Total debits (\u20b9365,639.20) match total credits (\u20b9370,011.54) within 2% margin in high volume account."
+      }
+    ]
+  },
+  "underwriting_summary": {
+    "credit_score": 785,
+    "risk_band": "LOW_RISK",
+    "underwriting_decision": "APPROVE_STANDARD",
+    "decision_coherence_note": null,
+    "trajectory_flag": "STABLE",
+    "data_sufficiency": "OPTIMAL_DATA",
+    "volatility_score": 1.0,
+    "volatility_band": "VERY_HIGH",
+    "foir_score": 0.0,
+    "foir_risk_band": "LOW_RISK",
+    "aml_risk_score": 5.77,
+    "aml_risk_band": "LOW",
+    "true_turnover": 356763.0,
+    "total_irregularity_flags": 2,
+    "high_severity_flags_count": 0
+  },
+  "reconciliation": {
+    "status": "PASS",
+    "checks": [
+      {
+        "check": "ledger_balance_movement",
+        "passed": true,
+        "expected": 4758.18,
+        "actual": 4758.18,
+        "delta": 0.0,
+        "detail": "opening + credits - debits must equal closing"
+      },
+      {
+        "check": "net_cash_flow_matches_ledger",
+        "passed": true,
+        "expected": 4372.34,
+        "actual": 4372.34,
+        "delta": 0.0,
+        "detail": "cash_flow.net_cash_flow must equal credits - debits"
+      },
+      {
+        "check": "savings_matches_ledger",
+        "passed": true,
+        "expected": 4372.34,
+        "actual": 4372.34,
+        "delta": 0.0,
+        "detail": "sum(monthly_savings) must equal the change in balance"
+      },
+      {
+        "check": "credit_conservation",
+        "passed": true,
+        "expected": 370011.54,
+        "actual": 370011.54,
+        "delta": 0.0,
+        "detail": "income + non-income credits must equal all credits"
+      },
+      {
+        "check": "needs_plus_wants_equals_expense",
+        "passed": true,
+        "expected": 45138.88,
+        "actual": 45138.88,
+        "delta": 0.0,
+        "detail": "every expense rupee must be classified Need or Want"
+      },
+      {
+        "check": "all_debits_bucketed",
+        "passed": true,
+        "expected": 365639.2,
+        "actual": 365639.2,
+        "delta": 0.0,
+        "detail": "no debit may be dropped between extraction and aggregation"
+      }
+    ],
+    "failed_count": 0
+  },
+  "extraction_fidelity": {
+    "status": "VERIFIED",
+    "checks": [
+      {
+        "check": "row_count_matches_statement",
+        "passed": true,
+        "expected": 110,
+        "actual": 110,
+        "delta": 0.0,
+        "detail": "serial column 1..110 unbroken"
+      },
+      {
+        "check": "dates_within_printed_period",
+        "passed": true,
+        "expected": "2023-10-01..2024-04-24",
+        "actual": "2023-10-03..2024-04-22",
+        "delta": null,
+        "detail": "parsed dates must fall inside the period the statement declares"
+      },
+      {
+        "check": "balance_chain_intact",
+        "passed": true,
+        "expected": 0,
+        "actual": 0,
+        "delta": 0.0,
+        "detail": "rows where balance != previous - debit + credit after intra-day reordering"
+      },
+      {
+        "check": "bank_template_available",
+        "passed": true,
+        "expected": "a template for Auto-Detect",
+        "actual": "generic 'Other' template",
+        "delta": null,
+        "detail": "column mapping was a guess. The printed figures confirm it parsed correctly anyway."
+      }
+    ],
+    "failed_count": 0,
+    "anchors_found": 1,
+    "anchors": {
+      "opening_balance": null,
+      "closing_balance": null,
+      "total_debits": null,
+      "total_credits": null,
+      "debit_count": null,
+      "credit_count": null,
+      "expected_row_count": 110,
+      "serial_first": 1,
+      "serial_last": 110,
+      "serial_gaps": [],
+      "serial_non_transaction_rows": 0,
+      "period_start": "2023-10-01",
+      "period_end": "2024-04-24",
+      "pages_declared": null,
+      "pages_actual": 5,
+      "sources": {
+        "expected_row_count": "serial column 1..110 unbroken",
+        "period": "from:/to: pair"
+      }
+    },
+    "reason": ""
+  },
+  "extraction_stats": {
+    "total_rows": 110,
+    "junk_rows_removed": 0,
+    "duplicates_removed": 0,
+    "dates_fixed": 0,
+    "numerics_fixed": 0,
+    "balance_chain_mismatches": 0,
+    "template_used": "Other",
+    "template_fallback": true,
+    "requested_bank": "Auto-Detect",
+    "pages_total": 5,
+    "pages_without_tables": 0,
+    "pages_without_tables_index": [],
+    "rows_extracted": 110
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "bank_name": "Canara Bank",
+  "statement_period": {
+    "start": "2023-04-01",
+    "end": "2023-04-13"
+  },
+  "category_name": "income",
+  "income": {
+    "monthly_income": {},
+    "average_income": 0.0,
+    "total_income": 0.0,
+    "salary_income": 0.0,
+    "other_income": 0.0,
+    "income_sources": 0,
+    "salary_consistency": 0.0,
+    "income_stability": 0.0,
+    "income_growth": 0.0,
+    "monthly_income_trend": []
+  }
+}

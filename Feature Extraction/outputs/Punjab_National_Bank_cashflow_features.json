@@ -1,0 +1,64 @@
+{
+  "bank_name": "Punjab National Bank",
+  "statement_period": {
+    "start": "2020-03-02",
+    "end": "2020-11-18"
+  },
+  "category_name": "cash_flow",
+  "cash_flow": {
+    "monthly_inflow": {
+      "2020-03": 87224.0,
+      "2020-04": 188108.0,
+      "2020-05": 20538.0,
+      "2020-06": 91500.0,
+      "2020-07": 47020.0,
+      "2020-08": 57508.75,
+      "2020-09": 76519.0,
+      "2020-10": 144922.0,
+      "2020-11": 54331.0
+    },
+    "monthly_outflow": {
+      "2020-03": 58685.0,
+      "2020-04": 221802.7,
+      "2020-05": 16732.0,
+      "2020-06": 57342.0,
+      "2020-07": 9398.7,
+      "2020-08": 105937.0,
+      "2020-09": 74353.0,
+      "2020-10": 172992.7,
+      "2020-11": 52509.0
+    },
+    "net_cash_flow": -2081.35,
+    "monthly_surplus": {
+      "2020-03": 28539.0,
+      "2020-05": 3806.0,
+      "2020-06": 34158.0,
+      "2020-07": 37621.3,
+      "2020-09": 2166.0,
+      "2020-11": 1822.0
+    },
+    "monthly_deficit": {
+      "2020-04": -33694.7,
+      "2020-08": -48428.25,
+      "2020-10": -28070.7
+    },
+    "positive_cash_flow_months": 6,
+    "negative_cash_flow_months": 3,
+    "cash_flow_volatility": 29225.59,
+    "net_turnover_credit": 767670.75,
+    "net_expense_debit": 769752.1,
+    "operational_net_cash_flow": -2081.35,
+    "biz_inflow": 0.0,
+    "biz_outflow": 0.0,
+    "pct_biz_inflow": 0.0,
+    "pct_biz_outflow": 0.0,
+    "top_counterparty_name": "VINOD KUMAR JASWAL",
+    "top_counterparty_amount": 39500.0,
+    "top_counterparty_concentration_pct": 5.15,
+    "concentration_risk_band": "NORMAL",
+    "cash_flow_trend": -2931.04,
+    "operating_cash_flow_trend": -2931.04,
+    "trajectory_flag": "NEGATIVE",
+    "seasonality": null
+  }
+}

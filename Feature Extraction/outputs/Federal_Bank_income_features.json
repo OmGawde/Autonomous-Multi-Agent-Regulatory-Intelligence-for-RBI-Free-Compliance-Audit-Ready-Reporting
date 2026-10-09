@@ -1,0 +1,26 @@
+{
+  "bank_name": "Federal Bank",
+  "statement_period": {
+    "start": "2021-10-01",
+    "end": "2021-11-13"
+  },
+  "category_name": "income",
+  "income": {
+    "non_income_credits_total": 0.0,
+    "monthly_income": {
+      "2021-10": 3636449.0,
+      "2021-11": 3372169.0
+    },
+    "total_income": 7008618.0,
+    "average_income": 3504309.0,
+    "salary_income": 0.0,
+    "other_income": 7008618.0,
+    "income_sources": 0,
+    "salary_consistency": 0.0,
+    "income_stability": 1.0,
+    "income_growth": -264280.0,
+    "monthly_income_trend": [
+      -7.27
+    ]
+  }
+}

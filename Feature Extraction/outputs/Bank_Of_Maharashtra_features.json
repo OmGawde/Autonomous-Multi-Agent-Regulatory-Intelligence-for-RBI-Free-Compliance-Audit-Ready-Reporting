@@ -1,0 +1,454 @@
+{
+  "bank_name": "Bank Of Maharashtra",
+  "statement_period": {
+    "start": "2019-01-25",
+    "end": "2019-06-26"
+  },
+  "income": {
+    "non_income_credits_total": 402595.0,
+    "monthly_income": {
+      "2019-04": 5420.0
+    },
+    "total_income": 5420.0,
+    "average_income": 5420.0,
+    "salary_income": 0.0,
+    "other_income": 5420.0,
+    "income_sources": 0,
+    "salary_consistency": 0.0,
+    "income_stability": 1.0,
+    "income_growth": 0.0,
+    "monthly_income_trend": []
+  },
+  "expense": {
+    "total_expenses": 826.0,
+    "monthly_expenses": {
+      "2019-03": 826.0
+    },
+    "average_expenses": 826.0,
+    "needs_spending": 0.0,
+    "wants_spending": 826.0,
+    "needs_ratio": 0.0,
+    "wants_ratio": 1.0,
+    "category_spending": {
+      "Other Expense": 826.0
+    },
+    "expense_ratio": 0.1524,
+    "expense_growth": 0.0,
+    "monthly_expense_trend": []
+  },
+  "balance": {
+    "opening_balance": 12283.76,
+    "closing_balance": 16475.18,
+    "average_daily_balance": 14039.2,
+    "average_monthly_balance": {
+      "2019-01": 21917.15,
+      "2019-02": 12987.74,
+      "2019-03": 13480.84,
+      "2019-04": 12355.17,
+      "2019-05": 10864.61,
+      "2019-06": 19444.53
+    },
+    "median_balance": 9033.54,
+    "lowest_balance": 1113.18,
+    "highest_balance": 122903.5,
+    "low_balance_count": 77,
+    "negative_balance_count": 0,
+    "days_below_1000": 0,
+    "balance_volatility": 14928.12,
+    "volatility_score": 1.0,
+    "volatility_band": "VERY_HIGH",
+    "balance_stability_score": 0.0,
+    "avg_daily_balance_change_pct": 91.46,
+    "max_daily_balance_change_pct": 3365.49,
+    "available_balance_distribution": {
+      "days_above_50000": 3,
+      "pct_days_above_50000": 1.96,
+      "days_above_100000": 1,
+      "pct_days_above_100000": 0.65,
+      "days_above_200000": 0,
+      "pct_days_above_200000": 0.0,
+      "days_above_500000": 0,
+      "pct_days_above_500000": 0.0,
+      "days_above_1000000": 0,
+      "pct_days_above_1000000": 0.0
+    },
+    "abb_score": 21444.62,
+    "balance_recovery_time": 12.12
+  },
+  "cash_flow": {
+    "monthly_inflow": {
+      "2019-01": 42480.0,
+      "2019-02": 23128.0,
+      "2019-03": 170833.0,
+      "2019-04": 45658.0,
+      "2019-05": 60738.0,
+      "2019-06": 65178.0
+    },
+    "monthly_outflow": {
+      "2019-01": 30000.9,
+      "2019-02": 41344.36,
+      "2019-03": 151768.9,
+      "2019-04": 47134.06,
+      "2019-05": 65908.36,
+      "2019-06": 67667.0
+    },
+    "net_cash_flow": 4191.42,
+    "monthly_surplus": {
+      "2019-01": 12479.1,
+      "2019-03": 19064.1
+    },
+    "monthly_deficit": {
+      "2019-02": -18216.36,
+      "2019-04": -1476.06,
+      "2019-05": -5170.36,
+      "2019-06": -2489.0
+    },
+    "positive_cash_flow_months": 2,
+    "negative_cash_flow_months": 4,
+    "cash_flow_volatility": 12132.48,
+    "net_turnover_credit": 408015.0,
+    "net_expense_debit": 403823.58,
+    "operational_net_cash_flow": 4191.42,
+    "biz_inflow": 0.0,
+    "biz_outflow": 0.0,
+    "pct_biz_inflow": 0.0,
+    "pct_biz_outflow": 0.0,
+    "top_counterparty_name": "N/A",
+    "top_counterparty_amount": 0.0,
+    "top_counterparty_concentration_pct": 0.0,
+    "concentration_risk_band": "NORMAL",
+    "cash_flow_trend": -1606.93,
+    "operating_cash_flow_trend": -1606.93,
+    "trajectory_flag": "NEGATIVE",
+    "seasonality": null
+  },
+  "savings": {
+    "monthly_savings": {
+      "2019-01": 12479.1,
+      "2019-02": -18216.36,
+      "2019-03": 19064.1,
+      "2019-04": -1476.06,
+      "2019-05": -5170.36,
+      "2019-06": -2489.0
+    },
+    "monthly_savings_incl_investment": {
+      "2019-01": 12479.1,
+      "2019-02": -18216.36,
+      "2019-03": 19064.1,
+      "2019-04": -1476.06,
+      "2019-05": -5170.36,
+      "2019-06": -2489.0
+    },
+    "savings_rate": {
+      "2019-01": 0.0,
+      "2019-02": 0.0,
+      "2019-03": 0.0,
+      "2019-04": -0.2723,
+      "2019-05": 0.0,
+      "2019-06": 0.0
+    },
+    "positive_savings_months": 2,
+    "savings_growth": [
+      -245.97,
+      204.65,
+      -107.74,
+      -250.28,
+      51.86
+    ],
+    "average_savings": 698.57,
+    "savings_consistency": 0.0,
+    "emergency_fund_estimate": {
+      "avg_monthly_needs": 67303.93,
+      "fund_3_months": 201911.79,
+      "fund_6_months": 403823.58,
+      "current_balance": 16475.18,
+      "coverage_months": 0.2
+    }
+  },
+  "investment": {
+    "investments_detected": {},
+    "monthly_investment": {},
+    "total_investment": 0.0,
+    "investment_ratio": 0.0,
+    "investment_frequency": 0.0,
+    "sip_count": 0,
+    "investment_growth": [],
+    "long_term_investment_score": 0.0,
+    "redemption_frequency": 0,
+    "dividend_income": 0.0
+  },
+  "debt": {
+    "monthly_emi": 0,
+    "total_monthly_obligations": 0.0,
+    "estimated_cc_monthly_payment": 0.0,
+    "loan_count": 0,
+    "active_loan_count": 0,
+    "closed_loan_count": 0,
+    "distinct_lenders_count": 0,
+    "secured_ratio": 0.0,
+    "unsecured_ratio": 0.0,
+    "dti": 0.0,
+    "foir": 0.0,
+    "credit_utilization": null,
+    "loan_stacking_score": 0.0,
+    "loan_stacking_flag": 0,
+    "recent_borrowing_velocity_90d": 0,
+    "payment_regularity_score": 1.0,
+    "lender_concentration_ratio": 0.0,
+    "missed_emi_count": 0,
+    "home_loan_emi": 0,
+    "personal_loan_emi": 0,
+    "vehicle_loan_emi": 0,
+    "gold_loan_emi": 0,
+    "disbursement_count_365d": 0,
+    "disbursement_total_amount_365d": 0,
+    "credit_card_payment_count_365d": 0,
+    "credit_card_total_payment_365d": 0,
+    "running_facility_count": 0,
+    "running_facility_total_amount": 0,
+    "total_loan_count": 0,
+    "detected_loans": [],
+    "total_fixed_obligations": 0.0,
+    "total_true_income": 408015.0,
+    "foir_risk_band": "LOW_RISK",
+    "emi_discipline_score": 100.0,
+    "emi_discipline_band": "GOOD"
+  },
+  "behaviour": {
+    "weekend_spend_ratio": 0.2953,
+    "night_spend_ratio": null,
+    "cash_preference": 0.0,
+    "impulse_score": 0.0,
+    "merchant_diversity": 30,
+    "salary_exhaustion_days": 5,
+    "behaviour_stability": 58.0,
+    "behaviour_stability_index": 58.0,
+    "savings_rate": 0.0103,
+    "lifestyle_inflation": 1.0,
+    "discretionary_vs_essential_ratio": 0.0,
+    "spending_volatility": 2.0164,
+    "low_balance_days_count": 6,
+    "discretionary_wants_total": 0.0,
+    "essential_needs_total": 8187.0,
+    "primary_monthly_income": 21564.0,
+    "salary_detected_flag": 1,
+    "weekend_spend_ratio_30d": 0.0509,
+    "night_spend_ratio_30d": null,
+    "discretionary_wants_spend_30d": 0.0,
+    "essential_needs_spend_30d": 4830.0,
+    "cash_preference_ratio_30d": 0.0,
+    "net_savings_30d": 12361.64,
+    "weekend_spend_ratio_90d": 0.0467,
+    "night_spend_ratio_90d": null,
+    "discretionary_wants_spend_90d": 0.0,
+    "essential_needs_spend_90d": 4830.0,
+    "cash_preference_ratio_90d": 0.0,
+    "net_savings_90d": -19961.42,
+    "weekend_spend_ratio_180d": 0.2953,
+    "night_spend_ratio_180d": null,
+    "discretionary_wants_spend_180d": 0.0,
+    "essential_needs_spend_180d": 8187.0,
+    "cash_preference_ratio_180d": 0.0,
+    "net_savings_180d": 4191.42,
+    "behaviour_state": "Financial Stress",
+    "behaviour_confidence_score": 0.41,
+    "salary_detected": true,
+    "salary_day_range": [
+      "2019-01-29",
+      "2019-02-21",
+      "2019-03-26",
+      "2019-04-03",
+      "2019-04-03",
+      "2019-04-26",
+      "2019-05-14",
+      "2019-05-22",
+      "2019-05-28",
+      "2019-06-01",
+      "2019-06-19",
+      "2019-06-26"
+    ],
+    "salary_exhaustion_speed": 5
+  },
+  "fraud": {
+    "fraud_score": 19.39,
+    "account_risk_level_numeric": 1.0,
+    "aml_risk_score": 16.48,
+    "aml_risk_band": "LOW",
+    "irregularity_penalty_points": 140,
+    "high_severity_flag_count": 1,
+    "velocity_score": 1.0,
+    "cash_cycling_score": 0.0,
+    "rapid_transfer_score": 45.0,
+    "rapid_transfer_count": 1,
+    "merchant_risk_score": 30.0,
+    "round_transaction_score": 7.89,
+    "round_transaction_ratio": 0.0789,
+    "beneficiary_concentration": 0.6226,
+    "structuring_score": 0.0,
+    "structuring_flag_count": 0,
+    "circular_mirroring_score": 0.0,
+    "statistical_anomaly_count": 0,
+    "total_fraud_flags_triggered": 3,
+    "account_risk_level": "LOW",
+    "total_fraud_flags": 3,
+    "fraud_events": [
+      {
+        "rule": "Rapid Inflow-Outflow Pass-through",
+        "severity": "HIGH",
+        "confidence": 0.88,
+        "explanation": "1 inflows were transferred out to a different counterparty within 24 hours at 85-105% of the amount received (e.g. \u20b9119,357.00 from BEST KOKI AUTOMOTIVE PVT LTD out to SELF   CHEQUE NO  CHEQUE)."
+      },
+      {
+        "rule": "High Beneficiary Concentration",
+        "severity": "MEDIUM",
+        "confidence": 0.72,
+        "explanation": "62.3% of total debits (\u20b9251,410.00) were sent to a single entity (SELF   CHEQUE NO  CHEQUE)."
+      },
+      {
+        "rule": "Symmetric Pass-Through (Equal Debits & Credits)",
+        "severity": "LOW",
+        "confidence": 0.75,
+        "explanation": "Total debits (\u20b9403,823.58) match total credits (\u20b9408,015.00) within 2% margin in high volume account."
+      }
+    ]
+  },
+  "underwriting_summary": {
+    "credit_score": 660,
+    "risk_band": "LOW_RISK",
+    "underwriting_decision": "APPROVE_STANDARD",
+    "decision_coherence_note": null,
+    "trajectory_flag": "NEGATIVE",
+    "data_sufficiency": "PARTIAL_DATA_WARNING",
+    "volatility_score": 1.0,
+    "volatility_band": "VERY_HIGH",
+    "foir_score": 0.0,
+    "foir_risk_band": "LOW_RISK",
+    "aml_risk_score": 16.48,
+    "aml_risk_band": "LOW",
+    "true_turnover": 408015.0,
+    "total_irregularity_flags": 3,
+    "high_severity_flags_count": 1
+  },
+  "reconciliation": {
+    "status": "PASS",
+    "checks": [
+      {
+        "check": "ledger_balance_movement",
+        "passed": true,
+        "expected": 16475.18,
+        "actual": 16475.18,
+        "delta": 0.0,
+        "detail": "opening + credits - debits must equal closing"
+      },
+      {
+        "check": "net_cash_flow_matches_ledger",
+        "passed": true,
+        "expected": 4191.42,
+        "actual": 4191.42,
+        "delta": 0.0,
+        "detail": "cash_flow.net_cash_flow must equal credits - debits"
+      },
+      {
+        "check": "savings_matches_ledger",
+        "passed": true,
+        "expected": 4191.42,
+        "actual": 4191.42,
+        "delta": 0.0,
+        "detail": "sum(monthly_savings) must equal the change in balance"
+      },
+      {
+        "check": "credit_conservation",
+        "passed": true,
+        "expected": 408015.0,
+        "actual": 408015.0,
+        "delta": 0.0,
+        "detail": "income + non-income credits must equal all credits"
+      },
+      {
+        "check": "needs_plus_wants_equals_expense",
+        "passed": true,
+        "expected": 826.0,
+        "actual": 826.0,
+        "delta": 0.0,
+        "detail": "every expense rupee must be classified Need or Want"
+      },
+      {
+        "check": "all_debits_bucketed",
+        "passed": true,
+        "expected": 403823.58,
+        "actual": 403823.58,
+        "delta": 0.0,
+        "detail": "no debit may be dropped between extraction and aggregation"
+      }
+    ],
+    "failed_count": 0
+  },
+  "extraction_fidelity": {
+    "status": "UNVERIFIED",
+    "checks": [
+      {
+        "check": "dates_within_printed_period",
+        "passed": true,
+        "expected": "2019-01-22..2019-06-26",
+        "actual": "2019-01-25..2019-06-26",
+        "delta": null,
+        "detail": "parsed dates must fall inside the period the statement declares"
+      },
+      {
+        "check": "page_count_matches_declared",
+        "passed": true,
+        "expected": 6,
+        "actual": 6,
+        "delta": 0.0,
+        "detail": "'Page N of M' against the pages actually present"
+      },
+      {
+        "check": "balance_chain_intact",
+        "passed": true,
+        "expected": 0,
+        "actual": 0,
+        "delta": 0.0,
+        "detail": "rows where balance != previous - debit + credit after intra-day reordering"
+      }
+    ],
+    "failed_count": 0,
+    "anchors_found": 0,
+    "anchors": {
+      "opening_balance": null,
+      "closing_balance": null,
+      "total_debits": null,
+      "total_credits": null,
+      "debit_count": null,
+      "credit_count": null,
+      "expected_row_count": null,
+      "serial_first": null,
+      "serial_last": null,
+      "serial_gaps": [],
+      "serial_non_transaction_rows": 0,
+      "period_start": "2019-01-22",
+      "period_end": "2019-06-26",
+      "pages_declared": 6,
+      "pages_actual": 6,
+      "sources": {
+        "pages_declared": "p0: Page 1 of 6",
+        "period": "from:/to: pair"
+      }
+    },
+    "reason": "this statement prints no balances, totals or serial column to check against"
+  },
+  "extraction_stats": {
+    "total_rows": 76,
+    "junk_rows_removed": 0,
+    "duplicates_removed": 0,
+    "dates_fixed": 0,
+    "numerics_fixed": 0,
+    "balance_chain_mismatches": 0,
+    "template_used": "Bank Of Maharashtra",
+    "template_fallback": false,
+    "requested_bank": "Bank Of Maharashtra",
+    "pages_total": 6,
+    "pages_without_tables": 0,
+    "pages_without_tables_index": [],
+    "rows_extracted": 76
+  }
+}

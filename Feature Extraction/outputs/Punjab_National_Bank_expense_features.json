@@ -1,0 +1,45 @@
+{
+  "bank_name": "Punjab National Bank",
+  "statement_period": {
+    "start": "2020-03-02",
+    "end": "2020-11-18"
+  },
+  "category_name": "expense",
+  "expense": {
+    "total_expenses": 289991.1,
+    "monthly_expenses": {
+      "2020-03": 33417.0,
+      "2020-04": 151554.7,
+      "2020-05": 9517.0,
+      "2020-06": 38649.0,
+      "2020-07": 4967.7,
+      "2020-08": 16199.0,
+      "2020-09": 6966.0,
+      "2020-10": 3817.7,
+      "2020-11": 24903.0
+    },
+    "average_expenses": 32221.23,
+    "needs_spending": 0.0,
+    "wants_spending": 289991.1,
+    "needs_ratio": 0.0,
+    "wants_ratio": 1.0,
+    "category_spending": {
+      "Food Delivery": 400.0,
+      "Other Expense": 286340.0,
+      "Recurring Obligation": 53.1,
+      "Shopping": 3198.0
+    },
+    "expense_ratio": 0.4243,
+    "expense_growth": -8413.65,
+    "monthly_expense_trend": [
+      353.53,
+      -93.72,
+      306.1,
+      -87.15,
+      226.09,
+      -57.0,
+      -45.2,
+      552.3
+    ]
+  }
+}

@@ -1,0 +1,288 @@
+{
+  "HDFC": {
+    "columns": {
+      "date": "Date",
+      "description": "Narration",
+      "cheque": "Chq./Ref.No.",
+      "debit": "Withdrawal Amt.",
+      "credit": "Deposit Amt.",
+      "balance": "Closing Balance"
+    },
+    "date_format": "%d/%m/%y"
+  },
+  "SBI": {
+    "columns": {
+      "date": "Txn Date",
+      "description": "Description",
+      "debit": "Debit",
+      "credit": "Credit",
+      "balance": "Balance"
+    },
+    "date_format": "%d/%m/%Y",
+    "column_positions": {
+      "expected_cols": 7,
+      "mapping": {
+        "0": "date",
+        "2": "description",
+        "4": "debit",
+        "5": "credit",
+        "6": "balance"
+      }
+    },
+    "skip_tables": {
+      "marker_columns": [
+        "Account Summary",
+        "Statement Summary"
+      ]
+    }
+  },
+  "ICICI": {
+    "columns": {
+      "date": "Transaction Date",
+      "cheque": "Cheque Number",
+      "description": "Transaction Remarks",
+      "debit": "Withdrawal Amount (INR )",
+      "credit": "Deposit Amount (INR )",
+      "balance": "Balance (INR )"
+    },
+    "date_format": "%d/%m/%Y"
+  },
+  "Axis": {
+    "columns": {
+      "date": "Tran Date",
+      "cheque": "Chq No",
+      "description": "Particulars",
+      "debit": "Debit",
+      "credit": "Credit",
+      "balance": "Balance"
+    },
+    "date_format": "%d-%m-%Y"
+  },
+  "Kotak": {
+    "columns": {
+      "date": "Date",
+      "description": "Description",
+      "cheque": "Chq / Ref number",
+      "amount": "Amount",
+      "type": "Dr / Cr",
+      "debit": "Debit",
+      "credit": "Credit",
+      "balance": "Balance"
+    },
+    "date_format": "%d/%m/%Y"
+  },
+  "Bank Of India": {
+    "columns": {
+      "date": "Date",
+      "description": "Remarks",
+      "debit": "Debit",
+      "credit": "Credit",
+      "balance": "Balance"
+    },
+    "date_format": "%d-%m-%Y"
+  },
+  "Union": {
+    "columns": {
+      "date": "Date",
+      "description": "Particulars",
+      "cheque": "Chq Num",
+      "debit": "Withdrawal",
+      "credit": "Deposit",
+      "balance": "Balance"
+    },
+    "date_format": "%d-%m-%Y",
+    "skip_tables": {
+      "marker_columns": [
+        "Name & Address :"
+      ]
+    }
+  },
+  "BOB": {
+    "columns": {
+      "date": "Transaction Date",
+      "description": "Description",
+      "debit": "Debit",
+      "credit": "Credit",
+      "balance": "Balance"
+    },
+    "date_format": "%d-%m-%Y",
+    "column_positions": {
+      "expected_cols": 5,
+      "mapping": {
+        "0": "description",
+        "1": "cheque",
+        "2": "debit",
+        "3": "credit",
+        "4": "balance"
+      }
+    },
+    "date_in_description": true
+  },
+  "Canara Bank": {
+    "vertical_lines_norm": [
+      0.02,
+      0.14,
+      0.24,
+      0.35,
+      0.58,
+      0.67,
+      0.77,
+      0.87,
+      0.98
+    ],
+    "date_format": "%d-%m-%Y",
+    "column_positions": {
+      "expected_cols": 8,
+      "mapping": {
+        "0": "date",
+        "1": "value_date",
+        "2": "cheque",
+        "3": "description",
+        "4": "ignore",
+        "5": "debit",
+        "6": "credit",
+        "7": "balance"
+      }
+    },
+    "ifsc_prefix": "CNRB",
+    "detect_markers": [
+      "canara bank",
+      "canara sb"
+    ],
+    "columns": {},
+    "calibrated": true
+  },
+  "IDBI Bank": {
+    "columns": {
+      "date": "Txn Date",
+      "description": "Description",
+      "cheque": "Cheque No",
+      "debit": "Withdrawals",
+      "credit": "Deposits",
+      "balance": "Balance"
+    },
+    "date_format": "%d/%m/%Y",
+    "ifsc_prefix": "IBKL",
+    "detect_markers": [
+      "idbi bank",
+      "idbi"
+    ]
+  },
+  "Punjab National Bank": {
+    "columns": {
+      "date": "Transaction Date",
+      "description": "Narration",
+      "cheque": "Cheque Number",
+      "debit": "Withdrawal",
+      "credit": "Deposit",
+      "balance": "Balance"
+    },
+    "date_format": "%d/%m/%Y",
+    "ifsc_prefix": "PUNB",
+    "detect_markers": [
+      "punjab national bank",
+      "pnb"
+    ]
+  },
+  "YES Bank": {
+    "columns": {
+      "date": "Transaction Date",
+      "description": "Description",
+      "cheque": "Cheque No/Reference No",
+      "debit": "Withdrawals",
+      "credit": "Deposits",
+      "balance": "Balance"
+    },
+    "date_format": "%d/%m/%Y",
+    "ifsc_prefix": "YESB",
+    "detect_markers": [
+      "yes bank",
+      "yesb"
+    ]
+  },
+  "Bank Of Maharashtra": {
+    "columns": {
+      "date": "Date",
+      "description": "Particulars",
+      "cheque": "Cheque/Reference No",
+      "debit": "Debit",
+      "credit": "Credit",
+      "balance": "Balance"
+    },
+    "date_format": "%d/%m/%Y",
+    "skip_tables": {
+      "marker_columns": [
+        "Customer Details",
+        "Branch & Account Details"
+      ]
+    },
+    "ifsc_prefix": "MAHB",
+    "detect_markers": [
+      "bank of maharashtra",
+      "mahabank"
+    ]
+  },
+  "Federal Bank": {
+    "columns": {
+      "date": "Date",
+      "description": "Particulars",
+      "cheque": "Cheque Details",
+      "debit": "Withdrawals",
+      "credit": "Deposits",
+      "balance": "Balance"
+    },
+    "date_format": "%d/%m/%Y",
+    "ifsc_prefix": "FDRL",
+    "detect_markers": [
+      "federal bank",
+      "federalbank"
+    ]
+  },
+  "Indian Overseas Bank": {
+    "columns": {
+      "date": "Transaction Time",
+      "description": "Narration",
+      "amount": "Amount",
+      "type": "Type",
+      "balance": "Current Balance"
+    },
+    "date_format": "%d/%m/%Y",
+    "skip_tables": {
+      "marker_columns": [
+        "PROFILE",
+        "SUMMARY"
+      ]
+    },
+    "ifsc_prefix": "IOBA",
+    "detect_markers": [
+      "indian overseas bank",
+      "iob"
+    ]
+  },
+  "IndusInd Bank": {
+    "columns": {
+      "date": "Date",
+      "description": "Particulars",
+      "cheque": "Chq./Ref.No",
+      "debit": "Withdrawal",
+      "credit": "Deposit",
+      "balance": "Balance"
+    },
+    "date_format": "%d-%b-%Y",
+    "ifsc_prefix": "INDB",
+    "detect_markers": [
+      "indusind bank",
+      "indusind"
+    ]
+  },
+  "Other": {
+    "columns": {
+      "date": null,
+      "description": null,
+      "debit": null,
+      "credit": null,
+      "balance": null
+    },
+    "date_format": null
+  }
+}

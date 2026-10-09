@@ -1,0 +1,50 @@
+{
+  "bank_name": "Punjab National Bank",
+  "statement_period": {
+    "start": "2020-03-02",
+    "end": "2020-11-18"
+  },
+  "category_name": "balance",
+  "balance": {
+    "opening_balance": 4417.0,
+    "closing_balance": 0.0,
+    "average_daily_balance": 0.0,
+    "average_monthly_balance": {
+      "2020-03": 0.0,
+      "2020-04": 0.0,
+      "2020-05": 0.0,
+      "2020-06": 0.0,
+      "2020-07": 0.0,
+      "2020-08": 0.0,
+      "2020-09": 0.0,
+      "2020-10": 0.0,
+      "2020-11": 0.0
+    },
+    "median_balance": 0.0,
+    "lowest_balance": 0.0,
+    "highest_balance": 0.0,
+    "low_balance_count": 262,
+    "negative_balance_count": 0,
+    "days_below_1000": 262,
+    "balance_volatility": 0.0,
+    "volatility_score": 1.0,
+    "volatility_band": "VERY_HIGH",
+    "balance_stability_score": 0.0,
+    "avg_daily_balance_change_pct": 0.0,
+    "max_daily_balance_change_pct": 0.0,
+    "available_balance_distribution": {
+      "days_above_50000": 0,
+      "pct_days_above_50000": 0.0,
+      "days_above_100000": 0,
+      "pct_days_above_100000": 0.0,
+      "days_above_200000": 0,
+      "pct_days_above_200000": 0.0,
+      "days_above_500000": 0,
+      "pct_days_above_500000": 0.0,
+      "days_above_1000000": 0,
+      "pct_days_above_1000000": 0.0
+    },
+    "abb_score": 0.0,
+    "balance_recovery_time": 0.0
+  }
+}

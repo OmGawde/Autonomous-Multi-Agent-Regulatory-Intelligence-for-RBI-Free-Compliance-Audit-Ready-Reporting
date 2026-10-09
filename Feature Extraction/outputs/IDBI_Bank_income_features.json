@@ -1,0 +1,36 @@
+{
+  "bank_name": "IDBI Bank",
+  "statement_period": {
+    "start": "2020-03-01",
+    "end": "2024-03-01"
+  },
+  "category_name": "income",
+  "income": {
+    "non_income_credits_total": 1578348.0,
+    "monthly_income": {
+      "2020-09": 7023.6,
+      "2020-10": 3.46,
+      "2020-11": 2869.62,
+      "2020-12": 3007.44,
+      "2021-01": 10.82,
+      "2021-02": 5.56,
+      "2021-03": 563011.64
+    },
+    "total_income": 575932.14,
+    "average_income": 82276.02,
+    "salary_income": 6000.0,
+    "other_income": 569932.14,
+    "income_sources": 1,
+    "salary_consistency": 1.0,
+    "income_stability": 0.1429,
+    "income_growth": 59468.2,
+    "monthly_income_trend": [
+      -99.95,
+      82836.99,
+      4.8,
+      -99.64,
+      -48.61,
+      10126008.63
+    ]
+  }
+}

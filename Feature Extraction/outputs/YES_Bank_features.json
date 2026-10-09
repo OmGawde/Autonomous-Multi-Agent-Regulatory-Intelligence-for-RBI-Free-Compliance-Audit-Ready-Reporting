@@ -1,0 +1,587 @@
+{
+  "bank_name": "YES Bank",
+  "statement_period": {
+    "start": "2018-11-10",
+    "end": "2019-05-20"
+  },
+  "income": {
+    "non_income_credits_total": 72982.5,
+    "monthly_income": {
+      "2018-11": 61394.0,
+      "2018-12": 62413.96,
+      "2019-01": 62461.5,
+      "2019-02": 101092.58,
+      "2019-03": 111818.74,
+      "2019-04": 62116.27,
+      "2019-05": 85007.96
+    },
+    "total_income": 546305.01,
+    "average_income": 78043.57,
+    "salary_income": 365393.5,
+    "other_income": 180911.51,
+    "income_sources": 1,
+    "salary_consistency": 0.6655,
+    "income_stability": 0.5714,
+    "income_growth": 4271.56,
+    "monthly_income_trend": [
+      1.66,
+      0.08,
+      61.85,
+      10.61,
+      -44.45,
+      36.85
+    ]
+  },
+  "expense": {
+    "total_expenses": 395823.15,
+    "monthly_expenses": {
+      "2018-11": 30906.05,
+      "2018-12": 62237.53,
+      "2019-01": 61525.41,
+      "2019-02": 56465.65,
+      "2019-03": 74178.35,
+      "2019-04": 73619.31,
+      "2019-05": 36890.85
+    },
+    "average_expenses": 56546.16,
+    "needs_spending": 11598.6,
+    "wants_spending": 384224.55,
+    "needs_ratio": 0.0293,
+    "wants_ratio": 0.9707,
+    "category_spending": {
+      "Electricity / Water / Gas": 4735.0,
+      "Entertainment": 1300.0,
+      "Food Delivery": 10906.41,
+      "Fuel": 3644.75,
+      "Healthcare": 297.0,
+      "Internet / Mobile / Broadband": 1630.0,
+      "Leisure": 1488.0,
+      "Other Expense": 364865.14,
+      "Shopping": 3372.0,
+      "Taxi": 1291.85,
+      "Travel": 2293.0
+    },
+    "expense_ratio": 0.7245,
+    "expense_growth": 1906.1,
+    "monthly_expense_trend": [
+      101.38,
+      -1.14,
+      -8.22,
+      31.37,
+      -0.75,
+      -49.89
+    ]
+  },
+  "balance": {
+    "opening_balance": 80560.26,
+    "closing_balance": 182810.06,
+    "average_daily_balance": 52895.64,
+    "average_monthly_balance": {
+      "2018-11": 38530.21,
+      "2018-12": 40763.15,
+      "2019-01": 30811.21,
+      "2019-02": 23874.43,
+      "2019-03": 57118.36,
+      "2019-04": 75147.87,
+      "2019-05": 121721.73
+    },
+    "median_balance": 52224.48,
+    "lowest_balance": 2558.4,
+    "highest_balance": 189810.06,
+    "low_balance_count": 22,
+    "negative_balance_count": 0,
+    "days_below_1000": 0,
+    "balance_volatility": 36668.91,
+    "volatility_score": 0.6932,
+    "volatility_band": "HIGH",
+    "balance_stability_score": 0.3068,
+    "avg_daily_balance_change_pct": 35.55,
+    "max_daily_balance_change_pct": 3875.0,
+    "available_balance_distribution": {
+      "days_above_50000": 99,
+      "pct_days_above_50000": 51.56,
+      "days_above_100000": 17,
+      "pct_days_above_100000": 8.85,
+      "days_above_200000": 0,
+      "pct_days_above_200000": 0.0,
+      "days_above_500000": 0,
+      "pct_days_above_500000": 0.0,
+      "days_above_1000000": 0,
+      "pct_days_above_1000000": 0.0
+    },
+    "abb_score": 57617.87,
+    "balance_recovery_time": 16.67
+  },
+  "cash_flow": {
+    "monthly_inflow": {
+      "2018-11": 62418.0,
+      "2018-12": 68120.96,
+      "2019-01": 65074.5,
+      "2019-02": 101172.58,
+      "2019-03": 114637.74,
+      "2019-04": 82152.27,
+      "2019-05": 125711.46
+    },
+    "monthly_outflow": {
+      "2018-11": 62825.05,
+      "2018-12": 66485.28,
+      "2019-01": 79524.41,
+      "2019-02": 66815.24,
+      "2019-03": 89741.69,
+      "2019-04": 100163.81,
+      "2019-05": 49637.85
+    },
+    "net_cash_flow": 104094.18,
+    "monthly_surplus": {
+      "2018-12": 1635.68,
+      "2019-02": 34357.34,
+      "2019-03": 24896.05,
+      "2019-05": 76073.61
+    },
+    "monthly_deficit": {
+      "2018-11": -407.05,
+      "2019-01": -14449.91,
+      "2019-04": -18011.54
+    },
+    "positive_cash_flow_months": 4,
+    "negative_cash_flow_months": 3,
+    "cash_flow_volatility": 30649.05,
+    "net_turnover_credit": 619287.51,
+    "net_expense_debit": 515193.33,
+    "operational_net_cash_flow": 104094.18,
+    "biz_inflow": 0.0,
+    "biz_outflow": 0.0,
+    "pct_biz_inflow": 0.0,
+    "pct_biz_outflow": 0.0,
+    "top_counterparty_name": "JAYSHARADOZA",
+    "top_counterparty_amount": 40000.0,
+    "top_counterparty_concentration_pct": 6.46,
+    "concentration_risk_band": "NORMAL",
+    "cash_flow_trend": 8196.2,
+    "operating_cash_flow_trend": 8196.2,
+    "trajectory_flag": "STABLE",
+    "seasonality": null
+  },
+  "savings": {
+    "monthly_savings": {
+      "2018-11": -407.05,
+      "2018-12": 1635.68,
+      "2019-01": -14449.91,
+      "2019-02": 34357.34,
+      "2019-03": 24896.05,
+      "2019-04": -18011.54,
+      "2019-05": 76073.61
+    },
+    "monthly_savings_incl_investment": {
+      "2018-11": -407.05,
+      "2018-12": 1635.68,
+      "2019-01": -14449.91,
+      "2019-02": 34357.34,
+      "2019-03": 24896.05,
+      "2019-04": -18011.54,
+      "2019-05": 76073.61
+    },
+    "savings_rate": {
+      "2018-11": -0.0066,
+      "2018-12": 0.0262,
+      "2019-01": -0.2313,
+      "2019-02": 0.3399,
+      "2019-03": 0.2226,
+      "2019-04": -0.29,
+      "2019-05": 0.8949
+    },
+    "positive_savings_months": 4,
+    "savings_growth": [
+      501.84,
+      -983.42,
+      337.77,
+      -27.54,
+      -172.35,
+      522.36
+    ],
+    "average_savings": 14870.6,
+    "savings_consistency": 0.0,
+    "emergency_fund_estimate": {
+      "avg_monthly_needs": 73599.05,
+      "fund_3_months": 220797.14,
+      "fund_6_months": 441594.28,
+      "current_balance": 182810.06,
+      "coverage_months": 2.5
+    }
+  },
+  "investment": {
+    "investments_detected": {},
+    "monthly_investment": {},
+    "total_investment": 0.0,
+    "investment_ratio": 0.0,
+    "investment_frequency": 0.0,
+    "sip_count": 0,
+    "investment_growth": [],
+    "long_term_investment_score": 0.0,
+    "redemption_frequency": 0,
+    "dividend_income": 0.0
+  },
+  "debt": {
+    "monthly_emi": 19481.25,
+    "total_monthly_obligations": 20541.9,
+    "estimated_cc_monthly_payment": 10606.48,
+    "loan_count": 7,
+    "active_loan_count": 6,
+    "closed_loan_count": 1,
+    "distinct_lenders_count": 3,
+    "secured_ratio": 0.86,
+    "unsecured_ratio": 0.14,
+    "dti": 0.2632,
+    "foir": 0.0005,
+    "credit_utilization": null,
+    "loan_stacking_score": 1.0,
+    "loan_stacking_flag": 1,
+    "recent_borrowing_velocity_90d": 3,
+    "payment_regularity_score": 0.7,
+    "lender_concentration_ratio": 0.5107,
+    "missed_emi_count": 0,
+    "home_loan_emi": 2031.25,
+    "personal_loan_emi": 0,
+    "vehicle_loan_emi": 7500.0,
+    "gold_loan_emi": 0,
+    "disbursement_count_365d": 1,
+    "disbursement_total_amount_365d": 12500.0,
+    "credit_card_payment_count_365d": 8,
+    "credit_card_total_payment_365d": 84851.81,
+    "running_facility_count": 0,
+    "running_facility_total_amount": 0,
+    "total_loan_count": 7,
+    "detected_loans": [
+      {
+        "loan_id": "LOAN_CRED_9950",
+        "lender": "CRED",
+        "type": "CREDIT_CARD",
+        "emi": 9950.0,
+        "status": "Active",
+        "regularity": "Skipped/Irregular"
+      },
+      {
+        "loan_id": "LOAN_HDFC_BAN_950",
+        "lender": "HDFC BANK",
+        "type": "HOME_LOAN",
+        "emi": 950.0,
+        "status": "Grace",
+        "regularity": "Skipped/Irregular"
+      },
+      {
+        "loan_id": "LOAN_HDFC_BAN_236",
+        "lender": "HDFC BANK",
+        "type": "HOME_LOAN",
+        "emi": 236.5,
+        "status": "Active",
+        "regularity": "Early"
+      },
+      {
+        "loan_id": "LOAN_HDFC_BAN_349",
+        "lender": "HDFC BANK",
+        "type": "HOME_LOAN",
+        "emi": 349.75,
+        "status": "Grace",
+        "regularity": "Early"
+      },
+      {
+        "loan_id": "LOAN_HDFC_BAN_495",
+        "lender": "HDFC BANK",
+        "type": "HOME_LOAN",
+        "emi": 495.0,
+        "status": "Active",
+        "regularity": "Early"
+      },
+      {
+        "loan_id": "LOAN_MAHINDRA_7500",
+        "lender": "MAHINDRA FIN",
+        "type": "VEHICLE_LOAN",
+        "emi": 7500.0,
+        "status": "Active",
+        "regularity": "On-Time"
+      },
+      {
+        "loan_id": "LOAN_HDFC_BAN_13",
+        "lender": "HDFC BANK",
+        "type": "HOME_LOAN",
+        "emi": 13.0,
+        "status": "Overdue / Closed",
+        "regularity": "Early"
+      }
+    ],
+    "total_fixed_obligations": 318.0,
+    "total_true_income": 619287.51,
+    "foir_risk_band": "LOW_RISK",
+    "emi_discipline_score": 72.73,
+    "emi_discipline_band": "FAIR"
+  },
+  "behaviour": {
+    "weekend_spend_ratio": 0.1427,
+    "night_spend_ratio": null,
+    "cash_preference": 0.0027,
+    "impulse_score": 1.26,
+    "merchant_diversity": 207,
+    "salary_exhaustion_days": 2,
+    "behaviour_stability": 46.0,
+    "behaviour_stability_index": 46.0,
+    "savings_rate": 0.1681,
+    "lifestyle_inflation": 0.8639,
+    "discretionary_vs_essential_ratio": 0.9279,
+    "spending_volatility": 2.1386,
+    "low_balance_days_count": 2,
+    "discretionary_wants_total": 18182.74,
+    "essential_needs_total": 19596.6,
+    "primary_monthly_income": 25070.0,
+    "salary_detected_flag": 1,
+    "weekend_spend_ratio_30d": 0.2233,
+    "night_spend_ratio_30d": null,
+    "discretionary_wants_spend_30d": 2465.47,
+    "essential_needs_spend_30d": 3087.0,
+    "cash_preference_ratio_30d": 0.0,
+    "net_savings_30d": 115617.18,
+    "weekend_spend_ratio_90d": 0.18,
+    "night_spend_ratio_90d": null,
+    "discretionary_wants_spend_90d": 7379.6,
+    "essential_needs_spend_90d": 9054.0,
+    "cash_preference_ratio_90d": 0.004,
+    "net_savings_90d": 175082.21,
+    "weekend_spend_ratio_180d": 0.1523,
+    "night_spend_ratio_180d": null,
+    "discretionary_wants_spend_180d": 17122.44,
+    "essential_needs_spend_180d": 19596.6,
+    "cash_preference_ratio_180d": 0.0031,
+    "net_savings_180d": 151139.48,
+    "behaviour_state": "Financial Stress",
+    "behaviour_confidence_score": 0.46,
+    "salary_detected": true,
+    "salary_day_range": [
+      "2018-11-30",
+      "2018-11-30",
+      "2018-12-31",
+      "2018-12-31",
+      "2019-01-31",
+      "2019-01-31",
+      "2019-02-28",
+      "2019-02-28",
+      "2019-03-30",
+      "2019-03-30"
+    ],
+    "salary_exhaustion_speed": 2
+  },
+  "fraud": {
+    "fraud_score": 37.47,
+    "account_risk_level_numeric": 2.0,
+    "aml_risk_score": 31.85,
+    "aml_risk_band": "MODERATE",
+    "irregularity_penalty_points": 250,
+    "high_severity_flag_count": 2,
+    "velocity_score": 0.0,
+    "cash_cycling_score": 0.0,
+    "rapid_transfer_score": 0.0,
+    "rapid_transfer_count": 0,
+    "merchant_risk_score": 0.0,
+    "round_transaction_score": 0.94,
+    "round_transaction_ratio": 0.0094,
+    "beneficiary_concentration": 0.3982,
+    "structuring_score": 0.0,
+    "structuring_flag_count": 0,
+    "circular_mirroring_score": 0.0,
+    "statistical_anomaly_count": 1,
+    "total_fraud_flags_triggered": 4,
+    "account_risk_level": "MEDIUM",
+    "total_fraud_flags": 4,
+    "fraud_events": [
+      {
+        "rule": "Statistical Outlier (Median Absolute Deviation)",
+        "severity": "MEDIUM",
+        "confidence": 0.8,
+        "explanation": "Detected 32 unexplained transaction amounts deviating significantly (>6x MAD) from account baseline median."
+      },
+      {
+        "rule": "Running Balance Mathematical Mismatch",
+        "severity": "HIGH",
+        "confidence": 0.95,
+        "explanation": "Detected 1 instances where computed running balance differs by >2% from printed statement balance (potential document tampering)."
+      },
+      {
+        "rule": "Duplicate UTR / Transaction Reference",
+        "severity": "HIGH",
+        "confidence": 0.9,
+        "explanation": "Detected 1 transactions sharing an identical UTR/reference, amount and date."
+      },
+      {
+        "rule": "Immediate Large Debit After Salary (>50% in 1 Day)",
+        "severity": "MEDIUM",
+        "confidence": 0.82,
+        "explanation": "22 salary credits were followed within 24 hours by an unidentified debit exceeding 50% of the credit (total \u20b9113,996.02). Payments to recognised obligations are excluded."
+      }
+    ]
+  },
+  "underwriting_summary": {
+    "credit_score": 590,
+    "risk_band": "MODERATE_RISK",
+    "underwriting_decision": "MANUAL_REVIEW",
+    "decision_coherence_note": null,
+    "trajectory_flag": "STABLE",
+    "data_sufficiency": "OPTIMAL_DATA",
+    "volatility_score": 0.6932,
+    "volatility_band": "HIGH",
+    "foir_score": 0.0005,
+    "foir_risk_band": "LOW_RISK",
+    "aml_risk_score": 31.85,
+    "aml_risk_band": "MODERATE",
+    "true_turnover": 619287.51,
+    "total_irregularity_flags": 4,
+    "high_severity_flags_count": 2
+  },
+  "reconciliation": {
+    "status": "FAIL",
+    "checks": [
+      {
+        "check": "ledger_balance_movement",
+        "passed": false,
+        "expected": 182810.06,
+        "actual": 184654.44,
+        "delta": 1844.38,
+        "detail": "opening + credits - debits must equal closing"
+      },
+      {
+        "check": "net_cash_flow_matches_ledger",
+        "passed": true,
+        "expected": 104094.18,
+        "actual": 104094.18,
+        "delta": 0.0,
+        "detail": "cash_flow.net_cash_flow must equal credits - debits"
+      },
+      {
+        "check": "savings_matches_ledger",
+        "passed": true,
+        "expected": 104094.18,
+        "actual": 104094.18,
+        "delta": 0.0,
+        "detail": "sum(monthly_savings) must equal the change in balance"
+      },
+      {
+        "check": "credit_conservation",
+        "passed": true,
+        "expected": 619287.51,
+        "actual": 619287.51,
+        "delta": 0.0,
+        "detail": "income + non-income credits must equal all credits"
+      },
+      {
+        "check": "needs_plus_wants_equals_expense",
+        "passed": true,
+        "expected": 395823.15,
+        "actual": 395823.15,
+        "delta": 0.0,
+        "detail": "every expense rupee must be classified Need or Want"
+      },
+      {
+        "check": "all_debits_bucketed",
+        "passed": false,
+        "expected": 515193.33,
+        "actual": 526109.33,
+        "delta": 10916.0,
+        "detail": "no debit may be dropped between extraction and aggregation"
+      }
+    ],
+    "failed_count": 2
+  },
+  "extraction_fidelity": {
+    "status": "FAILED",
+    "checks": [
+      {
+        "check": "debits_match_printed_total",
+        "passed": false,
+        "expected": 0.0,
+        "actual": 515193.33,
+        "delta": 515193.33,
+        "detail": "sum of the debit column against the total printed on the statement"
+      },
+      {
+        "check": "credits_match_printed_total",
+        "passed": false,
+        "expected": 0.0,
+        "actual": 619287.51,
+        "delta": 619287.51,
+        "detail": "sum of the credit column against the total printed on the statement"
+      },
+      {
+        "check": "opening_matches_printed",
+        "passed": false,
+        "expected": 0.0,
+        "actual": 80560.26,
+        "delta": 80560.26,
+        "detail": "opening balance implied by the first parsed row against the printed one; a lost first page shows up here"
+      },
+      {
+        "check": "page_count_matches_declared",
+        "passed": true,
+        "expected": 23,
+        "actual": 23,
+        "delta": 0.0,
+        "detail": "'Page N of M' against the pages actually present"
+      },
+      {
+        "check": "balance_chain_intact",
+        "passed": false,
+        "expected": 0,
+        "actual": 2,
+        "delta": 2.0,
+        "detail": "rows where balance != previous - debit + credit after intra-day reordering"
+      },
+      {
+        "check": "every_page_yielded_rows",
+        "passed": true,
+        "expected": "23 page(s) with tables",
+        "actual": "1 without (indices [22])",
+        "delta": null,
+        "detail": "a single trailing page without a table is normal"
+      }
+    ],
+    "failed_count": 4,
+    "anchors_found": 3,
+    "anchors": {
+      "opening_balance": 0.0,
+      "closing_balance": null,
+      "total_debits": 0.0,
+      "total_credits": 0.0,
+      "debit_count": null,
+      "credit_count": null,
+      "expected_row_count": null,
+      "serial_first": null,
+      "serial_last": null,
+      "serial_gaps": [],
+      "serial_non_transaction_rows": 0,
+      "period_start": null,
+      "period_end": null,
+      "pages_declared": 23,
+      "pages_actual": 23,
+      "sources": {
+        "opening_balance": "p21 column: 'Opening Balance: 80560.26 Total Withdrawals: 322 T' -> 'OD Limit: 0.00 Unclear Amt: 0.00 Sweepin: 0.00'",
+        "total_debits": "p21 column: 'Opening Balance: 80560.26 Total Withdrawals: 322 T' -> 'OD Limit: 0.00 Unclear Amt: 0.00 Sweepin: 0.00'",
+        "total_credits": "p21 column: 'Opening Balance: 80560.26 Total Withdrawals: 322 T' -> 'OD Limit: 0.00 Unclear Amt: 0.00 Sweepin: 0.00'",
+        "pages_declared": "p0: Page 1 of 23"
+      }
+    },
+    "reason": ""
+  },
+  "extraction_stats": {
+    "total_rows": 429,
+    "junk_rows_removed": 2,
+    "duplicates_removed": 0,
+    "dates_fixed": 0,
+    "numerics_fixed": 0,
+    "balance_chain_mismatches": 2,
+    "template_used": "YES Bank",
+    "template_fallback": false,
+    "requested_bank": "YES Bank",
+    "pages_total": 23,
+    "pages_without_tables": 1,
+    "pages_without_tables_index": [
+      22
+    ],
+    "rows_extracted": 429
+  }
+}

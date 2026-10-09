@@ -1,0 +1,166 @@
+{
+  "bank_name": "Axis",
+  "statement_period": {
+    "start": "2023-04-24",
+    "end": "2024-03-31"
+  },
+  "category_name": "debt",
+  "debt": {
+    "monthly_emi": 1257.45,
+    "total_monthly_obligations": 1257.45,
+    "estimated_cc_monthly_payment": 0.0,
+    "loan_count": 15,
+    "active_loan_count": 7,
+    "closed_loan_count": 8,
+    "distinct_lenders_count": 6,
+    "secured_ratio": 0.6,
+    "unsecured_ratio": 0.4,
+    "dti": 0.0211,
+    "foir": 0.001,
+    "credit_utilization": null,
+    "loan_stacking_score": 0.0,
+    "loan_stacking_flag": 0,
+    "recent_borrowing_velocity_90d": 1,
+    "payment_regularity_score": 0.7,
+    "lender_concentration_ratio": 0.4072,
+    "missed_emi_count": 3,
+    "home_loan_emi": 75.89,
+    "personal_loan_emi": 0,
+    "vehicle_loan_emi": 72.33,
+    "gold_loan_emi": 0,
+    "disbursement_count_365d": 0,
+    "disbursement_total_amount_365d": 0,
+    "credit_card_payment_count_365d": 0,
+    "credit_card_total_payment_365d": 0,
+    "running_facility_count": 0,
+    "running_facility_total_amount": 0,
+    "total_loan_count": 15,
+    "detected_loans": [
+      {
+        "loan_id": "LOAN_CC_PAYME_42",
+        "lender": "CC PAYMENT",
+        "type": "CREDIT_CARD",
+        "emi": 42.89,
+        "status": "Active",
+        "regularity": "Early"
+      },
+      {
+        "loan_id": "LOAN_CC_PAYME_291",
+        "lender": "CC PAYMENT",
+        "type": "CREDIT_CARD",
+        "emi": 291.17,
+        "status": "Active",
+        "regularity": "Early"
+      },
+      {
+        "loan_id": "LOAN_CC_PAYME_131",
+        "lender": "CC PAYMENT",
+        "type": "CREDIT_CARD",
+        "emi": 131.17,
+        "status": "Active",
+        "regularity": "Skipped/Irregular"
+      },
+      {
+        "loan_id": "LOAN_CC_PAYME_512",
+        "lender": "CC PAYMENT",
+        "type": "CREDIT_CARD",
+        "emi": 512.0,
+        "status": "Active",
+        "regularity": "Skipped/Irregular"
+      },
+      {
+        "loan_id": "LOAN_FEDERAL__132",
+        "lender": "FEDERAL BANK LOAN",
+        "type": "RETAIL_LOAN",
+        "emi": 132.0,
+        "status": "Grace",
+        "regularity": "Early"
+      },
+      {
+        "loan_id": "LOAN_HDFC_BAN_75",
+        "lender": "HDFC BANK LTD",
+        "type": "HOME_LOAN",
+        "emi": 75.89,
+        "status": "Active",
+        "regularity": "Early"
+      },
+      {
+        "loan_id": "LOAN_MAHINDRA_72",
+        "lender": "MAHINDRA FIN",
+        "type": "VEHICLE_LOAN",
+        "emi": 72.33,
+        "status": "Grace",
+        "regularity": "Skipped/Irregular"
+      },
+      {
+        "loan_id": "LOAN_HDFC_BAN_214",
+        "lender": "HDFC BANK",
+        "type": "HOME_LOAN",
+        "emi": 214.0,
+        "status": "Overdue / Closed",
+        "regularity": "Skipped/Irregular"
+      },
+      {
+        "loan_id": "LOAN_HDFC_BAN_810",
+        "lender": "HDFC BANK",
+        "type": "HOME_LOAN",
+        "emi": 810.0,
+        "status": "Overdue / Closed",
+        "regularity": "Skipped/Irregular"
+      },
+      {
+        "loan_id": "LOAN_HDFC_BAN_1653",
+        "lender": "HDFC BANK LTD",
+        "type": "HOME_LOAN",
+        "emi": 1653.33,
+        "status": "Overdue / Closed",
+        "regularity": "Skipped/Irregular"
+      },
+      {
+        "loan_id": "LOAN_HDFC_BAN_210",
+        "lender": "HDFC BANK LTD",
+        "type": "HOME_LOAN",
+        "emi": 210.5,
+        "status": "Missed EMI",
+        "regularity": "Early"
+      },
+      {
+        "loan_id": "LOAN_HDFC_BAN_315",
+        "lender": "HDFC BANK LTD",
+        "type": "HOME_LOAN",
+        "emi": 315.0,
+        "status": "Missed EMI",
+        "regularity": "On-Time"
+      },
+      {
+        "loan_id": "LOAN_INDUSIND_256",
+        "lender": "INDUSIND LOAN",
+        "type": "RETAIL_LOAN",
+        "emi": 256.33,
+        "status": "Overdue / Closed",
+        "regularity": "Late"
+      },
+      {
+        "loan_id": "LOAN_MAHINDRA_236",
+        "lender": "MAHINDRA FIN",
+        "type": "VEHICLE_LOAN",
+        "emi": 236.33,
+        "status": "Missed EMI",
+        "regularity": "Early"
+      },
+      {
+        "loan_id": "LOAN_MAHINDRA_856",
+        "lender": "MAHINDRA FIN",
+        "type": "VEHICLE_LOAN",
+        "emi": 856.0,
+        "status": "Overdue / Closed",
+        "regularity": "On-Time"
+      }
+    ],
+    "total_fixed_obligations": 800.0,
+    "total_true_income": 763519.0,
+    "foir_risk_band": "LOW_RISK",
+    "emi_discipline_score": 86.41,
+    "emi_discipline_band": "FAIR"
+  }
+}

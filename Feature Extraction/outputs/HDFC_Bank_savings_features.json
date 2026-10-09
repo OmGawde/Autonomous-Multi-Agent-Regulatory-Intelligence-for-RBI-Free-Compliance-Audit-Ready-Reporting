@@ -1,0 +1,71 @@
+{
+  "bank_name": "HDFC Bank",
+  "statement_period": {
+    "start": "2018-06-02",
+    "end": "2018-10-10"
+  },
+  "income": {},
+  "expense": {},
+  "balance": {},
+  "cash_flow": {},
+  "savings": {
+    "monthly_savings": {
+      "2018-06": -12876.14,
+      "2018-07": 4522.02,
+      "2018-08": -2397.3,
+      "2018-09": -944.59,
+      "2018-10": 4781.0
+    },
+    "monthly_savings_incl_investment": {
+      "2018-06": -12876.14,
+      "2018-07": 4522.02,
+      "2018-08": -2397.3,
+      "2018-09": -944.59,
+      "2018-10": 4781.0
+    },
+    "savings_rate": {
+      "2018-06": 0.0,
+      "2018-07": 28.9873,
+      "2018-08": 0.0,
+      "2018-09": -15.7432,
+      "2018-10": 0.0
+    },
+    "positive_savings_months": 2,
+    "savings_growth": [
+      135.12,
+      -153.01,
+      60.6,
+      606.15
+    ],
+    "average_savings": -1383.0,
+    "savings_consistency": 0.0,
+    "emergency_fund_estimate": {
+      "avg_monthly_needs": 37803.48,
+      "fund_3_months": 113410.44,
+      "fund_6_months": 226820.88,
+      "current_balance": 7194.94,
+      "coverage_months": 0.2
+    }
+  },
+  "investment": {},
+  "debt": {},
+  "behaviour": {},
+  "fraud": {},
+  "underwriting_summary": {
+    "credit_score": 1000,
+    "risk_band": "VERY_LOW_RISK",
+    "underwriting_decision": "APPROVE_FAST_TRACK",
+    "decision_coherence_note": null,
+    "trajectory_flag": "STABLE",
+    "data_sufficiency": "PARTIAL_DATA_WARNING",
+    "volatility_score": 0.0,
+    "volatility_band": "MODERATE",
+    "foir_score": 0.0,
+    "foir_risk_band": "LOW_RISK",
+    "aml_risk_score": 0.0,
+    "aml_risk_band": "LOW",
+    "true_turnover": 0.0,
+    "total_irregularity_flags": 0,
+    "high_severity_flags_count": 0
+  }
+}

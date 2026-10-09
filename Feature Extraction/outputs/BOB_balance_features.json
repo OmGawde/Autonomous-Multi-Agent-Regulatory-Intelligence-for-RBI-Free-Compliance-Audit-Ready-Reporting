@@ -1,0 +1,43 @@
+{
+  "bank_name": "BOB",
+  "statement_period": {
+    "start": "2026-03-19",
+    "end": "2026-04-19"
+  },
+  "category_name": "balance",
+  "balance": {
+    "opening_balance": 427662.57,
+    "closing_balance": 665617.09,
+    "average_daily_balance": 474556.32,
+    "average_monthly_balance": {
+      "2026-03": 470821.74,
+      "2026-04": 477111.56
+    },
+    "median_balance": 466639.03,
+    "lowest_balance": 466639.03,
+    "highest_balance": 665617.09,
+    "low_balance_count": 0,
+    "negative_balance_count": 0,
+    "days_below_1000": 0,
+    "balance_volatility": 35047.97,
+    "volatility_score": 0.0739,
+    "volatility_band": "LOW",
+    "balance_stability_score": 0.9261,
+    "avg_daily_balance_change_pct": 1.44,
+    "max_daily_balance_change_pct": 42.64,
+    "available_balance_distribution": {
+      "days_above_50000": 32,
+      "pct_days_above_50000": 100.0,
+      "days_above_100000": 32,
+      "pct_days_above_100000": 100.0,
+      "days_above_200000": 32,
+      "pct_days_above_200000": 100.0,
+      "days_above_500000": 1,
+      "pct_days_above_500000": 3.12,
+      "days_above_1000000": 0,
+      "pct_days_above_1000000": 0.0
+    },
+    "abb_score": 466639.03,
+    "balance_recovery_time": 25.0
+  }
+}

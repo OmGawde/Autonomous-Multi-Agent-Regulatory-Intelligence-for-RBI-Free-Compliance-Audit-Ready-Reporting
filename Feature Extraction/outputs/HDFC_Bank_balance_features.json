@@ -1,0 +1,70 @@
+{
+  "bank_name": "HDFC Bank",
+  "statement_period": {
+    "start": "2018-06-02",
+    "end": "2018-10-10"
+  },
+  "income": {},
+  "expense": {},
+  "balance": {
+    "opening_balance": 14109.95,
+    "closing_balance": 7194.94,
+    "average_daily_balance": 9217.18,
+    "average_monthly_balance": {
+      "2018-06": 15052.83,
+      "2018-07": 8619.04,
+      "2018-08": 6153.2,
+      "2018-09": 5210.56,
+      "2018-10": 15666.14
+    },
+    "median_balance": 6128.92,
+    "lowest_balance": 1128.92,
+    "highest_balance": 29778.97,
+    "low_balance_count": 90,
+    "negative_balance_count": 0,
+    "days_below_1000": 0,
+    "balance_volatility": 7549.95,
+    "volatility_score": 0.8191,
+    "volatility_band": "VERY_HIGH",
+    "balance_stability_score": 0.1809,
+    "avg_daily_balance_change_pct": 32.06,
+    "max_daily_balance_change_pct": 449.27,
+    "available_balance_distribution": {
+      "days_above_50000": 0,
+      "pct_days_above_50000": 0.0,
+      "days_above_100000": 0,
+      "pct_days_above_100000": 0.0,
+      "days_above_200000": 0,
+      "pct_days_above_200000": 0.0,
+      "days_above_500000": 0,
+      "pct_days_above_500000": 0.0,
+      "days_above_1000000": 0,
+      "pct_days_above_1000000": 0.0
+    },
+    "abb_score": 5047.69,
+    "balance_recovery_time": 14.5
+  },
+  "cash_flow": {},
+  "savings": {},
+  "investment": {},
+  "debt": {},
+  "behaviour": {},
+  "fraud": {},
+  "underwriting_summary": {
+    "credit_score": 880,
+    "risk_band": "VERY_LOW_RISK",
+    "underwriting_decision": "APPROVE_FAST_TRACK",
+    "decision_coherence_note": null,
+    "trajectory_flag": "STABLE",
+    "data_sufficiency": "PARTIAL_DATA_WARNING",
+    "volatility_score": 0.8191,
+    "volatility_band": "VERY_HIGH",
+    "foir_score": 0.0,
+    "foir_risk_band": "LOW_RISK",
+    "aml_risk_score": 0.0,
+    "aml_risk_band": "LOW",
+    "true_turnover": 0.0,
+    "total_irregularity_flags": 0,
+    "high_severity_flags_count": 0
+  }
+}

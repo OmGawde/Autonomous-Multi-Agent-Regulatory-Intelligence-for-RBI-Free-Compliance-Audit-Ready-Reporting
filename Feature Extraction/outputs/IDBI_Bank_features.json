@@ -1,0 +1,593 @@
+{
+  "bank_name": "IDBI Bank",
+  "statement_period": {
+    "start": "2020-03-01",
+    "end": "2024-03-01"
+  },
+  "income": {
+    "non_income_credits_total": 1578348.0,
+    "monthly_income": {
+      "2020-09": 7023.6,
+      "2020-10": 3.46,
+      "2020-11": 2869.62,
+      "2020-12": 3007.44,
+      "2021-01": 10.82,
+      "2021-02": 5.56,
+      "2021-03": 563011.64
+    },
+    "total_income": 575932.14,
+    "average_income": 82276.02,
+    "salary_income": 6000.0,
+    "other_income": 569932.14,
+    "income_sources": 1,
+    "salary_consistency": 1.0,
+    "income_stability": 0.1429,
+    "income_growth": 59468.2,
+    "monthly_income_trend": [
+      -99.95,
+      82836.99,
+      4.8,
+      -99.64,
+      -48.61,
+      10126008.63
+    ]
+  },
+  "expense": {
+    "total_expenses": 2076095.95,
+    "monthly_expenses": {
+      "2020-09": 9693.1,
+      "2020-10": 237811.29,
+      "2020-11": 279826.2,
+      "2020-12": 265252.08,
+      "2021-01": 523276.8,
+      "2021-02": 96462.37,
+      "2021-03": 656774.11,
+      "2024-03": 7000.0
+    },
+    "average_expenses": 259511.99,
+    "needs_spending": 2744.0,
+    "wants_spending": 2073351.95,
+    "needs_ratio": 0.0013,
+    "wants_ratio": 0.9987,
+    "category_spending": {
+      "Electricity / Water / Gas": 697.0,
+      "Electronics": 100.0,
+      "Food Delivery": 3745.0,
+      "Fuel": 1543.0,
+      "Healthcare": 400.0,
+      "Metro / Bus / Toll / Parking": 104.0,
+      "Other Expense": 2009554.27,
+      "Travel": 59952.68
+    },
+    "expense_ratio": 3.6048,
+    "expense_growth": 21236.85,
+    "monthly_expense_trend": [
+      2353.41,
+      17.67,
+      -5.21,
+      97.28,
+      -81.57,
+      580.86,
+      -98.93
+    ]
+  },
+  "balance": {
+    "opening_balance": 2483.7,
+    "closing_balance": 3991.3,
+    "average_daily_balance": 23320.51,
+    "average_monthly_balance": {
+      "2020-03": 2336.7,
+      "2020-04": 2336.7,
+      "2020-05": 2336.7,
+      "2020-06": 2336.7,
+      "2020-07": 2336.7,
+      "2020-08": 2336.7,
+      "2020-09": 2140.48,
+      "2020-10": 14836.19,
+      "2020-11": 9732.76,
+      "2020-12": 15249.44,
+      "2021-01": 53278.61,
+      "2021-02": 10946.58,
+      "2021-03": 35336.89,
+      "2021-04": 27528.83,
+      "2021-05": 27528.83,
+      "2021-06": 27528.83,
+      "2021-07": 27528.83,
+      "2021-08": 27528.83,
+      "2021-09": 27528.83,
+      "2021-10": 27528.83,
+      "2021-11": 27528.83,
+      "2021-12": 27528.83,
+      "2022-01": 27528.83,
+      "2022-02": 27528.83,
+      "2022-03": 27528.83,
+      "2022-04": 27528.83,
+      "2022-05": 27528.83,
+      "2022-06": 27528.83,
+      "2022-07": 27528.83,
+      "2022-08": 27528.83,
+      "2022-09": 27528.83,
+      "2022-10": 27528.83,
+      "2022-11": 27528.83,
+      "2022-12": 27528.83,
+      "2023-01": 27528.83,
+      "2023-02": 27528.83,
+      "2023-03": 27528.83,
+      "2023-04": 27528.83,
+      "2023-05": 27528.83,
+      "2023-06": 27528.83,
+      "2023-07": 27528.83,
+      "2023-08": 27528.83,
+      "2023-09": 27528.83,
+      "2023-10": 27528.83,
+      "2023-11": 27528.83,
+      "2023-12": 27528.83,
+      "2024-01": 27528.83,
+      "2024-02": 27528.83,
+      "2024-03": 3991.3
+    },
+    "median_balance": 27528.83,
+    "lowest_balance": 0.0,
+    "highest_balance": 560574.75,
+    "low_balance_count": 342,
+    "negative_balance_count": 0,
+    "days_below_1000": 36,
+    "balance_volatility": 27382.66,
+    "volatility_score": 1.0,
+    "volatility_band": "VERY_HIGH",
+    "balance_stability_score": 0.0,
+    "avg_daily_balance_change_pct": 80.3,
+    "max_daily_balance_change_pct": 29813.96,
+    "available_balance_distribution": {
+      "days_above_50000": 18,
+      "pct_days_above_50000": 1.23,
+      "days_above_100000": 8,
+      "pct_days_above_100000": 0.55,
+      "days_above_200000": 4,
+      "pct_days_above_200000": 0.27,
+      "days_above_500000": 3,
+      "pct_days_above_500000": 0.21,
+      "days_above_1000000": 0,
+      "pct_days_above_1000000": 0.0
+    },
+    "abb_score": 24735.93,
+    "balance_recovery_time": 46.5
+  },
+  "cash_flow": {
+    "monthly_inflow": {
+      "2020-03": 0.0,
+      "2020-09": 10023.6,
+      "2020-10": 248253.46,
+      "2020-11": 289869.62,
+      "2020-12": 265308.44,
+      "2021-01": 577800.82,
+      "2021-02": 64505.56,
+      "2021-03": 685511.64,
+      "2024-03": 13007.0
+    },
+    "monthly_outflow": {
+      "2020-03": 147.0,
+      "2020-09": 12342.1,
+      "2020-10": 249753.92,
+      "2020-11": 283529.2,
+      "2020-12": 268619.78,
+      "2021-01": 531443.63,
+      "2021-02": 104570.07,
+      "2021-03": 667476.91,
+      "2024-03": 7848.0
+    },
+    "net_cash_flow": 28549.53,
+    "monthly_surplus": {
+      "2020-11": 6340.42,
+      "2021-01": 46357.19,
+      "2021-03": 18034.73,
+      "2024-03": 5159.0
+    },
+    "monthly_deficit": {
+      "2020-03": -147.0,
+      "2020-09": -2318.5,
+      "2020-10": -1500.46,
+      "2020-12": -3311.34,
+      "2021-02": -40064.51
+    },
+    "positive_cash_flow_months": 4,
+    "negative_cash_flow_months": 5,
+    "cash_flow_volatility": 21276.67,
+    "net_turnover_credit": 2154280.14,
+    "net_expense_debit": 2125730.61,
+    "operational_net_cash_flow": 28549.53,
+    "biz_inflow": 0.0,
+    "biz_outflow": 0.0,
+    "pct_biz_inflow": 0.0,
+    "pct_biz_outflow": 0.0,
+    "top_counterparty_name": "PRAJAKTA",
+    "top_counterparty_amount": 300000.0,
+    "top_counterparty_concentration_pct": 13.93,
+    "concentration_risk_band": "NORMAL",
+    "cash_flow_trend": 752.87,
+    "operating_cash_flow_trend": 635.42,
+    "trajectory_flag": "POSITIVE",
+    "seasonality": null
+  },
+  "savings": {
+    "monthly_savings": {
+      "2020-03": -147.0,
+      "2020-09": -2318.5,
+      "2020-10": -1500.46,
+      "2020-11": 6340.42,
+      "2020-12": -3311.34,
+      "2021-01": 46357.19,
+      "2021-02": -40064.51,
+      "2021-03": 18034.73,
+      "2024-03": 5159.0
+    },
+    "monthly_savings_incl_investment": {
+      "2020-03": -147.0,
+      "2020-09": -2318.5,
+      "2020-10": 2023.14,
+      "2020-11": 6340.42,
+      "2020-12": -3311.34,
+      "2021-01": 46357.19,
+      "2021-02": -40064.51,
+      "2021-03": 18034.73,
+      "2024-03": 5159.0
+    },
+    "savings_rate": {
+      "2020-03": 0.0,
+      "2020-09": -0.3301,
+      "2020-10": -433.659,
+      "2020-11": 2.2095,
+      "2020-12": -1.101,
+      "2021-01": 4284.3983,
+      "2021-02": -7205.8471,
+      "2021-03": 0.032,
+      "2024-03": 0.0
+    },
+    "positive_savings_months": 4,
+    "savings_growth": [
+      -1477.21,
+      35.28,
+      522.57,
+      -152.23,
+      1499.95,
+      -186.43,
+      145.01,
+      -71.39
+    ],
+    "average_savings": 3172.17,
+    "savings_consistency": 0.0,
+    "emergency_fund_estimate": {
+      "avg_monthly_needs": 236192.29,
+      "fund_3_months": 708576.87,
+      "fund_6_months": 1417153.74,
+      "current_balance": 3991.3,
+      "coverage_months": 0.0
+    }
+  },
+  "investment": {
+    "investments_detected": {
+      "PPF": {
+        "count": 2,
+        "total_debit": 3523.6,
+        "total_credit": 0.0,
+        "entities": []
+      }
+    },
+    "total_investment": 3523.6,
+    "monthly_investment": {
+      "2020-10": 3523.6
+    },
+    "investment_ratio": 0.0061,
+    "investment_frequency": 2.0,
+    "sip_count": 0,
+    "investment_growth": [],
+    "long_term_investment_score": 1.0,
+    "redemption_frequency": 0,
+    "dividend_income": 0.0
+  },
+  "debt": {
+    "monthly_emi": 0,
+    "total_monthly_obligations": 0.0,
+    "estimated_cc_monthly_payment": 0.0,
+    "loan_count": 1,
+    "active_loan_count": 0,
+    "closed_loan_count": 1,
+    "distinct_lenders_count": 1,
+    "secured_ratio": 0.0,
+    "unsecured_ratio": 1.0,
+    "dti": 0.0,
+    "foir": 0.0,
+    "credit_utilization": null,
+    "loan_stacking_score": 0.0,
+    "loan_stacking_flag": 0,
+    "recent_borrowing_velocity_90d": 0,
+    "payment_regularity_score": 1.0,
+    "lender_concentration_ratio": 0.0,
+    "missed_emi_count": 0,
+    "home_loan_emi": 0,
+    "personal_loan_emi": 0,
+    "vehicle_loan_emi": 0,
+    "gold_loan_emi": 0,
+    "disbursement_count_365d": 1,
+    "disbursement_total_amount_365d": 60000.0,
+    "credit_card_payment_count_365d": 0,
+    "credit_card_total_payment_365d": 0,
+    "running_facility_count": 0,
+    "running_facility_total_amount": 0,
+    "total_loan_count": 1,
+    "detected_loans": [
+      {
+        "loan_id": "LOAN_CASHE_23",
+        "lender": "CASHE",
+        "type": "PERSONAL_LOAN",
+        "emi": 23.6,
+        "status": "Overdue / Closed",
+        "regularity": "Early"
+      }
+    ],
+    "total_fixed_obligations": 0.0,
+    "total_true_income": 2154280.14,
+    "foir_risk_band": "LOW_RISK",
+    "emi_discipline_score": 100.0,
+    "emi_discipline_band": "GOOD"
+  },
+  "behaviour": {
+    "weekend_spend_ratio": 0.1486,
+    "night_spend_ratio": 0.2476,
+    "cash_preference": 0.0,
+    "impulse_score": 0.07,
+    "merchant_diversity": 341,
+    "salary_exhaustion_days": 219,
+    "behaviour_stability": 25.0,
+    "behaviour_stability_index": 25.0,
+    "savings_rate": 0.0133,
+    "lifestyle_inflation": 1.0,
+    "discretionary_vs_essential_ratio": 1.0813,
+    "spending_volatility": 8.0315,
+    "low_balance_days_count": 126,
+    "discretionary_wants_total": 3845.0,
+    "essential_needs_total": 3556.05,
+    "primary_monthly_income": 49000.0,
+    "salary_detected_flag": 1,
+    "weekend_spend_ratio_30d": 0.0,
+    "night_spend_ratio_30d": 0.9174,
+    "discretionary_wants_spend_30d": 0.0,
+    "essential_needs_spend_30d": 0.0,
+    "cash_preference_ratio_30d": 0.0,
+    "net_savings_30d": 5159.0,
+    "weekend_spend_ratio_90d": 0.0,
+    "night_spend_ratio_90d": 0.9174,
+    "discretionary_wants_spend_90d": 0.0,
+    "essential_needs_spend_90d": 0.0,
+    "cash_preference_ratio_90d": 0.0,
+    "net_savings_90d": 5159.0,
+    "weekend_spend_ratio_180d": 0.0,
+    "night_spend_ratio_180d": 0.9174,
+    "discretionary_wants_spend_180d": 0.0,
+    "essential_needs_spend_180d": 0.0,
+    "cash_preference_ratio_180d": 0.0,
+    "net_savings_180d": 5159.0,
+    "behaviour_state": "Financial Stress",
+    "behaviour_confidence_score": 0.4,
+    "salary_detected": true,
+    "salary_day_range": [
+      "2020-10-30 15:32:32",
+      "2020-10-30 15:36:32"
+    ],
+    "salary_exhaustion_speed": 219
+  },
+  "fraud": {
+    "fraud_score": 39.05,
+    "account_risk_level_numeric": 2.0,
+    "aml_risk_score": 33.19,
+    "aml_risk_band": "MODERATE",
+    "irregularity_penalty_points": 265,
+    "high_severity_flag_count": 2,
+    "velocity_score": 1.0,
+    "cash_cycling_score": 0.0,
+    "rapid_transfer_score": 45.0,
+    "rapid_transfer_count": 1,
+    "merchant_risk_score": 0.0,
+    "round_transaction_score": 1.1,
+    "round_transaction_ratio": 0.011,
+    "beneficiary_concentration": 0.2587,
+    "structuring_score": 0.0,
+    "structuring_flag_count": 0,
+    "circular_mirroring_score": 0.0,
+    "statistical_anomaly_count": 1,
+    "total_fraud_flags_triggered": 5,
+    "account_risk_level": "MEDIUM",
+    "total_fraud_flags": 5,
+    "fraud_events": [
+      {
+        "rule": "Rapid Inflow-Outflow Pass-through",
+        "severity": "HIGH",
+        "confidence": 0.88,
+        "explanation": "2 inflows were transferred out to a different counterparty within 24 hours at 85-105% of the amount received (e.g. \u20b957,000.00 from UNION out to IPAY ESHP  2643542296 MH007267)."
+      },
+      {
+        "rule": "Statistical Outlier (Median Absolute Deviation)",
+        "severity": "MEDIUM",
+        "confidence": 0.8,
+        "explanation": "Detected 37 unexplained transaction amounts deviating significantly (>6x MAD) from account baseline median."
+      },
+      {
+        "rule": "Running Balance Mathematical Mismatch",
+        "severity": "HIGH",
+        "confidence": 0.95,
+        "explanation": "Detected 8 instances where computed running balance differs by >2% from printed statement balance (potential document tampering)."
+      },
+      {
+        "rule": "Immediate Large Debit After Salary (>50% in 1 Day)",
+        "severity": "MEDIUM",
+        "confidence": 0.82,
+        "explanation": "1 salary credits were followed within 24 hours by an unidentified debit exceeding 50% of the credit (total \u20b92,000.00). Payments to recognised obligations are excluded."
+      },
+      {
+        "rule": "Symmetric Pass-Through (Equal Debits & Credits)",
+        "severity": "LOW",
+        "confidence": 0.75,
+        "explanation": "Total debits (\u20b92,125,730.61) match total credits (\u20b92,154,280.14) within 2% margin in high volume account."
+      }
+    ]
+  },
+  "underwriting_summary": {
+    "credit_score": 625,
+    "risk_band": "MODERATE_RISK",
+    "underwriting_decision": "MANUAL_REVIEW",
+    "decision_coherence_note": null,
+    "trajectory_flag": "POSITIVE",
+    "data_sufficiency": "OPTIMAL_DATA",
+    "volatility_score": 1.0,
+    "volatility_band": "VERY_HIGH",
+    "foir_score": 0.0,
+    "foir_risk_band": "LOW_RISK",
+    "aml_risk_score": 33.19,
+    "aml_risk_band": "MODERATE",
+    "true_turnover": 2154280.14,
+    "total_irregularity_flags": 5,
+    "high_severity_flags_count": 2
+  },
+  "reconciliation": {
+    "status": "FAIL",
+    "checks": [
+      {
+        "check": "ledger_balance_movement",
+        "passed": false,
+        "expected": 3991.3,
+        "actual": 31033.23,
+        "delta": 27041.93,
+        "detail": "opening + credits - debits must equal closing"
+      },
+      {
+        "check": "net_cash_flow_matches_ledger",
+        "passed": true,
+        "expected": 28549.53,
+        "actual": 28549.53,
+        "delta": 0.0,
+        "detail": "cash_flow.net_cash_flow must equal credits - debits"
+      },
+      {
+        "check": "savings_matches_ledger",
+        "passed": true,
+        "expected": 28549.53,
+        "actual": 28549.53,
+        "delta": 0.0,
+        "detail": "sum(monthly_savings) must equal the change in balance"
+      },
+      {
+        "check": "credit_conservation",
+        "passed": true,
+        "expected": 2154280.14,
+        "actual": 2154280.14,
+        "delta": 0.0,
+        "detail": "income + non-income credits must equal all credits"
+      },
+      {
+        "check": "needs_plus_wants_equals_expense",
+        "passed": true,
+        "expected": 2076095.95,
+        "actual": 2076095.95,
+        "delta": 0.0,
+        "detail": "every expense rupee must be classified Need or Want"
+      },
+      {
+        "check": "all_debits_bucketed",
+        "passed": true,
+        "expected": 2125730.61,
+        "actual": 2125730.61,
+        "delta": 0.0,
+        "detail": "no debit may be dropped between extraction and aggregation"
+      }
+    ],
+    "failed_count": 1
+  },
+  "extraction_fidelity": {
+    "status": "FAILED",
+    "checks": [
+      {
+        "check": "debits_match_printed_total",
+        "passed": false,
+        "expected": 3339135.0,
+        "actual": 2125730.61,
+        "delta": -1213404.39,
+        "detail": "sum of the debit column against the total printed on the statement"
+      },
+      {
+        "check": "credits_match_printed_total",
+        "passed": false,
+        "expected": 3366039.0,
+        "actual": 2154280.14,
+        "delta": -1211758.86,
+        "detail": "sum of the credit column against the total printed on the statement"
+      },
+      {
+        "check": "row_count_matches_statement",
+        "passed": false,
+        "expected": 902,
+        "actual": 544,
+        "delta": -358.0,
+        "detail": "Dr Count 744 + Cr Count 158"
+      },
+      {
+        "check": "page_count_matches_declared",
+        "passed": false,
+        "expected": 19,
+        "actual": 12,
+        "delta": -7.0,
+        "detail": "'Page N of M' against the pages actually present"
+      },
+      {
+        "check": "balance_chain_intact",
+        "passed": false,
+        "expected": 0,
+        "actual": 9,
+        "delta": 9.0,
+        "detail": "rows where balance != previous - debit + credit after intra-day reordering"
+      }
+    ],
+    "failed_count": 5,
+    "anchors_found": 3,
+    "anchors": {
+      "opening_balance": null,
+      "closing_balance": null,
+      "total_debits": 3339135.0,
+      "total_credits": 3366039.0,
+      "debit_count": 744,
+      "credit_count": 158,
+      "expected_row_count": 902,
+      "serial_first": null,
+      "serial_last": null,
+      "serial_gaps": [],
+      "serial_non_transaction_rows": 0,
+      "period_start": null,
+      "period_end": null,
+      "pages_declared": 19,
+      "pages_actual": 12,
+      "sources": {
+        "debit_count": "p11 column: 'Dr Count Cr Count Debits Credits' -> '744 158 3339135 3366039'",
+        "credit_count": "p11 column: 'Dr Count Cr Count Debits Credits' -> '744 158 3339135 3366039'",
+        "total_debits": "p11 column: 'Dr Count Cr Count Debits Credits' -> '744 158 3339135 3366039'",
+        "total_credits": "p11 column: 'Dr Count Cr Count Debits Credits' -> '744 158 3339135 3366039'",
+        "pages_declared": "p0: Page 1 of 19",
+        "expected_row_count": "Dr Count 744 + Cr Count 158"
+      }
+    },
+    "reason": ""
+  },
+  "extraction_stats": {
+    "total_rows": 544,
+    "junk_rows_removed": 0,
+    "duplicates_removed": 0,
+    "dates_fixed": 0,
+    "numerics_fixed": 0,
+    "balance_chain_mismatches": 9,
+    "template_used": "IDBI Bank",
+    "template_fallback": false,
+    "requested_bank": "IDBI Bank",
+    "pages_total": 12,
+    "pages_without_tables": 0,
+    "pages_without_tables_index": [],
+    "rows_extracted": 544
+  }
+}

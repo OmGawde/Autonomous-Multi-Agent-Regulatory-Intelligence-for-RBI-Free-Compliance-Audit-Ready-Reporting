@@ -1,0 +1,29 @@
+{
+  "bank_name": "IDBI Bank",
+  "statement_period": {
+    "start": "2020-03-01",
+    "end": "2024-03-01"
+  },
+  "category_name": "investment",
+  "investment": {
+    "investments_detected": {
+      "PPF": {
+        "count": 2,
+        "total_debit": 3523.6,
+        "total_credit": 0.0,
+        "entities": []
+      }
+    },
+    "total_investment": 3523.6,
+    "monthly_investment": {
+      "2020-10": 3523.6
+    },
+    "investment_ratio": 0.0061,
+    "investment_frequency": 2.0,
+    "sip_count": 0,
+    "investment_growth": [],
+    "long_term_investment_score": 1.0,
+    "redemption_frequency": 0,
+    "dividend_income": 0.0
+  }
+}

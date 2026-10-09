@@ -1,0 +1,43 @@
+{
+  "bank_name": "Federal Bank",
+  "statement_period": {
+    "start": "2021-10-01",
+    "end": "2021-11-13"
+  },
+  "category_name": "balance",
+  "balance": {
+    "opening_balance": 199945.02,
+    "closing_balance": 82798.52,
+    "average_daily_balance": 126122.0,
+    "average_monthly_balance": {
+      "2021-10": 124804.13,
+      "2021-11": 129264.6
+    },
+    "median_balance": 464.52,
+    "lowest_balance": 37.52,
+    "highest_balance": 3087798.52,
+    "low_balance_count": 32,
+    "negative_balance_count": 0,
+    "days_below_1000": 26,
+    "balance_volatility": 478027.81,
+    "volatility_score": 1.0,
+    "volatility_band": "VERY_HIGH",
+    "balance_stability_score": 0.0,
+    "avg_daily_balance_change_pct": 48431.89,
+    "max_daily_balance_change_pct": 1414453.62,
+    "available_balance_distribution": {
+      "days_above_50000": 11,
+      "pct_days_above_50000": 25.0,
+      "days_above_100000": 6,
+      "pct_days_above_100000": 13.64,
+      "days_above_200000": 6,
+      "pct_days_above_200000": 13.64,
+      "days_above_500000": 4,
+      "pct_days_above_500000": 9.09,
+      "days_above_1000000": 1,
+      "pct_days_above_1000000": 2.27
+    },
+    "abb_score": 587577.59,
+    "balance_recovery_time": 18.5
+  }
+}

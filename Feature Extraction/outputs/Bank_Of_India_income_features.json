@@ -1,0 +1,70 @@
+{
+  "bank_name": "Bank Of India",
+  "statement_period": {
+    "start": "2010-04-03",
+    "end": "2011-03-29"
+  },
+  "income": {
+    "non_income_credits_total": 7880.0,
+    "monthly_income": {
+      "2010-04": 15888.0,
+      "2010-05": 21253.0,
+      "2010-06": 14482.0,
+      "2010-07": 17561.0,
+      "2010-08": 13632.0,
+      "2010-09": 40002.0,
+      "2010-10": 10800.0,
+      "2010-11": 17799.0,
+      "2010-12": 17685.0,
+      "2011-01": 14499.0,
+      "2011-02": 14434.0,
+      "2011-03": 28866.0
+    },
+    "total_income": 226901.0,
+    "average_income": 18908.42,
+    "salary_income": 0.0,
+    "other_income": 226901.0,
+    "income_sources": 0,
+    "salary_consistency": 0.0,
+    "income_stability": 0.5833,
+    "income_growth": 228.76,
+    "monthly_income_trend": [
+      33.77,
+      -31.86,
+      21.26,
+      -22.37,
+      193.44,
+      -73.0,
+      64.81,
+      -0.64,
+      -18.02,
+      -0.45,
+      99.99
+    ]
+  },
+  "expense": {},
+  "balance": {},
+  "cash_flow": {},
+  "savings": {},
+  "investment": {},
+  "debt": {},
+  "behaviour": {},
+  "fraud": {},
+  "underwriting_summary": {
+    "credit_score": 1000,
+    "risk_band": "VERY_LOW_RISK",
+    "underwriting_decision": "APPROVE_FAST_TRACK",
+    "decision_coherence_note": null,
+    "trajectory_flag": "STABLE",
+    "data_sufficiency": "OPTIMAL_DATA",
+    "volatility_score": 0.0,
+    "volatility_band": "MODERATE",
+    "foir_score": 0.0,
+    "foir_risk_band": "LOW_RISK",
+    "aml_risk_score": 0.0,
+    "aml_risk_band": "LOW",
+    "true_turnover": 0.0,
+    "total_irregularity_flags": 0,
+    "high_severity_flags_count": 0
+  }
+}

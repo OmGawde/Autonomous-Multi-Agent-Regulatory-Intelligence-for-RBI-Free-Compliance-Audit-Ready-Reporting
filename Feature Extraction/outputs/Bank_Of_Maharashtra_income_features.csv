@@ -1,0 +1,2 @@
+bank_name,statement_period.start,statement_period.end,category_name,income.non_income_credits_total,income.monthly_income.2019-04,income.total_income,income.average_income,income.salary_income,income.other_income,income.income_sources,income.salary_consistency,income.income_stability,income.income_growth,income.monthly_income_trend
+Bank Of Maharashtra,2019-01-25,2019-06-26,income,402595.0,5420.0,5420.0,5420.0,0.0,5420.0,0,0.0,1.0,0.0,[]

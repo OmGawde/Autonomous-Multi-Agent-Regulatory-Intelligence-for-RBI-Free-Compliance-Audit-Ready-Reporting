@@ -1,0 +1,42 @@
+{
+  "bank_name": "Indian Overseas Bank",
+  "statement_period": {
+    "start": "2024-11-05",
+    "end": "2025-11-05"
+  },
+  "category_name": "expense",
+  "expense": {
+    "total_expenses": 132381.65,
+    "monthly_expenses": {
+      "2024-12": 14676.0,
+      "2025-01": 14971.0,
+      "2025-02": 14678.65,
+      "2025-03": 14676.0,
+      "2025-04": 14676.0,
+      "2025-05": 14676.0,
+      "2025-06": 14676.0,
+      "2025-07": 14676.0,
+      "2025-09": 14676.0
+    },
+    "average_expenses": 14709.07,
+    "needs_spending": 0.0,
+    "wants_spending": 132381.65,
+    "needs_ratio": 0.0,
+    "wants_ratio": 1.0,
+    "category_spending": {
+      "Other Expense": 132381.65
+    },
+    "expense_ratio": 8.7065,
+    "expense_growth": -14.84,
+    "monthly_expense_trend": [
+      2.01,
+      -1.95,
+      -0.02,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ]
+  }
+}

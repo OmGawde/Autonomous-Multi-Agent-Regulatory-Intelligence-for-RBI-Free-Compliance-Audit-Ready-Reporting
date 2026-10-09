@@ -1,0 +1,53 @@
+{
+  "bank_name": "Axis",
+  "statement_period": {
+    "start": "2023-04-24",
+    "end": "2024-03-31"
+  },
+  "category_name": "balance",
+  "balance": {
+    "opening_balance": 29155.31,
+    "closing_balance": 17707.93,
+    "average_daily_balance": 22296.62,
+    "average_monthly_balance": {
+      "2023-04": 25776.88,
+      "2023-05": 33219.79,
+      "2023-06": 30275.74,
+      "2023-07": 31030.48,
+      "2023-08": 21951.85,
+      "2023-09": 12834.75,
+      "2023-10": 22922.97,
+      "2023-11": 15105.96,
+      "2023-12": 18151.97,
+      "2024-01": 17711.73,
+      "2024-02": 18966.03,
+      "2024-03": 21811.01
+    },
+    "median_balance": 18965.37,
+    "lowest_balance": 9899.83,
+    "highest_balance": 103384.65,
+    "low_balance_count": 1,
+    "negative_balance_count": 0,
+    "days_below_1000": 0,
+    "balance_volatility": 11614.6,
+    "volatility_score": 0.5209,
+    "volatility_band": "HIGH",
+    "balance_stability_score": 0.4791,
+    "avg_daily_balance_change_pct": 13.85,
+    "max_daily_balance_change_pct": 551.3,
+    "available_balance_distribution": {
+      "days_above_50000": 7,
+      "pct_days_above_50000": 2.04,
+      "days_above_100000": 1,
+      "pct_days_above_100000": 0.29,
+      "days_above_200000": 0,
+      "pct_days_above_200000": 0.0,
+      "days_above_500000": 0,
+      "pct_days_above_500000": 0.0,
+      "days_above_1000000": 0,
+      "pct_days_above_1000000": 0.0
+    },
+    "abb_score": 25786.35,
+    "balance_recovery_time": 17.5
+  }
+}

@@ -1,0 +1,412 @@
+{
+  "bank_name": "IndusInd Bank",
+  "statement_period": {
+    "start": "2025-01-04",
+    "end": "2025-04-16"
+  },
+  "income": {
+    "monthly_income": {},
+    "average_income": 0.0,
+    "total_income": 0.0,
+    "salary_income": 0.0,
+    "other_income": 0.0,
+    "income_sources": 0,
+    "salary_consistency": 0.0,
+    "income_stability": 0.0,
+    "income_growth": 0.0,
+    "monthly_income_trend": []
+  },
+  "expense": {
+    "total_expenses": 199.43,
+    "monthly_expenses": {
+      "2025-02": 99.43,
+      "2025-04": 100.0
+    },
+    "average_expenses": 99.72,
+    "needs_spending": 199.43,
+    "wants_spending": 0.0,
+    "needs_ratio": 1.0,
+    "wants_ratio": 0.0,
+    "category_spending": {
+      "Internet / Mobile / Broadband": 199.43
+    },
+    "expense_ratio": 0.0,
+    "expense_growth": 0.57,
+    "monthly_expense_trend": [
+      0.57
+    ]
+  },
+  "balance": {
+    "opening_balance": 1519.0,
+    "closing_balance": 1142.73,
+    "average_daily_balance": 6374.81,
+    "average_monthly_balance": {
+      "2025-01": 11533.52,
+      "2025-02": 8113.78,
+      "2025-03": 1834.52,
+      "2025-04": 3100.7
+    },
+    "median_balance": 1142.73,
+    "lowest_balance": 0.0,
+    "highest_balance": 28538.0,
+    "low_balance_count": 81,
+    "negative_balance_count": 0,
+    "days_below_1000": 36,
+    "balance_volatility": 8509.92,
+    "volatility_score": 1.0,
+    "volatility_band": "VERY_HIGH",
+    "balance_stability_score": 0.0,
+    "avg_daily_balance_change_pct": 55204.22,
+    "max_daily_balance_change_pct": 5581944.44,
+    "available_balance_distribution": {
+      "days_above_50000": 0,
+      "pct_days_above_50000": 0.0,
+      "days_above_100000": 0,
+      "pct_days_above_100000": 0.0,
+      "days_above_200000": 0,
+      "pct_days_above_200000": 0.0,
+      "days_above_500000": 0,
+      "pct_days_above_500000": 0.0,
+      "days_above_1000000": 0,
+      "pct_days_above_1000000": 0.0
+    },
+    "abb_score": 3338.27,
+    "balance_recovery_time": 15.5
+  },
+  "cash_flow": {
+    "monthly_inflow": {
+      "2025-01": 27105.0,
+      "2025-02": 35215.5,
+      "2025-03": 27076.0,
+      "2025-04": 28357.0
+    },
+    "monthly_outflow": {
+      "2025-01": 34844.74,
+      "2025-02": 34357.43,
+      "2025-03": 26717.0,
+      "2025-04": 26731.63
+    },
+    "net_cash_flow": -4897.3,
+    "monthly_surplus": {
+      "2025-02": 858.07,
+      "2025-03": 359.0,
+      "2025-04": 1625.37
+    },
+    "monthly_deficit": {
+      "2025-01": -7739.74
+    },
+    "positive_cash_flow_months": 3,
+    "negative_cash_flow_months": 1,
+    "cash_flow_volatility": 3788.62,
+    "net_turnover_credit": 117753.5,
+    "net_expense_debit": 122650.8,
+    "operational_net_cash_flow": -4897.3,
+    "biz_inflow": 0.0,
+    "biz_outflow": 0.0,
+    "pct_biz_inflow": 0.0,
+    "pct_biz_outflow": 0.0,
+    "top_counterparty_name": "NPCI",
+    "top_counterparty_amount": 54272.0,
+    "top_counterparty_concentration_pct": 46.09,
+    "concentration_risk_band": "MODERATE",
+    "cash_flow_trend": 2759.63,
+    "operating_cash_flow_trend": 2759.63,
+    "trajectory_flag": "POSITIVE",
+    "seasonality": null
+  },
+  "savings": {
+    "monthly_savings": {
+      "2025-01": -7739.74,
+      "2025-02": 858.07,
+      "2025-03": 359.0,
+      "2025-04": 1625.37
+    },
+    "monthly_savings_incl_investment": {
+      "2025-01": -7739.74,
+      "2025-02": 858.07,
+      "2025-03": 359.0,
+      "2025-04": 1625.37
+    },
+    "savings_rate": {
+      "2025-01": 0.0,
+      "2025-02": 0.0,
+      "2025-03": 0.0,
+      "2025-04": 0.0
+    },
+    "positive_savings_months": 3,
+    "savings_growth": [
+      111.09,
+      -58.16,
+      352.75
+    ],
+    "average_savings": -1224.33,
+    "savings_consistency": 0.0,
+    "emergency_fund_estimate": {
+      "avg_monthly_needs": 30662.7,
+      "fund_3_months": 91988.1,
+      "fund_6_months": 183976.2,
+      "current_balance": 1142.73,
+      "coverage_months": 0.0
+    }
+  },
+  "investment": {
+    "investments_detected": {},
+    "monthly_investment": {},
+    "total_investment": 0.0,
+    "investment_ratio": 0.0,
+    "investment_frequency": 0.0,
+    "sip_count": 0,
+    "investment_growth": [],
+    "long_term_investment_score": 0.0,
+    "redemption_frequency": 0,
+    "dividend_income": 0.0
+  },
+  "debt": {
+    "monthly_emi": 0,
+    "total_monthly_obligations": 0.0,
+    "estimated_cc_monthly_payment": 0.0,
+    "loan_count": 0,
+    "active_loan_count": 0,
+    "closed_loan_count": 0,
+    "distinct_lenders_count": 0,
+    "secured_ratio": 0.0,
+    "unsecured_ratio": 0.0,
+    "dti": null,
+    "foir": 0.0,
+    "credit_utilization": null,
+    "loan_stacking_score": 0.0,
+    "loan_stacking_flag": 0,
+    "recent_borrowing_velocity_90d": 0,
+    "payment_regularity_score": 1.0,
+    "lender_concentration_ratio": 0.0,
+    "missed_emi_count": 0,
+    "home_loan_emi": 0,
+    "personal_loan_emi": 0,
+    "vehicle_loan_emi": 0,
+    "gold_loan_emi": 0,
+    "disbursement_count_365d": 3,
+    "disbursement_total_amount_365d": 78128.0,
+    "credit_card_payment_count_365d": 0,
+    "credit_card_total_payment_365d": 0,
+    "running_facility_count": 0,
+    "running_facility_total_amount": 0,
+    "total_loan_count": 0,
+    "detected_loans": [],
+    "total_fixed_obligations": 0.0,
+    "total_true_income": 117753.5,
+    "foir_risk_band": "LOW_RISK",
+    "emi_discipline_score": 100.0,
+    "emi_discipline_band": "GOOD"
+  },
+  "behaviour": {
+    "weekend_spend_ratio": 0.4129,
+    "night_spend_ratio": null,
+    "cash_preference": 0.0,
+    "impulse_score": 0.0,
+    "merchant_diversity": 7,
+    "salary_exhaustion_days": 14,
+    "behaviour_stability": 45.0,
+    "behaviour_stability_index": 45.0,
+    "savings_rate": -0.0416,
+    "lifestyle_inflation": 1.0,
+    "discretionary_vs_essential_ratio": 0.0,
+    "spending_volatility": 2.2128,
+    "low_balance_days_count": 73,
+    "discretionary_wants_total": 0.0,
+    "essential_needs_total": 199.43,
+    "primary_monthly_income": 26077.0,
+    "salary_detected_flag": 1,
+    "weekend_spend_ratio_30d": 0.0496,
+    "night_spend_ratio_30d": null,
+    "discretionary_wants_spend_30d": 0.0,
+    "essential_needs_spend_30d": 100.0,
+    "cash_preference_ratio_30d": 0.0,
+    "net_savings_30d": 1617.37,
+    "weekend_spend_ratio_90d": 0.4097,
+    "night_spend_ratio_90d": null,
+    "discretionary_wants_spend_90d": 0.0,
+    "essential_needs_spend_90d": 199.43,
+    "cash_preference_ratio_90d": 0.0,
+    "net_savings_90d": -28713.3,
+    "weekend_spend_ratio_180d": 0.4129,
+    "night_spend_ratio_180d": null,
+    "discretionary_wants_spend_180d": 0.0,
+    "essential_needs_spend_180d": 199.43,
+    "cash_preference_ratio_180d": 0.0,
+    "net_savings_180d": -4897.3,
+    "behaviour_state": "Financial Stress",
+    "behaviour_confidence_score": 0.4,
+    "salary_detected": true,
+    "salary_day_range": [
+      "2025-01-07",
+      "2025-03-07",
+      "2025-04-07"
+    ],
+    "salary_exhaustion_speed": 14
+  },
+  "fraud": {
+    "fraud_score": 23.67,
+    "account_risk_level_numeric": 2.0,
+    "aml_risk_score": 20.12,
+    "aml_risk_band": "LOW",
+    "irregularity_penalty_points": 165,
+    "high_severity_flag_count": 1,
+    "velocity_score": 0.0,
+    "cash_cycling_score": 0.0,
+    "rapid_transfer_score": 0.0,
+    "rapid_transfer_count": 0,
+    "merchant_risk_score": 30.0,
+    "round_transaction_score": 2.24,
+    "round_transaction_ratio": 0.0224,
+    "beneficiary_concentration": 0.8777,
+    "structuring_score": 0.0,
+    "structuring_flag_count": 0,
+    "circular_mirroring_score": 0.0,
+    "statistical_anomaly_count": 0,
+    "total_fraud_flags_triggered": 3,
+    "account_risk_level": "MEDIUM",
+    "total_fraud_flags": 3,
+    "fraud_events": [
+      {
+        "rule": "High Beneficiary Concentration",
+        "severity": "MEDIUM",
+        "confidence": 0.72,
+        "explanation": "87.8% of total debits (\u20b9107,650.80) were sent to a single entity (DR)."
+      },
+      {
+        "rule": "Running Balance Mathematical Mismatch",
+        "severity": "HIGH",
+        "confidence": 0.95,
+        "explanation": "Detected 16 instances where computed running balance differs by >2% from printed statement balance (potential document tampering)."
+      },
+      {
+        "rule": "Counterparty Money Rotation (Both Credits & Debits)",
+        "severity": "MEDIUM",
+        "confidence": 0.85,
+        "explanation": "Identified 1 counterparties (NPCI) present on both inflow and outflow sides."
+      }
+    ]
+  },
+  "underwriting_summary": {
+    "credit_score": 695,
+    "risk_band": "LOW_RISK",
+    "underwriting_decision": "APPROVE_STANDARD",
+    "decision_coherence_note": null,
+    "trajectory_flag": "POSITIVE",
+    "data_sufficiency": "PARTIAL_DATA_WARNING",
+    "volatility_score": 1.0,
+    "volatility_band": "VERY_HIGH",
+    "foir_score": 0.0,
+    "foir_risk_band": "LOW_RISK",
+    "aml_risk_score": 20.12,
+    "aml_risk_band": "LOW",
+    "true_turnover": 117753.5,
+    "total_irregularity_flags": 3,
+    "high_severity_flags_count": 1
+  },
+  "reconciliation": {
+    "status": "FAIL",
+    "checks": [
+      {
+        "check": "ledger_balance_movement",
+        "passed": false,
+        "expected": 1142.73,
+        "actual": -3378.3,
+        "delta": 4521.03,
+        "detail": "opening + credits - debits must equal closing"
+      },
+      {
+        "check": "net_cash_flow_matches_ledger",
+        "passed": true,
+        "expected": -4897.3,
+        "actual": -4897.3,
+        "delta": 0.0,
+        "detail": "cash_flow.net_cash_flow must equal credits - debits"
+      },
+      {
+        "check": "savings_matches_ledger",
+        "passed": true,
+        "expected": -4897.3,
+        "actual": -4897.3,
+        "delta": 0.0,
+        "detail": "sum(monthly_savings) must equal the change in balance"
+      },
+      {
+        "check": "needs_plus_wants_equals_expense",
+        "passed": true,
+        "expected": 199.43,
+        "actual": 199.43,
+        "delta": 0.0,
+        "detail": "every expense rupee must be classified Need or Want"
+      },
+      {
+        "check": "all_debits_bucketed",
+        "passed": true,
+        "expected": 122650.8,
+        "actual": 122650.8,
+        "delta": 0.0,
+        "detail": "no debit may be dropped between extraction and aggregation"
+      }
+    ],
+    "failed_count": 1
+  },
+  "extraction_fidelity": {
+    "status": "FAILED",
+    "checks": [
+      {
+        "check": "opening_matches_printed",
+        "passed": true,
+        "expected": 1519.0,
+        "actual": 1519.0,
+        "delta": 0.0,
+        "detail": "opening balance implied by the first parsed row against the printed one; a lost first page shows up here"
+      },
+      {
+        "check": "balance_chain_intact",
+        "passed": false,
+        "expected": 0,
+        "actual": 23,
+        "delta": 23.0,
+        "detail": "rows where balance != previous - debit + credit after intra-day reordering"
+      }
+    ],
+    "failed_count": 1,
+    "anchors_found": 1,
+    "anchors": {
+      "opening_balance": 1519.0,
+      "closing_balance": null,
+      "total_debits": null,
+      "total_credits": null,
+      "debit_count": null,
+      "credit_count": null,
+      "expected_row_count": null,
+      "serial_first": null,
+      "serial_last": null,
+      "serial_gaps": [],
+      "serial_non_transaction_rows": 0,
+      "period_start": null,
+      "period_end": null,
+      "pages_declared": null,
+      "pages_actual": 10,
+      "sources": {
+        "opening_balance": "p0 same-row: 01-Jan-2025 Brought Forward 1,519.00"
+      }
+    },
+    "reason": ""
+  },
+  "extraction_stats": {
+    "total_rows": 135,
+    "junk_rows_removed": 1,
+    "duplicates_removed": 0,
+    "dates_fixed": 0,
+    "numerics_fixed": 0,
+    "balance_chain_mismatches": 23,
+    "template_used": "IndusInd Bank",
+    "template_fallback": false,
+    "requested_bank": "IndusInd Bank",
+    "pages_total": 10,
+    "pages_without_tables": 0,
+    "pages_without_tables_index": [],
+    "rows_extracted": 135
+  }
+}

@@ -1,0 +1,15 @@
+Metric / Key Result,Value,Details / Source
+Bank Name,HDFC Bank,Inferred from statement file
+Statement Period,2018-06-02 to 2018-10-10,Extracted transaction date range
+Classification Accuracy,92.9% deterministic,"Tiers 1-2 without any ML model (7 bank rules, 67 keywords)"
+Salary Detected,₹0.00,via ACH rule / employer credit pattern
+Total Income,₹216.00,0 income sources detected
+Total Expenses,"₹19,500.00","Needs: ₹0.00 | Wants: ₹19,500.00"
+Average Daily Balance (ADB),"₹9,217.18","Opening: ₹14,109.95 | Closing: ₹7,194.94"
+Investments Found,None (₹0.00 total),0 investment categories identified
+SIP Patterns,0 detected,Recurring monthly debits on fixed dates
+Long-Term Investment Score,0.00,Weighted score based on PPF/NPS/MF/FD allocations
+Average Monthly Savings,"₹-1,383.00",Positive savings in 2 months
+Emergency Fund,0.2 months coverage,"3-Mo target: ₹113,410.44 | 6-Mo target: ₹226,820.88"
+Debt-to-Income Ratio (DTI),0.00%,"0 active loans, EMI: ₹0.00"
+Behaviour Profile,Stable,Stability: 58.03 | Confidence: 0.41

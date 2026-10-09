@@ -1,0 +1,536 @@
+{
+  "bank_name": "Punjab National Bank",
+  "statement_period": {
+    "start": "2020-03-02",
+    "end": "2020-11-18"
+  },
+  "income": {
+    "non_income_credits_total": 84269.0,
+    "monthly_income": {
+      "2020-03": 74717.0,
+      "2020-04": 188108.0,
+      "2020-05": 8000.0,
+      "2020-06": 51141.0,
+      "2020-07": 45500.0,
+      "2020-08": 57003.75,
+      "2020-09": 71014.0,
+      "2020-10": 138900.0,
+      "2020-11": 49018.0
+    },
+    "total_income": 683401.75,
+    "average_income": 75933.53,
+    "salary_income": 0.0,
+    "other_income": 683401.75,
+    "income_sources": 0,
+    "salary_consistency": 0.0,
+    "income_stability": 0.4444,
+    "income_growth": -1975.49,
+    "monthly_income_trend": [
+      151.76,
+      -95.75,
+      539.26,
+      -11.03,
+      25.28,
+      24.58,
+      95.6,
+      -64.71
+    ]
+  },
+  "expense": {
+    "total_expenses": 289991.1,
+    "monthly_expenses": {
+      "2020-03": 33417.0,
+      "2020-04": 151554.7,
+      "2020-05": 9517.0,
+      "2020-06": 38649.0,
+      "2020-07": 4967.7,
+      "2020-08": 16199.0,
+      "2020-09": 6966.0,
+      "2020-10": 3817.7,
+      "2020-11": 24903.0
+    },
+    "average_expenses": 32221.23,
+    "needs_spending": 0.0,
+    "wants_spending": 289991.1,
+    "needs_ratio": 0.0,
+    "wants_ratio": 1.0,
+    "category_spending": {
+      "Food Delivery": 400.0,
+      "Other Expense": 286340.0,
+      "Recurring Obligation": 53.1,
+      "Shopping": 3198.0
+    },
+    "expense_ratio": 0.4243,
+    "expense_growth": -8413.65,
+    "monthly_expense_trend": [
+      353.53,
+      -93.72,
+      306.1,
+      -87.15,
+      226.09,
+      -57.0,
+      -45.2,
+      552.3
+    ]
+  },
+  "balance": {
+    "opening_balance": 4417.0,
+    "closing_balance": 0.0,
+    "average_daily_balance": 0.0,
+    "average_monthly_balance": {
+      "2020-03": 0.0,
+      "2020-04": 0.0,
+      "2020-05": 0.0,
+      "2020-06": 0.0,
+      "2020-07": 0.0,
+      "2020-08": 0.0,
+      "2020-09": 0.0,
+      "2020-10": 0.0,
+      "2020-11": 0.0
+    },
+    "median_balance": 0.0,
+    "lowest_balance": 0.0,
+    "highest_balance": 0.0,
+    "low_balance_count": 262,
+    "negative_balance_count": 0,
+    "days_below_1000": 262,
+    "balance_volatility": 0.0,
+    "volatility_score": 1.0,
+    "volatility_band": "VERY_HIGH",
+    "balance_stability_score": 0.0,
+    "avg_daily_balance_change_pct": 0.0,
+    "max_daily_balance_change_pct": 0.0,
+    "available_balance_distribution": {
+      "days_above_50000": 0,
+      "pct_days_above_50000": 0.0,
+      "days_above_100000": 0,
+      "pct_days_above_100000": 0.0,
+      "days_above_200000": 0,
+      "pct_days_above_200000": 0.0,
+      "days_above_500000": 0,
+      "pct_days_above_500000": 0.0,
+      "days_above_1000000": 0,
+      "pct_days_above_1000000": 0.0
+    },
+    "abb_score": 0.0,
+    "balance_recovery_time": 0.0
+  },
+  "cash_flow": {
+    "monthly_inflow": {
+      "2020-03": 87224.0,
+      "2020-04": 188108.0,
+      "2020-05": 20538.0,
+      "2020-06": 91500.0,
+      "2020-07": 47020.0,
+      "2020-08": 57508.75,
+      "2020-09": 76519.0,
+      "2020-10": 144922.0,
+      "2020-11": 54331.0
+    },
+    "monthly_outflow": {
+      "2020-03": 58685.0,
+      "2020-04": 221802.7,
+      "2020-05": 16732.0,
+      "2020-06": 57342.0,
+      "2020-07": 9398.7,
+      "2020-08": 105937.0,
+      "2020-09": 74353.0,
+      "2020-10": 172992.7,
+      "2020-11": 52509.0
+    },
+    "net_cash_flow": -2081.35,
+    "monthly_surplus": {
+      "2020-03": 28539.0,
+      "2020-05": 3806.0,
+      "2020-06": 34158.0,
+      "2020-07": 37621.3,
+      "2020-09": 2166.0,
+      "2020-11": 1822.0
+    },
+    "monthly_deficit": {
+      "2020-04": -33694.7,
+      "2020-08": -48428.25,
+      "2020-10": -28070.7
+    },
+    "positive_cash_flow_months": 6,
+    "negative_cash_flow_months": 3,
+    "cash_flow_volatility": 29225.59,
+    "net_turnover_credit": 767670.75,
+    "net_expense_debit": 769752.1,
+    "operational_net_cash_flow": -2081.35,
+    "biz_inflow": 0.0,
+    "biz_outflow": 0.0,
+    "pct_biz_inflow": 0.0,
+    "pct_biz_outflow": 0.0,
+    "top_counterparty_name": "VINOD KUMAR JASWAL",
+    "top_counterparty_amount": 39500.0,
+    "top_counterparty_concentration_pct": 5.15,
+    "concentration_risk_band": "NORMAL",
+    "cash_flow_trend": -2931.04,
+    "operating_cash_flow_trend": -2931.04,
+    "trajectory_flag": "NEGATIVE",
+    "seasonality": null
+  },
+  "savings": {
+    "monthly_savings": {
+      "2020-03": 28539.0,
+      "2020-04": -33694.7,
+      "2020-05": 3806.0,
+      "2020-06": 34158.0,
+      "2020-07": 37621.3,
+      "2020-08": -48428.25,
+      "2020-09": 2166.0,
+      "2020-10": -28070.7,
+      "2020-11": 1822.0
+    },
+    "monthly_savings_incl_investment": {
+      "2020-03": 28539.0,
+      "2020-04": -33694.7,
+      "2020-05": 3806.0,
+      "2020-06": 34158.0,
+      "2020-07": 37621.3,
+      "2020-08": -48428.25,
+      "2020-09": 2166.0,
+      "2020-10": -28070.7,
+      "2020-11": 1822.0
+    },
+    "savings_rate": {
+      "2020-03": 0.382,
+      "2020-04": -0.1791,
+      "2020-05": 0.4758,
+      "2020-06": 0.6679,
+      "2020-07": 0.8268,
+      "2020-08": -0.8496,
+      "2020-09": 0.0305,
+      "2020-10": -0.2021,
+      "2020-11": 0.0372
+    },
+    "positive_savings_months": 6,
+    "savings_growth": [
+      -218.07,
+      111.3,
+      797.48,
+      10.14,
+      -228.73,
+      104.47,
+      -1395.97,
+      106.49
+    ],
+    "average_savings": -231.26,
+    "savings_consistency": 0.0,
+    "emergency_fund_estimate": {
+      "avg_monthly_needs": 85528.01,
+      "fund_3_months": 256584.03,
+      "fund_6_months": 513168.07,
+      "current_balance": 0.0,
+      "coverage_months": 0.0
+    }
+  },
+  "investment": {
+    "investments_detected": {},
+    "monthly_investment": {},
+    "total_investment": 0.0,
+    "investment_ratio": 0.0,
+    "investment_frequency": 0.0,
+    "sip_count": 0,
+    "investment_growth": [],
+    "long_term_investment_score": 0.0,
+    "redemption_frequency": 0,
+    "dividend_income": 0.0
+  },
+  "debt": {
+    "monthly_emi": 26000.0,
+    "total_monthly_obligations": 26153.4,
+    "estimated_cc_monthly_payment": 1534.0,
+    "loan_count": 5,
+    "active_loan_count": 3,
+    "closed_loan_count": 2,
+    "distinct_lenders_count": 2,
+    "secured_ratio": 0.2,
+    "unsecured_ratio": 0.8,
+    "dti": 0.3444,
+    "foir": 0.0002,
+    "credit_utilization": null,
+    "loan_stacking_score": 1.0,
+    "loan_stacking_flag": 1,
+    "recent_borrowing_velocity_90d": 2,
+    "payment_regularity_score": 0.7,
+    "lender_concentration_ratio": 0.7692,
+    "missed_emi_count": 1,
+    "home_loan_emi": 0,
+    "personal_loan_emi": 26000.0,
+    "vehicle_loan_emi": 0,
+    "gold_loan_emi": 0,
+    "disbursement_count_365d": 1,
+    "disbursement_total_amount_365d": 10500.0,
+    "credit_card_payment_count_365d": 2,
+    "credit_card_total_payment_365d": 3068.0,
+    "running_facility_count": 0,
+    "running_facility_total_amount": 0,
+    "total_loan_count": 5,
+    "detected_loans": [
+      {
+        "loan_id": "LOAN_CASHE_5000",
+        "lender": "CASHE",
+        "type": "PERSONAL_LOAN",
+        "emi": 5000.0,
+        "status": "Active",
+        "regularity": "Skipped/Irregular"
+      },
+      {
+        "loan_id": "LOAN_CASHE_20000",
+        "lender": "CASHE",
+        "type": "PERSONAL_LOAN",
+        "emi": 20000.0,
+        "status": "Grace",
+        "regularity": "Skipped/Irregular"
+      },
+      {
+        "loan_id": "LOAN_CASHE_1000",
+        "lender": "CASHE",
+        "type": "PERSONAL_LOAN",
+        "emi": 1000.0,
+        "status": "Active",
+        "regularity": "Early"
+      },
+      {
+        "loan_id": "LOAN_CASHE_225",
+        "lender": "CASHE",
+        "type": "PERSONAL_LOAN",
+        "emi": 225.0,
+        "status": "Overdue / Closed",
+        "regularity": "Skipped/Irregular"
+      },
+      {
+        "loan_id": "LOAN_HDFC_BAN_470",
+        "lender": "HDFC BANK",
+        "type": "HOME_LOAN",
+        "emi": 470.0,
+        "status": "Missed EMI",
+        "regularity": "Early"
+      }
+    ],
+    "total_fixed_obligations": 177.0,
+    "total_true_income": 767670.75,
+    "foir_risk_band": "LOW_RISK",
+    "emi_discipline_score": 44.44,
+    "emi_discipline_band": "POOR"
+  },
+  "behaviour": {
+    "weekend_spend_ratio": 0.1984,
+    "night_spend_ratio": null,
+    "cash_preference": 0.0,
+    "impulse_score": 0.23,
+    "merchant_diversity": 80,
+    "salary_exhaustion_days": 11,
+    "behaviour_stability": 25.0,
+    "behaviour_stability_index": 25.0,
+    "savings_rate": -0.0027,
+    "lifestyle_inflation": 4.8344,
+    "discretionary_vs_essential_ratio": 1.5934,
+    "spending_volatility": 2.2634,
+    "low_balance_days_count": 231,
+    "discretionary_wants_total": 3598.0,
+    "essential_needs_total": 2258.0,
+    "primary_monthly_income": 26500.0,
+    "salary_detected_flag": 1,
+    "weekend_spend_ratio_30d": 0.0778,
+    "night_spend_ratio_30d": null,
+    "discretionary_wants_spend_30d": 2899.0,
+    "essential_needs_spend_30d": 530.0,
+    "cash_preference_ratio_30d": 0.0,
+    "net_savings_30d": 3327.0,
+    "weekend_spend_ratio_90d": 0.14,
+    "night_spend_ratio_90d": null,
+    "discretionary_wants_spend_90d": 3198.0,
+    "essential_needs_spend_90d": 530.0,
+    "cash_preference_ratio_90d": 0.0,
+    "net_savings_90d": -59065.7,
+    "weekend_spend_ratio_180d": 0.2142,
+    "night_spend_ratio_180d": null,
+    "discretionary_wants_spend_180d": 3598.0,
+    "essential_needs_spend_180d": 1763.0,
+    "cash_preference_ratio_180d": 0.0,
+    "net_savings_180d": 3431.35,
+    "behaviour_state": "Financial Stress",
+    "behaviour_confidence_score": 0.4,
+    "salary_detected": true,
+    "salary_day_range": [
+      "2020-03-13",
+      "2020-04-16",
+      "2020-05-13",
+      "2020-06-08",
+      "2020-06-09"
+    ],
+    "salary_exhaustion_speed": 11
+  },
+  "fraud": {
+    "fraud_score": 24.98,
+    "account_risk_level_numeric": 2.0,
+    "aml_risk_score": 21.23,
+    "aml_risk_band": "LOW",
+    "irregularity_penalty_points": 180,
+    "high_severity_flag_count": 1,
+    "velocity_score": 1.0,
+    "cash_cycling_score": 0.0,
+    "rapid_transfer_score": 45.0,
+    "rapid_transfer_count": 1,
+    "merchant_risk_score": 0.0,
+    "round_transaction_score": 5.63,
+    "round_transaction_ratio": 0.0563,
+    "beneficiary_concentration": 0.3755,
+    "structuring_score": 0.0,
+    "structuring_flag_count": 0,
+    "circular_mirroring_score": 0.0,
+    "statistical_anomaly_count": 1,
+    "total_fraud_flags_triggered": 4,
+    "account_risk_level": "MEDIUM",
+    "total_fraud_flags": 4,
+    "fraud_events": [
+      {
+        "rule": "Rapid Inflow-Outflow Pass-through",
+        "severity": "HIGH",
+        "confidence": 0.88,
+        "explanation": "1 inflows were transferred out to a different counterparty within 24 hours at 85-105% of the amount received (e.g. \u20b925,000.00 from IMPS IN 030314652577 981631895 out to P2V)."
+      },
+      {
+        "rule": "Statistical Outlier (Median Absolute Deviation)",
+        "severity": "MEDIUM",
+        "confidence": 0.8,
+        "explanation": "Detected 4 unexplained transaction amounts deviating significantly (>6x MAD) from account baseline median."
+      },
+      {
+        "rule": "Counterparty Money Rotation (Both Credits & Debits)",
+        "severity": "MEDIUM",
+        "confidence": 0.85,
+        "explanation": "Identified 1 counterparties (VIN OD K) present on both inflow and outflow sides."
+      },
+      {
+        "rule": "Symmetric Pass-Through (Equal Debits & Credits)",
+        "severity": "LOW",
+        "confidence": 0.75,
+        "explanation": "Total debits (\u20b9769,752.10) match total credits (\u20b9767,670.75) within 2% margin in high volume account."
+      }
+    ]
+  },
+  "underwriting_summary": {
+    "credit_score": 370,
+    "risk_band": "HIGH_RISK",
+    "underwriting_decision": "REJECT",
+    "decision_coherence_note": null,
+    "trajectory_flag": "NEGATIVE",
+    "data_sufficiency": "OPTIMAL_DATA",
+    "volatility_score": 1.0,
+    "volatility_band": "VERY_HIGH",
+    "foir_score": 0.0002,
+    "foir_risk_band": "LOW_RISK",
+    "aml_risk_score": 21.23,
+    "aml_risk_band": "LOW",
+    "true_turnover": 767670.75,
+    "total_irregularity_flags": 4,
+    "high_severity_flags_count": 1
+  },
+  "reconciliation": {
+    "status": "FAIL",
+    "checks": [
+      {
+        "check": "ledger_balance_movement",
+        "passed": false,
+        "expected": 0.0,
+        "actual": 2335.65,
+        "delta": 2335.65,
+        "detail": "opening + credits - debits must equal closing"
+      },
+      {
+        "check": "net_cash_flow_matches_ledger",
+        "passed": true,
+        "expected": -2081.35,
+        "actual": -2081.35,
+        "delta": 0.0,
+        "detail": "cash_flow.net_cash_flow must equal credits - debits"
+      },
+      {
+        "check": "savings_matches_ledger",
+        "passed": true,
+        "expected": -2081.35,
+        "actual": -2081.35,
+        "delta": 0.0,
+        "detail": "sum(monthly_savings) must equal the change in balance"
+      },
+      {
+        "check": "credit_conservation",
+        "passed": true,
+        "expected": 767670.75,
+        "actual": 767670.75,
+        "delta": 0.0,
+        "detail": "income + non-income credits must equal all credits"
+      },
+      {
+        "check": "needs_plus_wants_equals_expense",
+        "passed": true,
+        "expected": 289991.1,
+        "actual": 289991.1,
+        "delta": 0.0,
+        "detail": "every expense rupee must be classified Need or Want"
+      },
+      {
+        "check": "all_debits_bucketed",
+        "passed": true,
+        "expected": 769752.1,
+        "actual": 769752.1,
+        "delta": 0.0,
+        "detail": "no debit may be dropped between extraction and aggregation"
+      }
+    ],
+    "failed_count": 1
+  },
+  "extraction_fidelity": {
+    "status": "FAILED",
+    "checks": [
+      {
+        "check": "balance_chain_intact",
+        "passed": false,
+        "expected": 0,
+        "actual": 230,
+        "delta": 230.0,
+        "detail": "rows where balance != previous - debit + credit after intra-day reordering"
+      }
+    ],
+    "failed_count": 1,
+    "anchors_found": 0,
+    "anchors": {
+      "opening_balance": null,
+      "closing_balance": null,
+      "total_debits": null,
+      "total_credits": null,
+      "debit_count": null,
+      "credit_count": null,
+      "expected_row_count": null,
+      "serial_first": null,
+      "serial_last": null,
+      "serial_gaps": [],
+      "serial_non_transaction_rows": 0,
+      "period_start": null,
+      "period_end": null,
+      "pages_declared": null,
+      "pages_actual": 10,
+      "sources": {}
+    },
+    "reason": "this statement prints no balances, totals or serial column to check against"
+  },
+  "extraction_stats": {
+    "total_rows": 231,
+    "junk_rows_removed": 0,
+    "duplicates_removed": 0,
+    "dates_fixed": 0,
+    "numerics_fixed": 0,
+    "balance_chain_mismatches": 230,
+    "template_used": "Punjab National Bank",
+    "template_fallback": false,
+    "requested_bank": "Punjab National Bank",
+    "pages_total": 10,
+    "pages_without_tables": 0,
+    "pages_without_tables_index": [],
+    "rows_extracted": 231
+  }
+}

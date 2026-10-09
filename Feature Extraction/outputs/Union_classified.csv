@@ -1,0 +1,7 @@
+date,description,debit,credit,balance,bank_name,year_month,category,subcategory,merchant_entity,needs_wants,tags,confidence,classification_method,matched_rule,matched_keyword,counterparty_key,recurrence_group,recurrence_type,is_self_transfer,suggested_subcategory,suggestion_reason,transaction_type,recurrence_confidence,suggestion_confidence
+2025-10-05,571302010025099:Int.Pd:01-07-2025 to 30-09-2025,0.0,15.0,2382.34,Union,2025-10,Income,Interest,,Not Applicable,,0.9,keyword,,Int.Pd:,,,,False,,,Credit,0.0,
+2025-11-14,APB/77/A102500A1D1C0/Credit Th,0.0,1524.5,3906.84,Union,2025-11,Income,Salary,Credit Th,Not Applicable,Salary,0.95,bank_rule,,,CREDIT TH,,,False,,,Credit,0.0,
+2025-12-27,"Sms Charges For Dec Qtr ,2025",0.3,0.0,3906.54,Union,2025-12,Banking,Bank Charges,,Not Applicable,Bank Charges,0.9,keyword,,SMS CHARGE,SMS CHARGES FOR DEC QTR 2025,,,False,,,Debit,0.0,
+2026-01-04,571302010025099:Int.Pd:01-10-2025 to 31-12-2025,0.0,20.0,3926.54,Union,2026-01,Income,Interest,,Not Applicable,,0.9,keyword,,Int.Pd:,,,,False,,,Credit,0.0,
+2026-03-18,UPIAB/966055482554/CR/GHANSH YA/SBIN/ 9823641890@ax,0.0,100.0,4026.54,Union,2026-03,Income,Other Income,,Not Applicable,UPI,0.3,slm_low_confidence,,,9823641890,,,False,,,Credit,0.0,
+2026-03-18,NEFT:Fort Mumbai Mumbai SBIN126077832231,0.0,60000.0,64026.54,Union,2026-03,Income,Other Income,,Not Applicable,NEFT,0.3,slm_low_confidence,,,NEFT FORT MUMBAI MUMBAI SBIN126077832231,,,False,,,Credit,0.0,

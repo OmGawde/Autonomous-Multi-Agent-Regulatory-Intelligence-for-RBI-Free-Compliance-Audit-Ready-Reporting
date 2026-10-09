@@ -1,0 +1,45 @@
+{
+  "bank_name": "IndusInd Bank",
+  "statement_period": {
+    "start": "2025-01-04",
+    "end": "2025-04-16"
+  },
+  "category_name": "balance",
+  "balance": {
+    "opening_balance": 1519.0,
+    "closing_balance": 1142.73,
+    "average_daily_balance": 6374.81,
+    "average_monthly_balance": {
+      "2025-01": 11533.52,
+      "2025-02": 8113.78,
+      "2025-03": 1834.52,
+      "2025-04": 3100.7
+    },
+    "median_balance": 1142.73,
+    "lowest_balance": 0.0,
+    "highest_balance": 28538.0,
+    "low_balance_count": 81,
+    "negative_balance_count": 0,
+    "days_below_1000": 36,
+    "balance_volatility": 8509.92,
+    "volatility_score": 1.0,
+    "volatility_band": "VERY_HIGH",
+    "balance_stability_score": 0.0,
+    "avg_daily_balance_change_pct": 55204.22,
+    "max_daily_balance_change_pct": 5581944.44,
+    "available_balance_distribution": {
+      "days_above_50000": 0,
+      "pct_days_above_50000": 0.0,
+      "days_above_100000": 0,
+      "pct_days_above_100000": 0.0,
+      "days_above_200000": 0,
+      "pct_days_above_200000": 0.0,
+      "days_above_500000": 0,
+      "pct_days_above_500000": 0.0,
+      "days_above_1000000": 0,
+      "pct_days_above_1000000": 0.0
+    },
+    "abb_score": 3338.27,
+    "balance_recovery_time": 15.5
+  }
+}

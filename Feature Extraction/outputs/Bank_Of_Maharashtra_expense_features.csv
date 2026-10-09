@@ -1,0 +1,2 @@
+bank_name,statement_period.start,statement_period.end,category_name,expense.total_expenses,expense.monthly_expenses.2019-03,expense.average_expenses,expense.needs_spending,expense.wants_spending,expense.needs_ratio,expense.wants_ratio,expense.category_spending.Other Expense,expense.expense_ratio,expense.expense_growth,expense.monthly_expense_trend
+Bank Of Maharashtra,2019-01-25,2019-06-26,expense,826.0,826.0,826.0,0.0,826.0,0.0,1.0,826.0,0.1524,0.0,[]

@@ -1,0 +1,48 @@
+{
+  "bank_name": "YES Bank",
+  "statement_period": {
+    "start": "2018-11-10",
+    "end": "2019-05-20"
+  },
+  "category_name": "balance",
+  "balance": {
+    "opening_balance": 80560.26,
+    "closing_balance": 182810.06,
+    "average_daily_balance": 52895.64,
+    "average_monthly_balance": {
+      "2018-11": 38530.21,
+      "2018-12": 40763.15,
+      "2019-01": 30811.21,
+      "2019-02": 23874.43,
+      "2019-03": 57118.36,
+      "2019-04": 75147.87,
+      "2019-05": 121721.73
+    },
+    "median_balance": 52224.48,
+    "lowest_balance": 2558.4,
+    "highest_balance": 189810.06,
+    "low_balance_count": 22,
+    "negative_balance_count": 0,
+    "days_below_1000": 0,
+    "balance_volatility": 36668.91,
+    "volatility_score": 0.6932,
+    "volatility_band": "HIGH",
+    "balance_stability_score": 0.3068,
+    "avg_daily_balance_change_pct": 35.55,
+    "max_daily_balance_change_pct": 3875.0,
+    "available_balance_distribution": {
+      "days_above_50000": 99,
+      "pct_days_above_50000": 51.56,
+      "days_above_100000": 17,
+      "pct_days_above_100000": 8.85,
+      "days_above_200000": 0,
+      "pct_days_above_200000": 0.0,
+      "days_above_500000": 0,
+      "pct_days_above_500000": 0.0,
+      "days_above_1000000": 0,
+      "pct_days_above_1000000": 0.0
+    },
+    "abb_score": 57617.87,
+    "balance_recovery_time": 16.67
+  }
+}

@@ -1,0 +1,55 @@
+{
+  "bank_name": "Bank Of Maharashtra",
+  "statement_period": {
+    "start": "2019-01-25",
+    "end": "2019-06-26"
+  },
+  "category_name": "cash_flow",
+  "cash_flow": {
+    "monthly_inflow": {
+      "2019-01": 42480.0,
+      "2019-02": 23128.0,
+      "2019-03": 170833.0,
+      "2019-04": 45658.0,
+      "2019-05": 60738.0,
+      "2019-06": 65178.0
+    },
+    "monthly_outflow": {
+      "2019-01": 30000.9,
+      "2019-02": 41344.36,
+      "2019-03": 151768.9,
+      "2019-04": 47134.06,
+      "2019-05": 65908.36,
+      "2019-06": 67667.0
+    },
+    "net_cash_flow": 4191.42,
+    "monthly_surplus": {
+      "2019-01": 12479.1,
+      "2019-03": 19064.1
+    },
+    "monthly_deficit": {
+      "2019-02": -18216.36,
+      "2019-04": -1476.06,
+      "2019-05": -5170.36,
+      "2019-06": -2489.0
+    },
+    "positive_cash_flow_months": 2,
+    "negative_cash_flow_months": 4,
+    "cash_flow_volatility": 12132.48,
+    "net_turnover_credit": 408015.0,
+    "net_expense_debit": 403823.58,
+    "operational_net_cash_flow": 4191.42,
+    "biz_inflow": 0.0,
+    "biz_outflow": 0.0,
+    "pct_biz_inflow": 0.0,
+    "pct_biz_outflow": 0.0,
+    "top_counterparty_name": "N/A",
+    "top_counterparty_amount": 0.0,
+    "top_counterparty_concentration_pct": 0.0,
+    "concentration_risk_band": "NORMAL",
+    "cash_flow_trend": -1606.93,
+    "operating_cash_flow_trend": -1606.93,
+    "trajectory_flag": "NEGATIVE",
+    "seasonality": null
+  }
+}

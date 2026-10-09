@@ -1,0 +1,75 @@
+bank,description,debit,credit,expected_category,expected_direction,note,expected_needs_wants
+Axis,ACH-CR-MCGM FB 10 APR23-NACH-NAACCOSAL23050200015,0.0,37636.0,Income,Credit,employer ACH salary credit,Not Applicable
+Axis,ACH-CR-MCGM FB 10 MAY23-NACH-NAACCOSAL23060100022,0.0,45731.0,Income,Credit,employer ACH salary credit,Not Applicable
+Axis,ACH-CR-MCGM FB 10 FEB24-NACH-NAACCOSAL24030100021,0.0,87511.0,Income,Credit,employer ACH salary credit,Not Applicable
+Axis,917010063214514:Int.Pd:01-04-2023 to 30-06-2023,0.0,1240.0,Income,Credit,quarterly savings interest,Not Applicable
+Axis,Phy Statement chrg+GST/XX4514/10959855,118.0,0.0,Banking,Debit,bank statement charge,Not Applicable
+Axis,UPI/P2M/438851564096/RAJENDRAKUMAR VASANTR/garlic/Paytm Payments Bank,100.0,0.0,Expense,Debit,garlic must not match LIC insurance,Unknown
+Axis,UPI/P2M/406970617897/SHALIMAR HOSPITALITY /biryan/Paytm Payments Bank,544.0,0.0,Expense,Debit,hospitality must not match hospital,Unknown
+Axis,UPI/P2A/320781797395/MR. MU MU/Bandhan B/UPI,180.0,0.0,Transfer,Debit,Bandhan Bank must not match Dhan broker,Not Applicable
+Axis,UPI/P2A/315549884966/FAIZ AQEE/State Ban/Cable,400.0,0.0,Expense,Debit,cable TV bill via remark; must not match Cab taxi,Need
+Axis,UPI/P2M/403106419315/HAPPY FRUIT JUICE CEN/juice/HDFC BANK LTD,90.0,0.0,Expense,Debit,counterparty bank is not a home loan,Unknown
+Axis,UPI/P2A/315978707769/MOHAMMED /HDFC BANK/taxi,65.0,0.0,Expense,Debit,taxi fare via remark; counterparty bank is not a home loan,Need
+Axis,UPI/P2M/348550701513/ARIF QURE/Paytm Pay/apple,400.0,0.0,Expense,Debit,fruit remark must not match Apple electronics,Need
+Axis,UPI/P2M/324150670490/SAIFEE HO/Axis Bank/snacks,85.0,0.0,Expense,Debit,snack shop must not match education,Want
+Axis,UPI/P2M/311682382443/V V TRADE/Yes Bank /soap an,120.0,0.0,Expense,Debit,UPI merchant purchase,Need
+Axis,UPI/P2A/311400428135/MANISH MO/Union Ban/Village,500.0,0.0,Transfer,Debit,person to person transfer,Not Applicable
+Axis,UPI/P2A/312229855112/DUMMY NAM/Bank of I/Transfe,1000.0,0.0,Transfer,Debit,person to person transfer,Not Applicable
+ICICI,ACH/VIDYALANKAR INSTITUT/VIDYAINSTTECH 06 052,0.0,287560.0,Income,Credit,employer ACH salary credit,Not Applicable
+ICICI,ACH/VIDYALANKAR INSTITUT/VIDYALANKAR 047 054,0.0,279560.0,Income,Credit,employer ACH salary credit,Not Applicable
+ICICI,EBA/MFP-8509197518-175255653-S-1136903-193654647,2000.0,0.0,Investment,Debit,ICICI Direct mutual fund SIP,Not Applicable
+ICICI,EBA/MFP-8509197518-178577479-S-1136903-193845587,2000.0,0.0,Investment,Debit,ICICI Direct mutual fund SIP,Not Applicable
+ICICI,EBA/MFP-8509197518-181934061-S-1141464-194769366,4000.0,0.0,Investment,Debit,ICICI Direct mutual fund SIP,Not Applicable
+ICICI,CAM/09571HRY/CASH WDL/04-04-25,25000.0,0.0,Banking,Debit,ATM cash withdrawal,Not Applicable
+ICICI,CAM/09571HRY/CASH WDL RVSL/21-02-26,0.0,30000.0,Banking,Credit,ATM withdrawal reversal is not income,Not Applicable
+ICICI,NFS/CASH WDL/510716519275/OTHER BANK ATM,5000.0,0.0,Banking,Debit,other bank ATM withdrawal,Not Applicable
+ICICI,MMT/IMPS/510711619275/PPF SBI/SBIN0010725,5000.0,0.0,Investment,Debit,PPF contribution via IMPS,Not Applicable
+ICICI,BIL/NEFT/ICICN12025051479381471/PPF SBI/STATE BANK,10000.0,0.0,Investment,Debit,PPF contribution via NEFT,Not Applicable
+ICICI,UPI/bajajfinanceltd/UPI Mandate/INDUSIND BANK L/100097771667/IND31C2ADC066,6075.0,0.0,Expense,Debit,Bajaj Finance loan EMI mandate,Need
+ICICI,ACH/HDFC BANK LTD/HDFCL0000012345/LOAN EMI,24123.0,0.0,Expense,Debit,home loan EMI via ACH mandate,Need
+ICICI,ACH/RASMECCC NAVI MUMBAI/1234567/EMI,10548.0,0.0,Expense,Debit,housing society loan EMI,Need
+ICICI,ACH/COAL INDIA LTD/2230874,0.0,1634.0,Income,Credit,equity dividend credit,Not Applicable
+ICICI,ACH/IOCL/24228045,0.0,1239.0,Income,Credit,equity dividend credit,Not Applicable
+ICICI,CMS/001675619993/SMSOTP__1097824801227,1808.0,0.0,Banking,Debit,SMS/OTP alert charge,Not Applicable
+ICICI,DCARDFEE2867JUN25,590.0,0.0,Banking,Debit,debit card annual fee,Not Applicable
+ICICI,CGST202505216143078693,0.83,0.0,Banking,Debit,GST on bank charges,Not Applicable
+ICICI,SGST202505216143078691,0.83,0.0,Banking,Debit,GST on bank charges,Not Applicable
+ICICI,PMJJBY RENEWAL 2025,436.0,0.0,Expense,Debit,government insurance premium,Need
+ICICI,PMSBY RENEWAL 2025,20.0,0.0,Expense,Debit,government insurance premium,Need
+ICICI,BIL/NEFT/ICICN12025041777628777/SURYODAYA /ABHYUDAYA BANK,15000.0,0.0,Transfer,Debit,outgoing NEFT to named party,Not Applicable
+ICICI,UPI/GIRISH BAB/ggidaye-1@oksb/UPI/BANK OF BA/517860587311/SBI5c15ea98,0.0,25000.0,Transfer,Credit,incoming UPI from an individual,Not Applicable
+ICICI,NEFT-RETURN-IN-ICICN12025,0.0,12000.0,Income,Credit,returned NEFT credited back,Not Applicable
+SBI,DEP TFR NEFT*ICIC0SF0002*HS924107405 58515*GIRISH BABAJI G 0097239044305,0.0,25000.0,Transfer,Credit,single NEFT credit is a transfer; income engine promotes it on recurrence,Not Applicable
+SBI,DEP TFR NEFT*KKBK0000958*CMS218243 9662506*K J SOMAIYA COL,0.0,32000.0,Transfer,Credit,single NEFT credit is a transfer; income engine promotes it on recurrence,Not Applicable
+SBI,DEBIT ACHDr 4009056 LIC OF INDIA,3200.0,0.0,Expense,Debit,LIC insurance premium via ACH,Need
+SBI,DEBIT CMP MANDATE DEBIT Bajaj Finance Ltd. - DD,2911.0,0.0,Expense,Debit,Bajaj Finance EMI mandate,Need
+SBI,DEBIT 000000 SBI 0000001072 SBI CREDIT CARD PAYMENT,27923.0,0.0,Expense,Debit,credit card bill payment,Unknown
+SBI,WDL TFR UPI/DR/417772689498/GIRISH B/ICIC/ggidaye@ok/UPI 0097691162095,20000.0,0.0,Transfer,Debit,outgoing UPI to an individual,Not Applicable
+SBI,WDL TFR UPI/DR/417938069140/S B Mot/UTIB/9820485022/UPI 0097693162093,1500.0,0.0,Transfer,Debit,outgoing UPI to an individual,Not Applicable
+SBI,WDL TFR UPI/DR/421675627197/Google I/UTIB/gpay-11223344/UPI,299.0,0.0,Expense,Debit,Google Play subscription,Want
+SBI,INTEREST CREDIT,0.0,412.0,Income,Credit,savings interest,Not Applicable
+SBI,DEBIT ATMCard AMC 459156*7698,147.0,0.0,Banking,Debit,ATM card annual maintenance charge,Not Applicable
+GENERIC,NACH RETURN CHARGES,590.0,0.0,Banking,Debit,bounce fee is a charge not income,Not Applicable
+GENERIC,ECS RETURN CHARGE INR,472.0,0.0,Banking,Debit,bounce fee is a charge not income,Not Applicable
+GENERIC,EMI PAYMENT LIC HFL,12000.0,0.0,Expense,Debit,housing finance EMI not insurance,Need
+GENERIC,LIC PREMIUM PAYMENT,5000.0,0.0,Expense,Debit,genuine LIC insurance premium,Need
+GENERIC,SWIGGY ORDER 8829,450.0,0.0,Expense,Debit,food delivery,Want
+GENERIC,UPI/402/ZOMATO LTD/zomato@ybl,380.0,0.0,Expense,Debit,food delivery via UPI,Want
+GENERIC,NEFT SALARY CREDIT INFOSYS LTD,0.0,95000.0,Income,Credit,salary with explicit keyword,Not Applicable
+GENERIC,SIP/HDFC MUTUAL FUND/12345,5000.0,0.0,Investment,Debit,mutual fund SIP,Not Applicable
+GENERIC,ZERODHA BROKING LTD,25000.0,0.0,Investment,Debit,equity broker transfer,Not Applicable
+GENERIC,ATM CASH WDL 4455,10000.0,0.0,Banking,Debit,ATM cash withdrawal,Not Applicable
+Axis,UPI/P2M/311616377142/V V TRADE/Yes Bank /dettol,275.0,0.0,Expense,Debit,household toiletries via remark,Need
+Axis,UPI/P2M/348222179614/Bharat Ku/Axis Bank/oil,200.0,0.0,Expense,Debit,cooking oil via remark,Need
+Axis,UPI/P2M/348633951070/Sanman ve/Paytm Pay/tea,30.0,0.0,Expense,Debit,tea is discretionary,Want
+Axis,UPI/P2M/315395367569/GUPTA PAW/Paytm Pay/sandwic,60.0,0.0,Expense,Debit,sandwich is discretionary,Want
+Axis,UPI/P2M/319243726048/BABA CHEM/Paytm Pay/eye dro,180.0,0.0,Expense,Debit,eye drops via remark,Need
+Axis,UPI/P2A/311647035349/Miss ARPI/Bank of M/Dinner,450.0,0.0,Expense,Debit,dinner via remark on a P2A row,Want
+Axis,UPI/P2M/324150670490/SAIFEE HO/Axis Bank/societ,2100.0,0.0,Expense,Debit,society maintenance via remark,Need
+Axis,UPI/P2M/311603385738/Xpressbee/Paytm Pay/UPI,988.0,0.0,Expense,Debit,uninformative remark; merchant unknown,Unknown
+Axis,UPI/P2A/312229855112/DUMMY NAM/Bank of I/paymen,5000.0,0.0,Transfer,Debit,uninformative remark keeps it a transfer,Not Applicable
+Axis,UPI/P2M/348465058370/PRASHANT /Canara Ba/milk n,60.0,0.0,Expense,Debit,milk via remark,Need
+SBI,WDL TFR UPI/DR/421675627197/Google I/UTIB/gpay-11223344/UPI,299.0,0.0,Expense,Debit,truncated merchant name Google India,Want
+GENERIC,SBI CREDIT CARD PAYMENT AUTOPAY,27923.0,0.0,Expense,Debit,card bill is a liability settlement not an EMI,Unknown
+ICICI,CLG/VEENA PATIL HOSPITALITY P/HDF - Cheque No: 7964,145530.0,0.0,Expense,Debit,tour operator paid by cheque is Travel,Want
+ICICI,UPI/npscams.bdpg@ic/collect-pay-req/HDFC BANK/1234,10000.0,0.0,Investment,Debit,NPS contribution via UPI handle,Not Applicable

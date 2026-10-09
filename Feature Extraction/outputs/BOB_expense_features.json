@@ -1,0 +1,28 @@
+{
+  "bank_name": "BOB",
+  "statement_period": {
+    "start": "2026-03-19",
+    "end": "2026-04-19"
+  },
+  "category_name": "expense",
+  "expense": {
+    "total_expenses": 339.18,
+    "monthly_expenses": {
+      "2026-03": 201.24,
+      "2026-04": 137.94
+    },
+    "average_expenses": 169.59,
+    "needs_spending": 0.0,
+    "wants_spending": 339.18,
+    "needs_ratio": 0.0,
+    "wants_ratio": 1.0,
+    "category_spending": {
+      "Other Expense": 339.18
+    },
+    "expense_ratio": 0.0007,
+    "expense_growth": -63.3,
+    "monthly_expense_trend": [
+      -31.45
+    ]
+  }
+}

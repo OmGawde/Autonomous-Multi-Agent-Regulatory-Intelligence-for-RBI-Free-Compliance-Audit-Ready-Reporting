@@ -1,0 +1,2 @@
+bank_name,statement_period.start,statement_period.end,category_name,savings.positive_savings_months,savings.savings_growth,savings.average_savings,savings.savings_consistency
+Canara Bank,2023-04-01,2023-04-13,savings,0,[],0.0,0.0

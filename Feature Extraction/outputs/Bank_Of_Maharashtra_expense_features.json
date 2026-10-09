@@ -1,0 +1,25 @@
+{
+  "bank_name": "Bank Of Maharashtra",
+  "statement_period": {
+    "start": "2019-01-25",
+    "end": "2019-06-26"
+  },
+  "category_name": "expense",
+  "expense": {
+    "total_expenses": 826.0,
+    "monthly_expenses": {
+      "2019-03": 826.0
+    },
+    "average_expenses": 826.0,
+    "needs_spending": 0.0,
+    "wants_spending": 826.0,
+    "needs_ratio": 0.0,
+    "wants_ratio": 1.0,
+    "category_spending": {
+      "Other Expense": 826.0
+    },
+    "expense_ratio": 0.1524,
+    "expense_growth": 0.0,
+    "monthly_expense_trend": []
+  }
+}

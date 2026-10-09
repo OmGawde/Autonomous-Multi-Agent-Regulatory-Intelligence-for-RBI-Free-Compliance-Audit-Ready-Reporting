@@ -1,0 +1,30 @@
+{
+  "bank_name": "Federal Bank",
+  "statement_period": {
+    "start": "2021-10-01",
+    "end": "2021-11-13"
+  },
+  "category_name": "expense",
+  "expense": {
+    "total_expenses": 7124076.0,
+    "monthly_expenses": {
+      "2021-10": 3576883.0,
+      "2021-11": 3547193.0
+    },
+    "average_expenses": 3562038.0,
+    "needs_spending": 14197.0,
+    "wants_spending": 7109879.0,
+    "needs_ratio": 0.002,
+    "wants_ratio": 0.998,
+    "category_spending": {
+      "Education": 8850.0,
+      "Other Expense": 7065226.0,
+      "Travel": 50000.0
+    },
+    "expense_ratio": 1.0165,
+    "expense_growth": -29690.0,
+    "monthly_expense_trend": [
+      -0.83
+    ]
+  }
+}

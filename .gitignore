@@ -1,1 +1,63 @@
-venv/
+# ==============================================================================
+# Repositiory Root Git Ignore Configuration
+# ==============================================================================
+
+# Python Caches & Compiled files
+**/__pycache__/
+**/*.pyc
+**/*.pyo
+**/*.pyd
+**/.pytest_cache/
+.coverage
+htmlcov/
+*.egg-info/
+.eggs/
+
+# Virtual Environments (match at any level)
+**/venv/
+**/.venv/
+**/.venv*/
+**/env/
+**/ENV/
+
+# Node modules & build artifacts
+**/node_modules/
+**/dist/
+
+# Embedded clones / temporary repositories
+temp_repo/
+
+# Environment Variables
+**/.env
+**/.env.*
+!**/.env.example
+
+# IDEs and Editors
+.vscode/
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.swp
+
+# OS Files
+**/Thumbs.db
+**/desktop.ini
+**/.DS_Store
+
+# Logs & Vectorstores
+**/logs/
+**/vectorstore/
+*.log
+
+# Project-Specific Uploads & Outputs
+
+# Large Model Weights and Archives
+*.safetensors
+*.bin
+*.zip
+*.lnk
+Feature Extraction/models/
+!Website/backend/models/
+

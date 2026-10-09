@@ -1,0 +1,1091 @@
+======================================================================
+FILE: New_Data/BOM_BANK.pdf
+Total pages: 6
+--- Page 0 text preview ---
+  Customer Details
+  A S ENTERPRISES
+  KHATA NO 238/244
+  F BLOCK SARASWATI ENCLAVE
+  KADIPUR INDUSTRIAL AREA
+  GURGAON - 00122001
+  Haryana, India
+  Mobile : 919958412607
+  Email :
+  Date of Birth : 01/07/2017
+  PAN/TAN : CAKPS0445R
+  Statement Date : 26/06/2019
+  Branch & Account Details
+  Branch No : 01655
+  Branch IFSC : MAHB0001655
+  Branch Name : GARAULI  (GURGAON)
+  Bldg No.306, Umang Arcade,
+  Pataudi Road, Ghaurali , Post- Basai.
+  Gurgaon -122001
+  Branch GSTIN : 06AACCB0774B2Z7
+  Account No : 60307461774
+  Account Type : Cur-Gen-Pub-Corp-oth-Rural-SU
+  Total Balance : 16,475.18
+  Clear Balance : 7,082.18
+  Primary GSTIN: NA
+All IFSCs on p0: ['MAHB0001655', 'ACCB0774B2Z']
+  P0 Table 0: 2 rows x 2 cols | Header: ['Customer Details', 'Branch & Account Details']
+    Row 1: ['A S ENTERPRISES\nKHATA NO 238/244\nF BLOCK SARASWATI ENCLAVE\nKADIPUR INDUSTRIAL AREA\nGURGAON - 00122001\nHaryana, India\nMobile : 919958412607\nEmail :\nDate of Birth : 01/07/2017\nPAN/TAN : CAKPS0445R\nStatement Date : 26/06/2019', 'Branch No : 01655\nBranch IFSC : MAHB0001655\nBranch Name : GARAULI (GURGAON)\nBldg No.306, Umang Arcade,\nPataudi Road, Ghaurali , Post- Basai.\nGurgaon -122001\nBranch GSTIN : 06AACCB0774B2Z7\nAccount No : 60307461774\nAccount Type : Cur-Gen-Pub-Corp-oth-Rural-SU\nTotal Balance : 16,475.18\nClear Balance : 7,082.18\nPrimary GSTIN: NA']
+  P0 Table 1: 11 rows x 8 cols | Header: ['Statement for Account No 60307461774 from 22/01/2019 to 26/06/2019.', None, None, None, None, None, None, None]
+    Row 1: ['Date', 'Type', 'Particulars', 'Cheque/Refer\nence No', 'Debit', 'Credit', 'Balance', 'Channel']
+    Row 2: ['22/01/2019', 'Cheque', 'SUPREME STEELS', '59035', '7,000.00', '', '1,721.76', '1091-null']
+  P1 Table 0: 27 rows x 8 cols | Header: ['Statement for Account No 60307461774 from 22/01/2019 to 26/06/2019.', None, None, None, None, None, None, None]
+    Row 1: ['Date', 'Type', 'Particulars', 'Cheque/Refer\nence No', 'Debit', 'Credit', 'Balance', 'Channel']
+    Row 2: ['25/01/2019', 'Charges', 'NEFT MAHBH19025259544 GST', '', '0.90', '', '12,282.86', '']
+  P2 Table 0: 23 rows x 8 cols | Header: ['Statement for Account No 60307461774 from 22/01/2019 to 26/06/2019.', None, None, None, None, None, None, None]
+    Row 1: ['Date', 'Type', 'Particulars', 'Cheque/Refer\nence No', 'Debit', 'Credit', 'Balance', 'Channel']
+    Row 2: ['28/03/2019', 'Cheque', 'SELF', '63962', '10,000.00', '', '26,436.60', '1655-null']
+======================================================================
+FILE: New_Data/FEDERAL_BANK.pdf
+Total pages: 4
+--- Page 0 text preview ---
+  Name
+  :
+  NAVALT SOLAR AND
+  ELECTRIC BOATS PVT
+  LTD
+  Communication Address
+  :
+  1st Floor 298/B1
+  University Road, Cusat
+  Po South Kalamassery ,
+  Ernakulam , Kerala ,
+  India - 682022
+  Address Last Updated On
+  :
+  07/10/2016
+  Regd. Mobile Number
+  :
+  919895343637
+  Email ID
+  :
+  accounts@navgathi.com
+  Type Of Account
+  :
+  Cash Credit
+  Scheme
+All IFSCs on p0: ['FDRL0001001']
+  P0 Table 0: 16 rows x 10 cols | Header: ['Date', 'Value Date', 'Particulars', 'Tran\nType', 'Tran ID', 'Cheque\nDetails', 'Withdrawals', 'Deposits']
+    Row 1: ['', '', 'Opening Balance', '', '', '', '', '']
+    Row 2: ['01/10/2021', '01/10/2021', 'ID : [1001FOAR5494321] : LODGE AND REALISE', 'TFR', 'S6661902', '', '94981.00', '']
+  P1 Table 0: 27 rows x 10 cols | Header: ['Date', 'Value Date', 'Particulars', 'Tran\nType', 'Tran ID', 'Cheque\nDetails', 'Withdrawals', 'Deposits']
+    Row 1: ['07/10/2021', '07/10/2021', 'NFT/navgath/SBIN421280227118/SBI', 'FT', 'S43569312', '', '', '20000.00']
+    Row 2: ['08/10/2021', '08/10/2021', 'BG Processing Fee', 'TFR', 'S46345627', '', '8850.00', '']
+  P2 Table 0: 27 rows x 10 cols | Header: ['Date', 'Value Date', 'Particulars', 'Tran\nType', 'Tran ID', 'Cheque\nDetails', 'Withdrawals', 'Deposits']
+    Row 1: ['26/10/2021', '26/10/2021', 'EBIZ SLRY C770251021183441', 'TFR', 'FB9343', '', '275479.00', '']
+    Row 2: ['29/10/2021', '29/10/2021', 'NFT/DIRECTO/RBI3032128257754/RESERVE BA', 'FT', 'S67480203', '', '', '3087334.00']
+======================================================================
+FILE: New_Data/INDIAN_OVERSEAS_BANK.pdf
+Total pages: 4
+--- Page 0 text preview ---
+  Statement From : 05 Nov 2024
+  Statement To : 05 Nov 2025
+  Bank
+  : Indian Overseas Bank
+  Account Number
+  : XXXXXXXXXXX3770
+  FI Type
+  : DEPOSIT
+  PROFILE
+  Name
+  DoB
+  Mobile
+  Landline
+  Email
+  PAN
+  Address
+  Holding Nature
+  Nominee
+  CKYC
+  NAREPALEM  PRASAD
+  1976-01-01
+  9603868949
+  ILZPP4866F
+  SO VEERABADRAIAH DNO 934B
+  PADMALAPALEM KOWTAVARAM
+All IFSCs on p0: ['IOBA0001282']
+  P0 Table 0: 3 rows x 10 cols | Header: ['PROFILE', None, None, None, None, None, None, None]
+    Row 1: ['Name', 'DoB', 'Mobile', 'Landline', 'Email', 'PAN', 'Address', 'Holding Nature']
+    Row 2: ['NAREPALEM PRASAD', '1976-01-01', '9603868949', '', None, 'ILZPP4866F', 'SO VEERABADRAIAH DNO 934B\nPADMALAPALEM KOWTAVARAM\nGUDLA 28 521331', 'SINGLE']
+  P0 Table 1: 3 rows x 15 cols | Header: ['SUMMARY', None, None, None, None, None, None, None]
+    Row 1: ['Opening Date', 'Type', 'Branch', 'IFSC', 'MICR Code', 'Facility', 'Currency', 'Current\nBalance']
+    Row 2: ['21/10/2024', 'SAVINGS', 'GUDIWADA', 'IOBA0001282', '520020502', '', 'INR', '14431.15']
+  P0 Table 2: 10 rows x 9 cols | Header: ['TRANSACTIONS', None, None, None, None, None, None, None]
+    Row 1: ['Trxn ID', 'Value Date', 'Transaction Time', 'Mode', 'Narration', 'Type', 'Amount', 'Current Balance']
+    Row 2: ['S23071579', '2025-11-05T05:25:1\n1.0', '05/11/2025\n05:25:11.0 am', 'NACH', 'ECS/NACH Return Charges\nfor 04-NOV-25', 'DEBIT', '236.00', '14427.15']
+  P1 Table 0: 15 rows x 9 cols | Header: ['TRANSACTIONS', None, None, None, None, None, None, None]
+    Row 1: ['Trxn ID', 'Value Date', 'Transaction Time', 'Mode', 'Narration', 'Type', 'Amount', 'Current Balance']
+    Row 2: ['', 'GUDIWADA VIJAYAW\n7.0\nKRISHNA', 'GADUAD IWADA VIJAYAW\n09:30:27.0 am\nKRISHNA', 'AGDUAD IWADA VIJAYA\nKRISHNA', 'WGAUDDAIW ADA VIJAYAWGAUDDAIW A\nKRISHNA KRISHNA', 'DA VIJAYAGWUADDIWAA DA\nKRISHNA', 'VIJAYAWAGDUAD IW\nKRISHN', 'ADA VIJAYAWADA\nA']
+  P2 Table 0: 15 rows x 9 cols | Header: ['TRANSACTIONS', None, None, None, None, None, None, None]
+    Row 1: ['Trxn ID', 'Value Date', 'Transaction Time', 'Mode', 'Narration', 'Type', 'Amount', 'Current Balance']
+    Row 2: ['', 'UNITYSMALLFINAN\n4.0\nIOBA7032310242000', 'CUENBIATNY S-MALLFINANC\n07:17:54.0 am\n4IO85BA7032310242000', 'EUBNAITNY -SMALLFINA\n4I8O5BA703231024200', 'NUCNEIBTAYNS M- ALLFINANCUENBITAYNS -M\n0IO48B5A7032310242000I4O8B5A703', 'ALLFINAUNNCIETBYASNM A-\n23102420I0O0B4A8570323', 'LLFINANCEUBNAITNY -S\n102420004I8O5BA70', 'MALLFINANCEBAN -\n32310242000485']
+======================================================================
+FILE: New_Data/INDUSIND_BANK.pdf
+Total pages: 10
+--- Page 0 text preview ---
+  BABITA KUMARI
+  Generation Date     :     16-Apr-2025
+  Period                     :     01-01-2025 To 16-04-2025
+  Customer Id            :     41734781
+  Account No             :     100103601668
+  Account Type          :     SAVINGS ACCOUNT-
+  MICROFINANCE
+  Currency                 :     INR
+  Date
+  Particulars
+  Chq./Ref.No
+  Withdrawal
+  Deposit
+  Balance
+  Brought Forward
+  1,519.00
+  UPI/200305181425/DR/
+  SATY/PUNB/20513759
+  1-3@axl/NO R
+  S93427500
+  1,518.00
+  UPI/095506238620/DR/
+  RIZW/IBKL/065693672-
+  2@axl/NO R
+  S98408062
+All IFSCs on p0: []
+  P0 Table 0: 1 rows x 2 cols | Header: ['IndusInd Bank', 'Statement Of Account']
+  P0 Table 1: 1 rows x 2 cols | Header: ['BABITA KUMARI', 'Generation Date : 16-Apr-2025\nPeriod : 01-01-2025 To 16-04-2025\nCustomer Id : 41734781\nAccount No : 100103601668\nAccount Type : SAVINGS ACCOUNT-\nMICROFINANCE\nCurrency : INR\nAvailable Balance : 1142.73']
+  P0 Table 2: 13 rows x 6 cols | Header: ['Date', 'Particulars', 'Chq./Ref.No', 'Withdrawal', 'Deposit', 'Balance']
+    Row 1: ['01-Jan-2025', 'Brought Forward', '', '', '', '1,519.00']
+    Row 2: ['4-Jan-2025', 'UPI/200305181425/DR/\nSATY/PUNB/20513759\n1-3@axl/NO R', 'S93427500', '1.00', '', '1,518.00']
+  P1 Table 0: 18 rows x 7 cols | Header: ['IndusInd Bank', None, None, 'Statement Of Account', None, None, None]
+    Row 1: ['BABITA KUMARI Account No : 100103601668', None, None, None, None, None, None]
+    Row 2: ['17-Jan-2025', 'UPI/120727786247/DR/\nNirb/YESB/Q35216506\n3@ybl/NO RE', 'S35681643', None, '5000.00', '', '30338.00']
+  P2 Table 0: 18 rows x 7 cols | Header: ['IndusInd Bank', None, None, 'Statement Of Account', None, None, None]
+    Row 1: ['BABITA KUMARI Account No : 100103601668', None, None, None, None, None, None]
+    Row 2: ['1-Feb-2025', 'UPI/507752061231/CR/\nNAVI/ICIC/tlrewards@ic\nici/Upi', 'S53986725', None, '', '5.00', '1091.26']
+======================================================================
+FILE: New_Data/ICICI_BANK_wrong.pdf
+Total pages: 5
+--- Page 0 text preview ---
+  DETAILED STATEMENT
+  Search
+  Account Number
+  028501527472(INR)  - VIKAS SAINI
+  Transaction Date from
+  01/10/2023
+  to
+  24/04/2024
+  Transaction Period
+  Today
+  Advanced Search
+  Amount from
+  NA
+  to
+  NA
+  Cheque number from
+  NA
+  to
+  NA
+  Transaction remarks
+  NA
+  Transaction type
+  All
+  Transactions List -  VIKAS SAINI - 028501527472
+  S No.
+All IFSCs on p0: []
+  P0 Table 0: 72 rows x 8 cols | Header: ['', None, None, None, None, None, None, None]
+    Row 1: ['S No.', 'Value Date', 'Transaction Date', 'Cheque Number', 'Transaction Remarks', 'Withdrawal Amount\n(INR )', 'Deposit Amount\n(INR )', 'Balance (INR )']
+    Row 2: ['', None, None, None, None, None, None, None]
+  P1 Table 0: 100 rows x 8 cols | Header: ['23', None, None, None, None, None, None, None]
+    Row 1: ['', None, None, None, None, None, None, None]
+    Row 2: ['24', '14/11/2023', '14/11/2023', '-', 'MMT/IMPS/331811876801/Kissht Fund\nTra/POONAWALLA/Y', '0.0', '27309.60', '33094.14']
+  P2 Table 0: 93 rows x 8 cols | Header: ['', None, None, None, None, None, None, None]
+    Row 1: ['57', '29/01/2024', '29/01/2024', '-', 'NFS/CASH WDL\nRVSL/402912392189/B1297500/ALWA\nR /', '0.0', '3024.78', '10273.38']
+    Row 2: ['', None, None, None, None, None, None, None]
+======================================================================
+FILE: New_Data/IDBI_BANK/IDBI_BANK.pdf
+Total pages: 3
+--- Page 0 text preview ---
+  Customer ID : 87995931
+  Statement of Transaction in ACCOUNT Number: 0201104000192613 in INR
+  A/c Name : 1. SANJAY  PACHAURI
+  Date
+  Particulars
+  Chq. no
+  Withdrawals
+  Deposits
+  Balance
+  22/10/2023
+  DELHI - ASHOK VIHAR B/F
+  .00 Cr
+  15/02/2024
+  DELHI - ASHOK VIHAR UPI/441226494905/SANJAY
+  PACHAURI
+  300
+  300.00 Cr
+  16/02/2024
+  ETPC NEFT-402156973721-TALENTPRO IN
+  14853
+  15153.00 Cr
+  16/02/2024
+  DELHI - ASHOK VIHAR SANJAY PACHAURI
+  10000
+  5153.00 Cr
+All IFSCs on p0: ['SBIN0004835', 'IBKL0000201']
+  P0 Table 0: 2 rows x 6 cols | Header: ['Date', 'Particulars', 'Chq. no', 'Withdrawals', 'Deposits', 'Balance']
+    Row 1: ['22/10/2023\n15/02/2024\n16/02/2024\n16/02/2024\n17/02/2024\n20/02/2024\n06/03/2024\n07/03/2024\n07/03/2024\n18/03/2024\n21/03/2024\n21/03/2024\n23/03/2024\n03/04/2024\n05/04/2024\n06/04/2024', 'DELHI - ASHOK VIHAR B/F\nDELHI - ASHOK VIHAR UPI/441226494905/SANJAY\nPACHAURI\nETPC NEFT-402156973721-TALENTPRO IN\nDELHI - ASHOK VIHAR SANJAY PACHAURI\nDELHI - CHANDNI CHOWK SANJAY PACHAURI\nIDBI BANK CMS APY Monthly/Qtrly/Hfrly Cont\nETPC NEFT-403067754337-TALENTPRO IN\nIDBI BANK CMS APY Monthly/Qtrly/Hfrly Cont\nDELHI - CHANDNI CHOWK NEFT-SBIN0004835-SANJAY\nPAC\nRPU PUNE PMJSY\nDELHI - ASHOK VIHAR UPI/444723266796/SANJAY\nPACHAURI\nDELHI - CHANDNI CHOWK SANJAY PACHAURI\nDELHI - ASHOK VIHAR Int Coll:09-02-2024 to 23-03-2024\nIDBI BANK CMS APY Monthly/Qtrly/Hfrly Cont\nETPC NEFT-404054290202-TALENTPRO IN\nDELHI - CHANDNI CHOWK SELF', '462806\n462807', '10000\n5000\n116\n116\n20500\n20\n4000\n116\n20800', '300\n14853\n20714\n4000\n2\n20914', '.00 Cr\n300.00 Cr\n15153.00 Cr\n5153.00 Cr\n153.00 Cr\n37.00 Cr\n20751.00 Cr\n20635.00 Cr\n135.00 Cr\n115.00 Cr\n4115.00 Cr\n115.00 Cr\n117.00 Cr\n1.00 Cr\n20915.00 Cr\n115.00 Cr']
+  P0 Table 1: 7 rows x 6 cols | Header: ['Account Related Other Information', None, None, None, None, None]
+    Row 1: ['Account Number', None, None, 'MICR Code', 'IFS Code', 'Nomination']
+    Row 2: ['0201104000192613', None, None, '110259025', 'IBKL0000201', 'Nomination Registered']
+  P1 Table 0: 5 rows x 3 cols | Header: ['', '', 'a. SMS BLOCK <Customer ID><Card Number> to 5676777 from your registered mobile number OR\nb. SMS BLOCK <Customer ID> to 5676777 from your registered mobile number.']
+    Row 1: ['', 'IV.', 'Secure Banking: DO NOT RESPOND to Phone calls, E-mails, SMSs etc. requesting you to provide\nconfidential details of your Card or internet banking for any reason. Even though the caller or sender\nseemingly appears to be representing IDBI Bank /RBI/Income-tax office/ VISA/ MasterCard / Rupay / ATM\nCell or any service provider.']
+    Row 2: ['', 'V.', 'Details of Banking Ombudsman are available at Reserve Bank of India internet site at following link:\nhttp://www.rbi.org.in/commonman/English/Scripts/AgainstBankABO.aspx']
+  P1 Table 1: 2 rows x 2 cols | Header: ['Legends for transactions in your account statement', None]
+    Row 1: ['B/F - Brought Forward\nChq - Cheque\nInt - Interest\nNEFT - National Electronic Fund Transfer', 'RTGS - Real Time Gross Settlement\nINET/IPAY - Internet Banking\nECS - Electronic Clearing Service\nDr/Cr - Debit/Credit']
+  P2: No fitz tables
+======================================================================
+FILE: New_Data/IDBI_BANK/IDBI_BANK_2.pdf
+Total pages: 12
+--- Page 0 text preview ---
+  : KAMALESH SUBHASH INAMDAR
+  Address
+  : HOUSE NO 1060 SR NO 14/23/4 SINHGAD RD B/H
+  MOTO BAKERI DHAYARI
+  PUNE
+  INDIA
+  411041
+  : 1357102000000198
+  MAHARASHTRA
+  : 79323863
+  Primary Account Holder Name
+  : Narhe-Pune (Sol -1357)
+  Account Branch
+  Account No
+  Customer ID
+  Nominee Registered :
+  : Yes
+  Txn Date
+  Value Date
+  Cheque
+  No
+  Description
+  CR/DR
+  CC
+  Y
+All IFSCs on p0: []
+  P0 Table 0: 2 rows x 3 cols | Header: ['', 'Primary Account Holder Name : KAMALESH SUBHASH INAMDAR\nAddress : HOUSE NO 1060 SR NO 14/23/4 SINHGAD RD B/H\nMOTO BAKERI DHAYARI\nPUNE\nMAHARASHTRA\nINDIA\n411041\nAccount No : 1357102000000198\nCustomer ID : 79323863\nAccount Branch : Narhe-Pune (Sol -1357)\nNominee Registered : : Yes', '']
+    Row 1: ['YOUR A/C STATUS', None, None]
+  P0 Table 1: 30 rows x 9 cols | Header: ['Srl', 'Txn Date', 'Value Date', 'Description', 'Cheque\nNo', 'CR/DR', 'CC\nY', 'Amount (INR)']
+    Row 1: ['1', '31/03/2021 08:04:44 PM', '31/03/2021', 'UPI/109072494235/PRAMOD OMPRAKASH SAK', '', 'Dr.', 'INR', '150.00']
+    Row 2: ['2', '30/03/2021 08:15:44 PM', '30/03/2021', 'VISA-POS/GIRIJA CATERERS PUNE IND', '', 'Dr.', 'INR', '2,050.00']
+  P1 Table 0: 51 rows x 9 cols | Header: ['30', '22/03/2021 09:31:00 AM', '22/03/2021', 'IPAY/ESHP/SBIEPAY/2676767172/2934738094425', '', 'Dr.', 'INR', '445.90']
+    Row 1: ['31', '21/03/2021 08:51:24 PM', '21/03/2021', 'UPI/108050467318/SANDEEP MUDSHINGIKAR', '', 'Dr.', 'INR', '220.00']
+    Row 2: ['32', '21/03/2021 12:20:48 PM', '21/03/2021', 'ID064111/21-03-21 12:20:47 /000000360286', '', 'Dr.', 'INR', '2,500.00']
+  P2 Table 0: 51 rows x 9 cols | Header: ['81', '02/03/2021 09:06:10 PM', '02/03/2021', 'UPI/106121894534/Mrs BUDHKAR SADHANA ASHOK', '', 'Cr.', 'INR', '10,000.00']
+    Row 1: ['82', '02/03/2021 04:33:56 PM', '02/03/2021', 'IPAY/ESHP//2665376428/MH012511120202021E/Maharash', '', 'Dr.', 'INR', '300.00']
+    Row 2: ['83', '02/03/2021 01:24:26 PM', '02/03/2021', 'UPI/106113276194/AKSHAY BABANRAO PATHARE', '', 'Cr.', 'INR', '3,000.00']
+======================================================================
+FILE: New_Data/IDBI_BANK/IDBI_BANK_3.pdf
+Total pages: 12
+--- Page 0 text preview ---
+  Customer Details                                                         Branch Details
+  Transaction Date From 26-Dec-2024 to 26-Jun-2025                                    Statement downloaded on: 26/06/2025 00:38:38
+  Account Holder Name
+  : MD SAMEER
+  Address
+  : S/O: MD SHAMSHER
+  ALI WARD NO-23
+  MARICHA ROAD
+  ,MARICHA ROAD
+  SUPAUL,SUP,BR,85213
+  1
+  Account No
+  : 1540104000107563
+  Account Opening Date
+  : 24-03-2025
+  Account Status
+  : Active
+  Currency
+  : INR
+  Nominee Registered
+  : Yes
+  Sol Id/Branch Code        : 1540
+  Account Branch              : SUKMARPAR
+  Address                          : IDBI BANK
+  LTD.,,SUKMARPAR,CH
+All IFSCs on p0: ['IBKL0001540', 'IBKL0001540']
+  P0 Table 0: 1 rows x 3 cols | Header: ['Account Holder Name : MD SAMEER\nAddress : S/O: MD SHAMSHER\nALI WARD NO-23\nMARICHA ROAD\n,MARICHA ROAD\nSUPAUL,SUP,BR,85213\n1\nAccount No : 1540104000107563\nAccount Opening Date : 24-03-2025\nAccount Status : Active\nCurrency : INR\nNominee Registered : Yes', '', 'Sol Id/Branch Code : 1540\nAccount Branch : SUKMARPAR\nAddress : IDBI BANK\nLTD.,,SUKMARPAR,CH\nANSIPATTI,,SUPAUL,BI\nHAR,852131\nBranch IFSC Code : IBKL0001540\nBranch Email Id : IBKL0001540@idbi.co.in']
+  P0 Table 1: 25 rows x 8 cols | Header: ['S.No', 'Txn Date', 'Value Date', 'Description', 'Cheque No', 'Withdrawals\n(Dr)', 'Deposits\n(Cr)', 'Balance\n(INR)']
+    Row 1: ['1', '31/05/2025 20:15:56', '31/05/2025', 'UPI/192874336799/RAHUL\nKUMAR SINGH', '', '10.00', '', '5799.12']
+    Row 2: ['2', '31/05/2025 18:39:46', '31/05/2025', 'UPI/063006059669/ZEENAT ARA\nWO MD ALAUDDIN', '', '40.00', '', '5809.12']
+  P1 Table 0: 44 rows x 8 cols | Header: ['25', '29/03/2025 14:33:03', '29/03/2025', 'UPI/364088852876/MD SARFRAZ', '', '', '1.00', '5976.12']
+    Row 1: ['26', '29/03/2025 14:31:08', '29/03/2025', 'UPI/508800527352/MD SARFRAZ', '', '1.00', '', '5975.12']
+    Row 2: ['27', '29/03/2025 12:50:17', '29/03/2025', 'SUKMARPAR :- CASH RECEIPT', '', '', '2500.00', '5976.12']
+  P2 Table 0: 44 rows x 8 cols | Header: ['69', '26/04/2025 09:27:36', '26/04/2025', 'UPI/304576961428/MD SARFRAZ', '', '1.00', '', '15167.48']
+    Row 1: ['70', '25/04/2025 21:25:46', '25/04/2025', 'UPI/603764947547/MR BHOLA\nPRASAD', '', '3.00', '', '15168.48']
+    Row 2: ['71', '25/04/2025 21:20:50', '25/04/2025', 'UPI/868248568629/MR BHOLA\nPRASAD', '', '49.00', '', '15171.48']
+======================================================================
+FILE: New_Data/YES_BANK/YES_BANK.pdf
+Total pages: 23
+--- Page 0 text preview ---
+  STATEMENT OF ACCOUNTS
+  Period : November 01, 2018 to May 20, 2019
+  MR.TEJAS SAMIR KADAKIA
+  605 GANGA GANGA YAMUNA CHS LTD
+  SD MARG NANCY COLONY NEAR
+  NANCY BUS DEPOT GREEN VIEW
+  COMPLEX BORIVALI
+  EAST S O MUMBAI MUMBAI
+  MAHARASHTRA 400066
+  Mobile No: Registered
+  Email: Registered
+  Cust Id: 5253864
+  Your Branch Details :
+  Name : KURLA MUMBAI
+  Address : UNIT NO UG 76A UPPER GROUND FLOORPHOENIX
+  MARKET CITY MALL L B S MARGKURLA WEST MUMBAI
+  400070,MAHARASHTRA 400070
+  IFSC : YESB0000469
+  MICR : 400532057
+  Transaction details for your ACCOUNT No.046991800006712 (SA - SMART SALARY ADVANTAGE) (Currency: INR)
+  Nomination: Registered
+  Account status: ACCOUNT OPEN REGULAR
+  Transaction
+  Date
+  Value Date
+All IFSCs on p0: ['YESB0000469']
+  P0 Table 0: 16 rows x 6 cols | Header: ['MR.TEJAS SAMIR KADAKIA Your Branch Details :\n605 GANGA GANGA YAMUNA CHS LTD Name : KURLA MUMBAI\nSD MARG NANCY COLONY NEAR\nAddress : UNIT NO UG 76A UPPER GROUND FLOORPHOENIX\nNANCY BUS DEPOT GREEN VIEW\nMARKET CITY MALL L B S MARGKURLA WEST MUMBAI\nCOMPLEX BORIVALI\n400070,MAHARASHTRA 400070\nEAST S O MUMBAI MUMBAI\nIFSC : YESB0000469 MICR : 400532057\nMAHARASHTRA 400066\nMobile No: Registered\nEmail: Registered\nCust Id: 5253864', None, None, None, None, None]
+    Row 1: ['Transaction details for your ACCOUNT No.046991800006712 (SA - SMART SALARY ADVANTAGE) (Currency: INR)', None, None, None, None, None]
+    Row 2: ['Nomination: Registered Account status: ACCOUNT OPEN REGULAR', None, None, None, None, None]
+  P1 Table 0: 22 rows x 6 cols | Header: ['Transaction\nDate', 'Value Date', 'Description', 'Withdrawals', 'Deposits', 'Balance']
+    Row 1: ['19/11/2018', '19/11/2018', 'UPI/832322474418/From:nivedita.vanmali@okicici/To:t\nejaskadakia2014@okhdfcbank/UPI', '0.00', '110.00', '25,750.96']
+    Row 2: ['20/11/2018', '20/11/2018', 'NEFT Cr-ICIC0000104-OMKAR REALTORS AND\nDEVELOPERS PVT LTD-Tejas Samir\nKadakia-CMS960871964', '0.00', '7,764.00', '33,514.96']
+  P2 Table 0: 22 rows x 6 cols | Header: ['Transaction\nDate', 'Value Date', 'Description', 'Withdrawals', 'Deposits', 'Balance']
+    Row 1: ['', '', 'nk/To:billdesk.vodafone-prepaid@icici/UPI', '', '', '']
+    Row 2: ['01/12/2018', '01/12/2018', 'ATD:4904202659:MUBN9323:+GOREGAON WEST\nBRANCH MUMBAI MHIN-833512187372', '900.00', '0.00', '79,234.21']
+======================================================================
+FILE: New_Data/YES_BANK/YES_BANK_2.pdf
+Total pages: 6
+--- Page 0 text preview ---
+  MS. SUMAN
+  Page 1 of 6
+  YOUR CONSOLIDATED STATEMENT FOR JUN'23
+  MS. SUMAN
+  VILLAGE DAULI JAWAHAR LAL POST
+  SHAHI - TAHSEEL MEERGANJ DAULI
+  JAWAHAR LAL
+  BAREILLY
+  UTTAR PRADESH
+  243505
+  INDIA
+  EMAIL ID
+  : Registered
+  MOBILE NO. : Registered
+  RM Details :
+  Abhay Sharma
+  7906049054
+  abhay.sharma2@yesbank.in
+  Customer Care Details - Call us India 1800 1200
+  Call us outside India +91 22 50795101
+  Account Relationship Summary as on 30/06/2023
+  Account Number
+  Account Type
+  Currency
+  Balance
+All IFSCs on p0: []
+  P0 Table 0: 3 rows x 4 cols | Header: ['Account Relationship Summary as on 30/06/2023', None, None, None]
+    Row 1: ['Account Number', 'Account Type', 'Currency', 'Balance']
+    Row 2: ['007478100000995', 'Savings Account', 'INR', '19.37']
+  P0 Table 1: 5 rows x 5 cols | Header: ['YES REWARDZ Program', None, None, None, None]
+    Row 1: ['Membership ID', 'Previous YES REWARDZ', 'YES REWARDZ earned this', 'YES REWARDZ redeemed', 'YES REWARDZ']
+    Row 2: [None, 'balance*', 'month', 'this month', 'balance']
+  P1: No fitz tables
+  P2 Table 0: 8 rows x 7 cols | Header: ['Statement Of Transactions In Savings Account No: 007478100000995 For The Period Of 01-Jun-2023 to 30-Jun-2023', None, None, None, None, None, None]
+    Row 1: ['Branch : 0074,BAREILLY, UTTAR PRADESH,MAHALAXMI TOWERS GROUND FLOOR, PLOT NO 12 AND 13,112 CIVIL\nLINES,BAREILLY,243001,IFSC: YESB0000074,MICR: 243532002\nPrimary Holder : SUMAN Product Code 781\nJoint Holder 1 NOT APPLICABLE A/C OPENING DATE : 26-May-2021\nJoint Holder 2 : NOT APPLICABLE Account Varlant/ description : SAVINGS ACCOUNT PRO\nNominee Not Registered Currency : INR\nAccount status : ACCOUNT OPEN REGULAR\nOD limit : 0.00\nAvailable Balance : 19.37\nSweep in : No', None, None, None, None, None, None]
+    Row 2: ['Transaction', '', '', 'Cheque', '', '', '']
+  P2 Table 1: 4 rows x 2 cols | Header: ['Transaction codes in your account statement', None]
+    Row 1: ['ATW/CSW/ATD/ATI - ATM Withdrawal', 'OBD / OBC - Mobile Funds Transfer']
+    Row 2: ['AFD / AFC - ATM Funds Transfer', 'PCD - Purchased']
+======================================================================
+FILE: New_Data/KOTAK_BANK/KOTAK_BANK.pdf
+Total pages: 11
+--- Page 0 text preview ---
+  Account No.
+  Period
+  Cust. Reln. No.
+  Currency
+  3311137410
+  From 01/04/2019 To 31/03/2020
+  MOHIT KUMAR TRIPATHI
+  42963336
+  R K NAGAR
+  JAWAHAR NAGAR
+  107-237
+  UTTAR PRADESH
+  INDIA
+  208012
+  Kanpur
+  Y
+  INR
+  NEW DELHI - NEHRU PLACE
+  Branch
+  Nominee Name
+  Nomination Regd
+  Joint Holder(S)
+  Chq / Ref number
+  Dr / Cr
+  Amount
+All IFSCs on p0: []
+  P0 Table 0: 1 rows x 8 cols | Header: ['Sl. No.', 'Date', 'Description', 'Chq / Ref number', 'Amount', 'Dr / Cr', 'Balance', 'Dr / Cr']
+  P1 Table 0: 1 rows x 8 cols | Header: ['Sl. No.', 'Date', 'Description', 'Chq / Ref number', 'Amount', 'Dr / Cr', 'Balance', 'Dr / Cr']
+  P2 Table 0: 1 rows x 8 cols | Header: ['Sl. No.', 'Date', 'Description', 'Chq / Ref number', 'Amount', 'Dr / Cr', 'Balance', 'Dr / Cr']
+======================================================================
+FILE: New_Data/KOTAK_BANK/KOTAK_BANK_2.pdf
+Total pages: 39
+--- Page 0 text preview ---
+  Account No.
+  Period
+  Cust. Reln. No.
+  Currency
+  6912497105
+  From 01/04/2021 To 31/03/2022
+  KENSTEL COMMUNICATIONS PVT LTD
+  269308909
+  .
+  Ground Floor Pitampura
+  Sd 306 Tower Apartments
+  DELHI
+  INDIA
+  110034
+  New Delhi
+  N
+  INR
+  DELHI - JANAKPURI - BLOCK B
+  Branch
+  Nominee Name
+  Nomination Regd
+  Chq / Ref number
+  Dr / Cr
+  Amount
+  Description
+All IFSCs on p0: []
+  P0 Table 0: 1 rows x 8 cols | Header: ['Sl. No.', 'Date', 'Description', 'Chq / Ref number', 'Amount', 'Dr / Cr', 'Balance', 'Dr / Cr']
+  P1 Table 0: 1 rows x 8 cols | Header: ['Sl. No.', 'Date', 'Description', 'Chq / Ref number', 'Amount', 'Dr / Cr', 'Balance', 'Dr / Cr']
+  P2 Table 0: 1 rows x 8 cols | Header: ['Sl. No.', 'Date', 'Description', 'Chq / Ref number', 'Amount', 'Dr / Cr', 'Balance', 'Dr / Cr']
+======================================================================
+FILE: New_Data/KOTAK_BANK/KOTAK_BANK_3.pdf
+Total pages: 9
+--- Page 0 text preview ---
+  OPENING
+  4 331 80
+  Statement generated on 06 Dec 2023, 05:25 PM
+  Page 1 of 9
+  Account Statement
+  05 Sep 2023 - 06 Dec 2023
+  Account # 6546860535 SAVINGS
+  Branch Pune - Pimple Saudagar
+  Sandeep Nageshwar Jinde
+  CRN XXXXXX303
+  Flat NO.6,sant tukaram nagar
+  new sangvi,near HDFC bank
+  PuneCity
+  Pune - 411027
+  Nominee registered Jayshree
+  IFSC KKBK0000726
+  MICR 411485005
+  #
+  TRANSACTION DATE
+  VALUE
+  DATE
+  TRANSACTION DETAILS
+  CHQ / REF NO.
+  DEBIT/CREDIT(₹)
+  BALANCE(₹)
+All IFSCs on p0: ['KKBK0000726', 'CHDB0509230', 'CHDB0709230', 'CHDB0709230']
+  P0 Table 0: 4 rows x 7 cols | Header: ['', '', '', '', '', '', '']
+    Row 1: ['#', 'TRANSACTION DATE', 'VALUE', 'TRANSACTION DETAILS', 'CHQ / REF NO.', 'DEBIT/CREDIT(₹)', 'BALANCE(₹)']
+    Row 2: ['', '', 'DATE', '', '', '', '']
+  P1 Table 0: 4 rows x 7 cols | Header: ['', '', '', '', '', '', '']
+    Row 1: ['#', 'TRANSACTION DATE', 'VALUE', 'TRANSACTION DETAILS', 'CHQ / REF NO.', 'DEBIT/CREDIT(₹)', 'BALANCE(₹)']
+    Row 2: ['', '', 'DATE', '', '', '', '']
+  P2 Table 0: 4 rows x 7 cols | Header: ['', '', '', '', '', '', '']
+    Row 1: ['#', 'TRANSACTION DATE', 'VALUE', 'TRANSACTION DETAILS', 'CHQ / REF NO.', 'DEBIT/CREDIT(₹)', 'BALANCE(₹)']
+    Row 2: ['', '', 'DATE', '', '', '', '']
+======================================================================
+FILE: New_Data/HDFC_BANK/HDFC_BANK.pdf
+Total pages: 5
+--- Page 0 text preview ---
+  Date
+  Narration
+  Chq./Ref.No.
+  Value Dt
+  Withdrawal Amt.
+  Deposit Amt.
+  Closing Balance
+  02/06/18
+  GM1TSA/MY0326/19
+  0000806023180071
+  02/06/18
+  14,955.00
+  29,064.95
+  03/06/18
+  IB BILLPAY DR-HDFCPE-545964XXXXXX3563
+  IB03111916969774
+  03/06/18
+  1,285.98
+  27,778.97
+  04/06/18
+  NEFT DR-UBIN0539686-RAJU DUBEY-NETBANK,
+  N155180555427618
+  04/06/18
+  5,000.00
+  22,778.97
+All IFSCs on p0: ['UBIN0539686', 'VIJB0005051', 'UBIN0539686', 'HDFC0001116']
+  P0 Table 0: 2 rows x 7 cols | Header: ['Date', 'Narration', 'Chq./Ref.No.', 'Value Dt', 'Withdrawal Amt.', 'Deposit Amt.', 'Closing Balance']
+    Row 1: ['02/06/18\n03/06/18\n04/06/18\n04/06/18\n05/06/18\n05/06/18\n07/06/18\n09/06/18\n12/06/18\n18/06/18\n18/06/18\n19/06/18\n19/06/18\n22/06/18\n26/06/18\n27/06/18\n01/07/18\n02/07/18\n02/07/18\n03/07/18', 'GM1TSA/MY0326/19\nIB BILLPAY DR-HDFCPE-545964XXXXXX3563\nNEFT DR-UBIN0539686-RAJU DUBEY-NETBANK,\nMUM-N155180555427618-PERSONAL\nUPI-303702011409044-9307676700@UPI-81551\n8551633-OK\nEMI 4923306 CHQ S49233060051 0618492330\n6\nUPI-303702011409044-9307676700@UPI-81561\n9325080-OK\nEMI 50037630 CHQ S500376300091 061850037\n630\nNHDF6376325463/SBI CARDS\nNHDF6385796167/BILLDKVODAFONEINDIAL\nACH D- TP ACH HOME-105909750\nNEFT DR-VIJB0005051-PANKAJ KUMAR SINGH-N\nETBANK, MUM-N169180566006897-PERSOKNAL\nUPI-303702011409044-9307676700@UPI-81701\n1076987-OK\nNHDF6406143679/BILLDKKOTAKCARDS\nACH D- HOMECRINDFINPVTLTD-38005587800106\nPOS 416021XXXXXX8060 DCSIRELIANCE POS DE\nBIT\nNEFT DR-UBIN0539686-RAJU DUBEY-NETBANK,\nMUM-N178180571609335-PERSONAL\nCREDIT INTEREST CAPITALISED\nMICRO ATM CASH DEP - HDFC\nTHANE MH IN - BNAKMU02\nIB BILLPAY DR-HDFCPE-545964XXXXXX3563\nIMPS-818411585956-ARUNARAVINDRADUBEY-HDF', '0000806023180071\nIB03111916969774\nN155180555427618\n0000815518132372\n000000000000000\n0000815619221888\n000000000000000\n0000181609587153\n0000181632079839\n0000003816355734\nN169180566006897\n0000817011546906\n0000181707403225\n0000003872684626\n0000N16424763188\nN178180571609335\n000000000000000\n0000000000008945\nIB02174244989256\n0000818411585956', '02/06/18\n03/06/18\n04/06/18\n04/06/18\n05/06/18\n05/06/18\n07/06/18\n09/06/18\n12/06/18\n18/06/18\n18/06/18\n19/06/18\n19/06/18\n22/06/18\n26/06/18\n28/06/18\n30/06/18\n02/07/18\n02/07/18\n03/07/18', '1,285.98\n5,000.00\n2,268.00\n5,333.00\n2,820.00\n119.18\n2,284.98\n4,000.00\n11,445.00\n1,315.00\n1,760.00\n1,000.00\n3,756.00', '14,955.00\n7,000.00\n1,500.00\n2,300.00\n156.00\n10,000.00\n3,000.00', '29,064.95\n27,778.97\n22,778.97\n29,778.97\n27,510.97\n29,010.97\n23,677.97\n20,857.97\n20,738.79\n18,453.81\n14,453.81\n16,753.81\n5,308.81\n3,993.81\n2,233.81\n1,233.81\n1,389.81\n11,389.81\n7,633.81\n10,633.81']
+  P1 Table 0: 1 rows x 7 cols | Header: ['05/07/18\n05/07/18\n05/07/18\n05/07/18\n07/07/18\n09/07/18\n09/07/18\n09/07/18\n11/07/18\n18/07/18\n18/07/18\n18/07/18\n21/07/18\n23/07/18\n24/07/18\n24/07/18\n25/07/18\n25/07/18', 'C-XXXXXXXXXX2591-OBC\nEMI 4923306 CHQ S49233060061 0718492330\n6\nIMPS-818616336097-SUMIT DAS-CORP-XXXXXXX\nXXXX8925-EMI K LIY\nREV-IMPS-818616336097-SUMIT DAS-CORP-XXX\nXXXXXXXX8925-EMI K LIY\nGM1TSA/JU0363/19\nEMI 50037630 CHQ S500376300101 071850037\n630\nCASH DEP MIRA ROAD -\nNHDF6468764139/SBI CARDS\nUPI-303702011409044-9307676700@UPI-81901\n4420736-OK\nUPI-303702011409044-9307676700@UPI-81921\n7936299-OK\nACH D- TP ACH HOME-112576758\nMICRO ATM CASH DEP - HDFC\nTHANE MH IN - BNAKMU02\nNEFT DR-VIJB0005051-PANKAJ KUMAR SINGH-N\nETBANK, MUM-N199180589026984-PERSONAL\nPOS 416021XXXXXX8060 APEX MOTORS POS DEB\nIT\nACH D- HOMECRINDFINPVTLTD-38005587800107\nUPI-303702011409044-9307676700@UPI-82051\n0633512-OK\nPOS 416021XXXXXX8060 SHREEJI ENTERPRI PO\nS DEBIT\nPOS 416021XXXXXX8060 DCSIRELIANCE POS DE\nBIT\nIMPS-820619336344-RAMNAYAN KANOJIA-CORP-\nXXXXXXXXXXX1052-PERSONAL', '000000000000000\n0000818616336097\n0000818616336097\n0000807051868009\n000000000000000\n000000000000000\n0000181903930852\n0000819014346293\n0000819217446288\n0000004313235195\n0000000000001108\nN199180589026984\n0000000000007349\n0000004377309864\n0000820510702755\n0000820512528425\n0000N16517087865\n0000820619336344', '05/07/18\n05/07/18\n05/07/18\n05/07/18\n07/07/18\n09/07/18\n09/07/18\n09/07/18\n11/07/18\n18/07/18\n18/07/18\n18/07/18\n21/07/18\n23/07/18\n24/07/18\n24/07/18\n25/07/18\n25/07/18', '2,268.00\n2,000.00\n5,333.00\n35,914.00\n2,284.98\n4,000.00\n763.00\n1,314.00\n399.00\n1,390.00\n4,300.00', '2,000.00\n13,288.00\n22,500.00\n2,500.00\n2,500.00\n10,000.00\n2,300.00', '8,365.81\n6,365.81\n8,365.81\n21,653.81\n16,320.81\n38,820.81\n2,906.81\n5,406.81\n7,906.81\n5,621.83\n15,621.83\n11,621.83\n10,858.83\n9,544.83\n11,844.83\n11,445.83\n10,055.83\n5,755.83']
+  P2 Table 0: 1 rows x 7 cols | Header: ['30/07/18\n31/07/18\n01/08/18\n03/08/18\n04/08/18\n06/08/18\n07/08/18\n07/08/18\n08/08/18\n08/08/18\n11/08/18\n16/08/18\n18/08/18\n21/08/18\n21/08/18\n21/08/18\n22/08/18\n23/08/18\n23/08/18\n31/08/18\n01/09/18', 'IMPS-821120336017-SHIVAM GOND-KKBK-XXXXX\nX4834-PERSONAL\nMICRO ATM CASH DEP - HDFC\nTHANE MH IN - BNAKMU02\nUPI-303702011409044-9307676700@UPI-82131\n4213895-OK\nIB BILLPAY DR-HDFCPE-545964XXXXXX3563\nGM1TSA/JL0330/19\nEMI 4923306 CHQ S49233060071 0818492330\n6\nEMI 50037630 CHQ S500376300111 081850037\n630\nNHDF6557831106/SBI CARDS\nNHDF6559735103/BILLDKVODAFONEINDIAL\nNWD-416021XXXXXX8060-CCCB0004-THANE\nNEFT DR-KKBK0001418-SHIVAM GOND-NETBANK,\nMUM-N223180607585184-PERSONAL\nMICRO ATM CASH DEP - HDFC\nMUMBAI MH IN - BNAKMU29\nACH D- TP ACH HOME-119599954\nIMPS-823317383520-SHIVAM GOND-KKBK-XXXXX\nX4834-PERSONAL\n051030821081813264- CBDT TAX\nIMPS-823317220801-SHIVAM GOND-HDFC-XXXXX\nX4834-MB: REVERSE MONEY TANSFER\nUPI-303702011409044-9307676700@UPI-82341\n5351687-OK\nPOS 416021XXXXXX8060 DCSIRELIANCE POS DE\nBIT\nNHDF6607489313/BILLDKRELIANCEJIOINF\nNWD-416021XXXXXX8060-SB002702-MUMBAI\nFT - CR - 00030340017385 - INDIABULLS HO', '0000821120336017\n0000000000002877\n0000821314187411\nIB03191724869849\n0000808047977825\n000000000000000\n000000000000000\n0000182197318599\n0000182207830254\n0000822017041224\nN223180607585184\n0000000000003449\n0000004814218726\n0000823317383520\nIB21172604934367\n0000823317220801\n0000823415889782\n0000N16604837709\n0000182359815203\n0000824313786518\n0000000000246977', '30/07/18\n31/07/18\n01/08/18\n03/08/18\n04/08/18\n06/08/18\n07/08/18\n07/08/18\n08/08/18\n08/08/18\n13/08/18\n16/08/18\n18/08/18\n21/08/18\n21/08/18\n21/08/18\n22/08/18\n23/08/18\n23/08/18\n31/08/18\n01/09/18', '4,500.00\n1,239.00\n2,268.00\n5,333.00\n3,483.00\n264.32\n500.00\n1,500.00\n2,284.98\n1,200.00\n1,140.00\n1,250.00\n399.00\n500.00', '4,500.00\n5,000.00\n7,664.00\n2,800.00\n1,200.00\n2,300.00\n15,230.39', '1,255.83\n5,755.83\n10,755.83\n9,516.83\n17,180.83\n14,912.83\n9,579.83\n6,096.83\n5,832.51\n5,332.51\n3,832.51\n6,632.51\n4,347.53\n3,147.53\n2,007.53\n3,207.53\n5,507.53\n4,257.53\n3,858.53\n3,358.53\n18,588.92']
+======================================================================
+FILE: New_Data/HDFC_BANK/HDFC_BANK_2.pdf
+Total pages: 10
+--- Page 0 text preview ---
+  Date
+  Narration
+  Chq./Ref.No.
+  Value Dt
+  Withdrawal Amt.
+  Deposit Amt.
+  Closing Balance
+  04/01/16
+  POS 532676XXXXXX3201 R. LAW SERVICE S PO
+  0000000000550406
+  04/01/16
+  100.00
+  398.82
+  S DEBIT
+  04/01/16
+  NEFT CR-SBIN0014517-MR BINAY KUMAR SHAW
+  SBIN516004007390
+  04/01/16
+  2,000.00
+  2,398.82
+  -BINAY KUMAR SHAW-SBIN516004007390
+  04/01/16
+  05301050057021 -TPT-MUKESH
+  00000079522696A1
+  04/01/16
+All IFSCs on p0: ['SBIN0014517', 'SBIN0014517', 'SBIN00CARDS', 'SBIN0003907', 'SBIN0014517', 'SBIN0003907', 'SBIN0014517', 'HDFC0000718']
+  P0 Table 0: 2 rows x 7 cols | Header: ['Date', 'Narration', 'Chq./Ref.No.', 'Value Dt', 'Withdrawal Amt.', 'Deposit Amt.', 'Closing Balance']
+    Row 1: ['04/01/16\n04/01/16\n04/01/16\n04/01/16\n06/01/16\n11/01/16\n11/01/16\n11/01/16\n12/01/16\n12/01/16\n12/01/16\n15/01/16\n19/01/16\n19/01/16\n25/01/16\n25/01/16\n25/01/16\n27/01/16\n28/01/16\n28/01/16\n06/02/16', 'POS 532676XXXXXX3201 R. LAW SERVICE S PO\nS DEBIT\nNEFT CR-SBIN0014517-MR BINAY KUMAR SHAW\n-BINAY KUMAR SHAW-SBIN516004007390\n05301050057021 -TPT-MUKESH\n05301050057021 -TPT-MUKESH\nFUEL SURCHG 532676******3201 DT 04/01/16\nNEFT CR-SBIN0014517-MR BINAY KUMAR SHAW\n-BINAY KUMAR SHAW-SBIN416011598557\nNEFT DR-SBIN00CARDS-SBI CREDIT CARD-NETB\nANK, MUM-N011160121345626\nSALARY-123 STORES E COMMERCE PRIVATE LIM\nITED\nNEFT DR-SBIN0003907-BINAY KUMAR SHAW-NET\nBANK, MUM-N012160121474948\n05301050057021 -TPT-BINAY_2000\n05301050057021 -TPT-BINAY_2000\nREV FUEL SCHG TXN 060116\n05301050053402 -TPT-FUND TRANSFER\nNEFT DR-SBIN0014517-BINAY KUMAR SHAW-NET\nBANK, MUM-N019160122970306\nNEFT CR-SBIN0003907-MR BINAY KUMAR SHAW\n-BINAY KUMAR SHAW-SBIN716025583476\n05301050053402 -TPT-RAJ 2607\nIB BILLPAY DR-HDFCVE-489377XXXXXX2939\nIB BILLPAY DR-HDFCVE-489377XXXXXX2939\nNEFT CR-SBIN0014517-MR BINAY KUMAR SHAW\n-BINAY KUMAR SHAW-SBIN116028790931\nIB BILLPAY DR-HDFCVE-489377XXXXXX2939\nSALARY 123 STORES E COMMERCE PRIVATE LIM', '0000000000550406\nSBIN516004007390\n00000079522696A1\n00000079547680A1\n0000000000550406\nSBIN416011598557\nN011160121345626\n0000000000096388\nN012160121474948\n00000151035855A1\n00000151048818A1\n000000000000000\n00000206996308A1\nN019160122970306\nSBIN716025583476\n00000241858707A1\n000000000000000\n000000000000000\nSBIN116028790931\n000000000000000\n0000000000181733', '04/01/16\n04/01/16\n04/01/16\n04/01/16\n06/01/16\n11/01/16\n12/01/16\n11/01/16\n12/01/16\n12/01/16\n12/01/16\n15/01/16\n19/01/16\n20/01/16\n25/01/16\n25/01/16\n25/01/16\n27/01/16\n28/01/16\n28/01/16\n06/02/16', '100.00\n100.00\n1,900.00\n11.45\n1,600.00\n10,000.00\n21,000.00\n8,000.00\n2,816.71\n1,900.00\n2,078.00', '2,000.00\n2,600.00\n18,396.00\n100.00\n1,900.00\n11.45\n10,000.00\n12,000.00\n2,000.00\n18,396.00', '398.82\n2,398.82\n2,298.82\n398.82\n387.37\n2,987.37\n1,387.37\n19,783.37\n9,783.37\n9,883.37\n11,783.37\n11,794.82\n21,794.82\n794.82\n12,794.82\n4,794.82\n1,978.11\n78.11\n2,078.11\n0.11\n18,396.11']
+  P1 Table 0: 1 rows x 7 cols | Header: ['09/02/16\n09/02/16\n15/02/16\n20/02/16\n23/02/16\n25/02/16\n25/02/16\n25/02/16\n26/02/16\n26/02/16\n29/02/16\n01/03/16\n02/03/16\n02/03/16\n03/03/16\n05/03/16\n06/03/16\n07/03/16\n08/03/16\n09/03/16\n09/03/16', 'ITED\nNEFT DR-SBIN0014517-BINAY KUMAR SHAW-NET\nBANK, MUM-N040160128331728\nNEFT DR-SBIN00CARDS-SBI CREDIT CARD-NETB\nANK, MUM-N040160128323236\nNEFT CHGS INCL ST & CESS 090216\nPOS 532676XXXXXX3201 R. LAW SERVICE S PO\nS DEBIT\nFUEL SURCHG 532676******3201 DT 20/02/16\nREV FUEL SCHG TXN 230216\n05301050053402 -TPT-FUND TRANSFER\nIB BILLPAY DR-HDFCVE-489377XXXXXX2939\nNEFT CR-SBIN0014517-MR BINAY KUMAR SHAW\n-BINAY KUMAR SHAW-SBIN516057415078\n05301050053402 -TPT-FOR HDFC CC\nNEFT DR-UTBI0TOPA23-MANOHARLAL SHAW-NETB\nANK, MUM-N060160132948953\nPOS 532676XXXXXX3201 R. LAW SERVICE S PO\nS DEBIT\nNEFT CR-SBIN0014517-MR BINAY KUMAR SHAW\n-BINAY KUMAR SHAW-SBIN916062986426\n05301050057021 -TPT-MUKESH CC\nFUEL SURCHG 532676******3201 DT 01/03/16\nNEFT CHGS INCL ST & CESS 290216\nPOS 532676XXXXXX3201 R. LAW SERVICE S PO\nS DEBIT\nSALARY 123 STORES E COMMERCE PRIVATE LIM\nITED\nREV FUEL SCHG TXN 030316\nNEFT DR-SBIN00CARDS-SBI CREDIT CARD-NETB\nANK, MUM-N069160136060565\n05301050053402 -TPT-FUND TRANSFER', 'N040160128331728\nN040160128323236\n000000000000000\n0000000000170787\n0000000000170787\n000000000000000\n00000508362746A1\n000000000000000\nSBIN516057415078\n00000517060267A1\nN060160132948953\n0000000000410279\nSBIN916062986426\n00000569129853A1\n0000000000410279\n000000000000000\n0000000000220343\n0000000000181733\n000000000000000\nN069160136060565\n00000635832215A1', '09/02/16\n09/02/16\n15/02/16\n20/02/16\n23/02/16\n25/02/16\n25/02/16\n26/02/16\n26/02/16\n26/02/16\n01/03/16\n01/03/16\n02/03/16\n02/03/16\n03/03/16\n05/03/16\n06/03/16\n07/03/16\n08/03/16\n09/03/16\n09/03/16', '16,000.00\n1,946.00\n8.59\n200.00\n11.45\n2,712.86\n3,000.00\n100.00\n150.00\n2,000.00\n11.45\n2.86\n150.00\n1,600.00', '11.45\n3,000.00\n3,000.00\n2,000.00\n18,396.00\n11.45\n5,000.00', '2,396.11\n450.11\n441.52\n241.52\n230.07\n241.52\n3,241.52\n528.66\n3,528.66\n528.66\n428.66\n278.66\n2,278.66\n278.66\n267.21\n264.35\n114.35\n18,510.35\n18,521.80\n16,921.80\n21,921.80']
+  P2 Table 0: 1 rows x 7 cols | Header: ['09/03/16\n09/03/16\n09/03/16\n11/03/16\n11/03/16\n11/03/16\n14/03/16\n14/03/16\n16/03/16\n19/03/16\n21/03/16\n24/03/16\n24/03/16\n24/03/16\n31/03/16\n31/03/16\n01/04/16\n01/04/16\n01/04/16\n03/04/16\n04/04/16\n07/04/16\n08/04/16', '05301050057021 -TPT-TRANSFER\nNEFT DR-SBIN0003907-BINAY KUMAR SHAW-NET\nBANK, MUM-N069160136107940\nFUEL SURCHG 532676******3201 DT 06/03/16\nIMPS-P2A-607115555786-919007318609-INETI\nMPS00006455875\n05301050057021 -TPT-FOR 3242\n05301050053402 -TPT-FOR 3242\nREV FUEL SCHG TXN 090316\nNEFT CHGS INCL ST & CESS 090316\n05301050053402 -TPT-FUND TRANSFER TO RA\nJ\nNEFT DR-SBIN0014517-BINAY KUMAR SHAW-NET\nBANK, MUM-N079160138615026\nNEFT CHGS INCL ST & CESS 190316\nNEFT CR-SBIN0003907-MR BINAY KUMAR SHAW\n-BINAY KUMAR SHAW-SBIN916084452989\n05301050057021 -TPT-CASH ON 03.24.2016\nIB BILLPAY DR-HDFCVE-489377XXXXXX2939\nNEFT CR-SBIN0003907-MR BINAY KUMAR SHAW\n-BINAY KUMAR SHAW-SBIN516091134475\n05301050053402 -TPT-TO RAJ\nCREDIT INTEREST CAPITALISED\n05301050053402 -TPT-FUND TRANSFER\nPOS 532676XXXXXX3201 BY PASS SERVICES PO\nS DEBIT\nNEFT DR-SBIN00CARDS-SBI CREDIT CARD-NETB\nANK, MUM-N094160142206099\nFUEL SURCHG 532676******3201 DT 01/04/16\nNEFT DR-SBIN00CARDS-SBI CREDIT CARD-NETB\nANK, MUM-N098160143977398\nSALARY 123 STORES E COMMERCE PRIVATE LIM', '00000635857869A1\nN069160136107940\n0000000000220343\n0000607115555786\n00000656419600A1\n00000656419602A1\n000000000000000\n000000000000000\n00000696406810A1\nN079160138615026\n000000000000000\nSBIN916084452989\n00000763248861A1\n000000000000000\nSBIN516091134475\n00000825373447A1\n000000000000000\n00000838004024A1\n0000000000462889\nN094160142206099\n0000000000462889\nN098160143977398\n0000000000181733', '09/03/16\n09/03/16\n09/03/16\n11/03/16\n11/03/16\n11/03/16\n14/03/16\n14/03/16\n16/03/16\n19/03/16\n21/03/16\n24/03/16\n24/03/16\n24/03/16\n31/03/16\n31/03/16\n31/03/16\n01/04/16\n01/04/16\n04/04/16\n04/04/16\n07/04/16\n08/04/16', '23,000.00\n11.45\n2,000.00\n5,000.00\n8.59\n2,000.00\n4,900.00\n2.86\n3,000.00\n5,000.00\n200.00\n500.00\n11.45\n1,600.00', '2,000.00\n13,000.00\n11.45\n2,500.00\n800.00\n5,000.00\n79.00\n5,000.00\n18,396.00', '23,921.80\n921.80\n910.35\n13,910.35\n11,910.35\n6,910.35\n6,921.80\n6,913.21\n4,913.21\n13.21\n10.35\n2,510.35\n3,310.35\n310.35\n5,310.35\n310.35\n389.35\n5,389.35\n5,189.35\n4,689.35\n4,677.90\n3,077.90\n21,473.90']
+======================================================================
+FILE: New_Data/HDFC_BANK/HDFC_BANK_3.pdf
+Total pages: 54
+--- Page 0 text preview ---
+  Date
+  Narration
+  Chq./Ref.No.
+  Value Dt
+  Withdrawal Amt.
+  Deposit Amt.
+  Closing Balance
+  01/10/23
+  UPI-SHIV SHAKTI UNIYAL-9410343792@YBL-SB
+  0000327495572710
+  01/10/23
+  120.00
+  39,431.53
+  IN0000701-327495572710-UPI
+  01/10/23
+  UPI-JAGJOT SINGH-GS206327@OKHDFCBANK-HDF
+  0000327429748458
+  01/10/23
+  22,000.00
+  61,431.53
+  C0004110-327429748458-UPI
+  01/10/23
+  UPI-SUKHVINDER SINGH-SUKHVINDER05@AXL-S
+  0000327427336652
+  01/10/23
+All IFSCs on p0: ['SBIN0003480', 'ICIC0000913', 'PUNB0120900', 'ICIC0DC0099', 'PUNB0107200', 'HDFC0009588']
+  P0 Table 0: 2 rows x 7 cols | Header: ['Date', 'Narration', 'Chq./Ref.No.', 'Value Dt', 'Withdrawal Amt.', 'Deposit Amt.', 'Closing Balance']
+    Row 1: ['01/10/23\n01/10/23\n01/10/23\n02/10/23\n02/10/23\n03/10/23\n03/10/23\n03/10/23\n04/10/23\n04/10/23\n04/10/23\n06/10/23\n06/10/23\n06/10/23', 'UPI-SHIV SHAKTI UNIYAL-9410343792@YBL-SB\nIN0000701-327495572710-UPI\nUPI-JAGJOT SINGH-GS206327@OKHDFCBANK-HDF\nC0004110-327429748458-UPI\nUPI-SUKHVINDER SINGH-SUKHVINDER05@AXL-S\nBIN0003853-327427336652-UPI\nUPI-RIJU KUNDU-RIJUKUNDU763@OKICICI-ICIC\n0000913-364148253629-UPI\nUPI-RAVIKANT RAVIKANT-2020RAVIKANTKANDH\nIYAL@OKHDFCBANK-SBIN0003480-327565881777\n-UPI\nUPI-NIHAL SINGH NAGARKOT-NIHALSINGH33377\n7@OKICICI-ICIC0000913-327692111970-UPI\nUPI-JAGJOT SINGH-GS206327@OKHDFCBANK-HDF\nC0004110-327684686984-UPI\nUPI-GUDIYA KUMARI-BK4436747-1@OKHDFCBANK\n-PUNB0120900-327621879848-UPI\nUPI-EURONETGPAY-EURONETGPAY.RCH@ICICI-IC\nIC0DC0099-327744936151-UPI\nUPI-EURONETGPAY-EURONETGPAY.RCH@ICICI-IC\nIC0DC0099-327746446570-UPI\nUPI-MAM CHAND YADAV-8439224334@YBL-SBIN0\n005945-327754974095-UPI\nUPI-BILLDESKTEZ-BILLDESK.RECHARGE@ICICI-\nICIC0DC0099-327922914909-UPI\nUPI-MAM CHAND YADAV-8439224334@YBL-SBIN0\n005945-327928186305-UPI\nUPI-ANURAG\nSHARMA-ANURAGSHARMA2448@OKHDF\nCBANK-PUNB0107200-327938685679-UPI', '0000327495572710\n0000327429748458\n0000327427336652\n0000364148253629\n0000327565881777\n0000327692111970\n0000327684686984\n0000327621879848\n0000327744936151\n0000327746446570\n0000327754974095\n0000327922914909\n0000327928186305\n0000327938685679', '01/10/23\n01/10/23\n01/10/23\n02/10/23\n02/10/23\n03/10/23\n03/10/23\n03/10/23\n04/10/23\n04/10/23\n04/10/23\n06/10/23\n06/10/23\n06/10/23', '120.00\n45,000.00\n100.00\n600.00\n65.00\n49.00\n95.00\n49.00\n70.00\n1,000.00', '22,000.00\n10.00\n1,000.00\n3,500.00', '39,431.53\n61,431.53\n16,431.53\n16,441.53\n17,441.53\n17,341.53\n20,841.53\n20,241.53\n20,176.53\n20,127.53\n20,032.53\n19,983.53\n19,913.53\n18,913.53']
+  P1 Table 0: 1 rows x 7 cols | Header: ['07/10/23\n07/10/23\n07/10/23\n08/10/23\n08/10/23\n08/10/23\n08/10/23\n08/10/23\n09/10/23\n10/10/23\n10/10/23\n10/10/23\n10/10/23\n10/10/23\n10/10/23\n10/10/23\n10/10/23', 'UPI-RIJU KUNDU-RIJUKUNDU763@OKICICI-ICIC\n0000913-364672277318-UPI\nEMI 144049675 CHQ S1440496750011 1023144\n049675\nUPI-PANKAJ-PAYTMQR2810050501011D6QMJHN0J\nMG@PAYTM-PYTM0123456-328079258859-UPI\nUPI-MANNAT SAMALKHA-PAYTMQR281005050101K\nXIKKI5ZZSSV@PAYTM-PYTM0123456-3281165075\n94-UPI\nUPI-VIJAY NAGPAL-Q408428603@YBL-YESB0YB\nLUPI-328117802568-UPI\nUPI-MOHD ARIPHIN-9997123386@IBL-KKBK000\n0958-328121685466-UPI\nUPI-ARUN KUMAR SO AMARDE-7088171253@AXL-\nPUNB0370400-328133302735-UPI\nUPI-GOOGLE INDIA DIGITAL-GPAYBILLPAY.RCH\nG2@AXISBANK-UTIB0000553-328138557115-UPI\nIMPS-328222032250-FLIPKART INTERNET PV-I\nCIC-XXXXXXXX0602-FT231009224455213556\nUPI-MAM CHAND YADAV-8439224334@YBL-SBIN0\n005945-328318439025-UPI\nACH D- TP ACH ABL-1094622733\nACH D- TP ACH ABL-1094622733\nUPI-PRACHI CHAUHAN-8755546723@AXL-SBIN0\n008001-328321409150-UPI\nUPI-PRACHI GULERIA-GULERIAPRACHI08@OKAXI\nS-PUNB0221410-328321792618-UPI\nUPI-SACHIN CHAUHAN-SACHINCHAUHAN113197@O\nKHDFCBANK-PUNB0107200-328327064011-UPI\nUPI-SURINDERPAL SINGH-8427599264@ICICI-I\nCIC0000913-328334455619-UPI\nUPI-EURONETGPAY-EURONETGPAY.RCH@ICICI-IC', '0000364672277318\n000000000000000\n0000328079258859\n0000328116507594\n0000328117802568\n0000328121685466\n0000328133302735\n0000328138557115\n0000328222032250\n0000328318439025\n0000006335515658\n0000006335515658\n0000328321409150\n0000328321792618\n0000328327064011\n0000328334455619\n0000328341984816', '07/10/23\n07/10/23\n07/10/23\n08/10/23\n08/10/23\n08/10/23\n08/10/23\n08/10/23\n09/10/23\n10/10/23\n10/10/23\n10/10/23\n10/10/23\n10/10/23\n10/10/23\n10/10/23\n10/10/23', '8,034.00\n40.00\n143.00\n40.00\n395.00\n5,243.00\n29.00\n20.00\n11,696.00\n200.00\n40.00\n19.00', '30.00\n5,242.00\n11,696.00\n200.00\n20,000.00', '18,943.53\n10,909.53\n10,869.53\n10,726.53\n10,686.53\n10,291.53\n5,048.53\n5,019.53\n10,261.53\n10,241.53\n-1,454.47\n10,241.53\n10,041.53\n10,241.53\n30,241.53\n30,201.53\n30,182.53']
+  P2 Table 0: 1 rows x 7 cols | Header: ['10/10/23\n10/10/23\n11/10/23\n11/10/23\n11/10/23\n11/10/23\n11/10/23\n11/10/23\n12/10/23\n12/10/23\n12/10/23\n12/10/23\n13/10/23\n13/10/23', 'IC0DC0099-328341984816-UPI\nUPI-AMIT SINGH-NEELAMSARAIN22@OKSBI-PUNB\n0060900-328343179360-UPI\nUPI-RAVI KUMAR S O MAHIP-PAYTMQR28100505\n0101HAL5VUV6YXP4@PAYTM-PYTM0123456-32834\n9993806-UPI\nUPI-NIPUN KHANDELWAL S O-BHARATPE.900535\n87480@FBPE-FDRL0001382-328463996678-PAY\nTO BHARATPE ME\nUPI-RAJESH KUMAR\nGUPTA-PAYTMQR1MAKH4KH6F\n@PAYTM-PYTM0123456-328464343197-UPI\nUPI-SAGAR KUMAR SO JAYPR-PAYTMQR28100505\n01011WE6XNHESV6R@PAYTM-PYTM0123456-32846\n6121778-UPI\nACH D- HCREFINSERLTD-A2307070267\nUPI-UZMA-Q687567314@YBL-YESB0YBLUPI-3284\n79189834-UPI\nUPI-KOUSICK GHOSH-7501474908@AXL-ICIC000\n0913-328482965131-UPI\nUPI-SHAMA PRAVEEN-PAYTMQR2810050501011BK\nJ3LK1I569@PAYTM-PYTM0123456-328599395485\n-UPI\nUPI-PRIYANSU NEGI-PRIYANSUNEGI21@OKICICI\n-ICIC0000913-328535705645-UPI\nUPI-NAVPREET SINGH-ITSNAVE96@OKICICI-ICI\nC0000913-328538404863-UPI\nUPI-RAMTHLENGLIANA -RTLIANA92@OKSBI-SBI\nN0007058-328538429493-UPI\n50100362689361-TPT-GG-JAGJOT SINGH\nUPI-M S NEW VARDHMAN SPO-BAJAJPAY.687972\n9.00229030@INDUS-INDB0002201-32866664107', '0000328343179360\n0000328349993806\n0000328463996678\n0000328464343197\n0000328466121778\n0000008004849284\n0000328479189834\n0000328482965131\n0000328599395485\n0000328535705645\n0000328538404863\n0000328538429493\n0000000118346824\n0000328666641079', '10/10/23\n10/10/23\n11/10/23\n11/10/23\n11/10/23\n11/10/23\n11/10/23\n11/10/23\n12/10/23\n12/10/23\n12/10/23\n12/10/23\n13/10/23\n13/10/23', '4,050.00\n50.00\n430.00\n40.00\n375.00\n5,000.00\n40.00\n50.00\n80.00\n250.00\n200.00\n40.00\n950.00', '50,000.00', '26,132.53\n26,082.53\n25,652.53\n25,612.53\n25,237.53\n20,237.53\n20,197.53\n20,147.53\n20,067.53\n19,817.53\n19,617.53\n19,577.53\n69,577.53\n68,627.53']
+======================================================================
+FILE: New_Data/HDFC_BANK/HDFC_BANK_4.pdf
+Total pages: 221
+--- Page 0 text preview ---
+  HDFC BANK LIMITED
+  *Closing Balance includes funds earmarked for hold and uncleared funds.
+  Contents of this statement will be considered correct if no error reported with in 30 days of receipt of statement
+  HDFC service Tax Registration Number : M-IV/ST/BANK & Other Services/20/2001
+  Registered office Address:HDFC Bank House, Senapati Bapat Marg. Lower Parel, Mumbai-400013
+  03-May-2021 10:38:30
+  Page 1
+  Statement of Account For Period: 01-Apr-2024 to 30-Apr-2024
+  Account Number: 59265050505050
+  Currency: INR
+  Transaction
+  Date
+  Transaction
+  Description
+  Reference No.
+  Value Date
+  Debit Amount
+  Credit Amount
+  Closing Balance
+  01-Apr-2024
+  IMPS-
+  109111569668-
+  RAMESH
+  ASSOCIATES-
+  HDFC-
+All IFSCs on p0: ['HDFC000000X', 'ICIC0000009']
+  P0 Table 0: 11 rows x 7 cols | Header: ['Transaction\nDate', 'Transaction\nDescription', 'Reference No.', 'Value Date', 'Debit Amount', 'Credit Amount', 'Closing Balance']
+    Row 1: ['01-Apr-2024', 'IMPS-\n109111569668-\nRAMESH\nASSOCIATES-\nHDFC-\nxxxxxxxx7002-\nSunxconcreteind', '109111569668', '01-Apr-2021', '', '76,800.00', '12,502,251.19']
+    Row 2: ['01-Apr-2024', 'FT -\nHDFC000000X -\nC72868010421082\n509 - -\n59266060606060\n- SUN-X\nCONCRETE INDIA\nPRIVATE LIMITED', '125407852', '01-Apr-2024', '1,720,000.00', '', '10,782,251.19']
+  P1 Table 0: 14 rows x 7 cols | Header: ['Transaction\nDate', 'Transaction\nDescription', 'Reference No.', 'Value Date', 'Debit Amount', 'Credit Amount', 'Closing Balance']
+    Row 1: ['02-Apr-2021', 'NEFT Cr-\nCIUB0000381-\nULAGAMMAI A-\nSunx Concrete\nIndia Pvt Ltd-\nCIUBH2109100311\n2', 'CIUBH2109100311\n2', '02-Apr-2021', '', '137,500.00', '10,643,640.19']
+    Row 2: ['02-Apr-2021', 'Chq Paid-MICR\nCTS-CH-ICICI\nBANK LTD', '000000000118', '02-Apr-2021', '143,002.00', '', '10,500,638.19']
+  P2 Table 0: 13 rows x 7 cols | Header: ['Transaction\nDate', 'Transaction\nDescription', 'Reference No.', 'Value Date', 'Debit Amount', 'Credit Amount', 'Closing Balance']
+    Row 1: ['03-Apr-2021', 'NEFT -\nBARB0TAMBAR -\nRENT -\n26320500000043\n- SHRI CHENNAI\nMINES', 'N09321146150941\n8', '03-Apr-2021', '33,150.00', '', '12,070,160.19']
+    Row 2: ['03-Apr-2021', 'FT - ADVANCE -\n59210030303030\n- ALTURAS INFRA\nPRIVATE LIMITED', '125498317', '03-Apr-2021', '1,000,000.00', '', '11,070,160.19']
+======================================================================
+FILE: New_Data/HDFC_BANK/HDFC_BANK_5.pdf
+Total pages: 137
+--- Page 0 text preview ---
+  Date
+  Narration
+  Chq./Ref.No.
+  Value Dt
+  Withdrawal Amt.
+  Deposit Amt.
+  Closing Balance
+  21/06/22 FT - HDFC000000X - C72669210622141458 -
+  0000000224654931 21/06/22
+  2,300,000.00
+  5,723,961.97
+  - 50100510589139 - BOLLEPOGU SAIDULU
+  21/06/22 RTGS DR-ICIC0000684-S S EARTHMOVERS-CBX
+  HDFCR52022062176961314 21/06/22
+  1,000,000.00
+  4,723,961.97
+  INTERNET-HDFCR52022062176961314-CAT 323
+  PRAFULA ADV
+  21/06/22 RTGS DR-ICIC0000684-S S EARTHMOVERS-CBX
+  HDFCR52022062176995480 21/06/22
+  3,600,000.00
+  1,123,961.97
+  INTERNET-HDFCR52022062176995480-ADV 323D
+  3 PRAFULA
+  21/06/22 50200058955039-TPT-USED HAMM CLEAR-STAND
+All IFSCs on p0: ['HDFC000000X', 'ICIC0000684', 'ICIC0000684', 'HDFC000000X', 'ATPE0989374', 'YESB0YESUPI', 'PYTM0123456', 'KKBK0007489', 'YESB0000001', 'HDFC0001031']
+  P0 Table 0: 2 rows x 7 cols | Header: ['Date', 'Narration', 'Chq./Ref.No.', 'Value Dt', 'Withdrawal Amt.', 'Deposit Amt.', 'Closing Balance']
+    Row 1: ['21/06/22\n21/06/22\n21/06/22\n21/06/22\n21/06/22\n22/06/22\n22/06/22\n22/06/22\n23/06/22\n24/06/22\n24/06/22\n24/06/22\n27/06/22', 'FT - HDFC000000X - C72669210622141458 -\n- 50100510589139 - BOLLEPOGU SAIDULU\nRTGS DR-ICIC0000684-S S EARTHMOVERS-CBX HD\nINTERNET-HDFCR52022062176961314-CAT 323\nPRAFULA ADV\nRTGS DR-ICIC0000684-S S EARTHMOVERS-CBX HD\nINTERNET-HDFCR52022062176995480-ADV 323D\n3 PRAFULA\n50200058955039-TPT-USED HAMM CLEAR-STAND\nARD EARTH MOOVERS\n50200058955039-TPT-TRACTRO GRADER CLEAR-\nSTANDARD EARTH MOOVERS\nUPI-BILLDESK-BILLDESK@HDFCBANK-HDFC00004\n99-217338731582-SBICARD\nFT - HDFC000000X - C78163220622105819 -\n- 50100510589139 - BOLLEPOGU SAIDULU\nUPI-LALWANIS EXTENSION-BHARATPE098937491\n11@YESBANKLTD-YESB0YESUPI-217385375685-P\nAY TO LALWANIS EX\nUPI-RAVINDRA BHARATHI SC-PAYTMQR28100505\n0101194K17XJC1PW@PAYTM-PYTM0123456-21740\n5573378-BOOKS AFFAAN\n59209916533323-TPT-INTERNAL-CRESCENT INF\nRA\nUPI-MOHAMMED PASHA-9063512151@YBL-HDFC00\n01031-217525899007-HL\nRTGS DR-KKBK0007489-YATHAKULA GOPI-CBX I HD\nNTERNET-HDFCR52022062477716123-ADV JS205\nAC\nRTGS CR-YESB0000001-JINKUSHAL INDUSTRIES YE', '0000000224654931\nFCR52022062176961314\nFCR52022062176995480\n0000000148795555\n0000000148834629\n0000217338731582\n0000000224941565\n0000217385375685\n0000217405573378\n0000000297505287\n0000217525899007\nFCR52022062477716123\nSBR52022062793638850', '21/06/22\n21/06/22\n21/06/22\n21/06/22\n21/06/22\n22/06/22\n22/06/22\n22/06/22\n23/06/22\n24/06/22\n24/06/22\n24/06/22\n27/06/22', '2,300,000.00\n1,000,000.00\n3,600,000.00\n7,169.00\n1,200,000.00\n945.00\n7,800.00\n200,000.00\n15,000.00\n1,000,000.00', '800,000.00\n944,000.00\n10,000,000.00', '5,723,961.97\n4,723,961.97\n1,123,961.97\n1,923,961.97\n2,867,961.97\n2,860,792.97\n1,660,792.97\n1,659,847.97\n1,652,047.97\n1,452,047.97\n1,437,047.97\n437,047.97\n10,437,047.97']
+  P1 Table 0: 1 rows x 7 cols | Header: ['28/06/22\n28/06/22\n28/06/22\n28/06/22\n28/06/22\n29/06/22\n29/06/22\n29/06/22\n30/06/22\n30/06/22\n01/07/22\n01/07/22', 'PRIVATE LIMITE-AHMEDS CONSTRUCTION EQUI\nPMENTS-YESBR52022062793638850\n59209916533323-TPT-RETURN 10JUN2022-CRES\nCENT INFRA\n50200058955039-TPT-INTERNAL-STANDARD EAR\nTH MOOVERS\nRTGS DR-IDFB0080218-AJZ GESCHAFT TRADERS HD\n-CBX INTERNET-HDFCR52022062878453791-CLE\nAR TILL DATE\nRTGS DR-KKBK0007489-YATHAKULA GOPI-CBX I HD\nNTERNET-HDFCR52022062878459830-ADV JS205\nAC\nFT - HDFC000000X - C75374280622194632 -\n- 50100455931176 - MANJUNATH RATHOD\nRTGS CR-KKBK0000958-AHMEDS CONSTRUCTION KK\nEQUIPMENTS-AHMEDS CONSTRUCTION EQUIPMENT\n-KKBKR52022062900807815\n50200058955039-TPT-INTERNAL-STANDARD EAR\nTH MOOVERS\nUPI-RAVINDRA BHARATHI SC-PAYTMQR28100505\n0101P0K0RIBH3BQ7@PAYTM-PYTM0123456-21806\n0399241-AIYMAAN BOOKS\nNEFT CR-UBIN0817856-LAVANYA CONSTRUCTIO\nNS-AHNEDS CONSTRUCTION EQUIPMENTS-000593\n636272\nIMPS - KVBL0004825 - C75452300622200419\n- - 4825135000004977 - SATHYA SAI\nUPI-XXXXXX3235-KVBL0000001-218290098522-\nTIPPER TYRE\nRTGS CR-YESB0000006-SHAIK MOHD MAHBOOB-A YE\nHMEDS CONSTRUCTION EQUIPMENTS-YESBR52022\n070193810868', '0000000166129851\n0000000174410578\nFCR52022062878453791\nFCR52022062878459830\n0000000226708143\nBKR52022062900807815\n0000000295994093\n0000218060399241\n0000000593636272\n0000218120492653\n0000218290098522\nSBR52022070193810868', '28/06/22\n28/06/22\n28/06/22\n28/06/22\n28/06/22\n29/06/22\n29/06/22\n29/06/22\n30/06/22\n30/06/22\n01/07/22\n01/07/22', '1,000,000.00\n2,200,000.00\n4,840,000.00\n1,500,000.00\n500,000.00\n100,000.00\n8,300.00\n75,000.00\n53,000.00', '200,000.00\n75,000.00\n7,592,400.00', '9,437,047.97\n7,237,047.97\n2,397,047.97\n897,047.97\n397,047.97\n597,047.97\n497,047.97\n488,747.97\n563,747.97\n488,747.97\n435,747.97\n8,028,147.97']
+  P2 Table 0: 1 rows x 7 cols | Header: ['01/07/22\n01/07/22\n02/07/22\n02/07/22\n02/07/22\n02/07/22\n02/07/22\n02/07/22\n03/07/22\n03/07/22\n04/07/22\n04/07/22\n04/07/22', 'RTGS DR-BARB0VJSEDA-MANJUNATH-CBX INTERNHD\nET-HDFCR52022070179388469-MANJUNATH R210\nADV\nRTGS DR-BARB0VJSEDA-MANJUNATH-CBX INTERNHD\nET-HDFCR52022070179451060-MANJUNATH R210\nCLEAR\nRTGS DR-SBIN0002927-JAI MAA KALI CONSTRU HD\nCTION-CBX INTERNET-HDFCR5202207027949849\n3-MMR CAT 323\nUPI-SANTOSH GOUD-9131219811@YBL-SBIN003\n0089-218355561778-BALRAJ ANNA\nUPI-SHIVKUMAR NARSINGRA-9731219811@YBL-\nPUNB0500000-218373023943-BALRAJ ANNA\nRTGS DR-KKBK0007489-YATHAKULA GOPI-CBX I HD\nNTERNET-HDFCR52022070279636947-ADV JS205\nAC\nIMPS-218318377214-SATHYA SAI-KVBL-XXXXXX\nXXXXXX4977-ATEEQ BHAIY\nUPI-MOHAMMED BASEER\nQURE-BASEERMOHD156@Y\nBL-PYTM0123456-218301511748-BEEF\nIMPS-218415395101-KHAJA MOHD ATEEQ AHMED\n-SBIN-XXXXXXX2690-HL\nUPI-ZEE5-ZEE5@PAYTM-PYTM0123456-21842713\n4529-PAYMENT FROM PHONE\nRTGS CR-IDFB0010201-MKN CO-AHMEDS CONST ID\nRUCTION EQUIPMENTS-IDFBR5202207030067491\n1\nFT - HDFC000000X - C79920040722115925 -\n- 50200043889015 - AMLESH YADAV\nRTGS DR-ICIC0000684-S S EARTHMOVERS-CBX HD\nINTERNET-HDFCR52022070479735340-MMR 323', 'FCR52022070179388469\nFCR52022070179451060\nFCR52022070279498493\n0000218355561778\n0000218373023943\nFCR52022070279636947\n0000218318377214\n0000218301511748\n0000218415395101\n0000218427134529\nFBR52022070300674911\n0000000228708330\nFCR52022070479735340', '01/07/22\n01/07/22\n02/07/22\n02/07/22\n02/07/22\n02/07/22\n02/07/22\n02/07/22\n03/07/22\n03/07/22\n04/07/22\n04/07/22\n04/07/22', '2,100,000.00\n3,050,000.00\n2,000,000.00\n2,000.00\n2,000.00\n500,000.00\n480.00\n50,000.00\n599.00\n2,000,000.00\n1,500,000.00', '75,000.00\n7,000,000.00', '5,928,147.97\n2,878,147.97\n878,147.97\n876,147.97\n874,147.97\n374,147.97\n449,147.97\n448,667.97\n398,667.97\n398,068.97\n7,398,068.97\n5,398,068.97\n3,898,068.97']
+======================================================================
+FILE: New_Data/PNB_BANK/PNB_BANK.pdf
+Total pages: 10
+--- Page 0 text preview ---
+  Account Statement For Account:4500000100076050
+  Branch Details
+  Branch Name:
+  SHIMLA,HP SECRETARIAT
+  HP
+  Bank Address:
+  SHIMLA,HP SECRETARIAT
+  City:
+  SHIMLA
+  Pin:
+  171002
+  IFSC Code:
+  PUNB0458800
+  MICR Code :
+  Customer Details
+  Customer Name:
+  DEEPIKA SHARMA D/O SH  P N SHARMA
+  Joint Account Holder 1:
+  Joint Account Holder 2:
+  Joint Account Holder 3:
+  Customer Address:
+  HARIHAR BHAWAN , SET NO-5, KANLOG
+  SHIMLA
+  City:
+  SHIMLA
+All IFSCs on p0: ['PUNB0458800', 'PUNB0000000', 'NACH0000000', 'ucba0000902']
+  P0 Table 0: 12 rows x 6 cols | Header: ['Transaction\nDate', 'Cheque\nNumber', 'Withdrawal', 'Deposit', 'Balance', 'Narration']
+    Row 1: ['18/11/2020', '', '118.00', '', '3,914.13 Cr.', 'PUNB0000000011195009MANDATE CHRGS']
+    Row 2: ['17/11/2020', '232505', '14,238.00', '', '4,032.13 Cr.', 'HDFC Ltd Ludhiana']
+  P1 Table 0: 27 rows x 6 cols | Header: ['10/11/2020', '', '', '1,000.00', '1,687.13 Cr.', 'IMPS-IN/031514724523/9816318959/Deepika']
+    Row 1: ['10/11/2020', '', '300.00', '', '687.13 Cr.', 'UPI/031514017676/P2M/hdfcltdqr@icici/HDFC Home\nLoa']
+    Row 2: ['10/11/2020', '', '2,899.00', '', '987.13 Cr.', 'UPI/031514345299/P2M/mynlogistics@ybl/MYNTRA']
+  P2 Table 0: 26 rows x 6 cols | Header: ['19/10/2020', '', '900.00', '', '592.13 Cr.', 'UPI/029314309537/P2V/sradhe918@oksbi/RADHE\nSHYAM']
+    Row 1: ['19/10/2020', '', '', '1,400.00', '1,492.13 Cr.', 'BY CASH -450000']
+    Row 2: ['19/10/2020', '', '', '5.00', '92.13 Cr.', 'UPI/029313475499/P2V/goog-\npayment@okaxis/GOOGLEPAY']
+======================================================================
+FILE: New_Data/PNB_BANK/PNB_BANK_2.pdf
+Total pages: 1
+--- Page 0 text preview ---
+All IFSCs on p0: []
+  P0: No fitz tables
+======================================================================
+FILE: New_Data/PNB_BANK/PNB_BANK_3.pdf
+Total pages: 2
+--- Page 0 text preview ---
+  Statement of Account No: 11482191021884
+  Customer Name:
+  Statement for Period : 01-04-2022 to 31-03-2023
+  NEHA CHOWDHARY
+  DUPLEX NO 09
+  VINAYAK PURAM JHARSUGUDA, ORISSA
+  ODISHA 768201
+  Customer Address:
+  PUNB0221800
+  IFSC Code:
+  768024201
+  MICR Code:
+  DATE: Sep 25, 2023 5:11:12 PM
+  JHANDA CHOWK,PO/DIST
+  JHARSUGUDA ODISHA
+  JHARSUGUDA, ORISSA 768201
+  Branch Address:
+  Printed By: 5166074
+  Acct Currency:
+  INR
+  Customer Care No.:
+  06645-274161/272652
+  1800 1800/1800 2021
+  Branch Contact No.:
+  Date
+All IFSCs on p0: ['PUNB0221800', 'SBIN0010134', 'HDFC0000001', 'HDFC0000001', 'HDFC0000001', 'HDFC0000001', 'HDFC0000001', 'HDFC0000001', 'HDFC0000001', 'HDFC0000001', 'HDFC0000001', 'HDFC0000001', 'HDFC0000001']
+  P0 Table 0: 32 rows x 7 cols | Header: ['Date', 'Withdrawal', 'Deposit', 'Balance', 'Alpha', 'CHQ. NO.', 'Narration']
+    Row 1: ['', '', '', '', '', '', '']
+    Row 2: ['03-04-2022', '17.70', '', '397707.97 Cr.', '', '', 'SMS CHRG FOR:01-01-2022to31-03']
+  P1 Table 0: 24 rows x 7 cols | Header: ['Date', 'Withdrawal', 'Deposit', 'Balance', 'Alpha', 'CHQ. NO.', 'Narration']
+    Row 1: ['27-10-2022', '400000.00', '', '21658.67 Cr.', 'IDD', '452951', 'RTGS To : PUNBR5202210271772745102717727451/SHREE SHYAM']
+    Row 2: ['31-10-2022', '', '100000.00', '121658.67 Cr.', '', '', 'NEFT IN:N304222184270397:SALASAR FUELS:HDFC0000001:50200045655662']
+  P1 Table 1: 1 rows x 3 cols | Header: ['Page Total', '1141093.9', '763954.36']
+  P1 Table 2: 1 rows x 3 cols | Header: ['Grand', '4022115.9', '3668909.36']
+======================================================================
+FILE: New_Data/PNB_BANK/PNB_BANK_4.pdf
+Total pages: 6
+--- Page 0 text preview ---
+  Account Statement for the Account: 10222041000291
+  Branch Details:
+  Branch Name:           LADNUN
+  Branch Address:       JAIN WISWA BHARTI INST
+  City:                                  LADNU
+  Pin:                              341306
+  IFSC Code:                PUNB0102710
+  Customer Details:
+  Customer Name:      SAGRAMA RAM
+  Customer Address:    VILLAGE HEERAWATI TEHSIL LADNUN NAGUAR
+  City:                                   LADNUN, DIST NAGAURRAJ
+  Pin:                              341316
+  Statement For: 2025/04/01 to 2025/09/29
+  Transaction
+  Date
+  Cheque
+  Number
+  Withdrawal
+  Deposit
+  Balance
+  Narration
+  29/09/2025
+  10110.00
+  1730595.00 Cr. IMPS/P2A/130613100673/geetu/
+  INDIANO/X022835/
+All IFSCs on p0: ['PUNB0102710']
+  P0 Table 0: 13 rows x 6 cols | Header: ['Transaction', 'Cheque', 'Withdrawal', 'Deposit', 'Balance', 'Narration']
+    Row 1: ['Date', 'Number', '', '', '', '']
+    Row 2: ['29/09/2025', '', '10110.00', '', '1730595.00 Cr.', 'IMPS/P2A/130613100673/geetu/\nINDIANO/X022835/']
+  P1 Table 0: 25 rows x 6 cols | Header: ['Transaction\nDate', 'Cheque\nNumber', 'Withdrawal', 'Deposit', 'Balance', 'Narration']
+    Row 1: ['09/09/2025', '', '', '250.00', '1825705.00 Cr.', 'NEFT/SBIN232024476644/\nCHANDIGARH*UNIV/SAUNEFT']
+    Row 2: ['05/09/2025', '', '6000.00', '', '1825455.00 Cr.', 'UPI/P2A/128331613027/ISHAR\nSIN/Axis Bank/UPI']
+  P2 Table 0: 25 rows x 6 cols | Header: ['Transaction\nDate', 'Cheque\nNumber', 'Withdrawal', 'Deposit', 'Balance', 'Narration']
+    Row 1: ['28/07/2025', '', '3100.00', '', '1718178.00 Cr.', 'UPI/P2A/128331613027/ISHAR\nSIN/Axis Bank/UPI']
+    Row 2: ['28/07/2025', '', '', '1500.00', '1721278.00 Cr.', 'NEFT/SBIN232024476644/\nCHANDIGARH*UNIV/SAUNEFT']
+======================================================================
+FILE: New_Data/PNB_BANK/PNB_BANK_5.pdf
+Total pages: 20
+--- Page 0 text preview ---
+  Name & Address:
+  Branch
+  Account No: 0276012493055
+  Branch Id: 027620
+  SANTOSH
+  Branch
+  Name:
+  CONNAUGHT CIRCUS
+  Customer Address: H.NO-212 1ST FLOOR
+  AMBEDKAR BASTI GHONDA
+  Branch
+  Address:
+  J.C.DAS BUILDING90/8
+  CONNAUGHT CIRCUS
+  DELHI
+  Branch
+  City:
+  NEW DELHI
+  DELHI - 110053
+  PIN Code: 110001
+  Mobile: XXXXXXXX4036
+  Branch
+  State:
+  DELHI
+  Aadhar Flag : Y
+All IFSCs on p0: ['PUNB0027620', 'PUNB0457900', 'PUNB0457900']
+  P0 Table 0: 7 rows x 6 cols | Header: ['Date', 'Amount', 'Type', 'Instrument\nNo', 'Balance', 'Remarks']
+    Row 1: ['11-02-2023', '₹1.47', 'DEBIT', 'NA', '₹1206.59', 'SMS CHRG FOR:01-07-2022to30-09-2022']
+    Row 2: ['11-02-2023', '₹3000.00', 'CREDIT', 'NA', '₹4206.59', 'UPI/340868400076/P2A/9871384036/INDRA PAL\nSINGH S']
+  P1 Table 0: 14 rows x 6 cols | Header: ['15-03-2023', '₹2.36', 'DEBIT', 'NA', '₹1228.23', 'SMS CHRG FOR:01-10-2022to31-12-2022']
+    Row 1: ['15-03-2023', '₹2000.00', 'CREDIT', 'NA', '₹3228.23', 'UPI/307479782406/P2A/9871384036/INDRA PAL\nSINGH S']
+    Row 2: ['09-04-2023', '₹1000.00', 'CREDIT', 'NA', '₹4228.23', 'UPI/346529366426/P2A/9871384036/INDRAPAL\nSINGH']
+  P2: No fitz tables
+======================================================================
+FILE: New_Data/CANARA_BANK/CANARA_BANK.pdf
+Total pages: 7
+--- Page 0 text preview ---
+  Current & Saving Account Statement
+  SILAMBARASAN S
+  S/O SEETHARAMAN
+  2/106 THROWPATHI AMMAN KOVIL STREET
+  TORAVI
+  VILLUPURAM
+  Account Statement as of 13-04-2023 10:43:54 +0530
+  Account Holders' Name
+  SILAMBARASAN SEETHARAMAN
+  Customer Id
+  116287005
+  Branch Name
+  VIKRAVANDI
+  MICR Code
+  605015031
+  IFSC Code
+  CNRB0006227
+  Searched By
+  From 01 Apr 2023 To 13 Apr 2023
+  Account Number
+  6227101004670
+  Account Currency
+  INR
+  Product Name
+  CANARA SB GENERAL
+All IFSCs on p0: ['CNRB0006227']
+  P0 Table 0: 11 rows x 2 cols | Header: ["Account Holders' Name", 'SILAMBARASAN SEETHARAMAN']
+    Row 1: ['Customer Id', '116287005']
+    Row 2: ['Branch Name', 'VIKRAVANDI']
+  P0 Table 1: 4 rows x 8 cols | Header: ['Txn Date', 'Value Date', 'Cheque No.', 'Description', 'Branch\nCode', 'Debit', 'Credit', 'Balance']
+    Row 1: ['01-04-2023 09:41:31', '01 Apr 2023', '309112124869', 'UPI/CR/309112124869/APSARALI\nN/KVBL/**i0521@oksbi/UPI//\nSBI7f4ba4ef0ae944f893ea9334fcf2c5e8/01\n09:41:31', '33\n/04/2023', '', '1,000.00', '1,000.00']
+    Row 2: ['01-04-2023 09:41:59', '01 Apr 2023', '309112151023', 'UPI/CR/309112151023/APSARALI\nN/KVBL/**i0521@oksbi/UPI//\nSBI713e4010ffb24f01b38d093a615496ff/0\n09:41:59', '33\n1/04/2023', '', '6,000.00', '7,000.00']
+  P1 Table 0: 8 rows x 8 cols | Header: ['Txn Date', 'Value Date', 'Cheque No.', 'Description', 'Branch\nCode', 'Debit', 'Credit', 'Balance']
+    Row 1: ['01-04-2023 10:38:25', '01 Apr 2023', '345769805617', 'UPI/DR/345769805617/HARI\nS/UTIB/**rscbe@okaxis/UPI//\nICI4e6918c7ae9144e09055cfcdeaa8f40d/0\n10:38:24', '33\n1/04/2023', '30.00', '', '4,970.00']
+    Row 2: ['01-04-2023 12:01:01', '01 Apr 2023', '309140002119', 'UPI/DR/309140002119/Ms B TAMI/\nIDIB/**a31-3@okhdfcbank/UPI//\nICIca03257e55df49fca8370917dd5f418f/01\n12:00:58', '33\n/04/2023', '4,000.00', '', '970.00']
+  P2 Table 0: 9 rows x 8 cols | Header: ['Txn Date', 'Value Date', 'Cheque No.', 'Description', 'Branch\nCode', 'Debit', 'Credit', 'Balance']
+    Row 1: ['02-04-2023 15:17:06', '02 Apr 2023', '309268839971', 'UPI/DR/309268839971/anbumech0/\nIDIB/**07478@okicici/UPI//\nICI452d260e2dc147209ce100102c079a5c/\n15:17:06', '33\n02/04/2023', '100.00', '', '3,093.33']
+    Row 2: ['02-04-2023 16:52:29', '02 Apr 2023', '000000000000', 'UPI/309118706475/E01/01/04/2023', '33', '', '1,000.00', '4,093.33']
+======================================================================
+FILE: New_Data/CANARA_BANK/CANARA_BANK_2.pdf
+Total pages: 5
+--- Page 0 text preview ---
+  Current & Saving Account Statement
+  TOLLWAYS INFRA PROJECTS PRIVATE LIMITED
+  F -346
+  GROUND FLOOR LADO SARAI
+  SOUTH WEST DELHI
+  DELHI
+  Account Statement as of 12-06-2023 13:52:58 +0530
+  Account Holders Name
+  TOLLWAYS INFRA PROJECTS PRIVATE LIMITED
+  Customer Id
+  316154314
+  Branch Name
+  DELHI KHANPUR
+  MICR Code
+  110015229
+  IFSC Code
+  CNRB0005120
+  Searched By
+  From 01 Dec 2022 To 31 Mar 2023
+  Account Number
+  120002879229
+  Account Currency
+  INR
+  Product Name
+  CURRENT ACCOUNT- GENERAL
+All IFSCs on p0: ['CNRB0005120', 'ICIC0000011']
+  P0 Table 0: 11 rows x 2 cols | Header: ['Account Holders Name', 'TOLLWAYS INFRA PROJECTS PRIVATE LIMITED']
+    Row 1: ['Customer Id', '316154314']
+    Row 2: ['Branch Name', 'DELHI KHANPUR']
+  P0 Table 1: 7 rows x 8 cols | Header: ['Txn Date', 'Value Date', 'Cheque No.', 'Description', 'Branch\nCode', 'Debit', 'Credit', 'Balance']
+    Row 1: ['16-02-2023 16:23:06', '16 Feb 2023', '3270', 'CASH-BNA-5120 5120BY01- 16/02/23\n16:23:06', '5120', '', '5,000.00', '5,000.00']
+    Row 2: ['17-02-2023 10:41:05', '17 Feb 2023', '', 'CHQ BK ISSUE CA/OD/OCC', '5120', '295.00', '', '4,705.00']
+  P1 Table 0: 14 rows x 8 cols | Header: ['Txn Date', 'Value Date', 'Cheque No.', 'Description', 'Branch\nCode', 'Debit', 'Credit', 'Balance']
+    Row 1: ['20-02-2023 12:59:49', '20 Feb 2023', '000000945754', 'self-poonam sharma - DELHI KHANPU', '5120', '1,80,000.00', '', '4,115.00']
+    Row 2: ['02-03-2023 10:33:15', '02 Mar 2023', '', 'NEFT Cr-31322596081DC-ICIC0SF0002-\nAPEIRON PROJECTS PRI--\nPWCBhubneshwar', '33', '', '1,98,000.00', '2,02,115.00']
+  P2 Table 0: 16 rows x 8 cols | Header: ['Txn Date', 'Value Date', 'Cheque No.', 'Description', 'Branch\nCode', 'Debit', 'Credit', 'Balance']
+    Row 1: ['14-03-2023 11:37:04', '14 Mar 2023', '000000945764', 'Funds Transfer Debit - BHUPENDRA', '5120', '2,00,000.00', '', '78,789.00']
+    Row 2: ['15-03-2023 08:55:49', '15 Mar 2023', '000000050771', 'By Clg:DEL ACCTS-CITI BANK N.A.(CIT),\nXYZ', '1745', '', '2,17,297.00', '2,96,086.00']
+======================================================================
+FILE: New_Data/CANARA_BANK/CANARA_BANK_3.pdf
+Total pages: 31
+--- Page 0 text preview ---
+  ALIGARH ROHITH VARSHENY
+  S/o Aligarh Mahadev
+  561Balaji nagar
+  TirumalaTirupati (Urban)
+  Tirupati
+  Account Statement as of 25-10-2023 20:23:38 +0530
+  Account Holders Name
+  ALIGARH ROHITH VARSHENY
+  Customer Id
+  119138202
+  Branch Name
+  TIRUPATI ALIPIRI BYEPASS ROAD
+  MICR Code
+  517015003
+  IFSC Code
+  CNRB0008648
+  Searched By
+  From 01 Jul 2023 To 25 Oct 2023
+  Account Number
+  8648101007133
+  Account Currency
+  INR
+  Product Name
+  Opening Balance
+  Rs. 32,341.48
+All IFSCs on p0: ['CNRB0008648']
+  P0 Table 0: 11 rows x 2 cols | Header: ['Account Holders Name', 'ALIGARH ROHITH VARSHENY']
+    Row 1: ['Customer Id', '119138202']
+    Row 2: ['Branch Name', 'TIRUPATI ALIPIRI BYEPASS ROAD']
+  P0 Table 1: 5 rows x 8 cols | Header: ['Txn Date', 'Value Date', 'Cheque No.', 'Description', 'Branch\nCode', 'Debit', 'Credit', 'Balance']
+    Row 1: ['30-06-2023 20:41:39', '01 Jul 2023', '318154731667', 'UPI/DR/318154731667/Pattam Na/\nPYTM/**ktmc2@paytm/Payment //\nYBLcf17dc098ec04044b13bb1eefb36a94d/\n20:41:39', '33\n30/06/2023', '40.00', '', '32,301.48']
+    Row 2: ['30-06-2023 20:42:23', '01 Jul 2023', '318169362095', 'UPI/DR/318169362095/Pattam Na/\nPYTM/**ktmc2@paytm/Payment //\nYBL8551db7017344bb693c2f5fbd9864012\n20:42:23', '33\n/30/06/2023', '20.00', '', '32,281.48']
+  P1 Table 0: 9 rows x 8 cols | Header: ['Txn Date', 'Value Date', 'Cheque No.', 'Description', 'Branch\nCode', 'Debit', 'Credit', 'Balance']
+    Row 1: ['01-07-2023 18:49:36', '01 Jul 2023', '354893842180', 'UPI/DR/354893842180/A M SUBRA/\nPUNB/**13999@ybl/Payment //\nYBL3d4729dfe0d84c0198742e7532638072\n18:49:36', '33\n/01/07/2023', '20,000.00', '', '42,941.48']
+    Row 2: ['01-07-2023 18:51:49', '01 Jul 2023', '354862943981', 'UPI/DR/354862943981/A M SUBRA/\nPUNB/**13999@ybl/Payment //\nYBLcfdecb126c9148d1a421b87f5aa63ab0/\n18:51:49', '33\n01/07/2023', '15,000.00', '', '27,941.48']
+  P2 Table 0: 8 rows x 8 cols | Header: ['Txn Date', 'Value Date', 'Cheque No.', 'Description', 'Branch\nCode', 'Debit', 'Credit', 'Balance']
+    Row 1: ['02-07-2023 23:02:01', '03 Jul 2023', '354946694061', 'UPI/DR/354946694061/LAZYPAY\nP/ICIC/**d.rzp@icici/LazyPay //\nPTM246A0DE7B9744BE8BE884C023E2F\n23:02:01', '33\nC2E6/02/07/202', '20,850.00\n3', '', '26,870.04']
+    Row 2: ['03-07-2023 08:55:28', '03 Jul 2023', '318400880362', 'UPI/DR/318400880362/Simpl/\nUTIB/**simpl@axb/UPI Intent//\nmozcAkoxzLqpNR7eEUA/03/07/2023\n08:55:28', '33', '4,752.58', '', '22,117.46']
+======================================================================
+FILE: New_Data/AXIS_BANK/AXIS_BANK.pdf
+Total pages: 9
+--- Page 0 text preview ---
+  PANALLA ANAND SHEKAR REDDY
+  Joint Holder :- -
+  13 9 1/2/45 SRI GANESH NAGAR BORABANDA
+  BALANAGAR MOOSAPET
+  RANGAREDDI
+  Customer No :875144238
+  TELANGANA
+  Scheme :PRESTIGE SALARY ACCOUNT
+  500018
+  Currency :INR
+  Statement of Account No :919010067173729 for the period (From : 01-01-2020 To : 31-12-2020)
+  Tran Date
+  Chq No
+  Particulars
+  Debit
+  Credit
+  Balance
+  Init.
+  Br
+  OPENING BALANCE
+  14715.00
+  02-01-2020
+  POS/SANAT
+  NAGAR,/HYDERABAD/020120/15:40
+  1110.00
+All IFSCs on p0: []
+  P0 Table 0: 29 rows x 7 cols | Header: ['Tran Date', 'Chq No', 'Particulars', 'Debit', 'Credit', 'Balance', 'Init.\nBr']
+    Row 1: ['', None, 'OPENING BALANCE', None, None, '14715.00', '']
+    Row 2: ['02-01-2020', '', 'POS/SANAT\nNAGAR,/HYDERABAD/020120/15:40', '1110.00', '', '13605.00', '227']
+  P1 Table 0: 34 rows x 7 cols | Header: ['21-01-2020', '', 'UPI/P2A/002122279638/BHARATH S/IDBI\nBank/UPI', '200.00', '', '4801.25', '227']
+    Row 1: ['22-01-2020', '', 'UPI/P2M/002210706586/Green Baw/Paytm\nPay/UPI', '60.00', '', '4741.25', '227']
+    Row 2: ['22-01-2020', '', 'UPI/P2A/002222297908/MOHAMMED /Paytm\nPay/UPI', '70.00', '', '4671.25', '227']
+  P2 Table 0: 35 rows x 7 cols | Header: ['04-03-2020', '', 'POS/SRI SAI\nSERVICES/HYDERABAD/040320/07:20', '1010.00', '', '2146.93', '227']
+    Row 1: ['05-03-2020', '', 'UPI/P2A/006511141034/G ARCHANA/HDFC\nBANK/UPI', '500.00', '', '1646.93', '227']
+    Row 2: ['05-03-2020', '', 'BY TRANSFER', '', '49750.00', '51396.93', '227']
+======================================================================
+FILE: New_Data/AXIS_BANK/AXIS_BANK_2.pdf
+Total pages: 10
+--- Page 0 text preview ---
+  SUMIT RAVINDRA SHEWALE
+  Joint Holder :- -
+  FLAT NO 25 SAURABH HEIGHTS
+  LANE NO 7 SHEWALE PARK KHARADI
+  PUNE NR GANPATI MANDIR PUNENEAR GANPATI MANDIR
+  PUNE
+  Customer ID :889559783
+  MAHARASHTRA-INDIA
+  IFSC Code :UTIB0000338
+  411014
+  MICR Code :411211010
+  Nominee Registered : N
+  Registered Mobile No :XXXXXX4529
+  Registered Email ID:srXXXX96@gmail.com
+  PAN :KIIPS8186M
+  Scheme :LIBERTY SALARY ACCOUNT
+  Statement of Axis Account No :919010023407378 for the period (From : 01-01-2024  To : 05-02-2024)
+  Tran Date
+  Chq No
+  Particulars
+  Debit
+  Credit
+  Balance
+  Init.
+  Br
+All IFSCs on p0: ['UTIB0000338']
+  P0 Table 0: 23 rows x 7 cols | Header: ['Tran Date', 'Chq No', 'Particulars', 'Debit', 'Credit', 'Balance', 'Init.\nBr']
+    Row 1: ['', None, 'OPENING BALANCE', None, None, '41530.43', '']
+    Row 2: ['01-01-2024', '', 'UPI/P2M/400180221365/SWIGGY\n/Payvia/HDFC BANK LTD', '293.00', '', '41237.43', '338']
+  P1 Table 0: 33 rows x 7 cols | Header: ['04-01-2024', '', 'UPI/P2M/400479851390/DHULA PATIDAR\n/Paymen/Paytm Payments Bank', '40.00', '', '40554.43', '338']
+    Row 1: ['04-01-2024', '', 'UPI/P2M/400426952755/SATISH VAMAN\nLAVHARE /Pay to/Federal Bank', '20.00', '', '40534.43', '338']
+    Row 2: ['04-01-2024', '', 'UPI/P2M/400415910324/SATISH VAMAN\nLAVHARE /Pay to/Federal Bank', '80.00', '', '40454.43', '338']
+  P2 Table 0: 32 rows x 7 cols | Header: ['07-01-2024', '', 'UPI/P2A/437320258703/DHANESH SUNIL\nVAISHAM/Paymen/HDFC BANK LTD', '28.00', '', '33745.75', '338']
+    Row 1: ['07-01-2024', '', 'UPI/P2M/437323055323/SANTOSH\nRADHESHY /Paymen/Yes Bank Ltd', '100.00', '', '33645.75', '338']
+    Row 2: ['07-01-2024', '', 'UPI/P2M/400701174240/PUNE MEALS\n/Paymen/IDFC FIRST Bank', '55.00', '', '33590.75', '338']
+======================================================================
+FILE: New_Data/AXIS_BANK/AXIS_BANK_3.pdf
+Total pages: 123
+--- Page 0 text preview ---
+  KHANDELWAL HARDWARE STORES
+  Joint Holder :- -
+  CIVIL LINES PATTI PRATAPGARH
+  PRATAPGARH UTTAR PRADESH
+  0
+  PRATAPGARH
+  Customer ID :947059750
+  UTTAR PRADESH-INDIA
+  IFSC Code :UTIB0001424
+  230135
+  MICR Code :230211002
+  Nominee Registered : N
+  Registered Mobile No :XXXXXX6827
+  Registered Email ID:KHXXXXSH@GMAIL.COM
+  PAN :ATSPK7772N
+  Scheme :SBB OVERDRAFT
+  CKYC NUMBER :NA
+  Statement of Axis Account No :922030067440920 for the period (From : 16-03-2023  To : 15-03-2024)
+  Tran Date
+  Chq No
+  Particulars
+  Debit
+  Credit
+  Balance
+  Init.
+All IFSCs on p0: ['UTIB0001424']
+  P0 Table 0: 25 rows x 7 cols | Header: ['Tran Date', 'Chq No', 'Particulars', 'Debit', 'Credit', 'Balance', 'Init.\nBr']
+    Row 1: ['', None, 'OPENING BALANCE', None, None, '-4021832.90', '']
+    Row 2: ['16-03-2023', '', 'IMPS/P2A/307509127718/918020110872063/160\n323', '', '1900.00', '-4019932.90', '100']
+  P1 Table 0: 35 rows x 7 cols | Header: ['17-03-2023', '', 'IMPS/P2A/307615316687/918020110872063/170\n323', '', '6840.00', '-4053978.90', '100']
+    Row 1: ['17-03-2023', '', 'IMPS/P2A/307615334762/918020110872063/170\n323', '', '1910.00', '-4052068.90', '100']
+    Row 2: ['17-03-2023', '', 'IMPS/P2A/307615549364/918020110872063/170\n323', '', '820.00', '-4051248.90', '100']
+  P2 Table 0: 34 rows x 7 cols | Header: ['19-03-2023', '', 'IMPS/P2A/307811072263/918020110872063/190\n323', '', '10500.00', '-4043415.32', '100']
+    Row 1: ['19-03-2023', '', 'IMPS/P2A/307811086693/918020110872063/190\n323', '', '3000.00', '-4040415.32', '100']
+    Row 2: ['19-03-2023', '', 'IMPS/P2A/307812464415/918020110872063/190\n323', '', '760.00', '-4039655.32', '100']

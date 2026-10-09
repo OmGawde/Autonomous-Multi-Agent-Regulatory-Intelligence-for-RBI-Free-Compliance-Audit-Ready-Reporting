@@ -1,0 +1,1083 @@
+﻿
+================================================================================
+SHEET: Summary
+Dimensions: A1:K91 | Max Row: 91 | Max Col: 11
+================================================================================
+R1: Bank Accounts |  |  |  |  |  |  |  |  |  | 
+R2: Description | AXISIN - 123456763542 - Savings |  | Need Help? | https://www.precisa.in/help |  |  |  |  |  | 
+R3: Account Holders | Maheshwari Traders |  |  |  |  |  |  |  |  | 
+R4: Account Number | 12345 |  |  |  |  |  |  |  |  | 
+R5: Bank Name | Axis Bank |  |  |  |  |  |  |  |  | 
+R6: Account Type | Current/Saving/OD-CC |  |  |  |  |  |  |  |  | 
+R7: Email | - |  |  |  |  |  |  |  |  | 
+R8: Phone Number | - |  |  |  |  |  |  |  |  | 
+R9: Statement From | 02/01/2020 |  |  |  |  |  |  |  |  | 
+R10: Statement To | 02/09/2020 |  |  |  |  |  |  |  |  | 
+R11: Txn Start Date | 02/01/2020 |  |  |  |  |  |  |  |  | 
+R12: Txn End Date | 30/09/2020 |  |  |  |  |  |  |  |  | 
+R15: Monthwise details |  |  |  |  |  |  |  |  |  | 
+R16: Description | Jan 2020 | Feb 2020 | Mar 2020 | Apr 2020 | May 2020 | Jun 2020 | Jul 2020 | Aug 2020 | Sep 2020 | Total
+R17: Opening Balance | 578623.34 | 578623.3400000001 | 365965.3400000001 | 314322.3400000001 | 642298.04 | 146365.04 | 940306.04 | 726759.04 | 726759.04 | 557780.17
+R18: Debit Txns | 236202 | 208682 | 91241 | 766716.3 | 706856 | 645397 | 239816 | 176622 | 252788 | 3324320.3
+R19: Credit Txns | 70106 | 20840 | 50940 | 683350 | 632169 | 403092 | 0 | 160557.83 | 491677 | 2512731.83
+R20: Closing Balance | 578623.34 | 365965.34 | 314322.34 | 642298.04 | 146365.04 | 940306.04 | 726759.04 | 726759.04 | 1523314.87 | 662745.9
+R21: I/W Cheque Bounces: Insufficient Funds Count | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0.0
+R22: Savings & Investments | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0
+R23: Savings & Investments % | - | - | - | - | - | - | - | - | - | 0.0%
+R24: Inward Cheque Bounced Count | - | - | - | - | - | - | - | - | - | -
+R25: Inward Cheque Bounced | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0
+R26: FOIR Score | - | - | - | - | - | - | - | - | - | -
+R27: Fixed Obligations aka Loan Repayments | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0
+R28: Salary Income | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0
+R29: I/W Cheque Bounces % | - | - | - | - | - | - | - | - | - | -
+R30: Outward Cheque Bounced Count | - | - | - | - | - | - | - | - | - | -
+R31: Outward Cheque Bounced | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0
+R32: O/W Cheque Bounces % | - | - | - | - | - | - | - | - | - | -
+R33: Minimum Balance Charges | - | - | - | - | - | - | - | - | - | -
+R34: Debit Txns Count | 7 | 11 | 7 | 12 | 9 | 7 | 6 | 8 | 8 | 75.0
+R35: Credit Txns Count | 3 | 2 | 1 | 3 | 5 | 5 | 0 | 2 | 4 | 25.0
+R36: Min Balance | 445249.34 | 365965.34 | 314322.34 | 314322.34 | 51644.04 | 146365.04 | 726759.04 | 726759.04 | 726759.04 | 424238.4
+R37: Max Balance | 578623.34 | 578623.34 | 365965.34 | 653043.04 | 486907.04 | 1016850.04 | 940306.04 | 726759.04 | 1639966.87 | 776338.23
+R38: Monthly Average Balance | 569731.74 | 397210.48 | 321149.53 | 458028.98 | 151239.23 | 724835.51 | 819563.3 | 726759.04 | 1263758.03 | 603586.2
+R39: Cash Deposit | 0 | 0 | 400000 | 32000 | 150000 | 0 | 0 | 0 | 409000 | 991000
+R40: Cash Withdrawal | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0
+R41: Loan Credit | 0 | 0 | 0 | 0 | 615000 | 0 | 600000 | 0 | 0 | 1215000
+R42: Cash Deposits % | 0.0% | 0.0% | 88.7% | 4.68% | 12.03% | 0.0% | 0.0% | 0.0% | 83.18% | 188.59%
+R43: Cash Deposits Count | 0 | 0 | 1 | 1 | 1 | 0 | 0 | 0 | 1 | 4.0
+R44: Cash Withdrawals Count | - | - | - | - | - | - | - | - | - | -
+R45: Cheque Deposits Count | 2 | 0 | 1 | 1 | 4 | 5 | 0 | 0 | 0 | 13.0
+R46: Cheque Deposits | 21837 | 0 | 50940 | 650000 | 482169 | 403092 | 0 | 0 | 0 | 1608038
+R47: Cheque Issues Count | 2 | 2 | 0 | 1 | 2 | 0 | 0 | 0 | 0 | 7.0
+R48: Cheque Issues | 21837 | 9827 | 0 | 650000 | 60779 | 0 | 0 | 0 | 0 | 742443
+R49: Internal Debit Txns Count | - | - | - | - | - | - | - | - | - | -
+R50: Internal Credit Txns Count | - | - | - | - | - | - | - | - | - | -
+R51: Internal Debit Txns | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0
+R52: Internal Credit Txns | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0
+R53: Peak Utilization Limit | - | - | - | - | - | - | - | - | - | -
+R54: Net Debit | 179559 | 147212 | 28223 | 713033 | 271314 | 584633 | 78311 | 114799 | 156549 | 2273633
+R55: Net Credit | 67543 | 20840 | 50940 | 1350 | 482169 | 403092 | 0 | 160557.83 | 82677 | 1269168.83
+R56: Interest Paid | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 12190 | 12190
+R57: Interest Received | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0
+R58: Min EOD Balance | 445249.34 | 365965.3400000001 | 314322.3400000001 | 314322.3400000001 | 51644.04000000004 | 146365.04 | 726759.04 | 726759.04 | 726759.04 | 424238.4
+R59: Max EOD Balance | 578623.3400000001 | 578623.3400000001 | 365965.3400000001 | 653043.04 | 486907.04 | 1016850.04 | 940306.04 | 726759.04 | 1639966.87 | 776338.23
+R60: Average EOD Balance | 569731.7400000001 | 397210.4779310346 | 321149.5335483872 | 458028.9766666667 | 151239.2335483871 | 724835.5066666667 | 819563.2980645162 | 726759.04 | 1263758.032333334 | 603586.2
+
+================================================================================
+SHEET: Overview
+Dimensions: A1:G510 | Max Row: 510 | Max Col: 7
+================================================================================
+R1: Quality indicators |  |  |  |  |  | 
+R2: Precisa score | Volatility score | FOIR Score | Circular txns | Bounced cheques | Transactions | Monthly avg balance(Γé╣)
+R3: 744 | 0.25 | 0.15 | 0 | 2 | 105(02/01/2020-30/09/2020) | 603586.2
+R5: Bank account details |  |  |  |  |  | 
+R6: Bank name | Axis Bank |  |  |  |  | 
+R7: IFSC Code | - |  |  |  |  | 
+R8: MICR Code | - |  |  |  |  | 
+R9: IFSC Branch name | - |  |  |  |  | 
+R10: IFSC Branch address | - |  |  |  |  | 
+R11: Account number | 123456763542 |  |  |  |  | 
+R12: IBAN | - |  |  |  |  | 
+R13: Account Type | Savings |  |  |  |  | 
+R14: Account Age | - |  |  |  |  | 
+R15: Statement period | 8 months, 1 days (02/01/2020 - 02/09/2020) |  |  |  |  | 
+R16: No transactions month | - |  |  |  |  | 
+R17: No transaction dates | 03/01/2020, 05/01/2020, 07/01/2020 - 09/01/2020, 11/01/2020, 12/01/2020, 14/01/2020, 15/01/2020, 17/01/2020, 19/01/2020 - 01/02/2020, 05/02/2020, 07/02/2020 - 09/02/2020, 11/02/2020, 12/02/2020, 14/02/2020, 17/02/2020, 19/02/2020 - 01/03/2020, 03/03/2020 - 09/03/2020, 11/03/2020, 13/03/2020, 14/03/2020, 17/03/2020, 19/03/2020 - 24/03/2020, 26/03/2020 - 29/03/2020, 31/03/2020, 01/04/2020, 03/04/2020 - 09/04/2020, 11/04/2020, 13/04/2020, 14/04/2020, 17/04/2020, 19/04/2020, 2...
+R18: Cash Deposits in range (9-10)L | 0 |  |  |  |  | 
+R19: Cash Deposits in range (40-50)k | 0 |  |  |  |  | 
+R20: ATM Withdrawals above Γé╣2,000 | 4 |  |  |  |  | 
+R21: Months since last Cheque bounce | - |  |  |  |  | 
+R22: Last 12 Months Max Debit Amount (Oct 2019 - Sep 2020) | - |  |  |  |  | 
+R23: Last 12 Months Max Credit Amount (Oct 2019 - Sep 2020) | - |  |  |  |  | 
+R24: Last 3 Months Max Debit Amount (Jul 2020 - Sep 2020) | 80324 |  |  |  |  | 
+R25: Last 3 Months Max Credit Amount (Jul 2020 - Sep 2020) | 600000 |  |  |  |  | 
+R26: Account holders | MAHESHWARI TRADERS |  |  |  |  | 
+R27: PAN | - |  |  |  |  | 
+R28: Account holder address | GANRAJ HEIGHTS SHOP NO 7 PUNE MAHARASHTRA  INDIA PIN  401012 |  |  |  |  | 
+R29: Customer email | - |  |  |  |  | 
+R30: Customer phone number | - |  |  |  |  | 
+R31: Bank Statements | Axis bank - 123456763542 - sample statement.cc319740 - 2024-12-18T164629.701.pdf (IRREGULARITY DETECTED) |  |  |  |  | 
+R32:  | Axis bank - 123456763542 - sample statement.cc319740 (1).pdf (IRREGULARITY DETECTED) |  |  |  |  | 
+R34: Irregularities |  |  |  |  |  | 
+R35: Activity | Incidences |  |  |  |  | 
+R36: Suspicious eStatements | 2 |  |  |  |  | 
+R37: RTGS Payments below Γé╣2 lakhs | 1 |  |  |  |  | 
+R38: Round Figure Tax Payments | 3 |  |  |  |  | 
+R39: ATM Withdrawals above Γé╣20,000 | 1 |  |  |  |  | 
+R40: Negative Computed Balance in DR txns | 1 |  |  |  |  | 
+R41: Computed Balance vs Balance Mismatch | 8 |  |  |  |  | 
+R42: Parties present in both debits and credits | 1 |  |  |  |  | 
+R43: UTR Number Repeated | 1 |  |  |  |  | 
+R44: Cheque deposits on bank holidays | 0 |  |  |  |  | 
+R45: Cash deposit on Bank Holiday | 0 |  |  |  |  | 
+R46: More Cash deposits vs Salary | 0 |  |  |  |  | 
+R47: Equal Debits & Credits | 0 |  |  |  |  | 
+R48: Immediate big debit after Salary credit | 0 |  |  |  |  | 
+R49: Salary Credit Amount remains unchanged over extended period | 0 |  |  |  |  | 
+
+================================================================================
+SHEET: Transactions
+Dimensions: A1:P106 | Max Row: 106 | Max Col: 16
+================================================================================
+R1: Bank name | Account number | Account type | Txn date | Month | Particulars | Cheque/Reference number | Counterparty | Debit(Γé╣) | Credit(Γé╣) | Balance(Γé╣) | Computed balance(Γé╣) | Adjusted balance(Γé╣) | Tags | Category | UPI app
+R2: Axis Bank | 123456763542 | Savings | 02/Jan/2020 | Jan | NEFT/MB/AXMB18032561234/BHARAT DISTRIBUTORS  |  | Bharat Distributors | 150000 | 0 | 428623.34 | 428623.34 | 428623.34 | customtag2, customtag1, NEFT | O/W Funds Transfer / INFT | 
+R3: Axis Bank | 123456763542 | Savings | 02/Jan/2020 | Jan | ECS/BAJAJ FINANCE LI/7UPBFR5092879  |  | Bajaj Finance | 31643 | 0 | 396980.34 | 396980.34 | 396980.34 | Loan, NACH, EMI | Loan / EMI | 
+R4: Axis Bank | 123456763542 | Savings | 02/Jan/2020 | Jan | NEFT/P18020179597620/GOPALA SHETTY  |  | Gopala, Shetty | 0 | 48269 | 445249.34 | 445249.34 | 445249.34 | NEFT | I/W Funds Transfer / NACH | 
+R5: Axis Bank | 123456763542 | Savings | 04/Jan/2020 | Jan | NEFT/P18020200251890/RAJ FISH MEAL/NEFT  |  | Raj Fish Meal | 0 | 141280 | 586529.34 | 586529.34 | 578623.34 | customtag1, NEFT | Internal Transfer | 
+R6: Axis Bank | 123456763542 | Savings | 06/Jan/2020 | Jan | By Clg 910912 SBI UDIPI  |  | Soma | 0 | 19274 | 605803.34 | 605803.34 | 578623.34 | Cheque | I/W Funds Transfer / Cheque | 
+R7: Axis Bank | 123456763542 | Savings | 06/Jan/2020 | Jan | By Clg 910912 SBI UDIPI  |  | LG | 19274 | 0 | 586529.34 | 586529.34 | 578623.34 | Cheque | O/W Funds Transfer / Cheque | 
+R8: Axis Bank | 123456763542 | Savings | 10/Jan/2020 | Jan | ATM-CASH-AXIS/BWRO193201/7201/091117/PIMPRI  |  | LG | 25000 | 0 | 561529.34 | 561529.34 | 578623.34 | ATM | Cash & ATM withdrawals / ATM | 
+R9: Axis Bank | 123456763542 | Savings | 13/Jan/2020 | Jan | UPI/032519362950/19:46:46/UPI/618002010008311@ubi  |  | Netflix | 299 | 0 | 558529.34 | 561230.34 | 578623.34 | UPI, UPI/P2P | O/W Funds Transfer / UPI | 
+R10: Axis Bank | 123456763542 | Savings | 16/Jan/2020 | Jan | ACH Debit/LIC OF INDIA/9598365220320  |  | Lic India | 7423 | 0 | 551106.34 | 553807.34 | 578623.34 | NACH, Insurance | Insurance | 
+R11: Axis Bank | 123456763542 | Savings | 18/Jan/2020 | Jan | TO CLG :CHEQUE PAID IN CLEARING -SERVBR-  |  | LG | 2563 | 0 | 548543.34 | 551244.34 | 578623.34 | Cheque | O/W Funds Transfer / Cheque | 
+R12: Axis Bank | 123456763542 | Savings | 18/Jan/2020 | Jan | TO CLG (REJ) :J M KOTECHA SONSRECO-  |  | J M Kotecha Sonsreco | 0 | 2563 | 551106.34 | 553807.34 | 578623.34 | Return, Cheque | O/W Funds Transfer Return / Cheque Return | 
+R13: Axis Bank | 123456763542 | Savings | 02/Feb/2020 | Feb | ECS/BAJAJ FINANCE LI/7UPBFR50929545  |  | Bajaj Finance | 31643 | 0 | 519463.34 | 522164.34 | 578623.34 | Loan, NACH, EMI | Loan / EMI | 
+R14: Axis Bank | 123456763542 | Savings | 03/Feb/2020 | Feb | NEFT/MB/AXMB180678297976/Sadasghiva Salain  |  | Sadasghiva Salain | 60500 | 0 | 458963.34 | 461664.34 | 578623.34 | NEFT | O/W Funds Transfer / NEFT | 
+R15: Axis Bank | 123456763542 | Savings | 04/Feb/2020 | Feb | NEFT/MB/AXMB180336398712/Raghavendra vittal  |  | Raghavendra Vittal | 70000 | 0 | 388963.34 | 391664.34 | 391664.34 | NEFT | O/W Funds Transfer / NEFT | 
+R16: Axis Bank | 123456763542 | Savings | 04/Feb/2020 | Feb | NEFT/P18020281234321/PRATHIBHA  |  | Prathibha | 0 | 11190 | 400153.34 | 402854.34 | 402854.34 | NEFT | I/W Funds Transfer / NEFT | 
+R17: Axis Bank | 123456763542 | Savings | 06/Feb/2020 | Feb | AXMOB/DTHR/S3I4MGGJ9876/912020056789523/025618  |  | LG | 5000 | 0 | 395153.34 | 397854.34 | 397854.34 |  | Entertainment | 
+R18: Axis Bank | 123456763542 | Savings | 10/Feb/2020 | Feb | ATM-CASH-AXIS/BWRO19334555/7891/0914547/PIMPRI  |  | LG | 20000 | 0 | 375153.34 | 377854.34 | 377854.34 | ATM | Cash & ATM withdrawals / ATM | 
+R19: Axis Bank | 123456763542 | Savings | 13/Feb/2020 | Feb | UPI/032519362950/19:12:46/UPI/618002010008311@ubi  |  | Netflix | 299 | 0 | 1017448.04 | 377555.34 | 377555.34 | UPI, UPI/P2P | O/W Funds Transfer / UPI | 
+R20: Axis Bank | 123456763542 | Savings | 15/Feb/2020 | Feb | ECS DEBIT RETURN CHRG ECS RETURN CHGS  |  | LG | 990 | 0 | 374163.34 | 376565.34 | 376565.34 | Return, Bank Charges | Cash & ATM / ATM Deposit | 
+R21: Axis Bank | 123456763542 | Savings | 15/Feb/2020 | Feb | UPI/032519362950/19:46:46/UPI/618002010008311@ubi  |  | Linkedin | 3000 | 0 | 558529.34 | 373565.34 | 373565.34 | Third Party Transfer | Office Expenses | 
+R22: Axis Bank | 123456763542 | Savings | 16/Feb/2020 | Feb | ACH Debit/LIC OF INDIA/9598365220320  BY CLEARING / CHEQUE- MSC BY CLEARING CHQ 046319 MICR  |  | Lic India | 7423 | 0 | 366740.34 | 366142.34 | 366142.34 | NACH, Insurance | Insurance | 
+R23: Axis Bank | 123456763542 | Savings | 18/Feb/2020 | Feb | 400082523- 46319  |  | soma | 0 | 9650 | 376390.34 | 375792.34 | 375792.34 |  | I/W Funds Transfer / Third Party Transfer | 
+R24: Axis Bank | 123456763542 | Savings | 18/Feb/2020 | Feb | OUT-CHQ RETURN- 30 Instrument post datedivity failuretication5  |  | LG | 9650 | 0 | 366740.34 | 366142.34 | 366142.34 | Return, Cheque | I/W Funds Transfer Return / Cheque Return | 
+R25: Axis Bank | 123456763542 | Savings | 18/Feb/2020 | Feb | cheque returned charges-- 46319  |  | LG | 177 | 0 | 366563.34 | 365965.34 | 365965.34 | Return, Bank Charges, Cheque | Charges & Fees / Penal Charges | 
+R26: Axis Bank | 123456763542 | Savings | 02/Mar/2020 | Mar | ECS/BAJAJ FINANCE LI/7UPBFR50929545  |  | Bajaj Finance | 31643 | 0 | 334920.34 | 334322.34 | 334322.34 | Loan, NACH, EMI | Loan / EMI | 
+R27: Axis Bank | 123456763542 | Savings | 10/Mar/2020 | Mar | ATM-CASH-AXIS/BWRO8765555/8876/2389147/PIMPRI  |  | LG | 20000 | 0 | 314920.34 | 314322.34 | 314322.34 | ATM | Cash & ATM withdrawals / ATM | 
+R28: Axis Bank | 123456763542 | Savings | 12/Mar/2020 | Mar | IMPS/MB/AXMB186546705176/HARISS  |  | Hariss | 7800 | 0 | 307120.34 | 306522.34 | 306522.34 | IMPS | O/W Funds Transfer / IMPS | 
+R29: Axis Bank | 123456763542 | Savings | 12/Mar/2020 | Mar | SAK/CASH DEP/SAK038645682/181/BY CASH/AKHIL SHETTY  |  | Akhil, Shetty | 0 | 400000 | 707120.34 | 706522.34 | 314322.34 | Cash | Internal Transfer | 
+R30: Axis Bank | 123456763542 | Savings | 15/Mar/2020 | Mar | UPI/032519362950/10:12:46/UPI/618002010008311@ubi  |  | Linkedin | 3000 | 0 | 704120.34 | 703522.34 | 314322.34 | Third Party Transfer | Office Expenses | 
+R31: Axis Bank | 123456763542 | Savings | 16/Mar/2020 | Mar | ACH Debit/LIC OF INDIA/95983652298874 IMPS OUTWARD ORG IMPS TO 035701527798 - ICICI BANKLIMITED  |  | Lic India | 7423 | 0 | 696697.34 | 696099.34 | 314322.34 | NACH, Third Party Transfer, Insurance | Insurance | 
+R32: Axis Bank | 123456763542 | Savings | 18/Mar/2020 | Mar | REF NO:-035622636465 -DANIEL  |  | Daniel | 10000 | 0 | 686697.34 | 686099.34 | 314322.34 |  | O/W Funds Transfer / Third Party Transfer | 
+R33: Axis Bank | 123456763542 | Savings | 25/Mar/2020 | Mar | By Clg 987914 SBI UDIPI  |  | Vguard Industries Ltd | 0 | 50940 | 737637.34 | 737039.34 | 314322.34 | Cheque | I/W Funds Transfer / Cheque | 
+R34: Axis Bank | 123456763542 | Savings | 30/Mar/2020 | Mar | SMSChrgsJAN-MAR20+GST CUS T 192996645  |  | LG | 11375 | 0 | 726262.34 | 725664.34 | 314322.34 | Bank Charges, Tax | Charges & Fees / Bank Charges | 
+R35: Axis Bank | 123456763542 | Savings | 02/Apr/2020 | Apr | ECS/BAJAJ FINANCE LI/7UPBFR50929545  |  | Bajaj Finance | 31643 | 0 | 694619.34 | 694021.34 | 314322.34 | Loan, NACH, EMI | Loan / EMI | 
+R36: Axis Bank | 123456763542 | Savings | 10/Apr/2020 | Apr | GST @18% on Charge  |  | LG | 15.3 | 0 | 694604.04 | 694006.04 | 314322.34 | Bank Charges, Tax | Charges & Fees / Bank Charges | 
+R37: Axis Bank | 123456763542 | Savings | 10/Apr/2020 | Apr | Consolidated Charges for A/c IMPS INWARD ORG IMPSTO from GOOGLE INDIA DIGITALAXIS BANK  |  | India Digital | 985 | 0 | 693619.04 | 693021.04 | 314322.34 | Bank Charges, Third Party Transfer | Charges & Fees / Bank Charges | 
+R38: Axis Bank | 123456763542 | Savings | 10/Apr/2020 | Apr | REF NO: - 035810053142  |  | soma | 0 | 1350 | 694969.04 | 694371.04 | 314322.34 |  | I/W Funds Transfer / Third Party Transfer | 
+R39: Axis Bank | 123456763542 | Savings | 10/Apr/2020 | Apr | ATM-CASH-AXIS/BWRO87934555/0981/6894547/PIMPRI  |  | LG | 10000 | 0 | 684969.04 | 684371.04 | 314322.34 | ATM | Cash & ATM withdrawals / ATM | 
+R40: Axis Bank | 123456763542 | Savings | 12/Apr/2020 | Apr | CC 000552365XXXXXX8460 AUTOPAY SI-TAD  |  | 000552365XXXXXX8 | 52610 | 0 | 632359.04 | 631761.04 | 314322.34 | NEFT | O/W Funds Transfer / NEFT | 
+R41: Axis Bank | 123456763542 | Savings | 15/Apr/2020 | Apr | UPI/032519362950/12:12:46/UPI/618002010008311@ubi  |  | Linkedin | 3000 | 0 | 629359.04 | 628761.04 | 314322.34 | Third Party Transfer | Office Expenses | 
+R42: Axis Bank | 123456763542 | Savings | 16/Apr/2020 | Apr | ACH Debit/LIC OF INDIA/9598365220456  |  | Lic India | 7423 | 0 | 621936.04 | 621338.04 | 314322.34 | NACH, Insurance | Insurance | 
+R43: Axis Bank | 123456763542 | Savings | 16/Apr/2020 | Apr | 49:MICR INWD CLG (CTS)  |  | LG | 650000 | 0 | -28063.96 | -28661.96 | 314322.34 | Cheque | O/W Funds Transfer / Cheque | 
+R44: Axis Bank | 123456763542 | Savings | 16/Apr/2020 | Apr | RETURNED:49:FUNDS INSUFFICIENT  |  | Vguard Industries Ltd | 0 | 650000 | 621936.04 | 621338.04 | 314322.34 | Return, Cheque | O/W Funds Transfer Return / Cheque Return | 
+R45: Axis Bank | 123456763542 | Savings | 16/Apr/2020 | Apr | OUTWARD RETURN CHARGES  |  | LG | 295 | 0 | 621641.04 | 621043.04 | 314322.34 | Return, Bank Charges, Third Party Transfer | Charges & Fees / Penal Charges | 
+R46: Axis Bank | 123456763542 | Savings | 18/Apr/2020 | Apr | BY CASH -297900  |  | Vguard Industries Ltd | 0 | 32000 | 653641.04 | 653043.04 | 653043.04 | Cash | Cash & ATM / Cash Deposit | 
+R47: Axis Bank | 123456763542 | Savings | 20/Apr/2020 | Apr | DEBIT-CMP MANDATE DEBIT IVL FINANCE LTD-  |  | Ivl Finance Ltd | 1970 | 0 | 651671.04 | 651073.04 | 651073.04 | Loan, EMI | Loan / EMI | 
+R48: Axis Bank | 123456763542 | Savings | 21/Apr/2020 | Apr | TRF/TATA CAPITAL LTD/ICICI  |  | Tata Capital Ltd | 5900 | 0 | 645771.04 | 645173.04 | 645173.04 | Loan, Third Party Transfer, EMI | Loan / EMI | 
+R49: Axis Bank | 123456763542 | Savings | 27/Apr/2020 | Apr | ACH/NEOGROWTH CREDIT PVT/1087069_ B984  |  | Neogrowth | 2875 | 0 | 642896.04 | 642298.04 | 642298.04 | Loan, NACH, EMI | Loan / EMI | 
+R50: Axis Bank | 123456763542 | Savings | 01/May/2020 | May | NEFT/MB/AXMB180387676870/VGUARD INDUSTRIES LTD  |  | Vguard Industries Ltd | 155391 | 0 | 487505.04 | 486907.04 | 486907.04 | NEFT | O/W Funds Transfer / NEFT | 
+R51: Axis Bank | 123456763542 | Savings | 02/May/2020 | May | NACH-DR- Fulllerton India  |  | Fulllerton India | 303620 | 0 | 183885.04 | 183287.04 | 183287.04 | Loan, NACH, EMI | Loan / EMI | 
+R52: Axis Bank | 123456763542 | Savings | 02/May/2020 | May | NEFT/MB/AXMB180398779979/AKHIL SHETTY  |  | Akhil, Shetty | 100000 | 0 | 83885.04 | 83287.04 | 83287.04 | NEFT | O/W Funds Transfer / NEFT | 
+R53: Axis Bank | 123456763542 | Savings | 02/May/2020 | May | ECS/BAJAJ FINANCE LI/7UPBFR50929545  |  | Bajaj Finance | 31643 | 0 | 52242.04 | 51644.04 | 51644.04 | Loan, NACH, EMI | Loan / EMI | 
+R54: Axis Bank | 123456763542 | Savings | 04/May/2020 | May | BY CASH DEPOSIT-BNA/S3RH18901/7537/057618/UDIPI  |  | soma | 0 | 150000 | 202242.04 | 201644.04 | 201644.04 | Cash | Cash & ATM / Cash Deposit | 
+R55: Axis Bank | 123456763542 | Savings | 04/May/2020 | May | CLG/HDFC BANK LTD LOAN AC  |  | LG | 55279 | 0 | 146963.04 | 146365.04 | 146365.04 | Loan, Cheque, EMI | Loan / EMI | 
+R56: Axis Bank | 123456763542 | Savings | 12/May/2020 | May | NACH-DR- UNITED PETRO FINANCE  |  | united petro finance | 45000 | 0 | 101963.04 | 101365.04 | 101365.04 | Loan, NACH, EMI | Loan / EMI | 
+R57: Axis Bank | 123456763542 | Savings | 12/May/2020 | May | CAPITAL FIRST LIMITED  |  | Capital First Limited | 0 | 450000 | 551963.04 | 551365.04 | 146365.04 | Loan | Loan | 
+R58: Axis Bank | 123456763542 | Savings | 12/May/2020 | May | By Clg 409802 SBI UDIPI  |  | Vguard Industries Ltd | 0 | 125589 | 677552.04 | 676954.04 | 146365.04 | Cheque | I/W Funds Transfer / Cheque | 
+R59: Axis Bank | 123456763542 | Savings | 14/May/2020 | May | HINDUJA LEYLAND FINANCE LTD LOAN  |  | Hinduja Leyland Finance Ltd | 0 | 165000 | 842552.04 | 841954.04 | 146365.04 | Loan | Loan | 
+R60: Axis Bank | 123456763542 | Savings | 15/May/2020 | May | UPI/032519362950/19:12:46/UPI/618002010008311@ubi  |  | Linkedin | 3000 | 0 | 1017448.04 | 838954.04 | 146365.04 | Third Party Transfer | Office Expenses | 
+
+================================================================================
+SHEET: Irregularities
+Dimensions: A1:G72 | Max Row: 72 | Max Col: 7
+================================================================================
+R1: Suspicious eStatements |  |  |  |  |  | 
+R2: File name | Details | Authenticity |  |  |  | 
+R3: Axis bank - 123456763542 - sample statement.cc319740 - 2024-12-18T164629.701.pdf | Unexpected font style found
+PDF Creator/ Producer check failed | IRREGULARITY DETECTED |  |  |  | 
+R4: Axis bank - 123456763542 - sample statement.cc319740 (1).pdf | Unexpected font style found
+PDF Creator/ Producer check failed | IRREGULARITY DETECTED |  |  |  | 
+R7: RTGS Payments below Γé╣2 lakhs |  |  |  |  |  | 
+R8: Txn date | Particulars | Counterparty | Amount(Γé╣) | Balance(Γé╣) |  | 
+R9: 03/Jun/2020 | RTGS/MB/AXMB180377666732/BHARAT MARKETING  | Bharat Marketing | 137210 | 1017356.04 |  | 
+R12: Round Figure Tax Payments |  |  |  |  |  | 
+R13: Txn date | Particulars | Counterparty | Amount(Γé╣) | Balance(Γé╣) |  | 
+R14: 15/Jun/2020 | INB/7405488/INTERNET TAX PAYMENT/  | LG | 40000 | 977448.04 |  | 
+R15: 15/Sep/2020 | INB/7179878/INTERNET TAX PAYMENT/tds march 2018  | LG | 6000 | 1634564.87 |  | 
+R16: 17/Sep/2020 | INB/14706561/INTERNET TAX PAYMENT/ADVANCE TAX  | LG | 80000 | 1547141.87 |  | 
+R19: ATM Withdrawals above Γé╣20,000 |  |  |  |  |  | 
+R20: Txn date | Particulars | Amount(Γé╣) | Balance(Γé╣) |  |  | 
+R21: 10/Jan/2020 | ATM-CASH-AXIS/BWRO193201/7201/091117/PIMPRI  | 25000 | 561529.34 |  |  | 
+R24: Negative Computed Balance in DR txns |  |  |  |  |  | 
+R25: Txn date | Particulars | Counterparty | Amount(Γé╣) | Balance(Γé╣) |  | 
+R26: 16/Apr/2020 | 49:MICR INWD CLG (CTS)  | LG | 650000 | -28063.96 |  | 
+R29: Computed Balance vs Balance Mismatch |  |  |  |  |  | 
+R30: Txn date | Particulars | Counterparty | Amount(Γé╣) | Balance(Γé╣) | Computed balance(Γé╣) | Balance gap(Γé╣)
+R31: 13/Jan/2020 | UPI/032519362950/19:46:46/UPI/618002010008311@ubi  | Netflix | 299 | 558529.34 | 561230.34 | 2701
+R32: 13/Feb/2020 | UPI/032519362950/19:12:46/UPI/618002010008311@ubi  | Netflix | 299 | 1017448.04 | 377555.34 | 639892.7
+R33: 15/Feb/2020 | ECS DEBIT RETURN CHRG ECS RETURN CHGS  | LG | 990 | 374163.34 | 376565.34 | 2402
+R34: 15/Feb/2020 | UPI/032519362950/19:46:46/UPI/618002010008311@ubi  | Linkedin | 3000 | 558529.34 | 373565.34 | 184964
+R35: 16/Feb/2020 | ACH Debit/LIC OF INDIA/9598365220320  BY CLEARING / CHEQUE- MSC BY CLEARING CHQ 046319 MICR  | Lic India | 7423 | 366740.34 | 366142.34 | 598
+R36: 15/May/2020 | UPI/032519362950/19:12:46/UPI/618002010008311@ubi  | Linkedin | 3000 | 1017448.04 | 838954.04 | 178494
+R37: 16/May/2020 | ACH Debit/LIC OF INDIA/95983652209786  | Lic India | 7423 | 835129.04 | 831531.04 | 3598
+R38: 15/Jun/2020 | INB/7405488/INTERNET TAX PAYMENT/  | LG | 40000 | 977448.04 | 976850.04 | 598
+R41: Parties present in both debits and credits |  |  |  |  |  | 
+R42: Counterparty | Month | Debit amount(Γé╣) | % Debit amount | Credit amount(Γé╣) | % Credit amount | Txn count
+R43: Vguard Industries Ltd | May 2020 | 155391 | 0.0467 | 482169 | 0.1129 | 5
+R46: UTR Number Repeated |  |  |  |  |  | 
+R47: UTR Number | Debit txn count | Debit amount(Γé╣) | Credit txn count | Credit amount(Γé╣) | Txn count | 
+R48: 032519362950 | 2 | 598 | 0 | 0 | 2 | 
+R51: Cheque deposits on bank holidays |  |  |  |  |  | 
+R52: Txn date | Particulars | Counterparty | Amount(Γé╣) | Balance(Γé╣) |  | 
+R55: Cash deposit on Bank Holiday |  |  |  |  |  | 
+R56: Txn date | Particulars | Amount(Γé╣) | Balance(Γé╣) |  |  | 
+R59: More Cash deposits vs Salary |  |  |  |  |  | 
+R60: Month | Cash txns | Cash amount(Γé╣) | Salary txns | Salary amount(Γé╣) | Comments | 
+
+================================================================================
+SHEET: Monthly counterparty
+Dimensions: A1:BH36 | Max Row: 36 | Max Col: 60
+================================================================================
+R1:  | Total (Jan 2020 - Sep 2020) |  |  |  | Jan 2020 |  |  |  | Feb 2020 |  |  |  | Mar 2020 |  |  |  | Apr 2020 |  | 
+R2:  | Credit(Γé╣) | Credit Txns | Debit(Γé╣) | Debit Txns | Credit(Γé╣) | Credit Txns | Debit(Γé╣) | Debit Txns | Credit(Γé╣) | Credit Txns | Debit(Γé╣) | Debit Txns | Credit(Γé╣) | Credit Txns | Debit(Γé╣) | Debit Txns | Credit(Γé╣) | Credit Txns | Debit(Γé╣)
+R3: Vguard Industries Ltd | 1841775.83 | 16 | 226279 | 2 | - | - | - | - | - | - | - | - | 50940 | 1 | 0 | 0 | 682000 | 2 | 0
+R4: LG | 0 | 0 | 1186523.3 | 27 | 0 | 0 | 46837 | 3 | 0 | 0 | 35817 | 5 | 0 | 0 | 31375 | 2 | 0 | 0 | 660310.3
+R5: Akhil, Shetty | 809000 | 2 | 100000 | 1 | - | - | - | - | - | - | - | - | 400000 | 1 | 0 | 0 | - | - | -
+R6: Sundaram Finance Lit | 600000 | 1 | 0 | 0 | - | - | - | - | - | - | - | - | - | - | - | - | - | - | -
+R7: Capital First Limited | 450000 | 1 | 0 | 0 | - | - | - | - | - | - | - | - | - | - | - | - | - | - | -
+R8: Fulllerton India | 0 | 0 | 303620 | 1 | - | - | - | - | - | - | - | - | - | - | - | - | - | - | -
+R9: Bajaj Finance | 0 | 0 | 284787 | 9 | 0 | 0 | 31643 | 1 | 0 | 0 | 31643 | 1 | 0 | 0 | 31643 | 1 | 0 | 0 | 31643
+R10: Sai Tulaja Enterprises | 0 | 0 | 250000 | 1 | - | - | - | - | - | - | - | - | - | - | - | - | - | - | -
+R11: Hinduja Leyland Finance Ltd | 165000 | 1 | 0 | 0 | - | - | - | - | - | - | - | - | - | - | - | - | - | - | -
+R12: soma | 161000 | 3 | 0 | 0 | - | - | - | - | 9650 | 1 | 0 | 0 | - | - | - | - | 1350 | 1 | 0
+R13: Bharat Distributors | 0 | 0 | 150000 | 1 | 0 | 0 | 150000 | 1 | - | - | - | - | - | - | - | - | - | - | -
+R14: Mojopanda Naturals Private Limited | 0 | 0 | 150000 | 1 | - | - | - | - | - | - | - | - | - | - | - | - | - | - | -
+R15: Raj Fish Meal | 141280 | 1 | 0 | 0 | 141280 | 1 | 0 | 0 | - | - | - | - | - | - | - | - | - | - | -
+R16: Bharat Marketing | 0 | 0 | 137210 | 1 | - | - | - | - | - | - | - | - | - | - | - | - | - | - | -
+R17: Edelweissretailfinlt | 0 | 0 | 116484 | 4 | - | - | - | - | - | - | - | - | - | - | - | - | - | - | -
+R18: Magma Fincorp Limited | 0 | 0 | 74472 | 1 | - | - | - | - | - | - | - | - | - | - | - | - | - | - | -
+R19: Raghavendra Vittal | 0 | 0 | 70000 | 1 | - | - | - | - | 0 | 0 | 70000 | 1 | - | - | - | - | - | - | -
+R20: Lic India | 0 | 0 | 66807 | 9 | 0 | 0 | 7423 | 1 | 0 | 0 | 7423 | 1 | 0 | 0 | 7423 | 1 | 0 | 0 | 7423
+R21: Sadasghiva Salain | 0 | 0 | 60500 | 1 | - | - | - | - | 0 | 0 | 60500 | 1 | - | - | - | - | - | - | -
+R22: 000552365XXXXXX8 | 0 | 0 | 52610 | 1 | - | - | - | - | - | - | - | - | - | - | - | - | 0 | 0 | 52610
+R23: Gopala, Shetty | 48269 | 1 | 0 | 0 | 48269 | 1 | 0 | 0 | - | - | - | - | - | - | - | - | - | - | -
+R24: united petro finance | 0 | 0 | 45000 | 1 | - | - | - | - | - | - | - | - | - | - | - | - | - | - | -
+R25: Mr Yogendra Kumar | 19660 | 1 | 7900 | 1 | - | - | - | - | - | - | - | - | - | - | - | - | - | - | -
+R26: Soma | 19274 | 1 | 0 | 0 | 19274 | 1 | 0 | 0 | - | - | - | - | - | - | - | - | - | - | -
+R27: Linkedin | 0 | 0 | 12000 | 4 | - | - | - | - | 0 | 0 | 3000 | 1 | 0 | 0 | 3000 | 1 | 0 | 0 | 3000
+R28: Prathibha | 11190 | 1 | 0 | 0 | - | - | - | - | 11190 | 1 | 0 | 0 | - | - | - | - | - | - | -
+R29: Daniel | 0 | 0 | 10000 | 1 | - | - | - | - | - | - | - | - | 0 | 0 | 10000 | 1 | - | - | -
+R30: Hariss | 0 | 0 | 7800 | 1 | - | - | - | - | - | - | - | - | 0 | 0 | 7800 | 1 | - | - | -
+R31: Tata Capital Ltd | 0 | 0 | 5900 | 1 | - | - | - | - | - | - | - | - | - | - | - | - | 0 | 0 | 5900
+R32: Neogrowth | 0 | 0 | 2875 | 1 | - | - | - | - | - | - | - | - | - | - | - | - | 0 | 0 | 2875
+R33: J M Kotecha Sonsreco | 2563 | 1 | 0 | 0 | 2563 | 1 | 0 | 0 | - | - | - | - | - | - | - | - | - | - | -
+R34: Ivl Finance Ltd | 0 | 0 | 1970 | 1 | - | - | - | - | - | - | - | - | - | - | - | - | 0 | 0 | 1970
+R35: India Digital | 0 | 0 | 985 | 1 | - | - | - | - | - | - | - | - | - | - | - | - | 0 | 0 | 985
+R36: Netflix | 0 | 0 | 598 | 2 | 0 | 0 | 299 | 1 | 0 | 0 | 299 | 1 | - | - | - | - | - | - | -
+
+================================================================================
+SHEET: Counterparty
+Dimensions: A1:I27 | Max Row: 27 | Max Col: 9
+================================================================================
+R1: Credit txns |  |  |  |  | Debit txns |  |  | 
+R2: Counterparty | Amount(Γé╣) | Txn count | Amount % |  | Counterparty | Amount(Γé╣) | Txn count | Amount %
+R3: Vguard Industries Ltd | 1841775.83 | 16 | 0.5333333333333333 |  | LG | 1186523.3 | 27 | 0.36
+R4: Akhil, Shetty | 809000 | 2 | 0.06666666666666667 |  | Fulllerton India | 303620 | 1 | 0.01333333333333333
+R5: Sundaram Finance Lit | 600000 | 1 | 0.03333333333333333 |  | Bajaj Finance | 284787 | 9 | 0.12
+R6: Capital First Limited | 450000 | 1 | 0.03333333333333333 |  | Sai Tulaja Enterprises | 250000 | 1 | 0.01333333333333333
+R7: Hinduja Leyland Finance Ltd | 165000 | 1 | 0.03333333333333333 |  | Vguard Industries Ltd | 226279 | 2 | 0.02666666666666667
+R8: soma | 161000 | 3 | 0.1 |  | Mojopanda Naturals Private Limited | 150000 | 1 | 0.01333333333333333
+R9: Raj Fish Meal | 141280 | 1 | 0.03333333333333333 |  | Bharat Distributors | 150000 | 1 | 0.01333333333333333
+R10: Gopala, Shetty | 48269 | 1 | 0.03333333333333333 |  | Bharat Marketing | 137210 | 1 | 0.01333333333333333
+R11: Mr Yogendra Kumar | 19660 | 1 | 0.03333333333333333 |  | Edelweissretailfinlt | 116484 | 4 | 0.05333333333333334
+R12: Soma | 19274 | 1 | 0.03333333333333333 |  | Akhil, Shetty | 100000 | 1 | 0.01333333333333333
+R13: Prathibha | 11190 | 1 | 0.03333333333333333 |  | Magma Fincorp Limited | 74472 | 1 | 0.01333333333333333
+R14: J M Kotecha Sonsreco | 2563 | 1 | 0.03333333333333333 |  | Raghavendra Vittal | 70000 | 1 | 0.01333333333333333
+R15:  |  |  |  |  | Lic India | 66807 | 9 | 0.12
+R16:  |  |  |  |  | Sadasghiva Salain | 60500 | 1 | 0.01333333333333333
+R17:  |  |  |  |  | 000552365XXXXXX8 | 52610 | 1 | 0.01333333333333333
+R18:  |  |  |  |  | united petro finance | 45000 | 1 | 0.01333333333333333
+R19:  |  |  |  |  | Linkedin | 12000 | 4 | 0.05333333333333334
+R20:  |  |  |  |  | Daniel | 10000 | 1 | 0.01333333333333333
+R21:  |  |  |  |  | Mr Yogendra Kumar | 7900 | 1 | 0.01333333333333333
+R22:  |  |  |  |  | Hariss | 7800 | 1 | 0.01333333333333333
+R23:  |  |  |  |  | Tata Capital Ltd | 5900 | 1 | 0.01333333333333333
+R24:  |  |  |  |  | Neogrowth | 2875 | 1 | 0.01333333333333333
+R25:  |  |  |  |  | Ivl Finance Ltd | 1970 | 1 | 0.01333333333333333
+R26:  |  |  |  |  | India Digital | 985 | 1 | 0.01333333333333333
+R27:  |  |  |  |  | Netflix | 598 | 2 | 0.02666666666666667
+
+================================================================================
+SHEET: AML Analysis
+Dimensions: A1:Z1000 | Max Row: 1000 | Max Col: 26
+================================================================================
+R1: Anti-Money Laundering Risk Indicators |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+R2: AML Risk Score | Daily avg balance(Γé╣) | Max Balance(Γé╣) | Min Balance(Γé╣) | Days Gap b/w Max & Min | Transactions | Max Dormant Days |  |  |  |  |  |  |  |  |  |  |  |  | 
+R3: 50 | 217465.76 | 2941365.98 | 100206.0199999996 | 4 | 1469(01/Apr/2023-31/Mar/2024) | 0 |  |  |  |  |  |  |  |  |  |  |  |  | 
+R6: Suspicious Activities |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+R7: Activity | Incidences |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+R8: Big deposit followed by withdrawals on same or next day | 2 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+R9: Multiple deposits followed by big withdrawal on same or next day | 2 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+R10: Multiple Cash/ ATM deposits on same day | 1 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+R11: High value spending | 5 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+R12: International wire transfers | 0 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+R55: Top 10 Counterparties - Credit txns |  |  |  |  |  | Top 10 Counterparties - Debit txns |  |  |  |  |  |  |  |  |  |  |  |  | 
+R56: Counterparty | Amount(Γé╣) | Amount % | Txn count | Txn % |  | Counterparty | Amount(Γé╣) | Amount % | Txn count | Txn % |  |  |  |  |  |  |  |  | 
+R57: Unknown | 18539331.26 | 0.1278 | 105 | 0.1012536162005786 |  | Asthan Silve N | 31094000 | 0.214 | 42 | 0.09722222222222222 |  |  |  |  |  |  |  |  | 
+R58: Na Jewellers Pear N | 14147214 | 0.0975 | 20 | 0.0192864030858245 |  | Jasthan Silve N | 25292000 | 0.174 | 32 | 0.07407407407407407 |  |  |  |  |  |  |  |  | 
+R59: Harsahaimal S | 7174286 | 0.0494 | 20 | 0.0192864030858245 |  | Rajast Han Silver House N | 23861500 | 0.1642 | 108 | 0.25 |  |  |  |  |  |  |  |  | 
+R60: Honepe Private Lim | 6585884.08 | 0.0454 | 192 | 0.1851494696239152 |  | Unknown | 18449889.05 | 0.127 | 91 | 0.2106481481481482 |  |  |  |  |  |  |  |  | 
+
+================================================================================
+SHEET: Inter Bank Transfers
+Dimensions: A1:Z1000 | Max Row: 1000 | Max Col: 26
+================================================================================
+R1: ABC Bank- 1234567890 - Current |  |  |  |  | ABC Bank - 63542 - Savings |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+R2: Txn date | Particulars | Debit(Γé╣) | Credit(Γé╣) |  | Txn date | Particulars | Debit(Γé╣) | Credit(Γé╣) |  |  |  |  |  |  |  |  |  |  | 
+R3: 28/Dec/2023 | IMPS from HDFC Bank A/c 1234567890 ΓÇô ABC Pvt Ltd | 280000 | 0 |  | 28/Dec/2023 | IMPS received from XYZ Bank, XYZ Enterprises, A/c XXXXXXXX | 0 | 280000 |  |  |  |  |  |  |  |  |  |  | 
+R4: 18/Jan/2024 | IMPS from HDFC Bank A/c 1234567890 ΓÇô ABC Pvt Ltd | 210000 | 0 |  | 18/Jan/2024 | IMPS received from XYZ Bank, XYZ Enterprises, A/c XXXXXXXX | 0 | 210000 |  |  |  |  |  |  |  |  |  |  | 
+R5: 08/Jan/2024 | IMPS from HDFC Bank A/c 1234567890 ΓÇô ABC Pvt Ltd | 100000 | 0 |  | 08/Jan/2024 | IMPS received from XYZ Bank, XYZ Enterprises, A/c XXXXXXXX | 0 | 100000 |  |  |  |  |  |  |  |  |  |  | 
+R6: 30/Jan/2024 | IMPS from HDFC Bank A/c 1234567890 ΓÇô ABC Pvt Ltd | 100000 | 0 |  | 30/Jan/2024 | IMPS received from XYZ Bank, XYZ Enterprises, A/c XXXXXXXX | 0 | 100000 |  |  |  |  |  |  |  |  |  |  | 
+R7: 18/Mar/2024 | IMPS from HDFC Bank A/c 1234567890 ΓÇô ABC Pvt Ltd | 100000 | 0 |  | 18/Mar/2024 | IMPS received from XYZ Bank, XYZ Enterprises, A/c XXXXXXXX | 0 | 100000 |  |  |  |  |  |  |  |  |  |  | 
+R8: 18/Dec/2023 | IMPS from HDFC Bank A/c 1234567890 ΓÇô ABC Pvt Ltd | 300000 | 0 |  | 18/Dec/2023 | IMPS received from XYZ Bank, XYZ Enterprises, A/c XXXXXXXX | 0 | 300000 |  |  |  |  |  |  |  |  |  |  | 
+R9: 25/Jan/2024 | IMPS from HDFC Bank A/c 1234567890 ΓÇô ABC Pvt Ltd | 140000 | 0 |  | 25/Jan/2024 | IMPS received from XYZ Bank, XYZ Enterprises, A/c XXXXXXXX | 0 | 140000 |  |  |  |  |  |  |  |  |  |  | 
+R10: 24/Jan/2024 | IMPS from HDFC Bank A/c 1234567890 ΓÇô ABC Pvt Ltd | 38000 | 0 |  | 24/Jan/2024 | IMPS received from XYZ Bank, XYZ Enterprises, A/c XXXXXXXX | 0 | 38000 |  |  |  |  |  |  |  |  |  |  | 
+R11: 05/Feb/2024 | IMPS from HDFC Bank A/c 1234567890 ΓÇô ABC Pvt Ltd | 450000 | 0 |  | 05/Feb/2024 | IMPS received from XYZ Bank, XYZ Enterprises, A/c XXXXXXXX | 0 | 450000 |  |  |  |  |  |  |  |  |  |  | 
+R12: 22/Feb/2024 | IMPS from HDFC Bank A/c 1234567890 ΓÇô ABC Pvt Ltd | 90000 | 0 |  | 22/Feb/2024 | IMPS received from XYZ Bank, XYZ Enterprises, A/c XXXXXXXX | 0 | 90000 |  |  |  |  |  |  |  |  |  |  | 
+R13: 29/Dec/2023 | IMPS from HDFC Bank A/c 1234567890 ΓÇô ABC Pvt Ltd | 150000 | 0 |  | 29/Dec/2023 | IMPS received from XYZ Bank, XYZ Enterprises, A/c XXXXXXXX | 0 | 150000 |  |  |  |  |  |  |  |  |  |  | 
+R14: 20/Dec/2023 | IMPS from HDFC Bank A/c 1234567890 ΓÇô ABC Pvt Ltd | 390000 | 0 |  | 20/Dec/2023 | IMPS received from XYZ Bank, XYZ Enterprises, A/c XXXXXXXX | 0 | 390000 |  |  |  |  |  |  |  |  |  |  | 
+R15: 03/Feb/2024 | IMPS from HDFC Bank A/c 1234567890 ΓÇô ABC Pvt Ltd | 390000 | 0 |  | 03/Feb/2024 | IMPS received from XYZ Bank, XYZ Enterprises, A/c XXXXXXXX | 0 | 390000 |  |  |  |  |  |  |  |  |  |  | 
+R16: 16/Dec/2023 | IMPS from HDFC Bank A/c 1234567890 ΓÇô ABC Pvt Ltd | 170000 | 0 |  | 16/Dec/2023 | IMPS received from XYZ Bank, XYZ Enterprises, A/c XXXXXXXX | 0 | 170000 |  |  |  |  |  |  |  |  |  |  | 
+R17: 16/Feb/2024 | IMPS from HDFC Bank A/c 1234567890 ΓÇô ABC Pvt Ltd | 195000 | 0 |  | 16/Feb/2024 | IMPS received from XYZ Bank, XYZ Enterprises, A/c XXXXXXXX | 0 | 195000 |  |  |  |  |  |  |  |  |  |  | 
+R18: 06/Feb/2024 | IMPS from HDFC Bank A/c 1234567890 ΓÇô ABC Pvt Ltd | 22000 | 0 |  | 06/Feb/2024 | IMPS received from XYZ Bank, XYZ Enterprises, A/c XXXXXXXX | 0 | 22000 |  |  |  |  |  |  |  |  |  |  | 
+R19: 02/Feb/2024 | IMPS from HDFC Bank A/c 1234567890 ΓÇô ABC Pvt Ltd | 225000 | 0 |  | 02/Feb/2024 | IMPS received from XYZ Bank, XYZ Enterprises, A/c XXXXXXXX | 0 | 225000 |  |  |  |  |  |  |  |  |  |  | 
+R20: 13/Jan/2024 | IMPS from HDFC Bank A/c 1234567890 ΓÇô ABC Pvt Ltd | 430000 | 0 |  | 13/Jan/2024 | IMPS received from XYZ Bank, XYZ Enterprises, A/c XXXXXXXX | 0 | 430000 |  |  |  |  |  |  |  |  |  |  | 
+R21: 19/Jan/2024 | IMPS from HDFC Bank A/c 1234567890 ΓÇô ABC Pvt Ltd | 235000 | 0 |  | 19/Jan/2024 | IMPS received from XYZ Bank, XYZ Enterprises, A/c XXXXXXXX | 0 | 235000 |  |  |  |  |  |  |  |  |  |  | 
+R22: 09/Jan/2024 | IMPS from HDFC Bank A/c 1234567890 ΓÇô ABC Pvt Ltd | 65000 | 0 |  | 09/Jan/2024 | IMPS received from XYZ Bank, XYZ Enterprises, A/c XXXXXXXX | 0 | 65000 |  |  |  |  |  |  |  |  |  |  | 
+R23: 24/Feb/2024 | IMPS from HDFC Bank A/c 1234567890 ΓÇô ABC Pvt Ltd | 325000 | 0 |  | 24/Feb/2024 | IMPS received from XYZ Bank, XYZ Enterprises, A/c XXXXXXXX | 0 | 325000 |  |  |  |  |  |  |  |  |  |  | 
+R24: 03/Jan/2024 | IMPS from HDFC Bank A/c 1234567890 ΓÇô ABC Pvt Ltd | 48000 | 0 |  | 03/Jan/2024 | IMPS received from XYZ Bank, XYZ Enterprises, A/c XXXXXXXX | 0 | 48000 |  |  |  |  |  |  |  |  |  |  | 
+R25: 05/Feb/2024 | IMPS from HDFC Bank A/c 1234567890 ΓÇô ABC Pvt Ltd | 234000 | 0 |  | 05/Feb/2024 | IMPS received from XYZ Bank, XYZ Enterprises, A/c XXXXXXXX | 0 | 234000 |  |  |  |  |  |  |  |  |  |  | 
+R26: 29/Feb/2024 | IMPS from HDFC Bank A/c 1234567890 ΓÇô ABC Pvt Ltd | 234000 | 0 |  | 29/Feb/2024 | IMPS received from XYZ Bank, XYZ Enterprises, A/c XXXXXXXX | 0 | 234000 |  |  |  |  |  |  |  |  |  |  | 
+R27: 26/Dec/2023 | IMPS from HDFC Bank A/c 1234567890 ΓÇô ABC Pvt Ltd | 95000 | 0 |  | 26/Dec/2023 | IMPS received from XYZ Bank, XYZ Enterprises, A/c XXXXXXXX | 0 | 95000 |  |  |  |  |  |  |  |  |  |  | 
+R28: 12/Jan/2024 | IMPS from HDFC Bank A/c 1234567890 ΓÇô ABC Pvt Ltd | 237000 | 0 |  | 12/Jan/2024 | IMPS received from XYZ Bank, XYZ Enterprises, A/c XXXXXXXX | 0 | 237000 |  |  |  |  |  |  |  |  |  |  | 
+R29: 20/Feb/2024 | IMPS from HDFC Bank A/c 1234567890 ΓÇô ABC Pvt Ltd | 440000 | 0 |  | 20/Feb/2024 | IMPS received from XYZ Bank, XYZ Enterprises, A/c XXXXXXXX | 0 | 440000 |  |  |  |  |  |  |  |  |  |  | 
+R30: 13/Dec/2023 | IMPS from HDFC Bank A/c 1234567890 ΓÇô ABC Pvt Ltd | 84000 | 0 |  | 13/Dec/2023 | IMPS received from XYZ Bank, XYZ Enterprises, A/c XXXXXXXX | 0 | 84000 |  |  |  |  |  |  |  |  |  |  | 
+R31: 14/Dec/2023 | IMPS from HDFC Bank A/c 1234567890 ΓÇô ABC Pvt Ltd | 370000 | 0 |  | 14/Dec/2023 | IMPS received from XYZ Bank, XYZ Enterprises, A/c XXXXXXXX | 0 | 370000 |  |  |  |  |  |  |  |  |  |  | 
+R32: 22/Dec/2023 | IMPS from HDFC Bank A/c 1234567890 ΓÇô ABC Pvt Ltd | 364000 | 0 |  | 22/Dec/2023 | IMPS received from XYZ Bank, XYZ Enterprises, A/c XXXXXXXX | 0 | 364000 |  |  |  |  |  |  |  |  |  |  | 
+R33: 17/Jan/2024 | IMPS from HDFC Bank A/c 1234567890 ΓÇô ABC Pvt Ltd | 29000 | 0 |  | 17/Jan/2024 | IMPS received from XYZ Bank, XYZ Enterprises, A/c XXXXXXXX | 0 | 29000 |  |  |  |  |  |  |  |  |  |  | 
+R34: 31/Jan/2024 | IMPS from HDFC Bank A/c 1234567890 ΓÇô ABC Pvt Ltd | 188000 | 0 |  | 31/Jan/2024 | IMPS received from XYZ Bank, XYZ Enterprises, A/c XXXXXXXX | 0 | 188000 |  |  |  |  |  |  |  |  |  |  | 
+R35: 06/Feb/2024 | IMPS from HDFC Bank A/c 1234567890 ΓÇô ABC Pvt Ltd | 499000 | 0 |  | 06/Feb/2024 | IMPS received from XYZ Bank, XYZ Enterprises, A/c XXXXXXXX | 0 | 499000 |  |  |  |  |  |  |  |  |  |  | 
+R36: 07/Feb/2024 | IMPS from HDFC Bank A/c 1234567890 ΓÇô ABC Pvt Ltd | 295000 | 0 |  | 07/Feb/2024 | IMPS received from XYZ Bank, XYZ Enterprises, A/c XXXXXXXX | 0 | 295000 |  |  |  |  |  |  |  |  |  |  | 
+R37: 12/Feb/2024 | IMPS from HDFC Bank A/c 1234567890 ΓÇô ABC Pvt Ltd | 119000 | 0 |  | 12/Feb/2024 | IMPS received from XYZ Bank, XYZ Enterprises, A/c XXXXXXXX | 0 | 119000 |  |  |  |  |  |  |  |  |  |  | 
+R38: 12/Feb/2024 | IMPS from HDFC Bank A/c 1234567890 ΓÇô ABC Pvt Ltd | 258000 | 0 |  | 12/Feb/2024 | IMPS received from XYZ Bank, XYZ Enterprises, A/c XXXXXXXX | 0 | 258000 |  |  |  |  |  |  |  |  |  |  | 
+R39: 18/Mar/2024 | IMPS from HDFC Bank A/c 1234567890 ΓÇô ABC Pvt Ltd | 197000 | 0 |  | 18/Mar/2024 | IMPS received from XYZ Bank, XYZ Enterprises, A/c XXXXXXXX | 0 | 197000 |  |  |  |  |  |  |  |  |  |  | 
+R40: 20/Mar/2024 | IMPS from HDFC Bank A/c 1234567890 ΓÇô ABC Pvt Ltd | 255000 | 0 |  | 20/Mar/2024 | IMPS received from XYZ Bank, XYZ Enterprises, A/c XXXXXXXX | 0 | 255000 |  |  |  |  |  |  |  |  |  |  | 
+R41:  | Total | 8351000 | 0 |  |  | Total | 0 | 8351000 |  |  |  |  |  |  |  |  |  |  | 
+R44: AXISIN - 1234- Savings |  |  |  |  | FCBL - 56789- Overdraft / Cash credit |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+R45: Txn date | Particulars | Debit(Γé╣) | Credit(Γé╣) |  | Txn date | Particulars | Debit(Γé╣) | Credit(Γé╣) |  |  |  |  |  |  |  |  |  |  | 
+R46: 23/Jan/2024 | MMT/IMPS from Axis Bank A/c 567890 ΓÇô ABC Pvt Ltd | 200000 | 0 |  | 23/Jan/2024 | By Transfer:IMPS received from XYZ Bank, XYZ Enterprises, A/c XXXXXXXX | 0 | 200000 |  |  |  |  |  |  |  |  |  |  | 
+R47: 01/Feb/2024 | MMT/IMPS from Axis Bank A/c 567890 ΓÇô ABC Pvt Ltd | 70000 | 0 |  | 01/Feb/2024 | By Transfer:IMPS received from XYZ Bank, XYZ Enterprises, A/c XXXXXXXX | 0 | 70000 |  |  |  |  |  |  |  |  |  |  | 
+R48: 01/Jan/2024 | MMT/IMPS from Axis Bank A/c 567890 ΓÇô ABC Pvt Ltd | 50000 | 0 |  | 01/Jan/2024 | By Transfer:IMPS received from XYZ Bank, XYZ Enterprises, A/c XXXXXXXX | 0 | 50000 |  |  |  |  |  |  |  |  |  |  | 
+R49: 08/Jan/2024 | MMT/IMPS from Axis Bank A/c 567890 ΓÇô ABC Pvt Ltd | 50000 | 0 |  | 08/Jan/2024 | By Transfer:IMPS received from XYZ Bank, XYZ Enterprises, A/c XXXXXXXX | 0 | 50000 |  |  |  |  |  |  |  |  |  |  | 
+R50: 20/Feb/2024 | MMT/IMPS from Axis Bank A/c 567890 ΓÇô ABC Pvt Ltd | 175000 | 0 |  | 20/Feb/2024 | By Transfer:IMPS received from XYZ Bank, XYZ Enterprises, A/c XXXXXXXX | 0 | 175000 |  |  |  |  |  |  |  |  |  |  | 
+R51: 09/Feb/2024 | MMT/IMPS from Axis Bank A/c 567890 ΓÇô ABC Pvt Ltd | 180000 | 0 |  | 09/Feb/2024 | By Transfer:IMPS received from XYZ Bank, XYZ Enterprises, A/c XXXXXXXX | 0 | 180000 |  |  |  |  |  |  |  |  |  |  | 
+R52: 14/Feb/2024 | MMT/IMPS from Axis Bank A/c 567890 ΓÇô ABC Pvt Ltd | 276000 | 0 |  | 14/Feb/2024 | By Transfer:IMPS received from XYZ Bank, XYZ Enterprises, A/c XXXXXXXX | 0 | 276000 |  |  |  |  |  |  |  |  |  |  | 
+R53:  | Total | 1001000 | 0 |  |  | Total | 0 | 1001000 |  |  |  |  |  |  |  |  |  |  | 
+
+================================================================================
+SHEET: Circular txns
+Dimensions: A1:I2 | Max Row: 2 | Max Col: 9
+================================================================================
+R1: From |  |  |  |  | To |  |  | 
+R2: Txn date | Particulars | Debit(Γé╣) | Credit(Γé╣) |  | Txn date | Particulars | Debit(Γé╣) | Credit(Γé╣)
+
+================================================================================
+SHEET: Recurring payments
+Dimensions: A1:J7 | Max Row: 7 | Max Col: 10
+================================================================================
+R1: Start date | End date | Particulars | Counterparty | Amount(Γé╣) | Txn count | Interval | Tags | Misses | Misses date
+R2: 02/Jan/2020 | 02/Sep/2020 | ECS/BAJAJ FINANCE LI/7UPBFR5092879  | Bajaj Finance | 31643 | 9 | MONTHLY | Loan, NACH, EMI | 0 | -
+R3: 16/Jan/2020 | 16/Sep/2020 | ACH Debit/LIC OF INDIA/9598365220320  | Lic India | 7423 | 9 | MONTHLY | NACH, Insurance | 0 | -
+R4: 25/Jun/2020 | 25/Sep/2020 | NACH-DR- EDELWEISSRETAILFINLT  | Edelweissretailfinlt | 29121 | 4 | MONTHLY | Loan, NACH, EMI | 0 | -
+R5: 15/Feb/2020 | 15/May/2020 | UPI/032519362950/19:46:46/UPI/618002010008311@ubi  | Linkedin | 3000 | 4 | MONTHLY | Third Party Transfer | 0 | -
+R6: 10/Feb/2020 | 10/Mar/2020 | ATM-CASH-AXIS/BWRO19334555/7891/0914547/PIMPRI  | LG | 20000 | 2 | MONTHLY | ATM | 0 | -
+R7: 13/Jan/2020 | 13/Feb/2020 | UPI/032519362950/19:46:46/UPI/618002010008311@ubi  | Netflix | 299 | 2 | MONTHLY | UPI, UPI/P2P | 0 | -
+
+================================================================================
+SHEET: Loans
+Dimensions: A1:J13 | Max Row: 13 | Max Col: 10
+================================================================================
+R1: Start date | End date | Particulars | Counterparty | Debit(Γé╣) | Credit(Γé╣) | Txn count | Tags | Misses | Misses date
+R2: 02/Jan/2020 | 02/Sep/2020 | ECS/BAJAJ FINANCE LI/7UPBFR5092879  | Bajaj Finance | 31643 | 0 | 9 | Loan, NACH, EMI | 0 | -
+R3: 25/Jun/2020 | 25/Sep/2020 | NACH-DR- EDELWEISSRETAILFINLT  | Edelweissretailfinlt | 29121 | 0 | 4 | Loan, NACH, EMI | 0 | -
+R4: 12/May/2020 | 12/May/2020 | CAPITAL FIRST LIMITED  | Capital First Limited | 0 | 450000 | 1 | Loan |  | -
+R5: 14/May/2020 | 14/May/2020 | HINDUJA LEYLAND FINANCE LTD LOAN  | Hinduja Leyland Finance Ltd | 0 | 165000 | 1 | Loan |  | -
+R6: 30/Jul/2020 | 30/Jul/2020 | ACH/SUNDARAM FINANCE LIT/6575567  | Sundaram Finance Lit | 0 | 600000 | 1 | Loan, NACH |  | -
+R7: 20/Apr/2020 | 20/Apr/2020 | DEBIT-CMP MANDATE DEBIT IVL FINANCE LTD-  | Ivl Finance Ltd | 1970 | 0 | 1 | Loan, EMI |  | -
+R8: 21/Apr/2020 | 21/Apr/2020 | TRF/TATA CAPITAL LTD/ICICI  | Tata Capital Ltd | 5900 | 0 | 1 | Loan, Third Party Transfer, EMI |  | -
+R9: 27/Apr/2020 | 27/Apr/2020 | ACH/NEOGROWTH CREDIT PVT/1087069_ B984  | Neogrowth | 2875 | 0 | 1 | Loan, NACH, EMI |  | -
+R10: 02/May/2020 | 02/May/2020 | NACH-DR- Fulllerton India  | Fulllerton India | 303620 | 0 | 1 | Loan, NACH, EMI |  | -
+R11: 04/May/2020 | 04/May/2020 | CLG/HDFC BANK LTD LOAN AC  | LG | 55279 | 0 | 1 | Loan, Cheque, EMI |  | -
+R12: 12/May/2020 | 12/May/2020 | NACH-DR- UNITED PETRO FINANCE  | united petro finance | 45000 | 0 | 1 | Loan, NACH, EMI |  | -
+R13: 15/Jul/2020 | 15/Jul/2020 | NACH-DR- MAGMA FINCORP LIMITED  | Magma Fincorp Limited | 74472 | 0 | 1 | Loan, NACH, EMI |  | -
+
+================================================================================
+SHEET: Loans txns
+Dimensions: A1:J24 | Max Row: 24 | Max Col: 10
+================================================================================
+R1: Txn date | Particulars | Cheque/Reference number | Counterparty | Debit(Γé╣) | Credit(Γé╣) | Balance(Γé╣) | Computed balance(Γé╣) | Tags | Category
+R2: 02/Jan/2020 | ECS/BAJAJ FINANCE LI/7UPBFR5092879  |  | Bajaj Finance | 31643 | 0 | 396980.34 | 396980.34 | Loan, NACH, EMI | Loan / EMI
+R3: 02/Feb/2020 | ECS/BAJAJ FINANCE LI/7UPBFR50929545  |  | Bajaj Finance | 31643 | 0 | 519463.34 | 522164.34 | Loan, NACH, EMI | Loan / EMI
+R4: 02/Mar/2020 | ECS/BAJAJ FINANCE LI/7UPBFR50929545  |  | Bajaj Finance | 31643 | 0 | 334920.34 | 334322.34 | Loan, NACH, EMI | Loan / EMI
+R5: 02/Apr/2020 | ECS/BAJAJ FINANCE LI/7UPBFR50929545  |  | Bajaj Finance | 31643 | 0 | 694619.34 | 694021.34 | Loan, NACH, EMI | Loan / EMI
+R6: 02/May/2020 | ECS/BAJAJ FINANCE LI/7UPBFR50929545  |  | Bajaj Finance | 31643 | 0 | 52242.04 | 51644.04 | Loan, NACH, EMI | Loan / EMI
+R7: 02/Jun/2020 | ECS/BAJAJ FINANCE LI/7UPBFR50929545  |  | Bajaj Finance | 31643 | 0 | 1154566.04 | 1150968.04 | Loan, NACH, EMI | Loan / EMI
+R8: 02/Jul/2020 | ECS/BAJAJ FINANCE LI/7UPBFR50929545  |  | Bajaj Finance | 31643 | 0 | 909261.04 | 908663.04 | Loan, NACH, EMI | Loan / EMI
+R9: 02/Aug/2020 | ECS/BAJAJ FINANCE LI/7UPBFR50929545  |  | Bajaj Finance | 31643 | 0 | 1268386.04 | 1267788.04 | Loan, NACH, EMI | Loan / EMI
+R10: 02/Sep/2020 | ECS/BAJAJ FINANCE LI/7UPBFR50929545  |  | Bajaj Finance | 31643 | 0 | 1253380.87 | 1252782.87 | Loan, NACH, EMI | Loan / EMI
+R11: 25/Jun/2020 | NACH-DR- EDELWEISSRETAILFINLT  |  | Edelweissretailfinlt | 29121 | 0 | 940904.04 | 940306.04 | Loan, NACH, EMI | Loan / EMI
+R12: 25/Jul/2020 | NACH-DR- EDELWEISSRETAILFINLT  |  | Edelweissretailfinlt | 29121 | 0 | 727357.04 | 726759.04 | Loan, NACH, EMI | Loan / EMI
+R13: 25/Aug/2020 | NACH-DR- EDELWEISSRETAILFINLT  |  | Edelweissretailfinlt | 29121 | 0 | 1285023.87 | 1284425.87 | Loan, NACH, EMI | Loan / EMI
+R14: 25/Sep/2020 | NACH-DR- EDELWEISSRETAILFINLT  |  | Edelweissretailfinlt | 29121 | 0 | 1547197.87 | 1546599.87 | Loan, NACH, EMI | Loan / EMI
+R15: 12/May/2020 | CAPITAL FIRST LIMITED  |  | Capital First Limited | 0 | 450000 | 551963.04 | 551365.04 | Loan | Loan
+R16: 14/May/2020 | HINDUJA LEYLAND FINANCE LTD LOAN  |  | Hinduja Leyland Finance Ltd | 0 | 165000 | 842552.04 | 841954.04 | Loan | Loan
+R17: 30/Jul/2020 | ACH/SUNDARAM FINANCE LIT/6575567  |  | Sundaram Finance Lit | 0 | 600000 | 1327357.04 | 1326759.04 | Loan, NACH | Loan
+R18: 20/Apr/2020 | DEBIT-CMP MANDATE DEBIT IVL FINANCE LTD-  |  | Ivl Finance Ltd | 1970 | 0 | 651671.04 | 651073.04 | Loan, EMI | Loan / EMI
+R19: 21/Apr/2020 | TRF/TATA CAPITAL LTD/ICICI  |  | Tata Capital Ltd | 5900 | 0 | 645771.04 | 645173.04 | Loan, Third Party Transfer, EMI | Loan / EMI
+R20: 27/Apr/2020 | ACH/NEOGROWTH CREDIT PVT/1087069_ B984  |  | Neogrowth | 2875 | 0 | 642896.04 | 642298.04 | Loan, NACH, EMI | Loan / EMI
+R21: 02/May/2020 | NACH-DR- Fulllerton India  |  | Fulllerton India | 303620 | 0 | 183885.04 | 183287.04 | Loan, NACH, EMI | Loan / EMI
+R22: 04/May/2020 | CLG/HDFC BANK LTD LOAN AC  |  | LG | 55279 | 0 | 146963.04 | 146365.04 | Loan, Cheque, EMI | Loan / EMI
+R23: 12/May/2020 | NACH-DR- UNITED PETRO FINANCE  |  | united petro finance | 45000 | 0 | 101963.04 | 101365.04 | Loan, NACH, EMI | Loan / EMI
+R24: 15/Jul/2020 | NACH-DR- MAGMA FINCORP LIMITED  |  | Magma Fincorp Limited | 74472 | 0 | 763901.04 | 763303.04 | Loan, NACH, EMI | Loan / EMI
+
+================================================================================
+SHEET: Loans Analysis
+Dimensions: A1:AO32 | Max Row: 32 | Max Col: 41
+================================================================================
+R1: Loan Details |  |  |  |  |  |  |  |  | Repayment Details |  |  |  |  |  |  |  |  |  | 
+R2: No. | Lender | Loan Credit(Γé╣) | Loan Debit(Γé╣) | EMI Debit(Γé╣) | EMI Started on | EMI Obligation(Γé╣) |  | Bank Name 
+(EMI running) | 9 Months (Statement Period) |  |  |  | Jan 2020 |  |  | Feb 2020 |  |  | Mar 2020
+R3:  |  |  |  |  |  |  |  |  | EMI Paid | EMI Bounce(Γé╣) | EMI Amt 
+Paid(Γé╣) | Avg Previous 
+Day Balance(Γé╣) | Date | EMI Amt 
+Paid(Γé╣) | Previous Day 
+Balance(Γé╣) | Date | EMI Amt 
+Paid(Γé╣) | Previous Day 
+Balance(Γé╣) | Date
+R4: 1 | Fulllerton India | 0 | 303620 | 303620 | 2020-05-02 | Yes | 303620 |  | 1 | 0 | 303620 | 487505.04 |  | 0 |  |  | 0 |  | 
+R5: 2 | Magma Fincorp Limited | 0 | 74472 | 74472 | 2020-07-15 | Yes | 74472 |  | 1 | 0 | 74472 | 838373.04 |  | 0 |  |  | 0 |  | 
+R6: 3 | Lg | 0 | 55279 | 55279 | 2020-05-04 | Yes | 55279 | hdfc | 1 | 0 | 55279 | 202242.04 |  | 0 |  |  | 0 |  | 
+R7: 4 | United Petro Finance | 0 | 45000 | 45000 | 2020-05-12 | Yes | 45000 |  | 1 | 0 | 45000 | 146963.04 |  | 0 |  |  | 0 |  | 
+R8: 5 | Bajaj Finance | 0 | 284787 | 284787 | 2020-01-02 | Yes | 31643 |  | 9 | 0 | 284787 | 763178.49 | 2 | 31643 | 428623.34 | 2 | 31643 | 551106.34 | 2
+R9: 6 | Edelweissretailfinlt | 0 | 116484 | 116484 | 2020-06-25 | Yes | 29121 |  | 4 | 0 | 116484 | 1154241.71 |  | 0 |  |  | 0 |  | 
+R10: 7 | Tata Capital Ltd | 0 | 5900 | 5900 | 2020-04-21 | Yes | 5900 | icici | 1 | 0 | 5900 | 651671.04 |  | 0 |  |  | 0 |  | 
+R11: 8 | Neogrowth | 0 | 2875 | 2875 | 2020-04-27 | Yes | 2875 |  | 1 | 0 | 2875 | 645771.04 |  | 0 |  |  | 0 |  | 
+R12: 9 | Ivl Finance Ltd | 0 | 1970 | 1970 | 2020-04-20 | Yes | 1970 |  | 1 | 0 | 1970 | 653641.04 |  | 0 |  |  | 0 |  | 
+R13: 10 | Capital First Limited | 450000 | 0 | 0 |  | No | 0 |  | 0 | 0 | 0 | 0 |  | 0 |  |  | 0 |  | 
+R14: 11 | Hinduja Leyland Finance Ltd | 165000 | 0 | 0 |  | No | 0 |  | 0 | 0 | 0 | 0 |  | 0 |  |  | 0 |  | 
+R15: 12 | Sundaram Finance Lit | 600000 | 0 | 0 |  | No | 0 |  | 0 | 0 | 0 | 0 |  | 0 |  |  | 0 |  | 
+R16: Total | 12 | 1215000 | 890387 | 890387 |  | 9 | 549880 | 2 | 20 | 0 | 890387 | 615954.05 | 1 | 31643 | 428623.34 | 1 | 31643 | 551106.34 | 1
+R21: Month | EMI Return 
+Charges |  | EMI Bounce Count |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+R22:  | Amount(Γé╣) | Count |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+R23: Jan 2020 | 0 | 0 | 0 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+R24: Feb 2020 | 0 | 0 | 0 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+R25: Mar 2020 | 0 | 0 | 0 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+R26: Apr 2020 | 0 | 0 | 0 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+R27: May 2020 | 0 | 0 | 0 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+R28: Jun 2020 | 0 | 0 | 0 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+R29: Jul 2020 | 0 | 0 | 0 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+R30: Aug 2020 | 0 | 0 | 0 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+R31: Sep 2020 | 0 | 0 | 0 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+R32: Total | 0 | 0 | 0 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+
+================================================================================
+SHEET: Daily balance
+Dimensions: A1:K34 | Max Row: 34 | Max Col: 11
+================================================================================
+R1: Day of month | Average(Γé╣) | Jan 2020(Γé╣) | Feb 2020(Γé╣) | Mar 2020(Γé╣) | Apr 2020(Γé╣) | May 2020(Γé╣) | Jun 2020(Γé╣) | Jul 2020(Γé╣) | Aug 2020(Γé╣) | Sep 2020(Γé╣)
+R2: 1 | 535750.9025000001 | - | 578623.34 | 365965.34 | 314322.34 | 486907.04 | 146365.04 | 940306.04 | 726759.04 | 726759.04
+R3: 2 | 470300.8400000001 | 445249.34 | 578623.34 | 334322.34 | 314322.34 | 51644.04 | 146365.04 | 908663.04 | 726759.04 | 726759.04
+R4: 3 | 470300.8400000001 | 445249.34 | 578623.34 | 334322.34 | 314322.34 | 51644.04 | 146365.04 | 908663.04 | 726759.04 | 726759.04
+R5: 4 | 476114.8400000001 | 578623.34 | 402854.34 | 334322.34 | 314322.34 | 146365.04 | 146365.04 | 908663.04 | 726759.04 | 726759.04
+R6: 5 | 476114.8400000001 | 578623.34 | 402854.34 | 334322.34 | 314322.34 | 146365.04 | 146365.04 | 908663.04 | 726759.04 | 726759.04
+R7: 6 | 475559.2844444445 | 578623.34 | 397854.34 | 334322.34 | 314322.34 | 146365.04 | 146365.04 | 908663.04 | 726759.04 | 726759.04
+R8: 7 | 475559.2844444445 | 578623.34 | 397854.34 | 334322.34 | 314322.34 | 146365.04 | 146365.04 | 908663.04 | 726759.04 | 726759.04
+R9: 8 | 475559.2844444445 | 578623.34 | 397854.34 | 334322.34 | 314322.34 | 146365.04 | 146365.04 | 908663.04 | 726759.04 | 726759.04
+R10: 9 | 475559.2844444445 | 578623.34 | 397854.34 | 334322.34 | 314322.34 | 146365.04 | 146365.04 | 908663.04 | 726759.04 | 726759.04
+R11: 10 | 567835.3955555555 | 578623.34 | 377854.34 | 314322.34 | 314322.34 | 146365.04 | 1016850.04 | 908663.04 | 726759.04 | 726759.04
+R12: 11 | 567835.3955555555 | 578623.34 | 377854.34 | 314322.34 | 314322.34 | 146365.04 | 1016850.04 | 908663.04 | 726759.04 | 726759.04
+R13: 12 | 669302.9322222222 | 578623.34 | 377854.34 | 314322.34 | 314322.34 | 146365.04 | 1016850.04 | 908663.04 | 726759.04 | 1639966.87
+R14: 13 | 669269.71 | 578623.34 | 377555.34 | 314322.34 | 314322.34 | 146365.04 | 1016850.04 | 908663.04 | 726759.04 | 1639966.87
+R15: 14 | 669269.71 | 578623.34 | 377555.34 | 314322.34 | 314322.34 | 146365.04 | 1016850.04 | 908663.04 | 726759.04 | 1639966.87
+R16: 15 | 647564.1544444445 | 578623.34 | 373565.34 | 314322.34 | 314322.34 | 146365.04 | 976850.04 | 763303.04 | 726759.04 | 1633966.87
+R17: 16 | 644265.0433333335 | 578623.34 | 366142.34 | 314322.34 | 314322.34 | 146365.04 | 969427.04 | 755880.04 | 726759.04 | 1626543.87
+R18: 17 | 634021.7100000001 | 578623.34 | 366142.34 | 314322.34 | 314322.34 | 146365.04 | 969427.04 | 755880.04 | 726759.04 | 1534353.87
+R19: 18 | 671637.6766666668 | 578623.34 | 365965.34 | 314322.34 | 653043.04 | 146365.04 | 969427.04 | 755880.04 | 726759.04 | 1534353.87
+R20: 19 | 671637.6766666668 | 578623.34 | 365965.34 | 314322.34 | 653043.04 | 146365.04 | 969427.04 | 755880.04 | 726759.04 | 1534353.87
+R21: 20 | 676015.1211111112 | 578623.34 | 365965.34 | 314322.34 | 651073.04 | 146365.04 | 969427.04 | 755880.04 | 726759.04 | 1575720.87
+R22: 21 | 675359.5655555556 | 578623.34 | 365965.34 | 314322.34 | 645173.04 | 146365.04 | 969427.04 | 755880.04 | 726759.04 | 1575720.87
+R23: 22 | 675359.5655555556 | 578623.34 | 365965.34 | 314322.34 | 645173.04 | 146365.04 | 969427.04 | 755880.04 | 726759.04 | 1575720.87
+R24: 23 | 675359.5655555556 | 578623.34 | 365965.34 | 314322.34 | 645173.04 | 146365.04 | 969427.04 | 755880.04 | 726759.04 | 1575720.87
+R25: 24 | 675359.5655555556 | 578623.34 | 365965.34 | 314322.34 | 645173.04 | 146365.04 | 969427.04 | 755880.04 | 726759.04 | 1575720.87
+R26: 25 | 665652.5655555556 | 578623.34 | 365965.34 | 314322.34 | 645173.04 | 146365.04 | 940306.04 | 726759.04 | 726759.04 | 1546599.87
+R27: 26 | 665652.5655555556 | 578623.34 | 365965.34 | 314322.34 | 645173.04 | 146365.04 | 940306.04 | 726759.04 | 726759.04 | 1546599.87
+R28: 27 | 665333.1211111112 | 578623.34 | 365965.34 | 314322.34 | 642298.04 | 146365.04 | 940306.04 | 726759.04 | 726759.04 | 1546599.87
+R29: 28 | 665333.1211111112 | 578623.34 | 365965.34 | 314322.34 | 642298.04 | 146365.04 | 940306.04 | 726759.04 | 726759.04 | 1546599.87
+R30: 29 | 665333.1211111112 | 578623.34 | 365965.34 | 314322.34 | 642298.04 | 146365.04 | 940306.04 | 726759.04 | 726759.04 | 1546599.87
+R31: 30 | 699843.46875 | 578623.34 | - | 314322.34 | 642298.04 | 146365.04 | 940306.04 | 726759.04 | 726759.04 | 1523314.87
+R32: 31 | 498565.76 | 578623.34 | - | 314322.34 | - | 146365.04 | - | 726759.04 | 726759.04 | -
+R33: Median | 633908.9877777778 | 578623.3400000001 | 373565.3400000001 | 314322.3400000001 | 314322.3400000001 | 146365.04 | 954866.54 | 755880.04 | 726759.04 | 1540476.87
+R34: Average | 603586.2044444444 | 569731.74 | 397210.48 | 321149.53 | 458028.98 | 151239.23 | 724835.51 | 819563.3 | 726759.04 | 1263758.03
+
+================================================================================
+SHEET: Monthly summary
+Dimensions: A1:AJ46 | Max Row: 46 | Max Col: 36
+================================================================================
+R1:  | Jan 2020 |  | Feb 2020 |  | Mar 2020 |  | Apr 2020 |  | May 2020 |  | Jun 2020 |  | Jul 2020 |  | Aug 2020 |  | Sep 2020 |  | 
+R2:  | Amount(Γé╣) | Txn Count | Amount(Γé╣) | Txn Count | Amount(Γé╣) | Txn Count | Amount(Γé╣) | Txn Count | Amount(Γé╣) | Txn Count | Amount(Γé╣) | Txn Count | Amount(Γé╣) | Txn Count | Amount(Γé╣) | Txn Count | Amount(Γé╣) | Txn Count | 
+R3: Opening balance | 578623.34 |  | 578623.3400000001 |  | 365965.3400000001 |  | 314322.3400000001 |  | 642298.04 |  | 146365.04 |  | 940306.04 |  | 726759.04 |  | 726759.04 |  | 
+R4: Deposits | 70106 | 3 | 20840 | 2 | 50940 | 1 | 683350 | 3 | 632169 | 5 | 403092 | 5 | 0 | 0 | 160557.83 | 2 | 491677 | 4 | 
+R5: Loan | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 
+R6: Cash & ATM | 0 | 0 | 0 | 0 | 0 | 0 | 32000 | 1 | 150000 | 1 | 0 | 0 | 0 | 0 | 0 | 0 | 409000 | 1 | 
+R7:         Cash Deposit | 0 | 0 | 0 | 0 | 0 | 0 | 32000 | 1 | 150000 | 1 | 0 | 0 | 0 | 0 | 0 | 0 | 409000 | 1 | 
+R8: I/W Funds Transfer | 67543 | 2 | 20840 | 2 | 50940 | 1 | 1350 | 1 | 482169 | 4 | 403092 | 5 | 0 | 0 | 160557.83 | 2 | 82677 | 3 | 
+R9:         NACH | 48269 | 1 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 
+R10:         Cheque | 19274 | 1 | 0 | 0 | 50940 | 1 | 0 | 0 | 482169 | 4 | 403092 | 5 | 0 | 0 | 0 | 0 | 0 | 0 | 
+R11:         NEFT | 0 | 0 | 11190 | 1 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 19660 | 1 | 
+R12:         Third Party Transfer | 0 | 0 | 9650 | 1 | 0 | 0 | 1350 | 1 | 0 | 0 | 0 | 0 | 0 | 0 | 160557.83 | 2 | 21650 | 1 | 
+R13:         UPI | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 41367 | 1 | 
+R14: O/W Funds Transfer Return | 2563 | 1 | 0 | 0 | 0 | 0 | 650000 | 1 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 
+R15:         Cheque Return | 2563 | 1 | 0 | 0 | 0 | 0 | 650000 | 1 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 
+R16: Internal Transfer | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 
+R17: Withdrawals | 236202 | 7 | 208682 | 11 | 91241 | 7 | 766716.3 | 12 | 706856 | 9 | 645397 | 7 | 239816 | 6 | 176622 | 8 | 252788 | 8 | 
+R18: Sales & Marketing | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 137210 | 1 | 0 | 0 | 0 | 0 | 0 | 0 | 
+R19: Insurance | 7423 | 1 | 7423 | 1 | 7423 | 1 | 7423 | 1 | 7423 | 1 | 7423 | 1 | 7423 | 1 | 7423 | 1 | 7423 | 1 | 
+R20: Tax Paid | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 40000 | 1 | 0 | 0 | 0 | 0 | 86000 | 2 | 
+R21: Loan | 31643 | 1 | 31643 | 1 | 31643 | 1 | 42388 | 4 | 435542 | 4 | 60764 | 2 | 135236 | 3 | 60764 | 2 | 60764 | 2 | 
+R22:         EMI | 31643 | 1 | 31643 | 1 | 31643 | 1 | 42388 | 4 | 435542 | 4 | 60764 | 2 | 135236 | 3 | 60764 | 2 | 60764 | 2 | 
+R23: Interest | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 12190 | 1 | 
+R24: Charges & Fees | 0 | 0 | 177 | 1 | 11375 | 1 | 1295.3 | 3 | 0 | 0 | 0 | 0 | 26269 | 1 | 1059 | 2 | 23285 | 1 | 
+R25:         Penal Charges | 0 | 0 | 177 | 1 | 0 | 0 | 295 | 1 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 
+R26:         Bank Charges | 0 | 0 | 0 | 0 | 11375 | 1 | 1000.3 | 2 | 0 | 0 | 0 | 0 | 26269 | 1 | 1059 | 2 | 23285 | 1 | 
+R27: Office Expenses | 0 | 0 | 3000 | 1 | 3000 | 1 | 3000 | 1 | 3000 | 1 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 
+R28: Entertainment | 0 | 0 | 5000 | 1 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 
+R29: ECOM & Wallet Payments | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 19152 | 1 | 0 | 0 | 
+R30: Cash & ATM withdrawals | 25000 | 1 | 20000 | 1 | 20000 | 1 | 10000 | 1 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 
+R31:         ATM | 25000 | 1 | 20000 | 1 | 20000 | 1 | 10000 | 1 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 
+R32: O/W Funds Transfer | 172136 | 4 | 130799 | 3 | 17800 | 2 | 702610 | 2 | 260891 | 3 | 400000 | 2 | 70888 | 1 | 88224 | 2 | 63126 | 1 | 
+R33:         INFT | 150000 | 1 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 
+R34:         Cheque | 21837 | 2 | 0 | 0 | 0 | 0 | 650000 | 1 | 5500 | 1 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 
+R35:         UPI | 299 | 1 | 299 | 1 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 
+R36:         NEFT | 0 | 0 | 130500 | 2 | 0 | 0 | 52610 | 1 | 255391 | 2 | 250000 | 1 | 70888 | 1 | 7900 | 1 | 0 | 0 | 
+R37:         IMPS | 0 | 0 | 0 | 0 | 7800 | 1 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 
+R38:         Third Party Transfer | 0 | 0 | 0 | 0 | 10000 | 1 | 0 | 0 | 0 | 0 | 150000 | 1 | 0 | 0 | 80324 | 1 | 63126 | 1 | 
+R39: I/W Funds Transfer Return | 0 | 0 | 9650 | 1 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 
+R40:         Cheque Return | 0 | 0 | 9650 | 1 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 
+R41: Cash & ATM | 0 | 0 | 990 | 1 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 
+R42:         ATM Deposit | 0 | 0 | 990 | 1 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 
+R43: Closing balance | 578623.34 |  | 365965.34 |  | 314322.34 |  | 642298.04 |  | 146365.04 |  | 940306.04 |  | 726759.04 |  | 726759.04 |  | 1523314.87 |  | 
+R44: Max EOD balance | 578623.3400000001 |  | 578623.3400000001 |  | 365965.3400000001 |  | 653043.04 |  | 486907.04 |  | 1016850.04 |  | 940306.04 |  | 726759.04 |  | 1639966.87 |  | 
+R45: Min EOD balance | 445249.34 |  | 365965.3400000001 |  | 314322.3400000001 |  | 314322.3400000001 |  | 51644.04000000004 |  | 146365.04 |  | 726759.04 |  | 726759.04 |  | 726759.04 |  | 
+R46: Avg EOD balance | 569731.7400000001 |  | 397210.4779310346 |  | 321149.5335483872 |  | 458028.9766666667 |  | 151239.2335483871 |  | 724835.5066666667 |  | 819563.2980645162 |  | 726759.04 |  | 1263758.032333334 |  | 
+
+================================================================================
+SHEET: Categories
+Dimensions: A1:G43 | Max Row: 43 | Max Col: 7
+================================================================================
+R1: Inflow |  |  |  |  |  | 
+R2: Category | Start date | End date | Txn amount(Γé╣) |  % Total txn amount | Avg txn amount(Γé╣) | Txn count
+R3: Loan | 12/May/2020 | 30/Jul/2020 | 1215000 | 0.2846 | 405000 | 3
+R4: O/W Funds Transfer Return | 18/Jan/2020 | 16/Apr/2020 | 652563 | 0.1529 | 326281.5 | 2
+R5:         Cheque Return | 18/Jan/2020 | 16/Apr/2020 | 652563 | 0.1529 | 326281.5 | 2
+R6: Internal Transfer | 04/Jan/2020 | 12/Mar/2020 | 541280 | 0.1268 | 270640 | 2
+R7: Cash & ATM | 18/Apr/2020 | 10/Sep/2020 | 591000 | 0.1384 | 197000 | 3
+R8:         Cash Deposit | 18/Apr/2020 | 10/Sep/2020 | 591000 | 0.1384 | 197000 | 3
+R9: I/W Funds Transfer | 02/Jan/2020 | 20/Sep/2020 | 1269168.83 | 0.2973 | 63458.44 | 20
+R10:         Cheque | 06/Jan/2020 | 10/Jun/2020 | 955475 | 0.2238 | 86861.36 | 11
+R11:         NACH | 02/Jan/2020 | 02/Jan/2020 | 48269 | 0.0113 | 48269 | 1
+R12:         UPI | 20/Sep/2020 | 20/Sep/2020 | 41367 | 0.0097 | 41367 | 1
+R13:         Third Party Transfer | 18/Feb/2020 | 12/Sep/2020 | 193207.83 | 0.0453 | 38641.57 | 5
+R14:         NEFT | 04/Feb/2020 | 08/Sep/2020 | 30850 | 0.0072 | 15425 | 2
+R17: Outflow |  |  |  |  |  | 
+R18: Category | Start date | End date | Txn amount(Γé╣) |  % Total txn amount | Avg txn amount(Γé╣) | Txn count
+R19: Sales & Marketing | 03/Jun/2020 | 03/Jun/2020 | 137210 | 0.0413 | 137210 | 1
+R20: O/W Funds Transfer | 02/Jan/2020 | 05/Sep/2020 | 1906474 | 0.5735 | 95323.7 | 20
+R21:         Cheque | 06/Jan/2020 | 30/May/2020 | 677337 | 0.2038 | 169334.25 | 4
+R22:         INFT | 02/Jan/2020 | 02/Jan/2020 | 150000 | 0.0451 | 150000 | 1
+R23:         NEFT | 03/Feb/2020 | 05/Aug/2020 | 767289 | 0.2308 | 95911.12 | 8
+R24:         Third Party Transfer | 18/Mar/2020 | 05/Sep/2020 | 303450 | 0.0913 | 75862.5 | 4
+R25:         IMPS | 12/Mar/2020 | 12/Mar/2020 | 7800 | 0.0023 | 7800 | 1
+R26:         UPI | 13/Jan/2020 | 13/Feb/2020 | 598 | 0.0002 | 299 | 2
+R27: Loan | 02/Jan/2020 | 25/Sep/2020 | 890387 | 0.2678 | 44519.35 | 20
+R28:         EMI | 02/Jan/2020 | 25/Sep/2020 | 890387 | 0.2678 | 44519.35 | 20
+R29: Tax Paid | 15/Jun/2020 | 17/Sep/2020 | 126000 | 0.0379 | 42000 | 3
+R30: ECOM & Wallet Payments | 11/Aug/2020 | 11/Aug/2020 | 19152 | 0.0058 | 19152 | 1
+R31: Cash & ATM withdrawals | 10/Jan/2020 | 10/Apr/2020 | 75000 | 0.0226 | 18750 | 4
+R32:         ATM | 10/Jan/2020 | 10/Apr/2020 | 75000 | 0.0226 | 18750 | 4
+R33: Interest | 17/Sep/2020 | 17/Sep/2020 | 12190 | 0.0037 | 12190 | 1
+R34: I/W Funds Transfer Return | 18/Feb/2020 | 18/Feb/2020 | 9650 | 0.0029 | 9650 | 1
+R35:         Cheque Return | 18/Feb/2020 | 18/Feb/2020 | 9650 | 0.0029 | 9650 | 1
+R36: Insurance | 16/Jan/2020 | 16/Sep/2020 | 66807 | 0.0201 | 7423 | 9
+R37: Charges & Fees | 18/Feb/2020 | 30/Sep/2020 | 63460.3 | 0.0191 | 7051.14 | 9
+R38:         Bank Charges | 30/Mar/2020 | 30/Sep/2020 | 62988.3 | 0.0189 | 8998.33 | 7
+R39:         Penal Charges | 18/Feb/2020 | 16/Apr/2020 | 472 | 0.0001 | 236 | 2
+R40: Entertainment | 06/Feb/2020 | 06/Feb/2020 | 5000 | 0.0015 | 5000 | 1
+R41: Office Expenses | 15/Feb/2020 | 15/May/2020 | 12000 | 0.0036 | 3000 | 4
+R42: Cash & ATM | 15/Feb/2020 | 15/Feb/2020 | 990 | 0.0003 | 990 | 1
+R43:         ATM Deposit | 15/Feb/2020 | 15/Feb/2020 | 990 | 0.0003 | 990 | 1
+
+================================================================================
+SHEET: EMI payments
+Dimensions: A1:J10 | Max Row: 10 | Max Col: 10
+================================================================================
+R1: Start date | End date | Particulars | Counterparty | Amount(Γé╣) | Txn count | Interval | Tags | Misses | Misses date
+R2: 02/Jan/2020 | 02/Sep/2020 | ECS/BAJAJ FINANCE LI/7UPBFR5092879  | Bajaj Finance | 31643 | 9 | MONTHLY | Loan, NACH, EMI | 0 | -
+R3: 25/Jun/2020 | 25/Sep/2020 | NACH-DR- EDELWEISSRETAILFINLT  | Edelweissretailfinlt | 29121 | 4 | MONTHLY | Loan, NACH, EMI | 0 | -
+R4: 20/Apr/2020 | 20/Apr/2020 | DEBIT-CMP MANDATE DEBIT IVL FINANCE LTD-  | Ivl Finance Ltd | 1970 | 1 |  | Loan, EMI |  | -
+R5: 21/Apr/2020 | 21/Apr/2020 | TRF/TATA CAPITAL LTD/ICICI  | Tata Capital Ltd | 5900 | 1 |  | Loan, Third Party Transfer, EMI |  | -
+R6: 27/Apr/2020 | 27/Apr/2020 | ACH/NEOGROWTH CREDIT PVT/1087069_ B984  | Neogrowth | 2875 | 1 |  | Loan, NACH, EMI |  | -
+R7: 02/May/2020 | 02/May/2020 | NACH-DR- Fulllerton India  | Fulllerton India | 303620 | 1 |  | Loan, NACH, EMI |  | -
+R8: 04/May/2020 | 04/May/2020 | CLG/HDFC BANK LTD LOAN AC  | LG | 55279 | 1 |  | Loan, Cheque, EMI |  | -
+R9: 12/May/2020 | 12/May/2020 | NACH-DR- UNITED PETRO FINANCE  | united petro finance | 45000 | 1 |  | Loan, NACH, EMI |  | -
+R10: 15/Jul/2020 | 15/Jul/2020 | NACH-DR- MAGMA FINCORP LIMITED  | Magma Fincorp Limited | 74472 | 1 |  | Loan, NACH, EMI |  | -
+
+================================================================================
+SHEET: EMI txns
+Dimensions: A1:J21 | Max Row: 21 | Max Col: 10
+================================================================================
+R1: Txn date | Particulars | Cheque/Reference number | Counterparty | Debit(Γé╣) | Credit(Γé╣) | Balance(Γé╣) | Computed balance(Γé╣) | Tags | Category
+R2: 02/Jan/2020 | ECS/BAJAJ FINANCE LI/7UPBFR5092879  |  | Bajaj Finance | 31643 | 0 | 396980.34 | 396980.34 | Loan, NACH, EMI | Loan / EMI
+R3: 02/Feb/2020 | ECS/BAJAJ FINANCE LI/7UPBFR50929545  |  | Bajaj Finance | 31643 | 0 | 519463.34 | 522164.34 | Loan, NACH, EMI | Loan / EMI
+R4: 02/Mar/2020 | ECS/BAJAJ FINANCE LI/7UPBFR50929545  |  | Bajaj Finance | 31643 | 0 | 334920.34 | 334322.34 | Loan, NACH, EMI | Loan / EMI
+R5: 02/Apr/2020 | ECS/BAJAJ FINANCE LI/7UPBFR50929545  |  | Bajaj Finance | 31643 | 0 | 694619.34 | 694021.34 | Loan, NACH, EMI | Loan / EMI
+R6: 02/May/2020 | ECS/BAJAJ FINANCE LI/7UPBFR50929545  |  | Bajaj Finance | 31643 | 0 | 52242.04 | 51644.04 | Loan, NACH, EMI | Loan / EMI
+R7: 02/Jun/2020 | ECS/BAJAJ FINANCE LI/7UPBFR50929545  |  | Bajaj Finance | 31643 | 0 | 1154566.04 | 1150968.04 | Loan, NACH, EMI | Loan / EMI
+R8: 02/Jul/2020 | ECS/BAJAJ FINANCE LI/7UPBFR50929545  |  | Bajaj Finance | 31643 | 0 | 909261.04 | 908663.04 | Loan, NACH, EMI | Loan / EMI
+R9: 02/Aug/2020 | ECS/BAJAJ FINANCE LI/7UPBFR50929545  |  | Bajaj Finance | 31643 | 0 | 1268386.04 | 1267788.04 | Loan, NACH, EMI | Loan / EMI
+R10: 02/Sep/2020 | ECS/BAJAJ FINANCE LI/7UPBFR50929545  |  | Bajaj Finance | 31643 | 0 | 1253380.87 | 1252782.87 | Loan, NACH, EMI | Loan / EMI
+R11: 25/Jun/2020 | NACH-DR- EDELWEISSRETAILFINLT  |  | Edelweissretailfinlt | 29121 | 0 | 940904.04 | 940306.04 | Loan, NACH, EMI | Loan / EMI
+R12: 25/Jul/2020 | NACH-DR- EDELWEISSRETAILFINLT  |  | Edelweissretailfinlt | 29121 | 0 | 727357.04 | 726759.04 | Loan, NACH, EMI | Loan / EMI
+R13: 25/Aug/2020 | NACH-DR- EDELWEISSRETAILFINLT  |  | Edelweissretailfinlt | 29121 | 0 | 1285023.87 | 1284425.87 | Loan, NACH, EMI | Loan / EMI
+R14: 25/Sep/2020 | NACH-DR- EDELWEISSRETAILFINLT  |  | Edelweissretailfinlt | 29121 | 0 | 1547197.87 | 1546599.87 | Loan, NACH, EMI | Loan / EMI
+R15: 20/Apr/2020 | DEBIT-CMP MANDATE DEBIT IVL FINANCE LTD-  |  | Ivl Finance Ltd | 1970 | 0 | 651671.04 | 651073.04 | Loan, EMI | Loan / EMI
+R16: 21/Apr/2020 | TRF/TATA CAPITAL LTD/ICICI  |  | Tata Capital Ltd | 5900 | 0 | 645771.04 | 645173.04 | Loan, Third Party Transfer, EMI | Loan / EMI
+R17: 27/Apr/2020 | ACH/NEOGROWTH CREDIT PVT/1087069_ B984  |  | Neogrowth | 2875 | 0 | 642896.04 | 642298.04 | Loan, NACH, EMI | Loan / EMI
+R18: 02/May/2020 | NACH-DR- Fulllerton India  |  | Fulllerton India | 303620 | 0 | 183885.04 | 183287.04 | Loan, NACH, EMI | Loan / EMI
+R19: 04/May/2020 | CLG/HDFC BANK LTD LOAN AC  |  | LG | 55279 | 0 | 146963.04 | 146365.04 | Loan, Cheque, EMI | Loan / EMI
+R20: 12/May/2020 | NACH-DR- UNITED PETRO FINANCE  |  | united petro finance | 45000 | 0 | 101963.04 | 101365.04 | Loan, NACH, EMI | Loan / EMI
+R21: 15/Jul/2020 | NACH-DR- MAGMA FINCORP LIMITED  |  | Magma Fincorp Limited | 74472 | 0 | 763901.04 | 763303.04 | Loan, NACH, EMI | Loan / EMI
+
+================================================================================
+SHEET: Bounced cheques
+Dimensions: A1:H14 | Max Row: 14 | Max Col: 8
+================================================================================
+R1: Inward cheques |  |  |  |  |  |  | 
+R2: Txn date | Particulars | Cheque number | Counterparty | Debit(Γé╣) | Credit(Γé╣) | Balance(Γé╣) | Tags
+R5: Outward cheques |  |  |  |  |  |  | 
+R6: Txn date | Particulars | Cheque number | Counterparty | Debit(Γé╣) | Credit(Γé╣) | Balance(Γé╣) | Tags
+R7: 06/Jan/2020 | By Clg 910912 SBI UDIPI |  | Soma | 0 | 19274 | 605803.34 | Cheque
+R8: 06/Jan/2020 | By Clg 910912 SBI UDIPI |  | LG | 19274 | 0 | 586529.34 | Cheque
+R11: Same day returns |  |  |  |  |  |  | 
+R12: Txn date | Particulars | Cheque number | Counterparty | Debit(Γé╣) | Credit(Γé╣) | Balance(Γé╣) | Tags
+R13: 06/Jan/2020 | By Clg 910912 SBI UDIPI |  | Soma | 0 | 19274 | 605803.34 | Cheque
+R14: 06/Jan/2020 | By Clg 910912 SBI UDIPI |  | LG | 19274 | 0 | 586529.34 | Cheque
+
+================================================================================
+SHEET: Returns & Charges
+Dimensions: A1:G16 | Max Row: 16 | Max Col: 7
+================================================================================
+R1: CHARGES |  |  |  |  |  | 
+R2: Txn date | Particulars | Cheque number | Debit(Γé╣) | Credit(Γé╣) | Balance(Γé╣) | Tags
+R3: 15/Feb/2020 | ECS DEBIT RETURN CHRG ECS RETURN CHGS |  | 990 | 0 | 374163.34 | Return, Bank Charges
+R4: 18/Feb/2020 | cheque returned charges-- 46319 |  | 177 | 0 | 366563.34 | Return, Bank Charges, Cheque
+R5: 30/Mar/2020 | SMSChrgsJAN-MAR20+GST CUS T 192996645 |  | 11375 | 0 | 726262.34 | Bank Charges, Tax
+R6: 10/Apr/2020 | GST @18% on Charge |  | 15.3 | 0 | 694604.04 | Bank Charges, Tax
+R7: 10/Apr/2020 | Consolidated Charges for A/c IMPS INWARD ORG IMPSTO from GOOGLE INDIA DIGITALAXIS BANK |  | 985 | 0 | 693619.04 | Bank Charges, Third Party Transfer
+R8: 16/Apr/2020 | OUTWARD RETURN CHARGES |  | 295 | 0 | 621641.04 | Return, Bank Charges, Third Party Transfer
+R9: 30/Jul/2020 | SMSChrgsAPR-JUN20+GST CUS T 192996645 |  | 26269 | 0 | 1301088.04 | Bank Charges, Tax
+R10: 02/Aug/2020 | GST @18% on Charge |  | 9 | 0 | 1301079.04 | Bank Charges, Tax
+R11: 02/Aug/2020 | Consolidated Charges for A/c |  | 1050 | 0 | 1300029.04 | Bank Charges
+R12: 30/Sep/2020 | SMSChrgsJUL-SEP20+GST CUS T 192996645 |  | 23285 | 0 | 1523912.87 | Bank Charges, Tax
+R15: PROBABLE RETURNS |  |  |  |  |  | 
+R16: Txn date | Particulars | Cheque number | Debit(Γé╣) | Credit(Γé╣) | Balance(Γé╣) | Tags
+
+================================================================================
+SHEET: NACH txns
+Dimensions: A1:J29 | Max Row: 29 | Max Col: 10
+================================================================================
+R1: Txn date | Particulars | Cheque/Reference number | Counterparty | Debit(Γé╣) | Credit(Γé╣) | Balance(Γé╣) | Computed balance(Γé╣) | Tags | Category
+R2: 02/Jan/2020 | ECS/BAJAJ FINANCE LI/7UPBFR5092879  |  | Bajaj Finance | 31643 | 0 | 396980.34 | 396980.34 | Loan, NACH, EMI | Loan / EMI
+R3: 02/Jan/2020 | NEFT/P18020179597620/GOPALA SHETTY  |  | Gopala, Shetty | 0 | 48269 | 445249.34 | 445249.34 | NEFT | I/W Funds Transfer / NACH
+R4: 16/Jan/2020 | ACH Debit/LIC OF INDIA/9598365220320  |  | Lic India | 7423 | 0 | 551106.34 | 553807.34 | NACH, Insurance | Insurance
+R5: 02/Feb/2020 | ECS/BAJAJ FINANCE LI/7UPBFR50929545  |  | Bajaj Finance | 31643 | 0 | 519463.34 | 522164.34 | Loan, NACH, EMI | Loan / EMI
+R6: 16/Feb/2020 | ACH Debit/LIC OF INDIA/9598365220320  BY CLEARING / CHEQUE- MSC BY CLEARING CHQ 046319 MICR  |  | Lic India | 7423 | 0 | 366740.34 | 366142.34 | NACH, Insurance | Insurance
+R7: 02/Mar/2020 | ECS/BAJAJ FINANCE LI/7UPBFR50929545  |  | Bajaj Finance | 31643 | 0 | 334920.34 | 334322.34 | Loan, NACH, EMI | Loan / EMI
+R8: 16/Mar/2020 | ACH Debit/LIC OF INDIA/95983652298874 IMPS OUTWARD ORG IMPS TO 035701527798 - ICICI BANKLIMITED  |  | Lic India | 7423 | 0 | 696697.34 | 696099.34 | NACH, Third Party Transfer, Insurance | Insurance
+R9: 02/Apr/2020 | ECS/BAJAJ FINANCE LI/7UPBFR50929545  |  | Bajaj Finance | 31643 | 0 | 694619.34 | 694021.34 | Loan, NACH, EMI | Loan / EMI
+R10: 16/Apr/2020 | ACH Debit/LIC OF INDIA/9598365220456  |  | Lic India | 7423 | 0 | 621936.04 | 621338.04 | NACH, Insurance | Insurance
+R11: 27/Apr/2020 | ACH/NEOGROWTH CREDIT PVT/1087069_ B984  |  | Neogrowth | 2875 | 0 | 642896.04 | 642298.04 | Loan, NACH, EMI | Loan / EMI
+R12: 02/May/2020 | NACH-DR- Fulllerton India  |  | Fulllerton India | 303620 | 0 | 183885.04 | 183287.04 | Loan, NACH, EMI | Loan / EMI
+R13: 02/May/2020 | ECS/BAJAJ FINANCE LI/7UPBFR50929545  |  | Bajaj Finance | 31643 | 0 | 52242.04 | 51644.04 | Loan, NACH, EMI | Loan / EMI
+R14: 12/May/2020 | NACH-DR- UNITED PETRO FINANCE  |  | united petro finance | 45000 | 0 | 101963.04 | 101365.04 | Loan, NACH, EMI | Loan / EMI
+R15: 16/May/2020 | ACH Debit/LIC OF INDIA/95983652209786  |  | Lic India | 7423 | 0 | 835129.04 | 831531.04 | NACH, Insurance | Insurance
+R16: 02/Jun/2020 | ECS/BAJAJ FINANCE LI/7UPBFR50929545  |  | Bajaj Finance | 31643 | 0 | 1154566.04 | 1150968.04 | Loan, NACH, EMI | Loan / EMI
+R17: 16/Jun/2020 | ACH Debit/LIC OF INDIA/9598365278909  |  | Lic India | 7423 | 0 | 970025.04 | 969427.04 | NACH, Insurance | Insurance
+R18: 25/Jun/2020 | NACH-DR- EDELWEISSRETAILFINLT  |  | Edelweissretailfinlt | 29121 | 0 | 940904.04 | 940306.04 | Loan, NACH, EMI | Loan / EMI
+R19: 02/Jul/2020 | ECS/BAJAJ FINANCE LI/7UPBFR50929545  |  | Bajaj Finance | 31643 | 0 | 909261.04 | 908663.04 | Loan, NACH, EMI | Loan / EMI
+R20: 15/Jul/2020 | NACH-DR- MAGMA FINCORP LIMITED  |  | Magma Fincorp Limited | 74472 | 0 | 763901.04 | 763303.04 | Loan, NACH, EMI | Loan / EMI
+R21: 16/Jul/2020 | ACH Debit/LIC OF INDIA/95988976545  |  | Lic India | 7423 | 0 | 756478.04 | 755880.04 | NACH, Insurance | Insurance
+R22: 25/Jul/2020 | NACH-DR- EDELWEISSRETAILFINLT  |  | Edelweissretailfinlt | 29121 | 0 | 727357.04 | 726759.04 | Loan, NACH, EMI | Loan / EMI
+R23: 30/Jul/2020 | ACH/SUNDARAM FINANCE LIT/6575567  |  | Sundaram Finance Lit | 0 | 600000 | 1327357.04 | 1326759.04 | Loan, NACH | Loan
+R24: 02/Aug/2020 | ECS/BAJAJ FINANCE LI/7UPBFR50929545  |  | Bajaj Finance | 31643 | 0 | 1268386.04 | 1267788.04 | Loan, NACH, EMI | Loan / EMI
+R25: 16/Aug/2020 | ACH Debit/LIC OF INDIA/959889797594  |  | Lic India | 7423 | 0 | 1314144.87 | 1313546.87 | NACH, Insurance | Insurance
+R26: 25/Aug/2020 | NACH-DR- EDELWEISSRETAILFINLT  |  | Edelweissretailfinlt | 29121 | 0 | 1285023.87 | 1284425.87 | Loan, NACH, EMI | Loan / EMI
+R27: 02/Sep/2020 | ECS/BAJAJ FINANCE LI/7UPBFR50929545  |  | Bajaj Finance | 31643 | 0 | 1253380.87 | 1252782.87 | Loan, NACH, EMI | Loan / EMI
+R28: 16/Sep/2020 | ACH Debit/LIC OF INDIA/95988979759989  |  | Lic India | 7423 | 0 | 1627141.87 | 1626543.87 | NACH, Insurance | Insurance
+R29: 25/Sep/2020 | NACH-DR- EDELWEISSRETAILFINLT  |  | Edelweissretailfinlt | 29121 | 0 | 1547197.87 | 1546599.87 | Loan, NACH, EMI | Loan / EMI
+
+================================================================================
+SHEET: UPI Txns Analysis
+Dimensions: A1:K29 | Max Row: 29 | Max Col: 11
+================================================================================
+R1: UPI txns summary |  |  |  |  |  |  |  |  |  | 
+R2: Txn type | First txn date | Last txn date | Txn amount(Γé╣) |  % Total txn amount | Avg txn amount(Γé╣) | Txn count | % Total txn count |  |  | 
+R3: Inflow | 20/09/2020 | 20/09/2020 | 41367 | 0.00969 | 41367 | 1 | 0.033333 |  |  | 
+R4: Outflow | 13/01/2020 | 13/02/2020 | 598 | 0.00018 | 299 | 2 | 0.026667 |  |  | 
+R7: Credit txns - Top 1 Counterparties |  |  |  |  |  | Debit txns - Top 1 Counterparties |  |  |  | 
+R8: Counterparty | Total txn amount(Γé╣) | % Total UPI txn amount | Total txn count |  % Total UPI txn count |  | Counterparty | Total txn amount(Γé╣) | % Total UPI txn amount | Total txn count |  % Total UPI txn count
+R9: Vguard Industries Ltd | 41367 | 1 | 1 | 1 |  | Netflix | 598 | 1 | 2 | 1
+R10: Total | 41367 | 1 | 1 | 1 |  | Total | 598 | 1 | 2 | 1
+R13: Credit txns - P2P vs P2M distribution |  |  |  |  |  | Debit txns - P2P vs P2M distribution |  |  |  | 
+R14: Payment type | Total txn amount(Γé╣) | % Total UPI txn amount | Total txn count |  % Total UPI txn count |  | Payment type | Total txn amount(Γé╣) | % Total UPI txn amount | Total txn count |  % Total UPI txn count
+R15: P2P | 41367 | 1 | 1 | 1 |  | P2P | 598 | 1 | 2 | 1
+R16: P2M | 0 | 0 | 0 | 0 |  | P2M | 0 | 0 | 0 | 0
+R17: Total | 41367 | 1 | 1 | 1 |  | Total | 598 | 1 | 2 | 1
+R20: Credit txns - UPI Apps distribution |  |  |  |  |  | Debit txns - UPI Apps distribution |  |  |  | 
+R21: UPI App | Total txn amount(Γé╣) | % Total UPI txn amount | Total txn count |  % Total UPI txn count |  | UPI App | Total txn amount(Γé╣) | % Total UPI txn amount | Total txn count |  % Total UPI txn count
+R22: Bharatpe | 41367 | 1 | 1 | 1 |  | Unknown | 598 | 1 | 2 | 1
+R23: Total | 41367 | 1 | 1 | 1 |  | Total | 598 | 1 | 2 | 1
+R26: Inflow Categories |  |  |  |  |  | Outflow Categories |  |  |  | 
+R27: Category | Txn amount(Γé╣) |  % Total txn amount | Avg txn amount(Γé╣) | Txn count |  | Category | Txn amount(Γé╣) |  % Total txn amount | Avg txn amount(Γé╣) | Txn count
+R28: I/W Funds Transfer | 41367 | 0.00969 | 41367 | 1 |  | O/W Funds Transfer | 598 | 0.00018 | 299 | 2
+R29:         UPI | 41367 | 0.00969 | 41367 | 1 |  |         UPI | 598 | 0.00018 | 299 | 2
+
+================================================================================
+SHEET: UPI txns
+Dimensions: A1:J4 | Max Row: 4 | Max Col: 10
+================================================================================
+R1: Txn date | Particulars | Cheque/Reference number | Counterparty | Debit(Γé╣) | Credit(Γé╣) | Balance(Γé╣) | Computed balance(Γé╣) | Tags | Category
+R2: 13/Jan/2020 | UPI/032519362950/19:46:46/UPI/618002010008311@ubi  |  | Netflix | 299 | 0 | 558529.34 | 561230.34 | UPI, UPI/P2P | O/W Funds Transfer / UPI
+R3: 13/Feb/2020 | UPI/032519362950/19:12:46/UPI/618002010008311@ubi  |  | Netflix | 299 | 0 | 1017448.04 | 377555.34 | UPI, UPI/P2P | O/W Funds Transfer / UPI
+R4: 20/Sep/2020 | BY TRANSFER-UPI/CR/00123456765/Bharatpe/YESB/Bharatpayme  |  | Vguard Industries Ltd | 0 | 41367 | 1576318.87 | 1575720.87 | UPI, Third Party Transfer, UPI/P2P | I/W Funds Transfer / UPI
+
+================================================================================
+SHEET: Cash flow
+Dimensions: A1:I25 | Max Row: 25 | Max Col: 9
+================================================================================
+R1: Month | Inflow(Γé╣) | Outflow(Γé╣) | Net cash flow(Γé╣) | Monthly avg balance(Γé╣) | Inflow txn count | Non Biz Inflow txn count | Outflow txn count | Non Biz Outflow txn count
+R2: Jan 2020 | 70106 | 236202 | -166096 | 569731.74 | 3 | 1 | 7 | 2
+R3: Feb 2020 | 20840 | 208682 | -187842 | 397210.48 | 2 | 0 | 11 | 4
+R4: Mar 2020 | 50940 | 91241 | -40301 | 321149.53 | 1 | 0 | 7 | 3
+R5: Apr 2020 | 683350 | 766716.3 | -83366.3 | 458028.98 | 3 | 2 | 12 | 8
+R6: May 2020 | 632169 | 706856 | -74687 | 151239.23 | 5 | 1 | 9 | 4
+R7: Jun 2020 | 403092 | 645397 | -242305 | 724835.51 | 5 | 0 | 7 | 2
+R8: Jul 2020 | 0 | 239816 | -239816 | 819563.3 | 0 | 0 | 6 | 4
+R9: Aug 2020 | 160557.83 | 176622 | -16064.17 | 726759.04 | 2 | 0 | 8 | 4
+R10: Sep 2020 | 491677 | 252788 | 238889 | 1263758.03 | 4 | 1 | 8 | 4
+R12: Total (Jan 2020 - Sep 2020) | 2512731.83 | 3324320.3 | -811588.47 | 602892.95 | 25 | 5 | 75 | 35
+R13: Monthly Avg (Jan 2020 - Sep 2020) | 279192.43 | 369368.92 | -90176.5 | 603586.2 | 2 | 0 | 8 | 3
+R14: Last 12 Months Avg (Oct 2019 - Sep 2020) | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0
+R15: Monthly Median (Jan 2020 - Sep 2020) | 160557.83 | 239816 | -83366.3 | 569731.74 | 3 | 0 | 8 | 4
+R17: Cumulative quarterly summary |  |  |  |  |  |  |  | 
+R18: Last 3 Months (Jul 2020 - Sep 2020) | 652234.83 | 669226 | -16991.17 | 936693.46 | 6 | 1 | 22 | 12
+R19: Last 6 Months (Apr 2020 - Sep 2020) | 2370845.83 | 2788195.3 | -417349.47 | 690697.35 | 19 | 4 | 50 | 26
+R20: Last 9 Months (Jan 2020 - Sep 2020) | 2512731.83 | 3324320.3 | -811588.47 | 603586.2 | 25 | 5 | 75 | 35
+R21: Last 12 Months (Oct 2019 - Sep 2020) | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0
+R23: Financial year summary |  |  |  |  |  |  |  | 
+R24: FY 2019-20 (Jan 2020 - Mar 2020) | 141886 | 536125 | -394239 | 429363.92 | 6 | 1 | 25 | 9
+R25: FY 2020-21 (Apr 2020 - Sep 2020) | 2370845.83 | 2788195.3 | -417349.47 | 690697.35 | 19 | 4 | 50 | 26
+
+================================================================================
+SHEET: Cash Flow Analysis
+Dimensions: A1:N77 | Max Row: 77 | Max Col: 14
+================================================================================
+R1: Top 5 Debit Transactions |  |  |  |  |  |  |  | Top 5 Credit Transactions |  |  |  |  | 
+R2: Date | Particulars | Amount(Γé╣) | Category |  |  |  |  | Date | Particulars | Amount(Γé╣) | Category |  | 
+R3: 16/04/2020 | 49:MICR INWD CLG (CTS) | 650000 | O/W Funds Transfer / Cheque |  |  |  |  | 16/04/2020 | RETURNED:49:FUNDS INSUFFICIENT | 650000 | O/W Funds Transfer Return / Cheque Return |  | 
+R4: 02/05/2020 | NACH-DR- Fulllerton India | 303620 | Loan / EMI |  |  |  |  | 30/07/2020 | ACH/SUNDARAM FINANCE LIT/6575567 | 600000 | Loan |  | 
+R5: 03/06/2020 | NEFT/MB/AXMB180388836767/SAI TULAJA ENTERPRISES | 250000 | O/W Funds Transfer / NEFT |  |  |  |  | 12/05/2020 | CAPITAL FIRST LIMITED | 450000 | Loan |  | 
+R6: 01/05/2020 | NEFT/MB/AXMB180387676870/VGUARD INDUSTRIES LTD | 155391 | O/W Funds Transfer / NEFT |  |  |  |  | 10/09/2020 | SAK/CASH DEP/SAK0387995682/156/BY CASH/AKHIL SHETTY | 409000 | Cash & ATM / Cash Deposit |  | 
+R7: 02/01/2020 | NEFT/MB/AXMB18032561234/BHARAT DISTRIBUTORS | 150000 | O/W Funds Transfer / INFT |  |  |  |  | 12/03/2020 | SAK/CASH DEP/SAK038645682/181/BY CASH/AKHIL SHETTY | 400000 | Internal Transfer |  | 
+R9: Top 10 Uses |  |  |  |  |  |  |  | Top 10 Sources |  |  |  |  | 
+R10: Counterparty | Total Txn Amount(Γé╣) | Total Txn Count | Recurring Txn Amount(Γé╣) | Recurring Txn Count | Primary Txn Category |  |  | Counterparty | Total Txn Amount(Γé╣) | Total Txn Count | Recurring Txn Amount(Γé╣) | Recurring Txn Count | Primary Txn Category
+R11: LG | 1186523.3 | 27 | 20000 | 2 | Charges & Fees / Bank Charges |  |  | Vguard Industries Ltd | 1841775.83 | 16 |  |  | I/W Funds Transfer / Cheque
+R12: Fulllerton India | 303620 | 1 |  |  | Loan / EMI |  |  | Akhil, Shetty | 809000 | 2 |  |  | Internal Transfer
+R13: Bajaj Finance | 284787 | 9 | 31643 | 9 | Loan / EMI |  |  | Sundaram Finance Lit | 600000 | 1 |  |  | Loan
+R14: Sai Tulaja Enterprises | 250000 | 1 |  |  | O/W Funds Transfer / NEFT |  |  | Capital First Limited | 450000 | 1 |  |  | Loan
+R15: Vguard Industries Ltd | 226279 | 2 |  |  | O/W Funds Transfer / NEFT |  |  | Hinduja Leyland Finance Ltd | 165000 | 1 |  |  | Loan
+R16: Mojopanda Naturals Private Limited | 150000 | 1 |  |  | O/W Funds Transfer / Third Party Transfer |  |  | soma | 161000 | 3 |  |  | I/W Funds Transfer / Third Party Transfer
+R17: Bharat Distributors | 150000 | 1 |  |  | O/W Funds Transfer / INFT |  |  | Raj Fish Meal | 141280 | 1 |  |  | Internal Transfer
+R18: Bharat Marketing | 137210 | 1 |  |  | Sales & Marketing |  |  | Gopala, Shetty | 48269 | 1 |  |  | I/W Funds Transfer / NACH
+R19: Edelweissretailfinlt | 116484 | 4 | 29121 | 4 | Loan / EMI |  |  | Mr Yogendra Kumar | 19660 | 1 |  |  | I/W Funds Transfer / NEFT
+R20: Akhil, Shetty | 100000 | 1 |  |  | O/W Funds Transfer / NEFT |  |  | Soma | 19274 | 1 |  |  | I/W Funds Transfer / Cheque
+R22: Top 5 Uses Monthly Analysis |  |  |  |  |  |  |  | Top 5 Sources Monthly Analysis |  |  |  |  | 
+R23: Jan 2020 |  |  |  |  |  |  |  | Jan 2020 |  |  |  |  | 
+R24: Counterparty | Total Txn Amount(Γé╣) | Total Txn Count | Recurring Txn Amount(Γé╣) | Recurring Txn Count | Primary Txn Category |  |  | Counterparty | Total Txn Amount(Γé╣) | Total Txn Count | Recurring Txn Amount(Γé╣) | Recurring Txn Count | Primary Txn Category
+R25: Bharat Distributors | 150000 | 1 |  |  | O/W Funds Transfer / INFT |  |  | Raj Fish Meal | 141280 | 1 |  |  | Internal Transfer
+R26: LG | 46837 | 3 |  |  | O/W Funds Transfer / Cheque |  |  | Gopala, Shetty | 48269 | 1 |  |  | I/W Funds Transfer / NACH
+R27: Bajaj Finance | 31643 | 1 |  |  | Loan / EMI |  |  | Soma | 19274 | 1 |  |  | I/W Funds Transfer / Cheque
+R28: Lic India | 7423 | 1 |  |  | Insurance |  |  | J M Kotecha Sonsreco | 2563 | 1 |  |  | O/W Funds Transfer Return / Cheque Return
+R29: Netflix | 299 | 1 |  |  | O/W Funds Transfer / UPI |  |  |  |  |  |  |  | 
+R31: Feb 2020 |  |  |  |  |  |  |  | Feb 2020 |  |  |  |  | 
+R32: Counterparty | Total Txn Amount(Γé╣) | Total Txn Count | Recurring Txn Amount(Γé╣) | Recurring Txn Count | Primary Txn Category |  |  | Counterparty | Total Txn Amount(Γé╣) | Total Txn Count | Recurring Txn Amount(Γé╣) | Recurring Txn Count | Primary Txn Category
+R33: Raghavendra Vittal | 70000 | 1 |  |  | O/W Funds Transfer / NEFT |  |  | Prathibha | 11190 | 1 |  |  | I/W Funds Transfer / NEFT
+R34: Sadasghiva Salain | 60500 | 1 |  |  | O/W Funds Transfer / NEFT |  |  | soma | 9650 | 1 |  |  | I/W Funds Transfer / Third Party Transfer
+R35: LG | 35817 | 5 |  |  | Entertainment |  |  |  |  |  |  |  | 
+R36: Bajaj Finance | 31643 | 1 |  |  | Loan / EMI |  |  |  |  |  |  |  | 
+R37: Mar 2020 |  |  |  |  |  |  |  | Mar 2020 |  |  |  |  | 
+R38: Counterparty | Total Txn Amount(Γé╣) | Total Txn Count | Recurring Txn Amount(Γé╣) | Recurring Txn Count | Primary Txn Category |  |  | Counterparty | Total Txn Amount(Γé╣) | Total Txn Count | Recurring Txn Amount(Γé╣) | Recurring Txn Count | Primary Txn Category
+R39: Bajaj Finance | 31643 | 1 |  |  | Loan / EMI |  |  | Akhil, Shetty | 400000 | 1 |  |  | Internal Transfer
+R40: LG | 31375 | 2 |  |  | Cash & ATM withdrawals / ATM |  |  | Vguard Industries Ltd | 50940 | 1 |  |  | I/W Funds Transfer / Cheque
+R41: Daniel | 10000 | 1 |  |  | O/W Funds Transfer / Third Party Transfer |  |  |  |  |  |  |  | 
+R42: Hariss | 7800 | 1 |  |  | O/W Funds Transfer / IMPS |  |  |  |  |  |  |  | 
+R43: Apr 2020 |  |  |  |  |  |  |  | Apr 2020 |  |  |  |  | 
+R44: Counterparty | Total Txn Amount(Γé╣) | Total Txn Count | Recurring Txn Amount(Γé╣) | Recurring Txn Count | Primary Txn Category |  |  | Counterparty | Total Txn Amount(Γé╣) | Total Txn Count | Recurring Txn Amount(Γé╣) | Recurring Txn Count | Primary Txn Category
+R45: LG | 660310.3 | 4 |  |  | Charges & Fees / Bank Charges |  |  | Vguard Industries Ltd | 682000 | 2 |  |  | O/W Funds Transfer Return / Cheque Return
+R46: 000552365XXXXXX8 | 52610 | 1 |  |  | O/W Funds Transfer / NEFT |  |  | soma | 1350 | 1 |  |  | I/W Funds Transfer / Third Party Transfer
+R47: Bajaj Finance | 31643 | 1 |  |  | Loan / EMI |  |  |  |  |  |  |  | 
+R48: Lic India | 7423 | 1 |  |  | Insurance |  |  |  |  |  |  |  | 
+R49: May 2020 |  |  |  |  |  |  |  | May 2020 |  |  |  |  | 
+R50: Counterparty | Total Txn Amount(Γé╣) | Total Txn Count | Recurring Txn Amount(Γé╣) | Recurring Txn Count | Primary Txn Category |  |  | Counterparty | Total Txn Amount(Γé╣) | Total Txn Count | Recurring Txn Amount(Γé╣) | Recurring Txn Count | Primary Txn Category
+R51: Fulllerton India | 303620 | 1 |  |  | Loan / EMI |  |  | Vguard Industries Ltd | 482169 | 4 |  |  | I/W Funds Transfer / Cheque
+R52: Vguard Industries Ltd | 155391 | 1 |  |  | O/W Funds Transfer / NEFT |  |  | Capital First Limited | 450000 | 1 |  |  | Loan
+R53: Akhil, Shetty | 100000 | 1 |  |  | O/W Funds Transfer / NEFT |  |  | Hinduja Leyland Finance Ltd | 165000 | 1 |  |  | Loan
+R54: LG | 60779 | 2 |  |  | Loan / EMI |  |  | soma | 150000 | 1 |  |  | Cash & ATM / Cash Deposit
+R55: united petro finance | 45000 | 1 |  |  | Loan / EMI |  |  |  |  |  |  |  | 
+R57: Jun 2020 |  |  |  |  |  |  |  | Jun 2020 |  |  |  |  | 
+R58: Counterparty | Total Txn Amount(Γé╣) | Total Txn Count | Recurring Txn Amount(Γé╣) | Recurring Txn Count | Primary Txn Category |  |  | Counterparty | Total Txn Amount(Γé╣) | Total Txn Count | Recurring Txn Amount(Γé╣) | Recurring Txn Count | Primary Txn Category
+R59: Sai Tulaja Enterprises | 250000 | 1 |  |  | O/W Funds Transfer / NEFT |  |  | Vguard Industries Ltd | 403092 | 5 |  |  | I/W Funds Transfer / Cheque
+R60: Mojopanda Naturals Private Limited | 150000 | 1 |  |  | O/W Funds Transfer / Third Party Transfer |  |  |  |  |  |  |  | 
+
+================================================================================
+SHEET: Salary
+Dimensions: A1:J4 | Max Row: 4 | Max Col: 10
+================================================================================
+R1: Start date | End date | Particulars | Counterparty | Debit(Γé╣) | Credit(Γé╣) | Interval | Txn count | Misses | Misses date
+R2: 02/Apr/2024 | 11/Nov/2024 | NEFT- JSK WEB SERVICES PVT LTD-/URGENT  | Jsk Services Pvt Ltd | 0 | 50000 | MONTHLY | 8 | 0 | -
+R3: 20/Jun/2024 | 20/Jun/2024 | INF/INFT 1/SALARY NOW/ZED LEAFIN PRIV  | Zed Leafin Priv | 0 | 2646 |  | 1 |  | -
+R4: 05/Sep/2024 | 05/Sep/2024 | INF/INFT/0 /SALARY NOW/ZED LEAFIN PRIV  | Zed Leafin Priv | 0 | 4851 |  | 1 |  | -
+
+================================================================================
+SHEET: Salary txns
+Dimensions: A1:J11 | Max Row: 11 | Max Col: 10
+================================================================================
+R1: Txn date | Particulars | Cheque/Reference number | Counterparty | Debit(Γé╣) | Credit(Γé╣) | Balance(Γé╣) | Computed balance(Γé╣) | Tags | Category
+R2: 02/Apr/2024 | NEFT- -JSK WEB SERVICES PVT LTD-/URGENT  | -  | XYZ Pvt Ltd | 0 | 50000 | 50043 | 50043 | Salary, NEFT | I/W Funds Transfer / NEFT
+R3: 02/May/2024 | NEFT- -JSK WEB SERVICES PVT LTD-/URGENT  | -  | XYZ Pvt Ltd | 0 | 50000 | 50000.04 | 50000.04 | Salary, NEFT | I/W Funds Transfer / NEFT
+R4: 05/Jun/2024 | NEFT- -JSK WEB SERVICES PVT LTD-/URGENT  | -  | XYZ Pvt Ltd | 0 | 50000 | 50358.09 | 50358.09 | Salary, NEFT | I/W Funds Transfer / NEFT
+R5: 03/Jul/2024 | NEFT- -JSK WEB SERVICES PVT LTD-/URGENT  | -  | XYZ Pvt Ltd | 0 | 50000 | 50099.53 | 50099.53 | Salary, NEFT | I/W Funds Transfer / NEFT
+R6: 09/Aug/2024 | NEFT- -JSK WEB SERVICES PVT LTD-/URGENT  | -  | XYZ Pvt Ltd | 0 | 50000 | 50003 | 50003 | Salary, NEFT | I/W Funds Transfer / NEFT
+R7: 13/Sep/2024 | NEFT- -JSK WEB SERVICES PVT LTD-/URGENT  | -  | XYZ Pvt Ltd | 0 | 50000 | 50000 | 50000 | Salary, NEFT | I/W Funds Transfer / NEFT
+R8: 14/Oct/2024 | NEFT- -JSK WEB SERVICES PVT LTD-/URGENT  | -  | XYZ Pvt Ltd | 0 | 50000 | 50001 | 50001 | Salary, NEFT | I/W Funds Transfer / NEFT
+R9: 11/Nov/2024 | NEFT- -JSK WEB SERVICES PVT LTD-/URGENT  | -  | XYZ Pvt Ltd | 0 | 50000 | 50130 | 50130 | Salary, NEFT | I/W Funds Transfer / NEFT
+R10: 20/Jun/2024 | NEFT- -JSK WEB SERVICES PVT LTD-/URGENT  | -  |  Leafin Priv | 0 | 2646 | 2646 | 2646 |  | Salary
+R11: 05/Sep/2024 | NEFT- -JSK WEB SERVICES PVT LTD-/URGENT  | -  | Leafin Priv | 0 | 4851 | 4851.26 | 4851.26 |  | Salary
+
+================================================================================
+SHEET: Recurring deposits
+Dimensions: A1:J1 | Max Row: 1 | Max Col: 10
+================================================================================
+R1: Start date | End date | Particulars | Counterparty | Amount(Γé╣) | Txn count | Interval | Tags | Misses | Misses date
+
+================================================================================
+SHEET: Biz cash flow
+Dimensions: A1:K25 | Max Row: 25 | Max Col: 11
+================================================================================
+R1: Month | Total inflow(Γé╣) | Biz inflow(Γé╣) | % Biz inflow | Biz Inflow Txns | Total outflow(Γé╣) | Biz outflow(Γé╣) | % Biz outflow | Biz Outflow Txns | Net biz cash flow(Γé╣) | Biz Avg Balance(Γé╣)
+R2: Jan 2020 | 70106 | 67543 | 0.9634 | 2 | 236202 | 179559 | 0.7602 | 5 | -112016 | 533212.48
+R3: Feb 2020 | 20840 | 20840 | 1 | 2 | 208682 | 147212 | 0.7054 | 7 | -126372 | 391517.56
+R4: Mar 2020 | 50940 | 50940 | 1 | 1 | 91241 | 28223 | 0.3093 | 4 | 22717 | 625856.54
+R5: Apr 2020 | 683350 | 1350 | 0.002 | 1 | 766716.3 | 713033 | 0.93 | 4 | -711683 | 509513.84
+R6: May 2020 | 632169 | 482169 | 0.7627 | 4 | 706856 | 271314 | 0.3838 | 5 | 210855 | 821295.26
+R7: Jun 2020 | 403092 | 403092 | 1 | 5 | 645397 | 584633 | 0.9059 | 5 | -181541 | 870354.04
+R8: Jul 2020 | 0 | 0 | 0 | 0 | 239816 | 0 | 0.3265 | 2 | -78311 | 796827.54
+R9: Aug 2020 | 160557.83 | 160557.83 | 1 | 2 | 176622 | 114799 | 0.65 | 4 | 45758.83 | 1323979.37
+R10: Sep 2020 | 491677 | 82677 | 0.1682 | 3 | 252788 | 156549 | 0.6193 | 4 | -73872 | 1488816.58
+R12: Total (Jan 2020 - Sep 2020) | 2512731.83 | 1269168.83 | 0.5051 | 20 | 3324320.3 | 2273633 | 0.6839 | 40 | -1004464.17 | 7361373.21
+R13: Monthly Avg (Jan 2020 - Sep 2020) | 279192.43 | 141018.76 | 0.5051 | 2 | 369368.92 | 252625.89 | 0.6839 | 4 | -111607.13 | 817930.36
+R14: Last 12 Months Avg (Oct 2019 - Sep 2020) | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0
+R15: Monthly Median (Jan 2020 - Sep 2020) | 160557.83 | 67543 | 0.9634 | 2 | 239816 | 156549 | 0.65 | 4 | -78311 | 796827.54
+R17: Cumulative quarterly summary |  |  |  |  |  |  |  |  |  | 
+R18: Last 3 Months (Jul 2020 - Sep 2020) | 652234.83 | 243234.83 | 0.3729 | 5 | 669226 | 349659 | 0.5225 | 10 | -106424.17 | 1203207.83
+R19: Last 6 Months (Apr 2020 - Sep 2020) | 2370845.83 | 1129845.83 | 0.4766 | 15 | 2788195.3 | 1918639 | 0.6881 | 24 | -788793.17 | 968464.44
+R20: Last 9 Months (Jan 2020 - Sep 2020) | 2512731.83 | 1269168.83 | 0.5051 | 20 | 3324320.3 | 2273633 | 0.6839 | 40 | -1004464.17 | 817930.36
+R21: Last 12 Months (Oct 2019 - Sep 2020) | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0
+R23: Financial year summary |  |  |  |  |  |  |  |  |  | 
+R24: FY 2019-20 (Jan 2020 - Mar 2020) | 141886 | 139323 | 0.9819362023032576 | 5 | 536125 | 354994 | 0.6621478200046631 | 16 | -215671 | 516862.19
+R25: FY 2020-21 (Apr 2020 - Sep 2020) | 2370845.83 | 1129845.83 | 0.4765581193442679 | 15 | 2788195.3 | 1918639 | 0.688129343019838 | 24 | -788793.17 | 968464.44
+
+================================================================================
+SHEET: Available balance
+Dimensions: L1:M16 | Max Row: 16 | Max Col: 13
+================================================================================
+R1:  |  |  |  |  |  |  |  |  |  |  | Amount(Γé╣) | Percentage
+R2:  |  |  |  |  |  |  |  |  |  |  | 50000 | 1
+R3:  |  |  |  |  |  |  |  |  |  |  | 117000 | 0.9927
+R4:  |  |  |  |  |  |  |  |  |  |  | 185000 | 0.8571
+R5:  |  |  |  |  |  |  |  |  |  |  | 253000 | 0.8571
+R6:  |  |  |  |  |  |  |  |  |  |  | 321000 | 0.7143
+R7:  |  |  |  |  |  |  |  |  |  |  | 389000 | 0.6081
+R8:  |  |  |  |  |  |  |  |  |  |  | 457000 | 0.5788
+R9:  |  |  |  |  |  |  |  |  |  |  | 525000 | 0.5751
+R10:  |  |  |  |  |  |  |  |  |  |  | 592000 | 0.4615
+R11:  |  |  |  |  |  |  |  |  |  |  | 660000 | 0.4139
+R12:  |  |  |  |  |  |  |  |  |  |  | 728000 | 0.2344
+R13:  |  |  |  |  |  |  |  |  |  |  | 796000 | 0.1978
+R14:  |  |  |  |  |  |  |  |  |  |  | 864000 | 0.1978
+R15:  |  |  |  |  |  |  |  |  |  |  | 932000 | 0.1502
+R16:  |  |  |  |  |  |  |  |  |  |  | 1000000 | 0.0879
+
+================================================================================
+SHEET: Cash txns
+Dimensions: A1:J5 | Max Row: 5 | Max Col: 10
+================================================================================
+R1: Txn date | Particulars | Cheque/Reference number | Counterparty | Debit(Γé╣) | Credit(Γé╣) | Balance(Γé╣) | Computed balance(Γé╣) | Tags | Category
+R2: 12/Mar/2020 | SAK/CASH DEP/SAK038645682/181/BY CASH/AKHIL SHETTY  |  | Akhil, Shetty | 0 | 400000 | 707120.34 | 706522.34 | Cash | Internal Transfer
+R3: 18/Apr/2020 | BY CASH -297900  |  | Vguard Industries Ltd | 0 | 32000 | 653641.04 | 653043.04 | Cash | Cash & ATM / Cash Deposit
+R4: 04/May/2020 | BY CASH DEPOSIT-BNA/S3RH18901/7537/057618/UDIPI  |  | soma | 0 | 150000 | 202242.04 | 201644.04 | Cash | Cash & ATM / Cash Deposit
+R5: 10/Sep/2020 | SAK/CASH DEP/SAK0387995682/156/BY CASH/AKHIL SHETTY  |  | Akhil, Shetty | 0 | 409000 | 1618914.87 | 1618316.87 | Cash | Cash & ATM / Cash Deposit
+
+================================================================================
+SHEET: Cheque txns
+Dimensions: A1:J21 | Max Row: 21 | Max Col: 10
+================================================================================
+R1: Txn date | Particulars | Cheque/Reference number | Counterparty | Debit(Γé╣) | Credit(Γé╣) | Balance(Γé╣) | Computed balance(Γé╣) | Tags | Category
+R2: 06/Jan/2020 | By Clg 910912 SBI UDIPI  |  | Soma | 0 | 19274 | 605803.34 | 605803.34 | Cheque | I/W Funds Transfer / Cheque
+R3: 06/Jan/2020 | By Clg 910912 SBI UDIPI  |  | LG | 19274 | 0 | 586529.34 | 586529.34 | Cheque | O/W Funds Transfer / Cheque
+R4: 18/Jan/2020 | TO CLG :CHEQUE PAID IN CLEARING -SERVBR-  |  | LG | 2563 | 0 | 548543.34 | 551244.34 | Cheque | O/W Funds Transfer / Cheque
+R5: 18/Jan/2020 | TO CLG (REJ) :J M KOTECHA SONSRECO-  |  | J M Kotecha Sonsreco | 0 | 2563 | 551106.34 | 553807.34 | Return, Cheque | O/W Funds Transfer Return / Cheque Return
+R6: 18/Feb/2020 | OUT-CHQ RETURN- 30 Instrument post datedivity failuretication5  |  | LG | 9650 | 0 | 366740.34 | 366142.34 | Return, Cheque | I/W Funds Transfer Return / Cheque Return
+R7: 18/Feb/2020 | cheque returned charges-- 46319  |  | LG | 177 | 0 | 366563.34 | 365965.34 | Return, Bank Charges, Cheque | Charges & Fees / Penal Charges
+R8: 25/Mar/2020 | By Clg 987914 SBI UDIPI  |  | Vguard Industries Ltd | 0 | 50940 | 737637.34 | 737039.34 | Cheque | I/W Funds Transfer / Cheque
+R9: 16/Apr/2020 | 49:MICR INWD CLG (CTS)  |  | LG | 650000 | 0 | -28063.96 | -28661.96 | Cheque | O/W Funds Transfer / Cheque
+R10: 16/Apr/2020 | RETURNED:49:FUNDS INSUFFICIENT  |  | Vguard Industries Ltd | 0 | 650000 | 621936.04 | 621338.04 | Return, Cheque | O/W Funds Transfer Return / Cheque Return
+R11: 04/May/2020 | CLG/HDFC BANK LTD LOAN AC  |  | LG | 55279 | 0 | 146963.04 | 146365.04 | Loan, Cheque, EMI | Loan / EMI
+R12: 12/May/2020 | By Clg 409802 SBI UDIPI  |  | Vguard Industries Ltd | 0 | 125589 | 677552.04 | 676954.04 | Cheque | I/W Funds Transfer / Cheque
+R13: 19/May/2020 | By Clg 678611 VJB UDIPI  |  | Vguard Industries Ltd | 0 | 100160 | 935289.04 | 931691.04 | Cheque | I/W Funds Transfer / Cheque
+R14: 19/May/2020 | By Clg 127874 SBI UDIPI  |  | Vguard Industries Ltd | 0 | 250920 | 1186209.04 | 1182611.04 | Cheque | I/W Funds Transfer / Cheque
+R15: 30/May/2020 | By Clg 161465 229 Delhi  |  | LG | 5500 | 0 | 1180709.04 | 1177111.04 | Cheque | O/W Funds Transfer / Cheque
+R16: 30/May/2020 | BRN-OW RTN CLG: REJECT:161465:39-IMAGE NOT CLEAR  |  | Vguard Industries Ltd | 0 | 5500 | 1186209.04 | 1182611.04 | Cheque | I/W Funds Transfer / Cheque
+R17: 03/Jun/2020 | By Clg 528826 COB UDIPI  |  | Vguard Industries Ltd | 0 | 79434 | 696790.04 | 693192.04 | Cheque | I/W Funds Transfer / Cheque
+R18: 10/Jun/2020 | By Clg 250779 SYB UDIPI  |  | Vguard Industries Ltd | 0 | 86396 | 783186.04 | 779588.04 | Cheque | I/W Funds Transfer / Cheque
+R19: 10/Jun/2020 | By Clg 116766 UBI UDIPI  |  | Vguard Industries Ltd | 0 | 77159 | 860345.04 | 856747.04 | Cheque | I/W Funds Transfer / Cheque
+R20: 10/Jun/2020 | By Clg 617444 KBL UDIPI  |  | Vguard Industries Ltd | 0 | 62865 | 923210.04 | 919612.04 | Cheque | I/W Funds Transfer / Cheque
+R21: 10/Jun/2020 | By Clg 918339 COB UDIPI  |  | Vguard Industries Ltd | 0 | 97238 | 1020448.04 | 1016850.04 | Cheque | I/W Funds Transfer / Cheque
+
+================================================================================
+SHEET: Self txns
+Dimensions: A1:J1 | Max Row: 1 | Max Col: 10
+================================================================================
+R1: Txn date | Particulars | Cheque/Reference number | Counterparty | Debit(Γé╣) | Credit(Γé╣) | Balance(Γé╣) | Computed balance(Γé╣) | Tags | Category
+
+================================================================================
+SHEET: High value txns
+Dimensions: A1:M14 | Max Row: 14 | Max Col: 13
+================================================================================
+R1: High value debit txns >Γé╣100000 |  |  |  |  |  |  | High value credit txns >Γé╣100000 |  |  |  |  | 
+R2: Txn date | Particulars | Counterparty | Amount(Γé╣) | Balance(Γé╣) | Tags |  | Txn date | Particulars | Counterparty | Amount(Γé╣) | Balance(Γé╣) | Tags
+R3: 16/Apr/2020 | 49:MICR INWD CLG (CTS)  | LG | 650000 | -28063.96 | Cheque |  | 16/Apr/2020 | RETURNED:49:FUNDS INSUFFICIENT  | Vguard Industries Ltd | 650000 | 621936.04 | Return, Cheque
+R4: 02/May/2020 | NACH-DR- Fulllerton India  | Fulllerton India | 303620 | 183885.04 | Loan, NACH, EMI |  | 30/Jul/2020 | ACH/SUNDARAM FINANCE LIT/6575567  | Sundaram Finance Lit | 600000 | 1327357.04 | Loan, NACH
+R5: 03/Jun/2020 | NEFT/MB/AXMB180388836767/SAI TULAJA ENTERPRISES  | Sai Tulaja Enterprises | 250000 | 617356.04 | NEFT |  | 12/May/2020 | CAPITAL FIRST LIMITED  | Capital First Limited | 450000 | 551963.04 | Loan
+R6: 01/May/2020 | NEFT/MB/AXMB180387676870/VGUARD INDUSTRIES LTD  | Vguard Industries Ltd | 155391 | 487505.04 | NEFT |  | 10/Sep/2020 | SAK/CASH DEP/SAK0387995682/156/BY CASH/AKHIL SHETTY  | Akhil, Shetty | 409000 | 1618914.87 | Cash
+R7: 02/Jan/2020 | NEFT/MB/AXMB18032561234/BHARAT DISTRIBUTORS  | Bharat Distributors | 150000 | 428623.34 | customtag2, customtag1, NEFT |  | 12/Mar/2020 | SAK/CASH DEP/SAK038645682/181/BY CASH/AKHIL SHETTY  | Akhil, Shetty | 400000 | 707120.34 | Cash
+R8: 03/Jun/2020 | INB/IFT/MOJOPANDA NATURALS PRIVATE LIMITED/TPARTY  | Mojopanda Naturals Private Limited | 150000 | 867356.04 |  |  | 19/May/2020 | By Clg 127874 SBI UDIPI  | Vguard Industries Ltd | 250920 | 1186209.04 | Cheque
+R9: 03/Jun/2020 | RTGS/MB/AXMB180377666732/BHARAT MARKETING  | Bharat Marketing | 137210 | 1017356.04 | RTGS |  | 14/May/2020 | HINDUJA LEYLAND FINANCE LTD LOAN  | Hinduja Leyland Finance Ltd | 165000 | 842552.04 | Loan
+R10: 02/May/2020 | NEFT/MB/AXMB180398779979/AKHIL SHETTY  | Akhil, Shetty | 100000 | 83885.04 | NEFT |  | 04/May/2020 | BY CASH DEPOSIT-BNA/S3RH18901/7537/057618/UDIPI  | soma | 150000 | 202242.04 | Cash
+R11:  |  |  |  |  |  |  | 07/Aug/2020 | 121020982-HDFC0006780  | Vguard Industries Ltd | 150000 | 1421043.87 | 
+R12:  |  |  |  |  |  |  | 04/Jan/2020 | NEFT/P18020200251890/RAJ FISH MEAL/NEFT  | Raj Fish Meal | 141280 | 586529.34 | customtag1, NEFT
+R13:  |  |  |  |  |  |  | 12/May/2020 | By Clg 409802 SBI UDIPI  | Vguard Industries Ltd | 125589 | 677552.04 | Cheque
+R14:  |  |  |  |  |  |  | 19/May/2020 | By Clg 678611 VJB UDIPI  | Vguard Industries Ltd | 100160 | 935289.04 | Cheque
+
+================================================================================
+SHEET: Duplicate Txns
+Dimensions: A1:J203 | Max Row: 203 | Max Col: 10
+================================================================================
+R1: Bank name | Account number | Account type | Txn date | Particulars | Cheque/Ref Nbr | Debit(Γé╣) | Credit(Γé╣) | Balance(Γé╣) | File Name
+R2: Axis Bank | 123456763542 | Savings | 02/Jan/2020 | NEFT/MB/AXMB18032561234/BHARAT DISTRIBUTORS  |  | 150000 |  | 428623.34 | Axis bank - 123456763542 - sample statement.cc319740 - 2024-12-18T164629.701.pdf
+R3: Axis Bank | 123456763542 | Savings | 02/Jan/2020 | NEFT/MB/AXMB18032561234/BHARAT DISTRIBUTORS  |  | 150000 |  | 428623.34 | Axis bank - 123456763542 - sample statement.cc319740 (1).pdf
+R4: Axis Bank | 123456763542 | Savings | 02/Jan/2020 | ECS/BAJAJ FINANCE LI/7UPBFR5092879  |  | 31643 |  | 396980.34 | Axis bank - 123456763542 - sample statement.cc319740 - 2024-12-18T164629.701.pdf
+R5: Axis Bank | 123456763542 | Savings | 02/Jan/2020 | ECS/BAJAJ FINANCE LI/7UPBFR5092879  |  | 31643 |  | 396980.34 | Axis bank - 123456763542 - sample statement.cc319740 (1).pdf
+R6: Axis Bank | 123456763542 | Savings | 02/Jan/2020 | NEFT/P18020179597620/GOPALA SHETTY  |  |  | 48269 | 445249.34 | Axis bank - 123456763542 - sample statement.cc319740 - 2024-12-18T164629.701.pdf
+R7: Axis Bank | 123456763542 | Savings | 02/Jan/2020 | NEFT/P18020179597620/GOPALA SHETTY  |  |  | 48269 | 445249.34 | Axis bank - 123456763542 - sample statement.cc319740 (1).pdf
+R8: Axis Bank | 123456763542 | Savings | 04/Jan/2020 | NEFT/P18020200251890/RAJ FISH MEAL/NEFT  |  |  | 141280 | 586529.34 | Axis bank - 123456763542 - sample statement.cc319740 - 2024-12-18T164629.701.pdf
+R9: Axis Bank | 123456763542 | Savings | 04/Jan/2020 | NEFT/P18020200251890/RAJ FISH MEAL/NEFT  |  |  | 141280 | 586529.34 | Axis bank - 123456763542 - sample statement.cc319740 (1).pdf
+R10: Axis Bank | 123456763542 | Savings | 06/Jan/2020 | By Clg 910912 SBI UDIPI  |  |  | 19274 | 605803.34 | Axis bank - 123456763542 - sample statement.cc319740 - 2024-12-18T164629.701.pdf
+R11: Axis Bank | 123456763542 | Savings | 06/Jan/2020 | By Clg 910912 SBI UDIPI  |  |  | 19274 | 605803.34 | Axis bank - 123456763542 - sample statement.cc319740 (1).pdf
+R12: Axis Bank | 123456763542 | Savings | 06/Jan/2020 | By Clg 910912 SBI UDIPI  |  | 19274 |  | 586529.34 | Axis bank - 123456763542 - sample statement.cc319740 - 2024-12-18T164629.701.pdf
+R13: Axis Bank | 123456763542 | Savings | 06/Jan/2020 | By Clg 910912 SBI UDIPI  |  | 19274 |  | 586529.34 | Axis bank - 123456763542 - sample statement.cc319740 (1).pdf
+R14: Axis Bank | 123456763542 | Savings | 10/Jan/2020 | ATM-CASH-AXIS/BWRO193201/7201/091117/PIMPRI  |  | 25000 |  | 561529.34 | Axis bank - 123456763542 - sample statement.cc319740 - 2024-12-18T164629.701.pdf
+R15: Axis Bank | 123456763542 | Savings | 10/Jan/2020 | ATM-CASH-AXIS/BWRO193201/7201/091117/PIMPRI  |  | 25000 |  | 561529.34 | Axis bank - 123456763542 - sample statement.cc319740 (1).pdf
+R16: Axis Bank | 123456763542 | Savings | 16/Jan/2020 | ACH Debit/LIC OF INDIA/9598365220320  |  | 7423 |  | 551106.34 | Axis bank - 123456763542 - sample statement.cc319740 - 2024-12-18T164629.701.pdf
+R17: Axis Bank | 123456763542 | Savings | 16/Jan/2020 | ACH Debit/LIC OF INDIA/9598365220320  |  | 7423 |  | 551106.34 | Axis bank - 123456763542 - sample statement.cc319740 (1).pdf
+R18: Axis Bank | 123456763542 | Savings | 18/Jan/2020 | TO CLG :CHEQUE PAID IN CLEARING -SERVBR-  |  | 2563 |  | 548543.34 | Axis bank - 123456763542 - sample statement.cc319740 - 2024-12-18T164629.701.pdf
+R19: Axis Bank | 123456763542 | Savings | 18/Jan/2020 | TO CLG :CHEQUE PAID IN CLEARING -SERVBR-  |  | 2563 |  | 548543.34 | Axis bank - 123456763542 - sample statement.cc319740 (1).pdf
+R20: Axis Bank | 123456763542 | Savings | 18/Jan/2020 | TO CLG (REJ) :J M KOTECHA SONSRECO-  |  |  | 2563 | 551106.34 | Axis bank - 123456763542 - sample statement.cc319740 - 2024-12-18T164629.701.pdf
+R21: Axis Bank | 123456763542 | Savings | 18/Jan/2020 | TO CLG (REJ) :J M KOTECHA SONSRECO-  |  |  | 2563 | 551106.34 | Axis bank - 123456763542 - sample statement.cc319740 (1).pdf
+R22: Axis Bank | 123456763542 | Savings | 02/Feb/2020 | ECS/BAJAJ FINANCE LI/7UPBFR50929545  |  | 31643 |  | 519463.34 | Axis bank - 123456763542 - sample statement.cc319740 - 2024-12-18T164629.701.pdf
+R23: Axis Bank | 123456763542 | Savings | 02/Feb/2020 | ECS/BAJAJ FINANCE LI/7UPBFR50929545  |  | 31643 |  | 519463.34 | Axis bank - 123456763542 - sample statement.cc319740 (1).pdf
+R24: Axis Bank | 123456763542 | Savings | 03/Feb/2020 | NEFT/MB/AXMB180678297976/Sadasghiva Salain  |  | 60500 |  | 458963.34 | Axis bank - 123456763542 - sample statement.cc319740 - 2024-12-18T164629.701.pdf
+R25: Axis Bank | 123456763542 | Savings | 03/Feb/2020 | NEFT/MB/AXMB180678297976/Sadasghiva Salain  |  | 60500 |  | 458963.34 | Axis bank - 123456763542 - sample statement.cc319740 (1).pdf
+R26: Axis Bank | 123456763542 | Savings | 04/Feb/2020 | NEFT/MB/AXMB180336398712/Raghavendra vittal  |  | 70000 |  | 388963.34 | Axis bank - 123456763542 - sample statement.cc319740 - 2024-12-18T164629.701.pdf
+R27: Axis Bank | 123456763542 | Savings | 04/Feb/2020 | NEFT/MB/AXMB180336398712/Raghavendra vittal  |  | 70000 |  | 388963.34 | Axis bank - 123456763542 - sample statement.cc319740 (1).pdf
+R28: Axis Bank | 123456763542 | Savings | 04/Feb/2020 | NEFT/P18020281234321/PRATHIBHA  |  |  | 11190 | 400153.34 | Axis bank - 123456763542 - sample statement.cc319740 - 2024-12-18T164629.701.pdf
+R29: Axis Bank | 123456763542 | Savings | 04/Feb/2020 | NEFT/P18020281234321/PRATHIBHA  |  |  | 11190 | 400153.34 | Axis bank - 123456763542 - sample statement.cc319740 (1).pdf
+R30: Axis Bank | 123456763542 | Savings | 06/Feb/2020 | AXMOB/DTHR/S3I4MGGJ9876/912020056789523/025618  |  | 5000 |  | 395153.34 | Axis bank - 123456763542 - sample statement.cc319740 - 2024-12-18T164629.701.pdf
+R31: Axis Bank | 123456763542 | Savings | 06/Feb/2020 | AXMOB/DTHR/S3I4MGGJ9876/912020056789523/025618  |  | 5000 |  | 395153.34 | Axis bank - 123456763542 - sample statement.cc319740 (1).pdf
+R32: Axis Bank | 123456763542 | Savings | 10/Feb/2020 | ATM-CASH-AXIS/BWRO19334555/7891/0914547/PIMPRI  |  | 20000 |  | 375153.34 | Axis bank - 123456763542 - sample statement.cc319740 - 2024-12-18T164629.701.pdf
+R33: Axis Bank | 123456763542 | Savings | 10/Feb/2020 | ATM-CASH-AXIS/BWRO19334555/7891/0914547/PIMPRI  |  | 20000 |  | 375153.34 | Axis bank - 123456763542 - sample statement.cc319740 (1).pdf
+R34: Axis Bank | 123456763542 | Savings | 15/Feb/2020 | ECS DEBIT RETURN CHRG ECS RETURN CHGS  |  | 990 |  | 374163.34 | Axis bank - 123456763542 - sample statement.cc319740 - 2024-12-18T164629.701.pdf
+R35: Axis Bank | 123456763542 | Savings | 15/Feb/2020 | ECS DEBIT RETURN CHRG ECS RETURN CHGS  |  | 990 |  | 374163.34 | Axis bank - 123456763542 - sample statement.cc319740 (1).pdf
+R36: Axis Bank | 123456763542 | Savings | 16/Feb/2020 | ACH Debit/LIC OF INDIA/9598365220320  BY CLEARING / CHEQUE- MSC BY CLEARING CHQ 046319 MICR  |  | 7423 |  | 366740.34 | Axis bank - 123456763542 - sample statement.cc319740 - 2024-12-18T164629.701.pdf
+R37: Axis Bank | 123456763542 | Savings | 16/Feb/2020 | ACH Debit/LIC OF INDIA/9598365220320  BY CLEARING / CHEQUE- MSC BY CLEARING CHQ 046319 MICR  |  | 7423 |  | 366740.34 | Axis bank - 123456763542 - sample statement.cc319740 (1).pdf
+R38: Axis Bank | 123456763542 | Savings | 18/Feb/2020 | 400082523- 46319  |  |  | 9650 | 376390.34 | Axis bank - 123456763542 - sample statement.cc319740 - 2024-12-18T164629.701.pdf
+R39: Axis Bank | 123456763542 | Savings | 18/Feb/2020 | 400082523- 46319  |  |  | 9650 | 376390.34 | Axis bank - 123456763542 - sample statement.cc319740 (1).pdf
+R40: Axis Bank | 123456763542 | Savings | 18/Feb/2020 | OUT-CHQ RETURN- 30 Instrument post datedivity failuretication5  |  | 9650 |  | 366740.34 | Axis bank - 123456763542 - sample statement.cc319740 - 2024-12-18T164629.701.pdf
+R41: Axis Bank | 123456763542 | Savings | 18/Feb/2020 | OUT-CHQ RETURN- 30 Instrument post datedivity failuretication5  |  | 9650 |  | 366740.34 | Axis bank - 123456763542 - sample statement.cc319740 (1).pdf
+R42: Axis Bank | 123456763542 | Savings | 18/Feb/2020 | cheque returned charges-- 46319  |  | 177 |  | 366563.34 | Axis bank - 123456763542 - sample statement.cc319740 - 2024-12-18T164629.701.pdf
+R43: Axis Bank | 123456763542 | Savings | 18/Feb/2020 | cheque returned charges-- 46319  |  | 177 |  | 366563.34 | Axis bank - 123456763542 - sample statement.cc319740 (1).pdf
+R44: Axis Bank | 123456763542 | Savings | 02/Mar/2020 | ECS/BAJAJ FINANCE LI/7UPBFR50929545  |  | 31643 |  | 334920.34 | Axis bank - 123456763542 - sample statement.cc319740 - 2024-12-18T164629.701.pdf
+R45: Axis Bank | 123456763542 | Savings | 02/Mar/2020 | ECS/BAJAJ FINANCE LI/7UPBFR50929545  |  | 31643 |  | 334920.34 | Axis bank - 123456763542 - sample statement.cc319740 (1).pdf
+R46: Axis Bank | 123456763542 | Savings | 10/Mar/2020 | ATM-CASH-AXIS/BWRO8765555/8876/2389147/PIMPRI  |  | 20000 |  | 314920.34 | Axis bank - 123456763542 - sample statement.cc319740 - 2024-12-18T164629.701.pdf
+R47: Axis Bank | 123456763542 | Savings | 10/Mar/2020 | ATM-CASH-AXIS/BWRO8765555/8876/2389147/PIMPRI  |  | 20000 |  | 314920.34 | Axis bank - 123456763542 - sample statement.cc319740 (1).pdf
+R48: Axis Bank | 123456763542 | Savings | 12/Mar/2020 | IMPS/MB/AXMB186546705176/HARISS  |  | 7800 |  | 307120.34 | Axis bank - 123456763542 - sample statement.cc319740 - 2024-12-18T164629.701.pdf
+R49: Axis Bank | 123456763542 | Savings | 12/Mar/2020 | IMPS/MB/AXMB186546705176/HARISS  |  | 7800 |  | 307120.34 | Axis bank - 123456763542 - sample statement.cc319740 (1).pdf
+R50: Axis Bank | 123456763542 | Savings | 12/Mar/2020 | SAK/CASH DEP/SAK038645682/181/BY CASH/AKHIL SHETTY  |  |  | 400000 | 707120.34 | Axis bank - 123456763542 - sample statement.cc319740 - 2024-12-18T164629.701.pdf
+R51: Axis Bank | 123456763542 | Savings | 12/Mar/2020 | SAK/CASH DEP/SAK038645682/181/BY CASH/AKHIL SHETTY  |  |  | 400000 | 707120.34 | Axis bank - 123456763542 - sample statement.cc319740 (1).pdf
+R52: Axis Bank | 123456763542 | Savings | 15/Mar/2020 | UPI/032519362950/10:12:46/UPI/618002010008311@ubi  |  | 3000 |  | 704120.34 | Axis bank - 123456763542 - sample statement.cc319740 - 2024-12-18T164629.701.pdf
+R53: Axis Bank | 123456763542 | Savings | 15/Mar/2020 | UPI/032519362950/10:12:46/UPI/618002010008311@ubi  |  | 3000 |  | 704120.34 | Axis bank - 123456763542 - sample statement.cc319740 (1).pdf
+R54: Axis Bank | 123456763542 | Savings | 16/Mar/2020 | ACH Debit/LIC OF INDIA/95983652298874 IMPS OUTWARD ORG IMPS TO 035701527798 - ICICI BANKLIMITED  |  | 7423 |  | 696697.34 | Axis bank - 123456763542 - sample statement.cc319740 - 2024-12-18T164629.701.pdf
+R55: Axis Bank | 123456763542 | Savings | 16/Mar/2020 | ACH Debit/LIC OF INDIA/95983652298874 IMPS OUTWARD ORG IMPS TO 035701527798 - ICICI BANKLIMITED  |  | 7423 |  | 696697.34 | Axis bank - 123456763542 - sample statement.cc319740 (1).pdf
+R56: Axis Bank | 123456763542 | Savings | 18/Mar/2020 | REF NO:-035622636465 -DANIEL  |  | 10000 |  | 686697.34 | Axis bank - 123456763542 - sample statement.cc319740 - 2024-12-18T164629.701.pdf
+R57: Axis Bank | 123456763542 | Savings | 18/Mar/2020 | REF NO:-035622636465 -DANIEL  |  | 10000 |  | 686697.34 | Axis bank - 123456763542 - sample statement.cc319740 (1).pdf
+R58: Axis Bank | 123456763542 | Savings | 25/Mar/2020 | By Clg 987914 SBI UDIPI  |  |  | 50940 | 737637.34 | Axis bank - 123456763542 - sample statement.cc319740 - 2024-12-18T164629.701.pdf
+R59: Axis Bank | 123456763542 | Savings | 25/Mar/2020 | By Clg 987914 SBI UDIPI  |  |  | 50940 | 737637.34 | Axis bank - 123456763542 - sample statement.cc319740 (1).pdf
+R60: Axis Bank | 123456763542 | Savings | 30/Mar/2020 | SMSChrgsJAN-MAR20+GST CUS T 192996645  |  | 11375 |  | 726262.34 | Axis bank - 123456763542 - sample statement.cc319740 - 2024-12-18T164629.701.pdf
+
+================================================================================
+SHEET: Savings & Investments
+Dimensions: A1:Z1000 | Max Row: 1000 | Max Col: 26
+================================================================================
+R28: Savings & Investments |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+R29: Month | Mutual Fund(Γé╣) | Recurring Deposits(Γé╣) | Government Schemes(Γé╣) | Total(Γé╣) | Txn count |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+R30: Nov 2024 | 0 | 0 | 0 | 0 | 0 |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+R31: Dec 2024 | 0 | 0 | 0 | 0 | 0 |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+R32: Jan 2025 | 0 | 3000 | 0 | 3000 | 3 |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+R33: Feb 2025 | 0 | 0 | 0 | 0 | 0 |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+R34: Mar 2025 | 0 | 0 | 0 | 0 | 0 |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+R35: Apr 2025 | 0 | 0 | 0 | 0 | 0 |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+R36: May 2025 | 0 | 0 | 0 | 0 | 0 |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+R37: Aug 2025 | 0 | 0 | 0 | 0 | 0 |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+R38: Nov 2024 - Aug 2025 | 0 | 3000 | 0 | 3000 | 3 |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+
+================================================================================
+SHEET: ODCC utilization
+Dimensions: A20:H24 | Max Row: 24 | Max Col: 8
+================================================================================
+R20: Month | Sanction limit(Γé╣) | Overdrawn days | Avg unutilized bal(Γé╣) | Avg utilization(Γé╣) | % Avg utilization | Max utilization(Γé╣) | % Max utilization
+R21: May 2022 | 9000000 | 31 | 110553.5 | 8889446.5 | 0.9877 | 9007586.9 | 1.0008
+R22: Jun 2022 | 9000000 | 30 | 93299.99 | 8906700.01 | 0.9896 | 9049458.9 | 1.0055
+R23: Jul 2022 | 9000000 | 31 | 85166.02 | 8914833.98 | 0.9905 | 9057648.35 | 1.0064
+R24: Aug 2022 | 9000000 | 29 | 87987.55 | 8912012.45 | 0.9902 | 9031859.4 | 1.0035

@@ -1,0 +1,35 @@
+{
+  "bank_name": "BOB",
+  "statement_period": {
+    "start": "2026-03-19",
+    "end": "2026-04-19"
+  },
+  "category_name": "savings",
+  "savings": {
+    "monthly_savings": {
+      "2026-03": 446196.46,
+      "2026-04": -208241.94
+    },
+    "monthly_savings_incl_investment": {
+      "2026-03": 460196.46,
+      "2026-04": -198241.94
+    },
+    "savings_rate": {
+      "2026-03": 0.8908,
+      "2026-04": -86.0504
+    },
+    "positive_savings_months": 1,
+    "savings_growth": [
+      -146.67
+    ],
+    "average_savings": 118977.26,
+    "savings_consistency": 0.0,
+    "emergency_fund_estimate": {
+      "avg_monthly_needs": 157803.24,
+      "fund_3_months": 473409.72,
+      "fund_6_months": 946819.44,
+      "current_balance": 665617.09,
+      "coverage_months": 4.2
+    }
+  }
+}

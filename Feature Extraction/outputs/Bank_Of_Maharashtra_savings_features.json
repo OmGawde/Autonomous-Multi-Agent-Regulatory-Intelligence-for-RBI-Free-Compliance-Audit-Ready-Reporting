@@ -1,0 +1,51 @@
+{
+  "bank_name": "Bank Of Maharashtra",
+  "statement_period": {
+    "start": "2019-01-25",
+    "end": "2019-06-26"
+  },
+  "category_name": "savings",
+  "savings": {
+    "monthly_savings": {
+      "2019-01": 12479.1,
+      "2019-02": -18216.36,
+      "2019-03": 19064.1,
+      "2019-04": -1476.06,
+      "2019-05": -5170.36,
+      "2019-06": -2489.0
+    },
+    "monthly_savings_incl_investment": {
+      "2019-01": 12479.1,
+      "2019-02": -18216.36,
+      "2019-03": 19064.1,
+      "2019-04": -1476.06,
+      "2019-05": -5170.36,
+      "2019-06": -2489.0
+    },
+    "savings_rate": {
+      "2019-01": 0.0,
+      "2019-02": 0.0,
+      "2019-03": 0.0,
+      "2019-04": -0.2723,
+      "2019-05": 0.0,
+      "2019-06": 0.0
+    },
+    "positive_savings_months": 2,
+    "savings_growth": [
+      -245.97,
+      204.65,
+      -107.74,
+      -250.28,
+      51.86
+    ],
+    "average_savings": 698.57,
+    "savings_consistency": 0.0,
+    "emergency_fund_estimate": {
+      "avg_monthly_needs": 67303.93,
+      "fund_3_months": 201911.79,
+      "fund_6_months": 403823.58,
+      "current_balance": 16475.18,
+      "coverage_months": 0.2
+    }
+  }
+}

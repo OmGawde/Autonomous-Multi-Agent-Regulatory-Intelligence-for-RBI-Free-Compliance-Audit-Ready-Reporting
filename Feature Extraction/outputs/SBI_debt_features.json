@@ -1,0 +1,102 @@
+{
+  "bank_name": "SBI",
+  "statement_period": {
+    "start": "2024-04-02",
+    "end": "2025-03-25"
+  },
+  "income": {},
+  "expense": {},
+  "balance": {},
+  "cash_flow": {},
+  "savings": {},
+  "investment": {},
+  "debt": {
+    "monthly_emi": 25904.89,
+    "total_monthly_obligations": 28136.64,
+    "estimated_cc_monthly_payment": 22317.55,
+    "loan_count": 4,
+    "active_loan_count": 1,
+    "closed_loan_count": 3,
+    "distinct_lenders_count": 2,
+    "secured_ratio": 0.0,
+    "unsecured_ratio": 1.0,
+    "dti": 146.9277,
+    "foir": 0.1326,
+    "credit_utilization": null,
+    "loan_stacking_score": 0.0,
+    "loan_stacking_flag": 0,
+    "recent_borrowing_velocity_90d": 1,
+    "payment_regularity_score": 0.7,
+    "lender_concentration_ratio": 1.0,
+    "missed_emi_count": 1,
+    "home_loan_emi": 0,
+    "personal_loan_emi": 0,
+    "vehicle_loan_emi": 0,
+    "gold_loan_emi": 0,
+    "disbursement_count_365d": 0,
+    "disbursement_total_amount_365d": 0,
+    "credit_card_payment_count_365d": 12,
+    "credit_card_total_payment_365d": 267810.64,
+    "running_facility_count": 0,
+    "running_facility_total_amount": 0,
+    "total_loan_count": 4,
+    "detected_loans": [
+      {
+        "loan_id": "LOAN_CRED_25904",
+        "lender": "CRED",
+        "type": "CREDIT_CARD",
+        "emi": 25904.89,
+        "status": "Active",
+        "regularity": "Skipped/Irregular"
+      },
+      {
+        "loan_id": "LOAN_BAJAJ_FI_2911",
+        "lender": "BAJAJ FINANCE",
+        "type": "PERSONAL_LOAN",
+        "emi": 2911.67,
+        "status": "Overdue / Closed",
+        "regularity": "On-Time"
+      },
+      {
+        "loan_id": "LOAN_CRED_27923",
+        "lender": "CRED",
+        "type": "CREDIT_CARD",
+        "emi": 27923.77,
+        "status": "Missed EMI",
+        "regularity": "Skipped/Irregular"
+      },
+      {
+        "loan_id": "LOAN_CRED_19505",
+        "lender": "CRED",
+        "type": "CREDIT_CARD",
+        "emi": 19505.49,
+        "status": "Overdue / Closed",
+        "regularity": "Skipped/Irregular"
+      }
+    ],
+    "total_fixed_obligations": 53793.0,
+    "total_true_income": 405546.0,
+    "foir_risk_band": "LOW_RISK",
+    "emi_discipline_score": 51.61,
+    "emi_discipline_band": "POOR"
+  },
+  "behaviour": {},
+  "fraud": {},
+  "underwriting_summary": {
+    "credit_score": 750,
+    "risk_band": "LOW_RISK",
+    "underwriting_decision": "APPROVE_STANDARD",
+    "decision_coherence_note": null,
+    "trajectory_flag": "STABLE",
+    "data_sufficiency": "OPTIMAL_DATA",
+    "volatility_score": 0.0,
+    "volatility_band": "MODERATE",
+    "foir_score": 0.1326,
+    "foir_risk_band": "LOW_RISK",
+    "aml_risk_score": 0.0,
+    "aml_risk_band": "LOW",
+    "true_turnover": 0.0,
+    "total_irregularity_flags": 0,
+    "high_severity_flags_count": 0
+  }
+}

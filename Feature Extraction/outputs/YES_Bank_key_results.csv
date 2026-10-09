@@ -1,0 +1,15 @@
+Metric / Key Result,Value,Details / Source
+Bank Name,YES Bank,Inferred from statement file
+Statement Period,2018-11-10 to 2019-05-20,Extracted transaction date range
+Classification Accuracy,58.3% deterministic,"Tiers 1-2 without any ML model (47 bank rules, 129 keywords)"
+Salary Detected,₹3.65L,via ACH rule / employer credit pattern
+Total Income,₹5.46L,1 income sources detected
+Total Expenses,₹3.96L,"Needs: ₹11,598.60 | Wants: ₹3.84L"
+Average Daily Balance (ADB),"₹52,895.64","Opening: ₹80,560.26 | Closing: ₹182,810.06"
+Investments Found,None (₹0.00 total),0 investment categories identified
+SIP Patterns,0 detected,Recurring monthly debits on fixed dates
+Long-Term Investment Score,0.00,Weighted score based on PPF/NPS/MF/FD allocations
+Average Monthly Savings,"₹14,870.60",Positive savings in 4 months
+Emergency Fund,2.5 months coverage,"3-Mo target: ₹220,797.14 | 6-Mo target: ₹441,594.28"
+Debt-to-Income Ratio (DTI),26.32%,"6 active loans, EMI: ₹19,481.25"
+Behaviour Profile,Financial Stress,Stability: 46.00 | Confidence: 0.46

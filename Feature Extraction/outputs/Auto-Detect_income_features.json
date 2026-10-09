@@ -1,0 +1,34 @@
+{
+  "bank_name": "Auto-Detect",
+  "statement_period": {
+    "start": "2023-10-03",
+    "end": "2024-04-22"
+  },
+  "category_name": "income",
+  "income": {
+    "non_income_credits_total": 205447.54,
+    "monthly_income": {
+      "2023-10": 27500.0,
+      "2023-11": 27500.0,
+      "2023-12": 28042.0,
+      "2024-01": 27500.0,
+      "2024-03": 27022.0,
+      "2024-04": 27000.0
+    },
+    "total_income": 164564.0,
+    "average_income": 27427.33,
+    "salary_income": 152000.0,
+    "other_income": 12564.0,
+    "income_sources": 0,
+    "salary_consistency": 0.9678,
+    "income_stability": 1.0,
+    "income_growth": -127.89,
+    "monthly_income_trend": [
+      0.0,
+      1.97,
+      -1.93,
+      -1.74,
+      -0.08
+    ]
+  }
+}

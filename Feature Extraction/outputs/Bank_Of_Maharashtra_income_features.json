@@ -1,0 +1,23 @@
+{
+  "bank_name": "Bank Of Maharashtra",
+  "statement_period": {
+    "start": "2019-01-25",
+    "end": "2019-06-26"
+  },
+  "category_name": "income",
+  "income": {
+    "non_income_credits_total": 402595.0,
+    "monthly_income": {
+      "2019-04": 5420.0
+    },
+    "total_income": 5420.0,
+    "average_income": 5420.0,
+    "salary_income": 0.0,
+    "other_income": 5420.0,
+    "income_sources": 0,
+    "salary_consistency": 0.0,
+    "income_stability": 1.0,
+    "income_growth": 0.0,
+    "monthly_income_trend": []
+  }
+}

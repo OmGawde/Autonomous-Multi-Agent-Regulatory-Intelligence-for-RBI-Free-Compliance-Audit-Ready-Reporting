@@ -1,0 +1,15 @@
+Metric / Key Result,Value,Details / Source
+Bank Name,Axis,Inferred from statement file
+Statement Period,2023-04-24 to 2024-03-31,Extracted transaction date range
+Classification Accuracy,100.0% deterministic,"Tiers 1-2 without any ML model (68 bank rules, 8 keywords)"
+Salary Detected,₹6.56L,via ACH rule / employer credit pattern
+Total Income,₹6.57L,12 income sources detected
+Total Expenses,"₹71,444.80","Needs: ₹40,497.80 | Wants: ₹30,947.00"
+Average Daily Balance (ADB),"₹22,296.62","Opening: ₹29,155.31 | Closing: ₹17,707.93"
+Investments Found,None (₹0.00 total),0 investment categories identified
+SIP Patterns,0 detected,Recurring monthly debits on fixed dates
+Long-Term Investment Score,0.00,Weighted score based on PPF/NPS/MF/FD allocations
+Average Monthly Savings,₹-953.95,Positive savings in 7 months
+Emergency Fund,0.3 months coverage,"3-Mo target: ₹193,741.60 | 6-Mo target: ₹387,483.19"
+Debt-to-Income Ratio (DTI),2.11%,"7 active loans, EMI: ₹1,257.45"
+Behaviour Profile,Stable,Stability: 67.36 | Confidence: 0.67

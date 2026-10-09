@@ -1,0 +1,64 @@
+{
+  "bank_name": "IDBI Bank",
+  "statement_period": {
+    "start": "2020-03-01",
+    "end": "2024-03-01"
+  },
+  "category_name": "cash_flow",
+  "cash_flow": {
+    "monthly_inflow": {
+      "2020-03": 0.0,
+      "2020-09": 10023.6,
+      "2020-10": 248253.46,
+      "2020-11": 289869.62,
+      "2020-12": 265308.44,
+      "2021-01": 577800.82,
+      "2021-02": 64505.56,
+      "2021-03": 685511.64,
+      "2024-03": 13007.0
+    },
+    "monthly_outflow": {
+      "2020-03": 147.0,
+      "2020-09": 12342.1,
+      "2020-10": 249753.92,
+      "2020-11": 283529.2,
+      "2020-12": 268619.78,
+      "2021-01": 531443.63,
+      "2021-02": 104570.07,
+      "2021-03": 667476.91,
+      "2024-03": 7848.0
+    },
+    "net_cash_flow": 28549.53,
+    "monthly_surplus": {
+      "2020-11": 6340.42,
+      "2021-01": 46357.19,
+      "2021-03": 18034.73,
+      "2024-03": 5159.0
+    },
+    "monthly_deficit": {
+      "2020-03": -147.0,
+      "2020-09": -2318.5,
+      "2020-10": -1500.46,
+      "2020-12": -3311.34,
+      "2021-02": -40064.51
+    },
+    "positive_cash_flow_months": 4,
+    "negative_cash_flow_months": 5,
+    "cash_flow_volatility": 21276.67,
+    "net_turnover_credit": 2154280.14,
+    "net_expense_debit": 2125730.61,
+    "operational_net_cash_flow": 28549.53,
+    "biz_inflow": 0.0,
+    "biz_outflow": 0.0,
+    "pct_biz_inflow": 0.0,
+    "pct_biz_outflow": 0.0,
+    "top_counterparty_name": "PRAJAKTA",
+    "top_counterparty_amount": 300000.0,
+    "top_counterparty_concentration_pct": 13.93,
+    "concentration_risk_band": "NORMAL",
+    "cash_flow_trend": 752.87,
+    "operating_cash_flow_trend": 635.42,
+    "trajectory_flag": "POSITIVE",
+    "seasonality": null
+  }
+}

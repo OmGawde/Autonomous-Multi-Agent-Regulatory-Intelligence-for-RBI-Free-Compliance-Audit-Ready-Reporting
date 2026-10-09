@@ -1,0 +1,48 @@
+{
+  "bank_name": "Auto-Detect",
+  "statement_period": {
+    "start": "2023-10-03",
+    "end": "2024-04-22"
+  },
+  "category_name": "balance",
+  "balance": {
+    "opening_balance": 385.84,
+    "closing_balance": 4758.18,
+    "average_daily_balance": 7373.75,
+    "average_monthly_balance": {
+      "2023-10": 11827.45,
+      "2023-11": 2989.63,
+      "2023-12": 18568.1,
+      "2024-01": 3110.88,
+      "2024-02": 3191.7,
+      "2024-03": 3614.59,
+      "2024-04": 8523.9
+    },
+    "median_balance": 1499.74,
+    "lowest_balance": 61.3,
+    "highest_balance": 33481.34,
+    "low_balance_count": 143,
+    "negative_balance_count": 0,
+    "days_below_1000": 100,
+    "balance_volatility": 9917.28,
+    "volatility_score": 1.0,
+    "volatility_band": "VERY_HIGH",
+    "balance_stability_score": 0.0,
+    "avg_daily_balance_change_pct": 405.7,
+    "max_daily_balance_change_pct": 19786.79,
+    "available_balance_distribution": {
+      "days_above_50000": 0,
+      "pct_days_above_50000": 0.0,
+      "days_above_100000": 0,
+      "pct_days_above_100000": 0.0,
+      "days_above_200000": 0,
+      "pct_days_above_200000": 0.0,
+      "days_above_500000": 0,
+      "pct_days_above_500000": 0.0,
+      "days_above_1000000": 0,
+      "pct_days_above_1000000": 0.0
+    },
+    "abb_score": 5004.48,
+    "balance_recovery_time": 15.22
+  }
+}

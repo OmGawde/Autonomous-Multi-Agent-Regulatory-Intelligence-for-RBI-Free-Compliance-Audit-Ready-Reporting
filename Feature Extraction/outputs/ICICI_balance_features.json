@@ -1,0 +1,53 @@
+{
+  "bank_name": "ICICI",
+  "statement_period": {
+    "start": "2025-04-01",
+    "end": "2026-03-31"
+  },
+  "category_name": "balance",
+  "balance": {
+    "opening_balance": 338577.85,
+    "closing_balance": 59099.37,
+    "average_daily_balance": 174569.82,
+    "average_monthly_balance": {
+      "2025-04": 278792.08,
+      "2025-05": 150376.82,
+      "2025-06": 97846.17,
+      "2025-07": 100151.85,
+      "2025-08": 119206.31,
+      "2025-09": 196299.45,
+      "2025-10": 136286.79,
+      "2025-11": 212850.12,
+      "2025-12": 279303.15,
+      "2026-01": 208166.73,
+      "2026-02": 178686.76,
+      "2026-03": 140092.87
+    },
+    "median_balance": 153637.05,
+    "lowest_balance": 24896.87,
+    "highest_balance": 379160.05,
+    "low_balance_count": 0,
+    "negative_balance_count": 0,
+    "days_below_1000": 0,
+    "balance_volatility": 107719.63,
+    "volatility_score": 0.6171,
+    "volatility_band": "HIGH",
+    "balance_stability_score": 0.3829,
+    "avg_daily_balance_change_pct": 19.14,
+    "max_daily_balance_change_pct": 1016.14,
+    "available_balance_distribution": {
+      "days_above_50000": 321,
+      "pct_days_above_50000": 87.95,
+      "days_above_100000": 234,
+      "pct_days_above_100000": 64.11,
+      "days_above_200000": 154,
+      "pct_days_above_200000": 42.19,
+      "days_above_500000": 0,
+      "pct_days_above_500000": 0.0,
+      "days_above_1000000": 0,
+      "pct_days_above_1000000": 0.0
+    },
+    "abb_score": 157119.04,
+    "balance_recovery_time": 16.91
+  }
+}

@@ -1,0 +1,2 @@
+bank_name,statement_period.start,statement_period.end,category_name,income.non_income_credits_total,income.monthly_income.2026-03,income.monthly_income.2026-04,income.total_income,income.average_income,income.salary_income,income.other_income,income.income_sources,income.salary_consistency,income.income_stability,income.income_growth,income.monthly_income_trend
+BOB,2026-03-19,2026-04-19,income,50231.0,500910.0,2420.0,503330.0,251665.0,0.0,503330.0,3,0.0,0.5,-498490.0,[-99.52]

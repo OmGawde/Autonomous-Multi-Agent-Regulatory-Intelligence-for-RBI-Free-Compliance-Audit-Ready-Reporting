@@ -1,0 +1,40 @@
+{
+  "bank_name": "Punjab National Bank",
+  "statement_period": {
+    "start": "2020-03-02",
+    "end": "2020-11-18"
+  },
+  "category_name": "income",
+  "income": {
+    "non_income_credits_total": 84269.0,
+    "monthly_income": {
+      "2020-03": 74717.0,
+      "2020-04": 188108.0,
+      "2020-05": 8000.0,
+      "2020-06": 51141.0,
+      "2020-07": 45500.0,
+      "2020-08": 57003.75,
+      "2020-09": 71014.0,
+      "2020-10": 138900.0,
+      "2020-11": 49018.0
+    },
+    "total_income": 683401.75,
+    "average_income": 75933.53,
+    "salary_income": 0.0,
+    "other_income": 683401.75,
+    "income_sources": 0,
+    "salary_consistency": 0.0,
+    "income_stability": 0.4444,
+    "income_growth": -1975.49,
+    "monthly_income_trend": [
+      151.76,
+      -95.75,
+      539.26,
+      -11.03,
+      25.28,
+      24.58,
+      95.6,
+      -64.71
+    ]
+  }
+}

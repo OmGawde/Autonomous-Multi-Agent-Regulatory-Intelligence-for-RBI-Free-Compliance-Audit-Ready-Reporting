@@ -1,0 +1,67 @@
+{
+  "bank_name": "HDFC",
+  "statement_period": {
+    "start": "2016-01-04",
+    "end": "2016-10-02"
+  },
+  "category_name": "cash_flow",
+  "cash_flow": {
+    "monthly_inflow": {
+      "2016-01": 49007.45,
+      "2016-02": 24407.45,
+      "2016-03": 48718.9,
+      "2016-04": 54886.45,
+      "2016-05": 65529.19,
+      "2016-06": 43319.0,
+      "2016-07": 52122.0,
+      "2016-08": 57007.5,
+      "2016-09": 67748.0,
+      "2016-10": 44.0
+    },
+    "monthly_outflow": {
+      "2016-01": 49506.16,
+      "2016-02": 23978.9,
+      "2016-03": 48837.21,
+      "2016-04": 51160.49,
+      "2016-05": 64972.96,
+      "2016-06": 44206.26,
+      "2016-07": 53537.56,
+      "2016-08": 58096.24,
+      "2016-09": 67843.99,
+      "2016-10": 211.5
+    },
+    "net_cash_flow": 438.67,
+    "monthly_surplus": {
+      "2016-02": 428.55,
+      "2016-04": 3725.96,
+      "2016-05": 556.23
+    },
+    "monthly_deficit": {
+      "2016-01": -498.71,
+      "2016-03": -118.31,
+      "2016-06": -887.26,
+      "2016-07": -1415.56,
+      "2016-08": -1088.74,
+      "2016-09": -95.99,
+      "2016-10": -167.5
+    },
+    "positive_cash_flow_months": 3,
+    "negative_cash_flow_months": 7,
+    "cash_flow_volatility": 1365.03,
+    "net_turnover_credit": 452788.94,
+    "net_expense_debit": 450350.27,
+    "operational_net_cash_flow": 2438.67,
+    "biz_inflow": 0.0,
+    "biz_outflow": 0.0,
+    "pct_biz_inflow": 0.0,
+    "pct_biz_outflow": 0.0,
+    "top_counterparty_name": "N/A",
+    "top_counterparty_amount": 0.0,
+    "top_counterparty_concentration_pct": 0.0,
+    "concentration_risk_band": "NORMAL",
+    "cash_flow_trend": -135.82,
+    "operating_cash_flow_trend": -135.82,
+    "trajectory_flag": "NEGATIVE",
+    "seasonality": null
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "bank_name": "Axis",
+  "statement_period": {
+    "start": "2023-04-24",
+    "end": "2024-03-31"
+  },
+  "category_name": "expense",
+  "expense": {
+    "total_expenses": 71444.8,
+    "monthly_expenses": {
+      "2023-04": 4273.0,
+      "2023-05": 3264.0,
+      "2023-06": 637.0,
+      "2023-07": 4492.0,
+      "2023-08": 7296.0,
+      "2023-09": 7321.0,
+      "2023-10": 10916.0,
+      "2023-11": 9325.0,
+      "2023-12": 8227.0,
+      "2024-01": 6318.8,
+      "2024-02": 5575.0,
+      "2024-03": 3800.0
+    },
+    "average_expenses": 5953.73,
+    "needs_spending": 40497.8,
+    "wants_spending": 30947.0,
+    "needs_ratio": 0.5668,
+    "wants_ratio": 0.4332,
+    "category_spending": {
+      "Courier / Logistics": 988.0,
+      "Education": 1701.0,
+      "Electricity / Water / Gas": 4000.0,
+      "Entertainment": 3850.0,
+      "Fashion": 4470.0,
+      "Food Delivery": 4193.0,
+      "Grocery / Supermarket": 13032.0,
+      "Healthcare": 11455.0,
+      "Merchant Payment (UPI)": 18413.8,
+      "Metro / Bus / Toll / Parking": 1032.0,
+      "Recurring Obligation": 104.0,
+      "Shopping": 662.0,
+      "Society / Property Tax": 6686.0,
+      "Taxi": 858.0
+    },
+    "expense_ratio": 0.1088,
+    "expense_growth": 292.75,
+    "monthly_expense_trend": [
+      -23.61,
+      -80.48,
+      605.18,
+      62.42,
+      0.34,
+      49.11,
+      -14.57,
+      -11.77,
+      -23.19,
+      -11.77,
+      -31.84
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+pandas>=2.0.0
+numpy>=1.24.0
+
+# PINNED, not a floor. BharatGen FinanceParam ships its own modelling code
+# written against transformers 4.55. On 5.x it loads with all 291 tensors
+# present and zero mismatched keys -- and then generates word-salad, because
+# 5.x mishandles the custom `parambharatgen` architecture. Nothing in the load
+# path errors, so an unpinned install fails silently and looks like a broken
+# model. This was `transformers>=4.30.0`, which is exactly how that happened.
+transformers==4.55.0
+torch>=2.0.0
+
+# REQUIRED by FinanceParam, not optional. The model must be loaded with
+# device_map="auto" (as its model card specifies); that path is what
+# materialises the rotary embedding's computed `inv_freq` buffer. Loading
+# without accelerate and calling .to(device) leaves RoPE uninitialised and
+# produces the same word-salad, with every weight still verifying correct.
+accelerate>=0.26.0
+
+# Fetches the FinanceParam weights once (python -m tools.fetch_finance_param).
+# Runtime loading is local_files_only, so this is only needed for the initial fetch.
+huggingface_hub>=0.20.0
+rapidfuzz>=3.0.0
+pyyaml>=6.0
+scikit-learn>=1.3.0
+pytest>=7.0.0
+onnxruntime>=1.15.0
+optimum>=1.12.0

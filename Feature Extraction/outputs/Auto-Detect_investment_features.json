@@ -1,0 +1,20 @@
+{
+  "bank_name": "Auto-Detect",
+  "statement_period": {
+    "start": "2023-10-03",
+    "end": "2024-04-22"
+  },
+  "category_name": "investment",
+  "investment": {
+    "investments_detected": {},
+    "monthly_investment": {},
+    "total_investment": 0.0,
+    "investment_ratio": 0.0,
+    "investment_frequency": 0.0,
+    "sip_count": 0,
+    "investment_growth": [],
+    "long_term_investment_score": 0.0,
+    "redemption_frequency": 0,
+    "dividend_income": 0.0
+  }
+}

@@ -1,0 +1,2 @@
+bank_name,statement_period.start,statement_period.end,category_name,investment.total_investment,investment.investment_ratio,investment.investment_frequency,investment.sip_count,investment.investment_growth,investment.long_term_investment_score,investment.redemption_frequency,investment.dividend_income
+YES Bank,2018-11-10,2019-05-20,investment,0.0,0.0,0.0,0,[],0.0,0,0.0

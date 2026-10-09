@@ -1,0 +1,75 @@
+{
+  "bank_name": "HDFC Bank",
+  "statement_period": {
+    "start": "2018-06-02",
+    "end": "2018-10-10"
+  },
+  "income": {},
+  "expense": {},
+  "balance": {},
+  "cash_flow": {
+    "monthly_inflow": {
+      "2018-06": 25755.0,
+      "2018-07": 72744.0,
+      "2018-08": 18964.0,
+      "2018-09": 37190.39,
+      "2018-10": 27449.0
+    },
+    "monthly_outflow": {
+      "2018-06": 38631.14,
+      "2018-07": 68221.98,
+      "2018-08": 21361.3,
+      "2018-09": 38134.98,
+      "2018-10": 22668.0
+    },
+    "net_cash_flow": -6915.01,
+    "monthly_surplus": {
+      "2018-07": 4522.02,
+      "2018-10": 4781.0
+    },
+    "monthly_deficit": {
+      "2018-06": -12876.14,
+      "2018-08": -2397.3,
+      "2018-09": -944.59
+    },
+    "positive_cash_flow_months": 2,
+    "negative_cash_flow_months": 3,
+    "cash_flow_volatility": 6421.49,
+    "net_turnover_credit": 182102.39,
+    "net_expense_debit": 189017.4,
+    "operational_net_cash_flow": -6915.01,
+    "biz_inflow": 0.0,
+    "biz_outflow": 0.0,
+    "pct_biz_inflow": 0.0,
+    "pct_biz_outflow": 0.0,
+    "top_counterparty_name": "N/A",
+    "top_counterparty_amount": 0.0,
+    "top_counterparty_concentration_pct": 0.0,
+    "concentration_risk_band": "NORMAL",
+    "cash_flow_trend": 2984.77,
+    "trajectory_flag": "STABLE",
+    "seasonality": null
+  },
+  "savings": {},
+  "investment": {},
+  "debt": {},
+  "behaviour": {},
+  "fraud": {},
+  "underwriting_summary": {
+    "credit_score": 1000,
+    "risk_band": "VERY_LOW_RISK",
+    "underwriting_decision": "APPROVE_FAST_TRACK",
+    "decision_coherence_note": null,
+    "trajectory_flag": "STABLE",
+    "data_sufficiency": "PARTIAL_DATA_WARNING",
+    "volatility_score": 0.0,
+    "volatility_band": "MODERATE",
+    "foir_score": 0.0,
+    "foir_risk_band": "LOW_RISK",
+    "aml_risk_score": 0.0,
+    "aml_risk_band": "LOW",
+    "true_turnover": 182102.39,
+    "total_irregularity_flags": 0,
+    "high_severity_flags_count": 0
+  }
+}

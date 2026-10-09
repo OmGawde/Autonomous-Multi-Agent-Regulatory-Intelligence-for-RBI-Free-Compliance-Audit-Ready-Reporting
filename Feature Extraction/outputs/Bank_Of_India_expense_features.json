@@ -1,0 +1,75 @@
+{
+  "bank_name": "Bank Of India",
+  "statement_period": {
+    "start": "2010-04-03",
+    "end": "2011-03-29"
+  },
+  "income": {},
+  "expense": {
+    "total_expenses": 125039.19,
+    "monthly_expenses": {
+      "2010-04": 8296.0,
+      "2010-05": 14337.0,
+      "2010-06": 9414.0,
+      "2010-07": 7798.0,
+      "2010-08": 13953.0,
+      "2010-09": 9090.0,
+      "2010-10": 7771.0,
+      "2010-11": 14125.19,
+      "2010-12": 10099.0,
+      "2011-01": 8127.0,
+      "2011-02": 13902.0,
+      "2011-03": 8127.0
+    },
+    "average_expenses": 10419.93,
+    "needs_spending": 48818.0,
+    "wants_spending": 76221.19,
+    "needs_ratio": 0.3904,
+    "wants_ratio": 0.6096,
+    "category_spending": {
+      "Insurance": 27137.0,
+      "Metro / Bus / Toll / Parking": 1041.0,
+      "Other Expense": 47571.19,
+      "Recurring Obligation": 49290.0
+    },
+    "expense_ratio": 0.5511,
+    "expense_growth": -14.27,
+    "monthly_expense_trend": [
+      72.82,
+      -34.34,
+      -17.17,
+      78.93,
+      -34.85,
+      -14.51,
+      81.77,
+      -28.5,
+      -19.53,
+      71.06,
+      -41.54
+    ]
+  },
+  "balance": {},
+  "cash_flow": {},
+  "savings": {},
+  "investment": {},
+  "debt": {},
+  "behaviour": {},
+  "fraud": {},
+  "underwriting_summary": {
+    "credit_score": 1000,
+    "risk_band": "VERY_LOW_RISK",
+    "underwriting_decision": "APPROVE_FAST_TRACK",
+    "decision_coherence_note": null,
+    "trajectory_flag": "STABLE",
+    "data_sufficiency": "OPTIMAL_DATA",
+    "volatility_score": 0.0,
+    "volatility_band": "MODERATE",
+    "foir_score": 0.0,
+    "foir_risk_band": "LOW_RISK",
+    "aml_risk_score": 0.0,
+    "aml_risk_band": "LOW",
+    "true_turnover": 0.0,
+    "total_irregularity_flags": 0,
+    "high_severity_flags_count": 0
+  }
+}

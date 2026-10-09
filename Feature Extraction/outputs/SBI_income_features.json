@@ -1,0 +1,54 @@
+{
+  "bank_name": "SBI",
+  "statement_period": {
+    "start": "2024-04-02",
+    "end": "2025-03-25"
+  },
+  "income": {
+    "non_income_credits_total": 404780.0,
+    "monthly_income": {
+      "2024-06": 178.0,
+      "2024-09": 234.0,
+      "2024-12": 175.0,
+      "2025-03": 179.0
+    },
+    "total_income": 766.0,
+    "average_income": 191.5,
+    "salary_income": 0.0,
+    "other_income": 766.0,
+    "income_sources": 0,
+    "salary_consistency": 0.0,
+    "income_stability": 1.0,
+    "income_growth": -5.6,
+    "monthly_income_trend": [
+      31.46,
+      -25.21,
+      2.29
+    ]
+  },
+  "expense": {},
+  "balance": {},
+  "cash_flow": {},
+  "savings": {},
+  "investment": {},
+  "debt": {},
+  "behaviour": {},
+  "fraud": {},
+  "underwriting_summary": {
+    "credit_score": 1000,
+    "risk_band": "VERY_LOW_RISK",
+    "underwriting_decision": "APPROVE_FAST_TRACK",
+    "decision_coherence_note": null,
+    "trajectory_flag": "STABLE",
+    "data_sufficiency": "OPTIMAL_DATA",
+    "volatility_score": 0.0,
+    "volatility_band": "MODERATE",
+    "foir_score": 0.0,
+    "foir_risk_band": "LOW_RISK",
+    "aml_risk_score": 0.0,
+    "aml_risk_band": "LOW",
+    "true_turnover": 0.0,
+    "total_irregularity_flags": 0,
+    "high_severity_flags_count": 0
+  }
+}

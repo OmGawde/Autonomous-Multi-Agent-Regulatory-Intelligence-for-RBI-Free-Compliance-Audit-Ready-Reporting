@@ -1,0 +1,82 @@
+{
+  "bank_name": "ICICI",
+  "statement_period": {
+    "start": "2025-04-01",
+    "end": "2026-03-31"
+  },
+  "category_name": "investment",
+  "investment": {
+    "investments_detected": {
+      "Equity Trading": {
+        "count": 10,
+        "total_debit": 27207.84,
+        "total_credit": 0.0,
+        "entities": [
+          "ICICI Direct"
+        ]
+      },
+      "Mutual Funds / SIP": {
+        "count": 171,
+        "total_debit": 442000.0,
+        "total_credit": 0.0,
+        "entities": [
+          "ICICI Direct"
+        ]
+      },
+      "NPS": {
+        "count": 1,
+        "total_debit": 5000.0,
+        "total_credit": 0.0,
+        "entities": []
+      },
+      "National Pension Scheme (NPS)": {
+        "count": 1,
+        "total_debit": 5000.0,
+        "total_credit": 0.0,
+        "entities": [
+          "NPS"
+        ]
+      },
+      "PPF": {
+        "count": 15,
+        "total_debit": 105000.0,
+        "total_credit": 10000.0,
+        "entities": []
+      }
+    },
+    "total_investment": 584207.84,
+    "monthly_investment": {
+      "2025-04": 52000.0,
+      "2025-05": 50000.0,
+      "2025-06": 55000.0,
+      "2025-07": 55000.0,
+      "2025-08": 50000.0,
+      "2025-09": 11000.0,
+      "2025-10": 14000.0,
+      "2025-11": 19648.45,
+      "2025-12": 78000.0,
+      "2026-01": 60000.0,
+      "2026-02": 45000.0,
+      "2026-03": 94559.39
+    },
+    "investment_ratio": 0.1927,
+    "investment_frequency": 16.42,
+    "sip_count": 8,
+    "investment_growth": [
+      -3.85,
+      10.0,
+      0.0,
+      -9.09,
+      -78.0,
+      27.27,
+      40.35,
+      296.98,
+      -23.08,
+      -25.0,
+      110.13
+    ],
+    "long_term_investment_score": 0.7391,
+    "redemption_frequency": 1,
+    "dividend_income": 0.0
+  }
+}

@@ -1,0 +1,71 @@
+{
+  "bank_name": "Union",
+  "statement_period": {
+    "start": "2025-10-05",
+    "end": "2026-03-18"
+  },
+  "income": {},
+  "expense": {},
+  "balance": {},
+  "cash_flow": {},
+  "savings": {
+    "monthly_savings": {
+      "2025-10": 15.0,
+      "2025-11": 1524.5,
+      "2025-12": -0.3,
+      "2026-01": 20.0,
+      "2026-03": 60100.0
+    },
+    "monthly_savings_incl_investment": {
+      "2025-10": 15.0,
+      "2025-11": 1524.5,
+      "2025-12": -0.3,
+      "2026-01": 20.0,
+      "2026-03": 60100.0
+    },
+    "savings_rate": {
+      "2025-10": 1.0,
+      "2025-11": 1.0,
+      "2025-12": 0.0,
+      "2026-01": 1.0,
+      "2026-03": 1.0
+    },
+    "positive_savings_months": 4,
+    "savings_growth": [
+      10063.33,
+      -100.02,
+      6766.67,
+      300400.0
+    ],
+    "average_savings": 12331.84,
+    "savings_consistency": 0.0,
+    "emergency_fund_estimate": {
+      "avg_monthly_needs": 0.06,
+      "fund_3_months": 0.18,
+      "fund_6_months": 0.36,
+      "current_balance": 64026.54,
+      "coverage_months": 1067109.0
+    }
+  },
+  "investment": {},
+  "debt": {},
+  "behaviour": {},
+  "fraud": {},
+  "underwriting_summary": {
+    "credit_score": 1000,
+    "risk_band": "VERY_LOW_RISK",
+    "underwriting_decision": "APPROVE_FAST_TRACK",
+    "decision_coherence_note": null,
+    "trajectory_flag": "STABLE",
+    "data_sufficiency": "PARTIAL_DATA_WARNING",
+    "volatility_score": 0.0,
+    "volatility_band": "MODERATE",
+    "foir_score": 0.0,
+    "foir_risk_band": "LOW_RISK",
+    "aml_risk_score": 0.0,
+    "aml_risk_band": "LOW",
+    "true_turnover": 0.0,
+    "total_irregularity_flags": 0,
+    "high_severity_flags_count": 0
+  }
+}

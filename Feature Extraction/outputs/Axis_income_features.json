@@ -1,0 +1,44 @@
+{
+  "bank_name": "Axis",
+  "statement_period": {
+    "start": "2023-04-24",
+    "end": "2024-03-31"
+  },
+  "category_name": "income",
+  "income": {
+    "non_income_credits_total": 106989.0,
+    "monthly_income": {
+      "2023-05": 37636.0,
+      "2023-06": 45731.0,
+      "2023-07": 67599.0,
+      "2023-08": 67322.0,
+      "2023-09": 43067.0,
+      "2023-10": 10819.0,
+      "2023-11": 71382.0,
+      "2023-12": 47606.0,
+      "2024-01": 48928.0,
+      "2024-02": 59570.0,
+      "2024-03": 156870.0
+    },
+    "total_income": 656530.0,
+    "average_income": 59684.55,
+    "salary_income": 655838.0,
+    "other_income": 692.0,
+    "income_sources": 12,
+    "salary_consistency": 0.3883,
+    "income_stability": 0.5455,
+    "income_growth": 5312.69,
+    "monthly_income_trend": [
+      21.51,
+      47.82,
+      -0.41,
+      -36.03,
+      -74.88,
+      559.78,
+      -33.31,
+      2.78,
+      21.75,
+      163.34
+    ]
+  }
+}

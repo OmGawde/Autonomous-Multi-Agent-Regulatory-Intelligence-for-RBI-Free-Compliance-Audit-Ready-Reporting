@@ -1,0 +1,35 @@
+{
+  "bank_name": "Federal Bank",
+  "statement_period": {
+    "start": "2021-10-01",
+    "end": "2021-11-13"
+  },
+  "category_name": "savings",
+  "savings": {
+    "monthly_savings": {
+      "2021-10": 57877.5,
+      "2021-11": -175024.0
+    },
+    "monthly_savings_incl_investment": {
+      "2021-10": 57877.5,
+      "2021-11": -175024.0
+    },
+    "savings_rate": {
+      "2021-10": 0.0159,
+      "2021-11": -0.0519
+    },
+    "positive_savings_months": 1,
+    "savings_growth": [
+      -402.4
+    ],
+    "average_savings": -58573.25,
+    "savings_consistency": 0.0,
+    "emergency_fund_estimate": {
+      "avg_monthly_needs": 3562882.25,
+      "fund_3_months": 10688646.75,
+      "fund_6_months": 21377293.5,
+      "current_balance": 82798.52,
+      "coverage_months": 0.0
+    }
+  }
+}

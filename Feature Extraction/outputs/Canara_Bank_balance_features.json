@@ -1,0 +1,42 @@
+{
+  "bank_name": "Canara Bank",
+  "statement_period": {
+    "start": "2023-04-01",
+    "end": "2023-04-13"
+  },
+  "category_name": "balance",
+  "balance": {
+    "opening_balance": 0.0,
+    "closing_balance": 421.33,
+    "average_daily_balance": 888.41,
+    "average_monthly_balance": {
+      "2023-04": 888.41
+    },
+    "median_balance": 286.33,
+    "lowest_balance": 11.33,
+    "highest_balance": 4006.33,
+    "low_balance_count": 13,
+    "negative_balance_count": 0,
+    "days_below_1000": 10,
+    "balance_volatility": 1403.64,
+    "volatility_score": 1.0,
+    "volatility_band": "VERY_HIGH",
+    "balance_stability_score": 0.0,
+    "avg_daily_balance_change_pct": 156.52,
+    "max_daily_balance_change_pct": 1103.27,
+    "available_balance_distribution": {
+      "days_above_50000": 0,
+      "pct_days_above_50000": 0.0,
+      "days_above_100000": 0,
+      "pct_days_above_100000": 0.0,
+      "days_above_200000": 0,
+      "pct_days_above_200000": 0.0,
+      "days_above_500000": 0,
+      "pct_days_above_500000": 0.0,
+      "days_above_1000000": 0,
+      "pct_days_above_1000000": 0.0
+    },
+    "abb_score": 3843.33,
+    "balance_recovery_time": 0.0
+  }
+}

@@ -1,0 +1,58 @@
+{
+  "bank_name": "YES Bank",
+  "statement_period": {
+    "start": "2018-11-10",
+    "end": "2019-05-20"
+  },
+  "category_name": "cash_flow",
+  "cash_flow": {
+    "monthly_inflow": {
+      "2018-11": 62418.0,
+      "2018-12": 68120.96,
+      "2019-01": 65074.5,
+      "2019-02": 101172.58,
+      "2019-03": 114637.74,
+      "2019-04": 82152.27,
+      "2019-05": 125711.46
+    },
+    "monthly_outflow": {
+      "2018-11": 62825.05,
+      "2018-12": 66485.28,
+      "2019-01": 79524.41,
+      "2019-02": 66815.24,
+      "2019-03": 89741.69,
+      "2019-04": 100163.81,
+      "2019-05": 49637.85
+    },
+    "net_cash_flow": 104094.18,
+    "monthly_surplus": {
+      "2018-12": 1635.68,
+      "2019-02": 34357.34,
+      "2019-03": 24896.05,
+      "2019-05": 76073.61
+    },
+    "monthly_deficit": {
+      "2018-11": -407.05,
+      "2019-01": -14449.91,
+      "2019-04": -18011.54
+    },
+    "positive_cash_flow_months": 4,
+    "negative_cash_flow_months": 3,
+    "cash_flow_volatility": 30649.05,
+    "net_turnover_credit": 619287.51,
+    "net_expense_debit": 515193.33,
+    "operational_net_cash_flow": 104094.18,
+    "biz_inflow": 0.0,
+    "biz_outflow": 0.0,
+    "pct_biz_inflow": 0.0,
+    "pct_biz_outflow": 0.0,
+    "top_counterparty_name": "JAYSHARADOZA",
+    "top_counterparty_amount": 40000.0,
+    "top_counterparty_concentration_pct": 6.46,
+    "concentration_risk_band": "NORMAL",
+    "cash_flow_trend": 8196.2,
+    "operating_cash_flow_trend": 8196.2,
+    "trajectory_flag": "STABLE",
+    "seasonality": null
+  }
+}

@@ -1,0 +1,47 @@
+{
+  "bank_name": "IDBI Bank",
+  "statement_period": {
+    "start": "2020-03-01",
+    "end": "2024-03-01"
+  },
+  "category_name": "expense",
+  "expense": {
+    "total_expenses": 2076095.95,
+    "monthly_expenses": {
+      "2020-09": 9693.1,
+      "2020-10": 237811.29,
+      "2020-11": 279826.2,
+      "2020-12": 265252.08,
+      "2021-01": 523276.8,
+      "2021-02": 96462.37,
+      "2021-03": 656774.11,
+      "2024-03": 7000.0
+    },
+    "average_expenses": 259511.99,
+    "needs_spending": 2744.0,
+    "wants_spending": 2073351.95,
+    "needs_ratio": 0.0013,
+    "wants_ratio": 0.9987,
+    "category_spending": {
+      "Electricity / Water / Gas": 697.0,
+      "Electronics": 100.0,
+      "Food Delivery": 3745.0,
+      "Fuel": 1543.0,
+      "Healthcare": 400.0,
+      "Metro / Bus / Toll / Parking": 104.0,
+      "Other Expense": 2009554.27,
+      "Travel": 59952.68
+    },
+    "expense_ratio": 3.6048,
+    "expense_growth": 21236.85,
+    "monthly_expense_trend": [
+      2353.41,
+      17.67,
+      -5.21,
+      97.28,
+      -81.57,
+      580.86,
+      -98.93
+    ]
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "bank_name": "Canara Bank",
+  "statement_period": {
+    "start": "2023-04-01",
+    "end": "2023-04-13"
+  },
+  "category_name": "cash_flow",
+  "cash_flow": {
+    "monthly_inflow": {
+      "2023-04": 18000.0
+    },
+    "monthly_outflow": {
+      "2023-04": 17578.67
+    },
+    "net_cash_flow": 421.33,
+    "monthly_surplus": {
+      "2023-04": 421.33
+    },
+    "monthly_deficit": {},
+    "positive_cash_flow_months": 1,
+    "negative_cash_flow_months": 0,
+    "cash_flow_volatility": 0.0,
+    "net_turnover_credit": 18000.0,
+    "net_expense_debit": 17578.67,
+    "operational_net_cash_flow": 421.33,
+    "biz_inflow": 0.0,
+    "biz_outflow": 0.0,
+    "pct_biz_inflow": 0.0,
+    "pct_biz_outflow": 0.0,
+    "top_counterparty_name": "APSARALI N",
+    "top_counterparty_amount": 10000.0,
+    "top_counterparty_concentration_pct": 55.56,
+    "concentration_risk_band": "HIGH",
+    "cash_flow_trend": 0.0,
+    "operating_cash_flow_trend": 0.0,
+    "trajectory_flag": "STABLE",
+    "seasonality": null
+  }
+}

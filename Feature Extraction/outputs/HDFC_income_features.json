@@ -1,0 +1,42 @@
+{
+  "bank_name": "HDFC",
+  "statement_period": {
+    "start": "2016-01-04",
+    "end": "2016-10-02"
+  },
+  "category_name": "income",
+  "income": {
+    "non_income_credits_total": 297026.94,
+    "monthly_income": {
+      "2016-01": 18396.0,
+      "2016-02": 18396.0,
+      "2016-03": 18396.0,
+      "2016-04": 18475.0,
+      "2016-05": 18396.0,
+      "2016-06": 18396.0,
+      "2016-07": 18472.0,
+      "2016-08": 18396.0,
+      "2016-09": 18396.0,
+      "2016-10": 44.0
+    },
+    "total_income": 165763.0,
+    "average_income": 16576.3,
+    "salary_income": 165564.0,
+    "other_income": 199.0,
+    "income_sources": 0,
+    "salary_consistency": 1.0,
+    "income_stability": 0.9,
+    "income_growth": -1001.07,
+    "monthly_income_trend": [
+      0.0,
+      0.0,
+      0.43,
+      -0.43,
+      0.0,
+      0.41,
+      -0.41,
+      0.0,
+      -99.76
+    ]
+  }
+}

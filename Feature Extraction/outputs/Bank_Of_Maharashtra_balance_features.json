@@ -1,0 +1,47 @@
+{
+  "bank_name": "Bank Of Maharashtra",
+  "statement_period": {
+    "start": "2019-01-25",
+    "end": "2019-06-26"
+  },
+  "category_name": "balance",
+  "balance": {
+    "opening_balance": 12283.76,
+    "closing_balance": 16475.18,
+    "average_daily_balance": 14039.2,
+    "average_monthly_balance": {
+      "2019-01": 21917.15,
+      "2019-02": 12987.74,
+      "2019-03": 13480.84,
+      "2019-04": 12355.17,
+      "2019-05": 10864.61,
+      "2019-06": 19444.53
+    },
+    "median_balance": 9033.54,
+    "lowest_balance": 1113.18,
+    "highest_balance": 122903.5,
+    "low_balance_count": 77,
+    "negative_balance_count": 0,
+    "days_below_1000": 0,
+    "balance_volatility": 14928.12,
+    "volatility_score": 1.0,
+    "volatility_band": "VERY_HIGH",
+    "balance_stability_score": 0.0,
+    "avg_daily_balance_change_pct": 91.46,
+    "max_daily_balance_change_pct": 3365.49,
+    "available_balance_distribution": {
+      "days_above_50000": 3,
+      "pct_days_above_50000": 1.96,
+      "days_above_100000": 1,
+      "pct_days_above_100000": 0.65,
+      "days_above_200000": 0,
+      "pct_days_above_200000": 0.0,
+      "days_above_500000": 0,
+      "pct_days_above_500000": 0.0,
+      "days_above_1000000": 0,
+      "pct_days_above_1000000": 0.0
+    },
+    "abb_score": 21444.62,
+    "balance_recovery_time": 12.12
+  }
+}

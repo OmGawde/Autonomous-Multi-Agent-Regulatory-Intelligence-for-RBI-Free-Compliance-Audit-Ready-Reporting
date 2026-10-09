@@ -1,0 +1,18 @@
+# Key Results — HDFC Bank Statement Analysis
+
+| Metric / Key Result | Value | Details / Source |
+| --- | --- | --- |
+| Bank Name | HDFC | Inferred from statement file |
+| Statement Period | 2016-01-04 to 2016-10-02 | Extracted transaction date range |
+| Classification Accuracy | 100.0% deterministic | Tiers 1-2 without any ML model (0 bank rules, 193 keywords) |
+| Salary Detected | ₹1.66L | via ACH rule / employer credit pattern |
+| Total Income | ₹1.66L | 0 income sources detected |
+| Total Expenses | ₹0.00 | Needs: ₹0.00 | Wants: ₹0.00 |
+| Average Daily Balance (ADB) | ₹0.00 | Opening: ₹100.00 | Closing: ₹0.00 |
+| Investments Found | None (₹0.00 total) | 0 investment categories identified |
+| SIP Patterns | 0 detected | Recurring monthly debits on fixed dates |
+| Long-Term Investment Score | 0.00 | Weighted score based on PPF/NPS/MF/FD allocations |
+| Average Monthly Savings | ₹43.87 | Positive savings in 3 months |
+| Emergency Fund | N/A | 3-Mo target: ₹138,705.38 | 6-Mo target: ₹277,410.76 |
+| Debt-to-Income Ratio (DTI) | 32.53% | 1 active loans, EMI: ₹5,000.00 |
+| Behaviour Profile | Financial Stress | Stability: 51.78 | Confidence: 0.52 |

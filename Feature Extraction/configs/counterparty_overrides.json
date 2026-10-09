@@ -1,0 +1,18 @@
+{
+  "version": "1.0",
+  "updated_at": "2026-08-23T07:58:32.004488+00:00",
+  "counterparties": {
+    "SURYODAYA|ABHYUDAYACOOP": [
+      {
+        "category": "Expense",
+        "subcategory": "Society / Property Tax",
+        "needs_wants": "Need",
+        "scope": "global",
+        "applicant_id": null,
+        "source": "user",
+        "note": "housing society maintenance",
+        "updated_at": "2026-08-23T07:58:32.004488+00:00"
+      }
+    ]
+  }
+}

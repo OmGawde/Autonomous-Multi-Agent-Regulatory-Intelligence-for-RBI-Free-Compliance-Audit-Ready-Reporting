@@ -1,0 +1,99 @@
+{
+  "bank_name": "SBI",
+  "statement_period": {
+    "start": "2024-04-02",
+    "end": "2025-03-25"
+  },
+  "income": {},
+  "expense": {},
+  "balance": {},
+  "cash_flow": {},
+  "savings": {
+    "monthly_savings": {
+      "2024-04": 1894.01,
+      "2024-05": 10161.0,
+      "2024-06": -8651.66,
+      "2024-07": 19563.8,
+      "2024-08": -2364.98,
+      "2024-09": -6356.93,
+      "2024-10": -115.97,
+      "2024-11": -21645.7,
+      "2024-12": -2532.13,
+      "2025-01": 11683.85,
+      "2025-02": 8589.92,
+      "2025-03": -2820.85
+    },
+    "monthly_savings_incl_investment": {
+      "2024-04": 1894.01,
+      "2024-05": 10161.0,
+      "2024-06": -8651.66,
+      "2024-07": 19563.8,
+      "2024-08": -2364.98,
+      "2024-09": -6356.93,
+      "2024-10": -115.97,
+      "2024-11": -21645.7,
+      "2024-12": -2532.13,
+      "2025-01": 11683.85,
+      "2025-02": 8589.92,
+      "2025-03": -2820.85
+    },
+    "savings_rate": {
+      "2024-04": 0.0,
+      "2024-05": 0.0,
+      "2024-06": -48.6048,
+      "2024-07": 0.0,
+      "2024-08": 0.0,
+      "2024-09": -27.1664,
+      "2024-10": 0.0,
+      "2024-11": 0.0,
+      "2024-12": -14.4693,
+      "2025-01": 0.0,
+      "2025-02": 0.0,
+      "2025-03": -15.7589
+    },
+    "positive_savings_months": 5,
+    "savings_growth": [
+      436.48,
+      -185.15,
+      326.13,
+      -112.09,
+      -168.79,
+      98.18,
+      -18564.91,
+      88.3,
+      561.42,
+      -26.48,
+      -132.84
+    ],
+    "average_savings": 617.03,
+    "savings_consistency": 0.0,
+    "emergency_fund_estimate": {
+      "avg_monthly_needs": 33178.47,
+      "fund_3_months": 99535.41,
+      "fund_6_months": 199070.82,
+      "current_balance": 25279.37,
+      "coverage_months": 0.8
+    }
+  },
+  "investment": {},
+  "debt": {},
+  "behaviour": {},
+  "fraud": {},
+  "underwriting_summary": {
+    "credit_score": 1000,
+    "risk_band": "VERY_LOW_RISK",
+    "underwriting_decision": "APPROVE_FAST_TRACK",
+    "decision_coherence_note": null,
+    "trajectory_flag": "STABLE",
+    "data_sufficiency": "OPTIMAL_DATA",
+    "volatility_score": 0.0,
+    "volatility_band": "MODERATE",
+    "foir_score": 0.0,
+    "foir_risk_band": "LOW_RISK",
+    "aml_risk_score": 0.0,
+    "aml_risk_band": "LOW",
+    "true_turnover": 0.0,
+    "total_irregularity_flags": 0,
+    "high_severity_flags_count": 0
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "bank_name": "Canara Bank",
+  "statement_period": {
+    "start": "2023-04-01",
+    "end": "2023-04-13"
+  },
+  "category_name": "savings",
+  "savings": {
+    "monthly_savings": {},
+    "savings_rate": {},
+    "positive_savings_months": 0,
+    "savings_growth": [],
+    "average_savings": 0.0,
+    "savings_consistency": 0.0,
+    "emergency_fund_estimate": {}
+  }
+}

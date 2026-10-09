@@ -1,0 +1,15 @@
+Metric / Key Result,Value,Details / Source
+Bank Name,SBI,Inferred from statement file
+Statement Period,2024-04-02 to 2025-03-25,Extracted transaction date range
+Classification Accuracy,100.0% deterministic,"Tiers 1-2 without any ML model (13 bank rules, 27 keywords)"
+Salary Detected,₹0.00,via ACH rule / employer credit pattern
+Total Income,₹766.00,0 income sources detected
+Total Expenses,₹3.24L,"Needs: ₹53,793.00 | Wants: ₹2.70L"
+Average Daily Balance (ADB),"₹28,739.04","Opening: ₹17,875.01 | Closing: ₹25,279.37"
+Investments Found,None (₹0.00 total),0 investment categories identified
+SIP Patterns,0 detected,Recurring monthly debits on fixed dates
+Long-Term Investment Score,0.00,Weighted score based on PPF/NPS/MF/FD allocations
+Average Monthly Savings,₹617.03,Positive savings in 5 months
+Emergency Fund,0.8 months coverage,"3-Mo target: ₹99,535.41 | 6-Mo target: ₹199,070.82"
+Debt-to-Income Ratio (DTI),14692.77%,"1 active loans, EMI: ₹25,904.89"
+Behaviour Profile,High Saver,Stability: 78.20 | Confidence: 0.78

@@ -1,0 +1,86 @@
+{
+  "bank_name": "Punjab National Bank",
+  "statement_period": {
+    "start": "2020-03-02",
+    "end": "2020-11-18"
+  },
+  "category_name": "debt",
+  "debt": {
+    "monthly_emi": 26000.0,
+    "total_monthly_obligations": 26153.4,
+    "estimated_cc_monthly_payment": 1534.0,
+    "loan_count": 5,
+    "active_loan_count": 3,
+    "closed_loan_count": 2,
+    "distinct_lenders_count": 2,
+    "secured_ratio": 0.2,
+    "unsecured_ratio": 0.8,
+    "dti": 0.3444,
+    "foir": 0.0002,
+    "credit_utilization": null,
+    "loan_stacking_score": 1.0,
+    "loan_stacking_flag": 1,
+    "recent_borrowing_velocity_90d": 2,
+    "payment_regularity_score": 0.7,
+    "lender_concentration_ratio": 0.7692,
+    "missed_emi_count": 1,
+    "home_loan_emi": 0,
+    "personal_loan_emi": 26000.0,
+    "vehicle_loan_emi": 0,
+    "gold_loan_emi": 0,
+    "disbursement_count_365d": 1,
+    "disbursement_total_amount_365d": 10500.0,
+    "credit_card_payment_count_365d": 2,
+    "credit_card_total_payment_365d": 3068.0,
+    "running_facility_count": 0,
+    "running_facility_total_amount": 0,
+    "total_loan_count": 5,
+    "detected_loans": [
+      {
+        "loan_id": "LOAN_CASHE_5000",
+        "lender": "CASHE",
+        "type": "PERSONAL_LOAN",
+        "emi": 5000.0,
+        "status": "Active",
+        "regularity": "Skipped/Irregular"
+      },
+      {
+        "loan_id": "LOAN_CASHE_20000",
+        "lender": "CASHE",
+        "type": "PERSONAL_LOAN",
+        "emi": 20000.0,
+        "status": "Grace",
+        "regularity": "Skipped/Irregular"
+      },
+      {
+        "loan_id": "LOAN_CASHE_1000",
+        "lender": "CASHE",
+        "type": "PERSONAL_LOAN",
+        "emi": 1000.0,
+        "status": "Active",
+        "regularity": "Early"
+      },
+      {
+        "loan_id": "LOAN_CASHE_225",
+        "lender": "CASHE",
+        "type": "PERSONAL_LOAN",
+        "emi": 225.0,
+        "status": "Overdue / Closed",
+        "regularity": "Skipped/Irregular"
+      },
+      {
+        "loan_id": "LOAN_HDFC_BAN_470",
+        "lender": "HDFC BANK",
+        "type": "HOME_LOAN",
+        "emi": 470.0,
+        "status": "Missed EMI",
+        "regularity": "Early"
+      }
+    ],
+    "total_fixed_obligations": 177.0,
+    "total_true_income": 767670.75,
+    "foir_risk_band": "LOW_RISK",
+    "emi_discipline_score": 44.44,
+    "emi_discipline_band": "POOR"
+  }
+}

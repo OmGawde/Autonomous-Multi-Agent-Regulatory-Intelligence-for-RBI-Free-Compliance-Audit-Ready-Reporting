@@ -1,0 +1,48 @@
+{
+  "bank_name": "YES Bank",
+  "statement_period": {
+    "start": "2018-11-10",
+    "end": "2019-05-20"
+  },
+  "category_name": "expense",
+  "expense": {
+    "total_expenses": 395823.15,
+    "monthly_expenses": {
+      "2018-11": 30906.05,
+      "2018-12": 62237.53,
+      "2019-01": 61525.41,
+      "2019-02": 56465.65,
+      "2019-03": 74178.35,
+      "2019-04": 73619.31,
+      "2019-05": 36890.85
+    },
+    "average_expenses": 56546.16,
+    "needs_spending": 11598.6,
+    "wants_spending": 384224.55,
+    "needs_ratio": 0.0293,
+    "wants_ratio": 0.9707,
+    "category_spending": {
+      "Electricity / Water / Gas": 4735.0,
+      "Entertainment": 1300.0,
+      "Food Delivery": 10906.41,
+      "Fuel": 3644.75,
+      "Healthcare": 297.0,
+      "Internet / Mobile / Broadband": 1630.0,
+      "Leisure": 1488.0,
+      "Other Expense": 364865.14,
+      "Shopping": 3372.0,
+      "Taxi": 1291.85,
+      "Travel": 2293.0
+    },
+    "expense_ratio": 0.7245,
+    "expense_growth": 1906.1,
+    "monthly_expense_trend": [
+      101.38,
+      -1.14,
+      -8.22,
+      31.37,
+      -0.75,
+      -49.89
+    ]
+  }
+}

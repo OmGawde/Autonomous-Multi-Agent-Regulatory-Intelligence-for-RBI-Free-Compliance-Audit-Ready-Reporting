@@ -1,0 +1,28 @@
+{
+  "bank_name": "IndusInd Bank",
+  "statement_period": {
+    "start": "2025-01-04",
+    "end": "2025-04-16"
+  },
+  "category_name": "expense",
+  "expense": {
+    "total_expenses": 199.43,
+    "monthly_expenses": {
+      "2025-02": 99.43,
+      "2025-04": 100.0
+    },
+    "average_expenses": 99.72,
+    "needs_spending": 199.43,
+    "wants_spending": 0.0,
+    "needs_ratio": 1.0,
+    "wants_ratio": 0.0,
+    "category_spending": {
+      "Internet / Mobile / Broadband": 199.43
+    },
+    "expense_ratio": 0.0,
+    "expense_growth": 0.57,
+    "monthly_expense_trend": [
+      0.57
+    ]
+  }
+}

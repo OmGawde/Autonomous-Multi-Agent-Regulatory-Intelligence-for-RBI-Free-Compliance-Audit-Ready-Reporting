@@ -1,0 +1,2 @@
+bank_name,statement_period.start,statement_period.end,category_name,income.non_income_credits_total,income.monthly_income.2021-10,income.monthly_income.2021-11,income.total_income,income.average_income,income.salary_income,income.other_income,income.income_sources,income.salary_consistency,income.income_stability,income.income_growth,income.monthly_income_trend
+Federal Bank,2021-10-01,2021-11-13,income,0.0,3636449.0,3372169.0,7008618.0,3504309.0,0.0,7008618.0,0,0.0,1.0,-264280.0,[-7.27]

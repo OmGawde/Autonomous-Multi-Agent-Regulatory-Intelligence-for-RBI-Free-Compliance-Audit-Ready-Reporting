@@ -1,0 +1,15 @@
+Metric / Key Result,Value,Details / Source
+Bank Name,Union,Inferred from statement file
+Statement Period,2025-10-05 to 2026-03-18,Extracted transaction date range
+Classification Accuracy,66.7% deterministic,"Tiers 1-2 without any ML model (1 bank rules, 3 keywords)"
+Salary Detected,"₹1,524.50",via ACH rule / employer credit pattern
+Total Income,"₹61,659.50",1 income sources detected
+Total Expenses,₹0.00,Needs: ₹0.00 | Wants: ₹0.00
+Average Daily Balance (ADB),"₹3,910.33","Opening: ₹2,367.34 | Closing: ₹64,026.54"
+Investments Found,None (₹0.00 total),0 investment categories identified
+SIP Patterns,0 detected,Recurring monthly debits on fixed dates
+Long-Term Investment Score,0.00,Weighted score based on PPF/NPS/MF/FD allocations
+Average Monthly Savings,"₹12,331.84",Positive savings in 4 months
+Emergency Fund,1067109.0 months coverage,3-Mo target: ₹0.18 | 6-Mo target: ₹0.36
+Debt-to-Income Ratio (DTI),0.00%,"0 active loans, EMI: ₹0.00"
+Behaviour Profile,Impulsive,Stability: 68.00 | Confidence: 0.48

@@ -1,0 +1,99 @@
+{
+  "bank_name": "Bank Of India",
+  "statement_period": {
+    "start": "2010-04-03",
+    "end": "2011-03-29"
+  },
+  "income": {},
+  "expense": {},
+  "balance": {},
+  "cash_flow": {},
+  "savings": {
+    "monthly_savings": {
+      "2010-04": 1392.0,
+      "2010-05": -3463.0,
+      "2010-06": -132.0,
+      "2010-07": 963.0,
+      "2010-08": -1321.0,
+      "2010-09": 18712.0,
+      "2010-10": -291.0,
+      "2010-11": -17126.19,
+      "2010-12": -914.0,
+      "2011-01": -228.0,
+      "2011-02": -168.0,
+      "2011-03": 6739.0
+    },
+    "monthly_savings_incl_investment": {
+      "2010-04": 1392.0,
+      "2010-05": -3463.0,
+      "2010-06": -132.0,
+      "2010-07": 963.0,
+      "2010-08": -1321.0,
+      "2010-09": 18712.0,
+      "2010-10": -291.0,
+      "2010-11": -17126.19,
+      "2010-12": -914.0,
+      "2011-01": -228.0,
+      "2011-02": -168.0,
+      "2011-03": 6739.0
+    },
+    "savings_rate": {
+      "2010-04": 0.0876,
+      "2010-05": -0.1629,
+      "2010-06": -0.0091,
+      "2010-07": 0.0548,
+      "2010-08": -0.0969,
+      "2010-09": 0.4678,
+      "2010-10": -0.0269,
+      "2010-11": -0.9622,
+      "2010-12": -0.0517,
+      "2011-01": -0.0157,
+      "2011-02": -0.0116,
+      "2011-03": 0.2335
+    },
+    "positive_savings_months": 4,
+    "savings_growth": [
+      -348.78,
+      96.19,
+      829.55,
+      -237.18,
+      1516.5,
+      -101.56,
+      -5785.29,
+      94.66,
+      75.05,
+      26.32,
+      4111.31
+    ],
+    "average_savings": 346.9,
+    "savings_consistency": 0.0,
+    "emergency_fund_estimate": {
+      "avg_monthly_needs": 19218.18,
+      "fund_3_months": 57654.55,
+      "fund_6_months": 115309.1,
+      "current_balance": 6883.46,
+      "coverage_months": 0.4
+    }
+  },
+  "investment": {},
+  "debt": {},
+  "behaviour": {},
+  "fraud": {},
+  "underwriting_summary": {
+    "credit_score": 1000,
+    "risk_band": "VERY_LOW_RISK",
+    "underwriting_decision": "APPROVE_FAST_TRACK",
+    "decision_coherence_note": null,
+    "trajectory_flag": "STABLE",
+    "data_sufficiency": "OPTIMAL_DATA",
+    "volatility_score": 0.0,
+    "volatility_band": "MODERATE",
+    "foir_score": 0.0,
+    "foir_risk_band": "LOW_RISK",
+    "aml_risk_score": 0.0,
+    "aml_risk_band": "LOW",
+    "true_turnover": 0.0,
+    "total_irregularity_flags": 0,
+    "high_severity_flags_count": 0
+  }
+}

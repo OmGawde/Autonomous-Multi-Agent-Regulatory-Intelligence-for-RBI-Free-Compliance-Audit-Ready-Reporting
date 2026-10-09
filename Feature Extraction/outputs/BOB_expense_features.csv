@@ -1,0 +1,2 @@
+bank_name,statement_period.start,statement_period.end,category_name,expense.total_expenses,expense.monthly_expenses.2026-03,expense.monthly_expenses.2026-04,expense.average_expenses,expense.needs_spending,expense.wants_spending,expense.needs_ratio,expense.wants_ratio,expense.category_spending.Other Expense,expense.expense_ratio,expense.expense_growth,expense.monthly_expense_trend
+BOB,2026-03-19,2026-04-19,expense,339.18,201.24,137.94,169.59,0.0,339.18,0.0,1.0,339.18,0.0007,-63.3,[-31.45]

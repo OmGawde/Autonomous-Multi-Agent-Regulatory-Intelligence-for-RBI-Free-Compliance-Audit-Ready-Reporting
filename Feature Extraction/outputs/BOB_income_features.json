@@ -1,0 +1,26 @@
+{
+  "bank_name": "BOB",
+  "statement_period": {
+    "start": "2026-03-19",
+    "end": "2026-04-19"
+  },
+  "category_name": "income",
+  "income": {
+    "non_income_credits_total": 50231.0,
+    "monthly_income": {
+      "2026-03": 500910.0,
+      "2026-04": 2420.0
+    },
+    "total_income": 503330.0,
+    "average_income": 251665.0,
+    "salary_income": 0.0,
+    "other_income": 503330.0,
+    "income_sources": 3,
+    "salary_consistency": 0.0,
+    "income_stability": 0.5,
+    "income_growth": -498490.0,
+    "monthly_income_trend": [
+      -99.52
+    ]
+  }
+}

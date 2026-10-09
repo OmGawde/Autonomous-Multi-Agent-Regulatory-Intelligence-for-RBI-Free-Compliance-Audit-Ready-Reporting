@@ -1,0 +1,2 @@
+bank_name,statement_period.start,statement_period.end,category_name,expense.total_expenses,expense.average_expenses,expense.needs_spending,expense.wants_spending,expense.needs_ratio,expense.wants_ratio,expense.expense_ratio,expense.expense_growth,expense.monthly_expense_trend
+Union,2025-10-05,2026-03-18,expense,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,[]

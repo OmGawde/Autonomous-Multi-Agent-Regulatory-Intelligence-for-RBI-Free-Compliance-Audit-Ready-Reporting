@@ -1,0 +1,43 @@
+{
+  "bank_name": "BOB",
+  "statement_period": {
+    "start": "2026-03-19",
+    "end": "2026-04-19"
+  },
+  "category_name": "cash_flow",
+  "cash_flow": {
+    "monthly_inflow": {
+      "2026-03": 551110.0,
+      "2026-04": 2451.0
+    },
+    "monthly_outflow": {
+      "2026-03": 104913.54,
+      "2026-04": 210692.94
+    },
+    "net_cash_flow": 237954.52,
+    "monthly_surplus": {
+      "2026-03": 446196.46
+    },
+    "monthly_deficit": {
+      "2026-04": -208241.94
+    },
+    "positive_cash_flow_months": 1,
+    "negative_cash_flow_months": 1,
+    "cash_flow_volatility": 327219.2,
+    "net_turnover_credit": 553561.0,
+    "net_expense_debit": 315606.48,
+    "operational_net_cash_flow": 237954.52,
+    "biz_inflow": 0.0,
+    "biz_outflow": 0.0,
+    "pct_biz_inflow": 0.0,
+    "pct_biz_outflow": 0.0,
+    "top_counterparty_name": "SANTOSH BALKRISHNA 4 23",
+    "top_counterparty_amount": 50000.0,
+    "top_counterparty_concentration_pct": 9.03,
+    "concentration_risk_band": "NORMAL",
+    "cash_flow_trend": -654438.4,
+    "operating_cash_flow_trend": -658438.4,
+    "trajectory_flag": "NEGATIVE",
+    "seasonality": null
+  }
+}

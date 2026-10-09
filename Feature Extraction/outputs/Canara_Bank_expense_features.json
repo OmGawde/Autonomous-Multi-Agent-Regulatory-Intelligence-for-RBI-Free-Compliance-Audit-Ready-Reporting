@@ -1,0 +1,21 @@
+{
+  "bank_name": "Canara Bank",
+  "statement_period": {
+    "start": "2023-04-01",
+    "end": "2023-04-13"
+  },
+  "category_name": "expense",
+  "expense": {
+    "total_expenses": 0.0,
+    "monthly_expenses": {},
+    "average_expenses": 0.0,
+    "needs_spending": 0.0,
+    "wants_spending": 0.0,
+    "needs_ratio": 0.0,
+    "wants_ratio": 0.0,
+    "category_spending": {},
+    "expense_ratio": 0.0,
+    "expense_growth": 0.0,
+    "monthly_expense_trend": []
+  }
+}

@@ -1,0 +1,310 @@
+{
+  "bank_name": "HDFC Bank",
+  "statement_period": {
+    "start": "2018-06-02",
+    "end": "2018-10-10"
+  },
+  "income": {
+    "non_income_credits_total": 181886.39,
+    "monthly_income": {
+      "2018-07": 156.0,
+      "2018-09": 60.0
+    },
+    "total_income": 216.0,
+    "average_income": 108.0,
+    "salary_income": 0.0,
+    "other_income": 216.0,
+    "income_sources": 0,
+    "salary_consistency": 0.0,
+    "income_stability": 0.5,
+    "income_growth": -96.0,
+    "monthly_income_trend": [
+      -61.54
+    ]
+  },
+  "expense": {
+    "total_expenses": 19500.0,
+    "monthly_expenses": {
+      "2018-06": 10000.0,
+      "2018-07": 4000.0,
+      "2018-08": 1500.0,
+      "2018-09": 4000.0
+    },
+    "average_expenses": 4875.0,
+    "needs_spending": 0.0,
+    "wants_spending": 19500.0,
+    "needs_ratio": 0.0,
+    "wants_ratio": 1.0,
+    "category_spending": {
+      "Other Expense": 19500.0
+    },
+    "expense_ratio": 90.2778,
+    "expense_growth": -2050.0,
+    "monthly_expense_trend": [
+      -60.0,
+      -62.5,
+      166.67
+    ]
+  },
+  "balance": {
+    "opening_balance": 14109.95,
+    "closing_balance": 7194.94,
+    "average_daily_balance": 9217.18,
+    "average_monthly_balance": {
+      "2018-06": 15052.83,
+      "2018-07": 8619.04,
+      "2018-08": 6153.2,
+      "2018-09": 5210.56,
+      "2018-10": 15666.14
+    },
+    "median_balance": 6128.92,
+    "lowest_balance": 1128.92,
+    "highest_balance": 29778.97,
+    "low_balance_count": 90,
+    "negative_balance_count": 0,
+    "days_below_1000": 0,
+    "balance_volatility": 7549.95,
+    "volatility_score": 0.8191,
+    "volatility_band": "VERY_HIGH",
+    "balance_stability_score": 0.1809,
+    "avg_daily_balance_change_pct": 32.06,
+    "max_daily_balance_change_pct": 449.27,
+    "available_balance_distribution": {
+      "days_above_50000": 0,
+      "pct_days_above_50000": 0.0,
+      "days_above_100000": 0,
+      "pct_days_above_100000": 0.0,
+      "days_above_200000": 0,
+      "pct_days_above_200000": 0.0,
+      "days_above_500000": 0,
+      "pct_days_above_500000": 0.0,
+      "days_above_1000000": 0,
+      "pct_days_above_1000000": 0.0
+    },
+    "abb_score": 5047.69,
+    "balance_recovery_time": 14.5
+  },
+  "cash_flow": {
+    "monthly_inflow": {
+      "2018-06": 25755.0,
+      "2018-07": 72744.0,
+      "2018-08": 18964.0,
+      "2018-09": 37190.39,
+      "2018-10": 27449.0
+    },
+    "monthly_outflow": {
+      "2018-06": 38631.14,
+      "2018-07": 68221.98,
+      "2018-08": 21361.3,
+      "2018-09": 38134.98,
+      "2018-10": 22668.0
+    },
+    "net_cash_flow": -6915.01,
+    "monthly_surplus": {
+      "2018-07": 4522.02,
+      "2018-10": 4781.0
+    },
+    "monthly_deficit": {
+      "2018-06": -12876.14,
+      "2018-08": -2397.3,
+      "2018-09": -944.59
+    },
+    "positive_cash_flow_months": 2,
+    "negative_cash_flow_months": 3,
+    "cash_flow_volatility": 6421.49,
+    "net_turnover_credit": 182102.39,
+    "net_expense_debit": 189017.4,
+    "operational_net_cash_flow": -6915.01,
+    "biz_inflow": 0.0,
+    "biz_outflow": 0.0,
+    "pct_biz_inflow": 0.0,
+    "pct_biz_outflow": 0.0,
+    "top_counterparty_name": "N/A",
+    "top_counterparty_amount": 0.0,
+    "top_counterparty_concentration_pct": 0.0,
+    "concentration_risk_band": "NORMAL",
+    "cash_flow_trend": 2984.77,
+    "trajectory_flag": "STABLE",
+    "seasonality": null
+  },
+  "savings": {
+    "monthly_savings": {
+      "2018-06": -12876.14,
+      "2018-07": 4522.02,
+      "2018-08": -2397.3,
+      "2018-09": -944.59,
+      "2018-10": 4781.0
+    },
+    "monthly_savings_incl_investment": {
+      "2018-06": -12876.14,
+      "2018-07": 4522.02,
+      "2018-08": -2397.3,
+      "2018-09": -944.59,
+      "2018-10": 4781.0
+    },
+    "savings_rate": {
+      "2018-06": 0.0,
+      "2018-07": 28.9873,
+      "2018-08": 0.0,
+      "2018-09": -15.7432,
+      "2018-10": 0.0
+    },
+    "positive_savings_months": 2,
+    "savings_growth": [
+      135.12,
+      -153.01,
+      60.6,
+      606.15
+    ],
+    "average_savings": -1383.0,
+    "savings_consistency": 0.0,
+    "emergency_fund_estimate": {
+      "avg_monthly_needs": 37803.48,
+      "fund_3_months": 113410.44,
+      "fund_6_months": 226820.88,
+      "current_balance": 7194.94,
+      "coverage_months": 0.2
+    }
+  },
+  "investment": {
+    "investments_detected": {},
+    "monthly_investment": {},
+    "total_investment": 0.0,
+    "investment_ratio": 0.0,
+    "investment_frequency": 0.0,
+    "sip_count": 0,
+    "investment_growth": [],
+    "long_term_investment_score": 0.0,
+    "redemption_frequency": 0,
+    "dividend_income": 0.0
+  },
+  "debt": {
+    "monthly_emi": 0,
+    "total_monthly_obligations": 0.0,
+    "estimated_cc_monthly_payment": 0.0,
+    "loan_count": 0,
+    "active_loan_count": 0,
+    "closed_loan_count": 0,
+    "distinct_lenders_count": 0,
+    "secured_ratio": 0.0,
+    "unsecured_ratio": 0.0,
+    "dti": 0.0,
+    "foir": 0.0,
+    "credit_utilization": null,
+    "loan_stacking_score": 0.0,
+    "loan_stacking_flag": 0,
+    "recent_borrowing_velocity_90d": 0,
+    "payment_regularity_score": 1.0,
+    "lender_concentration_ratio": 0.0,
+    "missed_emi_count": 0,
+    "home_loan_emi": 0,
+    "personal_loan_emi": 0,
+    "vehicle_loan_emi": 0,
+    "gold_loan_emi": 0,
+    "disbursement_count_365d": 0,
+    "disbursement_total_amount_365d": 0,
+    "credit_card_payment_count_365d": 0,
+    "credit_card_total_payment_365d": 0,
+    "running_facility_count": 0,
+    "running_facility_total_amount": 0,
+    "total_loan_count": 0,
+    "detected_loans": [],
+    "total_fixed_obligations": 0.0,
+    "total_true_income": 182102.39,
+    "foir_risk_band": "LOW_RISK",
+    "emi_discipline_score": 100.0,
+    "emi_discipline_band": "GOOD"
+  },
+  "behaviour": {
+    "weekend_spend_ratio": 0.1092,
+    "night_spend_ratio": null,
+    "cash_preference": 0.0042,
+    "impulse_score": 0.0,
+    "merchant_diversity": 60,
+    "salary_exhaustion_days": 7,
+    "behaviour_stability": 58.03,
+    "behaviour_stability_index": 58.03,
+    "savings_rate": -0.038,
+    "lifestyle_inflation": 1.0,
+    "discretionary_vs_essential_ratio": 0.0,
+    "spending_volatility": 1.5983,
+    "low_balance_days_count": 9,
+    "discretionary_wants_total": 0.0,
+    "essential_needs_total": 1582.5,
+    "primary_monthly_income": 17939.69,
+    "salary_detected_flag": 1,
+    "weekend_spend_ratio_30d": 0.0325,
+    "night_spend_ratio_30d": null,
+    "discretionary_wants_spend_30d": 0.0,
+    "essential_needs_spend_30d": 800.0,
+    "cash_preference_ratio_30d": 0.0224,
+    "net_savings_30d": 2694.02,
+    "weekend_spend_ratio_90d": 0.1107,
+    "night_spend_ratio_90d": null,
+    "discretionary_wants_spend_90d": 0.0,
+    "essential_needs_spend_90d": 1463.32,
+    "cash_preference_ratio_90d": 0.0079,
+    "net_savings_90d": -711.87,
+    "weekend_spend_ratio_180d": 0.1092,
+    "night_spend_ratio_180d": null,
+    "discretionary_wants_spend_180d": 0.0,
+    "essential_needs_spend_180d": 1582.5,
+    "cash_preference_ratio_180d": 0.0042,
+    "net_savings_180d": -6915.01,
+    "behaviour_state": "Stable",
+    "behaviour_confidence_score": 0.41,
+    "salary_detected": true,
+    "salary_day_range": [
+      "2018-09-01",
+      "2018-10-04"
+    ],
+    "salary_exhaustion_speed": 7
+  },
+  "fraud": {
+    "fraud_score": 4.0,
+    "account_risk_level_numeric": 1.0,
+    "aml_risk_score": 3.4,
+    "aml_risk_band": "LOW",
+    "irregularity_penalty_points": 5,
+    "velocity_score": 0.0,
+    "cash_cycling_score": 0.0,
+    "rapid_transfer_score": 0.0,
+    "rapid_transfer_count": 0,
+    "merchant_risk_score": 0.0,
+    "round_transaction_score": 0.0,
+    "round_transaction_ratio": 0.0,
+    "beneficiary_concentration": 0.19,
+    "structuring_score": 0.0,
+    "structuring_flag_count": 0,
+    "circular_mirroring_score": 0.0,
+    "statistical_anomaly_count": 1,
+    "total_fraud_flags_triggered": 1,
+    "account_risk_level": "LOW",
+    "total_fraud_flags": 1,
+    "fraud_events": [
+      {
+        "rule": "Statistical Outlier (Median Absolute Deviation)",
+        "severity": "MEDIUM",
+        "confidence": 0.8,
+        "explanation": "Detected 1 transaction amounts deviating significantly (>4.5x MAD) from account baseline median."
+      }
+    ]
+  },
+  "underwriting_summary": {
+    "credit_score": 875,
+    "risk_band": "VERY_LOW_RISK",
+    "underwriting_decision": "APPROVE_FAST_TRACK",
+    "decision_coherence_note": null,
+    "trajectory_flag": "STABLE",
+    "data_sufficiency": "PARTIAL_DATA_WARNING",
+    "volatility_score": 0.8191,
+    "volatility_band": "VERY_HIGH",
+    "foir_score": 0.0,
+    "foir_risk_band": "LOW_RISK",
+    "aml_risk_score": 3.4,
+    "aml_risk_band": "LOW",
+    "true_turnover": 182102.39,
+    "total_irregularity_flags": 1,
+    "high_severity_flags_count": 0
+  }
+}

@@ -1,0 +1,87 @@
+{
+  "bank_name": "Axis",
+  "statement_period": {
+    "start": "2023-04-24",
+    "end": "2024-03-31"
+  },
+  "category_name": "cash_flow",
+  "cash_flow": {
+    "monthly_inflow": {
+      "2023-04": 0.0,
+      "2023-05": 44239.0,
+      "2023-06": 52334.0,
+      "2023-07": 74803.0,
+      "2023-08": 83625.0,
+      "2023-09": 49374.0,
+      "2023-10": 27832.0,
+      "2023-11": 82882.0,
+      "2023-12": 56862.0,
+      "2024-01": 56590.0,
+      "2024-02": 68570.0,
+      "2024-03": 166408.0
+    },
+    "monthly_outflow": {
+      "2023-04": 5013.0,
+      "2023-05": 35878.64,
+      "2023-06": 54192.0,
+      "2023-07": 92757.64,
+      "2023-08": 78115.46,
+      "2023-09": 57485.46,
+      "2023-10": 14674.46,
+      "2023-11": 94742.82,
+      "2023-12": 54245.46,
+      "2024-01": 55760.26,
+      "2024-02": 67527.46,
+      "2024-03": 164573.72
+    },
+    "net_cash_flow": -11447.38,
+    "monthly_surplus": {
+      "2023-05": 8360.36,
+      "2023-08": 5509.54,
+      "2023-10": 13157.54,
+      "2023-12": 2616.54,
+      "2024-01": 829.74,
+      "2024-02": 1042.54,
+      "2024-03": 1834.28
+    },
+    "monthly_deficit": {
+      "2023-04": -5013.0,
+      "2023-06": -1858.0,
+      "2023-07": -17954.64,
+      "2023-09": -8111.46,
+      "2023-11": -11860.82
+    },
+    "positive_cash_flow_months": 7,
+    "negative_cash_flow_months": 5,
+    "cash_flow_volatility": 8325.98,
+    "net_turnover_credit": 763519.0,
+    "net_expense_debit": 774966.38,
+    "operational_net_cash_flow": -11447.38,
+    "biz_inflow": 0.0,
+    "biz_outflow": 0.0,
+    "pct_biz_inflow": 0.0,
+    "pct_biz_outflow": 0.0,
+    "top_counterparty_name": "MCGM FB 10 FEB24",
+    "top_counterparty_amount": 87511.0,
+    "top_counterparty_concentration_pct": 11.46,
+    "concentration_risk_band": "NORMAL",
+    "concentration_note": "Top counterparty is the salary payer; not a risk signal.",
+    "cash_flow_trend": 350.66,
+    "operating_cash_flow_trend": 350.66,
+    "trajectory_flag": "STABLE",
+    "seasonality": {
+      "1": 829.74,
+      "2": 1042.54,
+      "3": 1834.28,
+      "4": -5013.0,
+      "5": 8360.36,
+      "6": -1858.0,
+      "7": -17954.64,
+      "8": 5509.54,
+      "9": -8111.46,
+      "10": 13157.54,
+      "11": -11860.82,
+      "12": 2616.54
+    }
+  }
+}

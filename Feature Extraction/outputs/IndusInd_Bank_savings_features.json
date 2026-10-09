@@ -1,0 +1,43 @@
+{
+  "bank_name": "IndusInd Bank",
+  "statement_period": {
+    "start": "2025-01-04",
+    "end": "2025-04-16"
+  },
+  "category_name": "savings",
+  "savings": {
+    "monthly_savings": {
+      "2025-01": -7739.74,
+      "2025-02": 858.07,
+      "2025-03": 359.0,
+      "2025-04": 1625.37
+    },
+    "monthly_savings_incl_investment": {
+      "2025-01": -7739.74,
+      "2025-02": 858.07,
+      "2025-03": 359.0,
+      "2025-04": 1625.37
+    },
+    "savings_rate": {
+      "2025-01": 0.0,
+      "2025-02": 0.0,
+      "2025-03": 0.0,
+      "2025-04": 0.0
+    },
+    "positive_savings_months": 3,
+    "savings_growth": [
+      111.09,
+      -58.16,
+      352.75
+    ],
+    "average_savings": -1224.33,
+    "savings_consistency": 0.0,
+    "emergency_fund_estimate": {
+      "avg_monthly_needs": 30662.7,
+      "fund_3_months": 91988.1,
+      "fund_6_months": 183976.2,
+      "current_balance": 1142.73,
+      "coverage_months": 0.0
+    }
+  }
+}

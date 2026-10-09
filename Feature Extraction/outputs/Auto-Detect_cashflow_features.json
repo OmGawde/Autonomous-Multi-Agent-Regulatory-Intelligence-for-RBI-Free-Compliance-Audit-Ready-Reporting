@@ -1,0 +1,58 @@
+{
+  "bank_name": "Auto-Detect",
+  "statement_period": {
+    "start": "2023-10-03",
+    "end": "2024-04-22"
+  },
+  "category_name": "cash_flow",
+  "cash_flow": {
+    "monthly_inflow": {
+      "2023-10": 91787.38,
+      "2023-11": 54809.6,
+      "2023-12": 55351.6,
+      "2024-01": 57834.38,
+      "2024-02": 25002.0,
+      "2024-03": 56191.6,
+      "2024-04": 29034.98
+    },
+    "monthly_outflow": {
+      "2023-10": 89388.68,
+      "2023-11": 57422.4,
+      "2023-12": 55360.0,
+      "2024-01": 53823.9,
+      "2024-02": 28924.12,
+      "2024-03": 55923.64,
+      "2024-04": 24796.46
+    },
+    "net_cash_flow": 4372.34,
+    "monthly_surplus": {
+      "2023-10": 2398.7,
+      "2024-01": 4010.48,
+      "2024-03": 267.96,
+      "2024-04": 4238.52
+    },
+    "monthly_deficit": {
+      "2023-11": -2612.8,
+      "2023-12": -8.4,
+      "2024-02": -3922.12
+    },
+    "positive_cash_flow_months": 4,
+    "negative_cash_flow_months": 3,
+    "cash_flow_volatility": 2911.88,
+    "net_turnover_credit": 356763.0,
+    "net_expense_debit": 365639.2,
+    "operational_net_cash_flow": -8876.2,
+    "biz_inflow": 0.0,
+    "biz_outflow": 0.0,
+    "pct_biz_inflow": 0.0,
+    "pct_biz_outflow": 0.0,
+    "top_counterparty_name": "Kissht Fund Tra",
+    "top_counterparty_amount": 109238.4,
+    "top_counterparty_concentration_pct": 30.62,
+    "concentration_risk_band": "MODERATE",
+    "cash_flow_trend": 263.12,
+    "operating_cash_flow_trend": 263.12,
+    "trajectory_flag": "STABLE",
+    "seasonality": null
+  }
+}

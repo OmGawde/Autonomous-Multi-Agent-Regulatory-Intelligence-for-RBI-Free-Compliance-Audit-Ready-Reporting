@@ -1,0 +1,2 @@
+bank_name,statement_period.start,statement_period.end,category_name,income.average_income,income.total_income,income.salary_income,income.other_income,income.income_sources,income.salary_consistency,income.income_stability,income.income_growth,income.monthly_income_trend
+Canara Bank,2023-04-01,2023-04-13,income,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,[]
